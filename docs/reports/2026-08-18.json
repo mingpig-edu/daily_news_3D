@@ -1,0 +1,178 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-18",
+  "generated_at": "2026-08-17T23:56:34.207Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：金屬回收閉環、汽車與建築大型增材製造新突破",
+  "summary": "今日情報重點關注增材製造在大型工業與消費端的突破，包括大型 3D 列印露營車內飾顯著減重、金屬 AM 閉環回收白皮書，以及建築、醫療、時尚與軍民兩用無人艇等領域的最新實際應用。",
+  "items": [
+    {
+      "title": "Buckley Conversions 推出 3D 列印豪華露營車內飾 成功減重 680 公斤",
+      "category": "應用",
+      "summary": "Buckley Conversions 在 Mercedes-Benz eSprinter 車型上，幾乎完全採用大型 3D 列印技術建構豪華露營車內飾。與傳統膠合板和鋁材改裝方案相比，該原型車成功減重約 680 公斤（1500 磅）。創辦人稱這是全球首款幾乎全 3D 列印的豪華露營改裝車。",
+      "why_it_matters": "展示了大型增材製造在汽車改裝與輕量化設計上的顯著優勢與商業潛力。",
+      "tags": [
+        "大型3D列印",
+        "汽車改裝",
+        "輕量化",
+        "Mercedes-Benz"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/buckley-conversions-builds-a-luxury-camper-van-interior-3d-printed-almost-from-scratch-253817/"
+        }
+      ]
+    },
+    {
+      "title": "Continuum 與 AM Research 發佈白皮書 聚焦金屬 3D 列印材料閉環回收",
+      "category": "材料",
+      "summary": "Continuum Powders 與 Additive Manufacturing Research 聯合發表名為《Scale 的金屬 AM：閉環材料時代》的免費白皮書。報告指出隨著金屬 AM 規模擴大，回收金屬粉末將成為降低成本、保障關鍵材料供應及降低供應鏈風險的關鍵。",
+      "why_it_matters": "為金屬增材製造大規模量產提供了資源可持續性與降低供應鏈風險的戰略方向。",
+      "tags": [
+        "金屬3D列印",
+        "粉末回收",
+        "循環經濟",
+        "供應鏈"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330659/can-metal-recycling-help-scale-additive-manufacturing-continuum-and-am-research-white-paper-takes-a-look/"
+        }
+      ]
+    },
+    {
+      "title": "Jean Paul Gaultier 高級訂製系列 採用 Sculpteo 3D 列印技術登上巴黎時裝週",
+      "category": "應用",
+      "summary": "時裝品牌 Jean Paul Gaultier 在 2026/2027 秋冬高級訂製服系列中採用增材製造技術。法國 3D 列印服務商 Sculpteo 利用選擇性雷射燒結（SLS）等技術，為服飾製作柔性雕刻胸衣、數千片獨立鱗片及羽毛禮服底座。",
+      "why_it_matters": "證明 3D 列印技術在高端時尚與複雜幾何結構服飾創作中的獨特價值。",
+      "tags": [
+        "SLS",
+        "Sculpteo",
+        "時尚",
+        "高級訂製"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330483/3d-printing-hits-the-runway-in-jean-paul-gaultiers-latest-collection/"
+        }
+      ]
+    },
+    {
+      "title": "RIC Robotics 自動化列印系統 助科羅拉多州建造 3D 列印社區",
+      "category": "應用",
+      "summary": "美國科羅拉多州 Salida 的 Cleora 項目正在建構大型 3D 列印住宅社區，目前已完工 7 棟住宅並售出部分單位。現場部署了兩套 RIC Robotics 的自主列印系統進行施工，基礎設施已經完成。",
+      "why_it_matters": "推進了自動化建築 3D 列印技術在大型住宅社區建設中的商業落地。",
+      "tags": [
+        "建築3D列印",
+        "RIC Robotics",
+        "自動化施工",
+        "住宅"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ric-robotics-printers-build-out-colorados-first-3d-printed-metro-district-253808/"
+        }
+      ]
+    },
+    {
+      "title": "Haddy 採用大型機器人增材製造 打造 TF-179 無人船",
+      "category": "應用",
+      "summary": "數字製造公司 Haddy 利用大型機器人增材製造（BAAM/RAM）技術，成功製造出代號為 TF-179 的無人船隻。該項目展示了大型 3D 列印技術在水上載具及潛在軍民兩用（Dual-use）領域的製造能力。",
+      "why_it_matters": "凸顯大型機器人 3D 列印在海事與無人載具製造上的快速原型與生產潛力。",
+      "tags": [
+        "機器人增材製造",
+        "無人船",
+        "海事應用",
+        "軍民兩用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/haddy-3d-prints-the-tf-179-drone-boat-an-uncrewed-vessel-253825/"
+        }
+      ]
+    },
+    {
+      "title": "以色列完成 3D 列印胸骨植入手術 建築陶瓷降溫牆應對城市高溫",
+      "category": "應用",
+      "summary": "以色列外科醫生成功為一名癌症患者植入客製化 3D 列印胸骨，幫助進行解剖結構重建。同時，有研究團隊採用陶瓷積木 3D 列印出冷卻牆，利用材料結構幫助城市地區降溫。",
+      "why_it_matters": "展現了 3D 列印在個人化醫療植入物及城市可持續建築組件上的多樣化應用。",
+      "tags": [
+        "醫療植入物",
+        "陶瓷3D列印",
+        "個人化醫療",
+        "建築降溫"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330446/3d-printing-news-briefs-8-15-2026/"
+        }
+      ]
+    },
+    {
+      "title": "創作者盤點奇特 FDM 耗材 包含發泡 TPU 與可降解肥皂耗材",
+      "category": "材料",
+      "summary": "知名創作者 Zack Freedman 在影片中盤點了多款特殊 FDM 耗材，包括用於全彩列印的 CMYK 耗材組、超絲滑 PETG 及發泡 TPU/TPE。此外還介紹了 Timeplast 等奇特材料，該材料列印後可用作肥皂或魚糧。",
+      "why_it_matters": "拓寬了桌面級 FDM 列印機的功能邊界，展示了功能性與特殊效果線材的發展。",
+      "tags": [
+        "FDM",
+        "耗材",
+        "特殊材料",
+        "TPU"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 11
+}
