@@ -69,13 +69,15 @@ function cleanModelName(name = "") {
 }
 
 function stableFlashVersion(name) {
-  // Accept stable text-output Flash names such as gemini-3.7-flash or gemini-2.5-flash-001.
-  // Excludes Flash-Lite, image, TTS, preview and experimental variants.
-  const match = /^gemini-(\d+(?:\.\d+)*)-flash(?:-(\d{3}))?$/.exec(name);
+  // Accept stable text-output Flash and Flash-Lite names such as
+  // gemini-3.7-flash, gemini-3.5-flash-lite or gemini-2.5-flash-001.
+  // Excludes image, TTS, Live, preview and experimental variants.
+  const match = /^gemini-(\d+(?:\.\d+)*)-flash(-lite)?(?:-(\d{3}))?$/.exec(name);
   if (!match) return null;
   return {
     parts: match[1].split(".").map(Number),
-    pinned: Boolean(match[2])
+    lite: Boolean(match[2]),
+    pinned: Boolean(match[3])
   };
 }
 
@@ -86,7 +88,9 @@ function compareVersionsDesc(a, b) {
     const bv = b.version.parts[i] ?? 0;
     if (av !== bv) return bv - av;
   }
-  // Prefer the normal stable alias over a pinned -001 variant of the same release.
+  // For the same release, prefer full Flash over Flash-Lite, then prefer
+  // the normal stable alias over a pinned -001 variant.
+  if (a.version.lite !== b.version.lite) return Number(a.version.lite) - Number(b.version.lite);
   if (a.version.pinned !== b.version.pinned) return Number(a.version.pinned) - Number(b.version.pinned);
   return a.name.localeCompare(b.name);
 }
@@ -106,12 +110,14 @@ function buildModelCandidates(models) {
   if (MODEL_OVERRIDE) names.push(MODEL_OVERRIDE);
   names.push(...discovered.map((model) => model.name));
 
-  // If an account exposes no versioned stable Flash names, keep Google's moving alias as a last resort.
-  const latestAliasAvailable = models.some(
-    (model) => cleanModelName(model.name) === "gemini-flash-latest" &&
-      (model.supportedGenerationMethods || []).includes("generateContent")
-  );
-  if (latestAliasAvailable) names.push("gemini-flash-latest");
+  // Keep Google's moving aliases as last-resort candidates when exposed by the account.
+  for (const alias of ["gemini-flash-latest", "gemini-flash-lite-latest"]) {
+    const aliasAvailable = models.some(
+      (model) => cleanModelName(model.name) === alias &&
+        (model.supportedGenerationMethods || []).includes("generateContent")
+    );
+    if (aliasAvailable) names.push(alias);
+  }
 
   return [...new Set(names)];
 }
@@ -155,6 +161,10 @@ function isModelCompatibilityError(error) {
   return false;
 }
 
+function isRateLimitError(error) {
+  return error instanceof GeminiApiError && error.status === 429;
+}
+
 function isTransientServerError(error) {
   return error instanceof GeminiApiError && [500, 502, 503, 504].includes(error.status);
 }
@@ -190,18 +200,20 @@ async function generateWithFallback({ taskName, body, candidates, startAt = 0 })
       } catch (error) {
         lastError = error;
 
-        if (isTransientServerError(error) && attempt < 2) {
-          console.warn(`${taskName}: ${model} returned ${error.status}; retrying once...`);
-          await sleep(1500);
+        if ((isRateLimitError(error) || isTransientServerError(error)) && attempt < 2) {
+          const delayMs = 1800 + Math.floor(Math.random() * 900);
+          console.warn(`${taskName}: ${model} returned ${error.status}; retrying once after ${delayMs}ms...`);
+          await sleep(delayMs);
           continue;
         }
 
-        if (isModelCompatibilityError(error) || isTransientServerError(error)) {
-          console.warn(`${taskName}: ${model} unavailable/incompatible (${error.status}); trying the next Flash model.`);
+        if (isModelCompatibilityError(error) || isRateLimitError(error) || isTransientServerError(error)) {
+          const reason = isRateLimitError(error) ? "quota/rate-limit" : "unavailable/incompatible";
+          console.warn(`${taskName}: ${model} ${reason} (${error.status}); trying the next Flash model.`);
           break;
         }
 
-        // Authentication, quota/rate limit, billing and malformed-request errors stop here.
+        // Authentication, billing/permission and malformed-request errors stop here.
         throw error;
       }
     }
@@ -327,9 +339,9 @@ console.log("[2/2] Structuring report...");
 const structuredResult = await generateWithFallback({
   taskName: "Editorial",
   candidates: modelCandidates,
-  // Start with the model that successfully completed research. If structured output is
-  // unsupported for it, continue downward from there rather than jumping back upward.
-  startAt: researchResult.index,
+  // Editorial does not use Google Search, so try the newest Flash again. A newer model
+  // may be usable for normal generation even when Search grounding was unavailable on it.
+  startAt: 0,
   body: {
     contents: [{ parts: [{ text: editorialPrompt }] }],
     generationConfig: {
