@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T09:34:10.315Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：無支撐波浪懸空列印新技術與海上移動機動製造",
+  "summary": "今日重點關注切片軟件無支撐懸空列印新技術「Wave Overhangs」、利用雷射預熱提升層間強度的硬件改造，以及 Firestorm Labs 在美國海軍艦艇上成功進行海上 3D 列印無人機的實境演練。此外，Formlabs 高層變動與 3D Systems 獲得美軍大尺寸金屬列印新資助亦值得留意。",
+  "items": [
+    {
+      "title": "新型「Wave Overhangs」切片技術 實現無支撐橫向懸空列印",
+      "category": "軟件",
+      "summary": "這種名為「Wave Overhangs」的全新切片技術基於弧形懸空概念，專為處理水平懸空結構而設計。當切片軟件偵測到水平懸空時，不會直接在空中列印，而是引導列印頭從主體結構邊緣逐步「延伸成長」，透過微小重疊層將懸空部分附著於主體上。",
+      "why_it_matters": "`該技術能大幅減少甚至消除複雜模型對支撐結構的需求，節省耗材與後處理時間。",
+      "tags": [
+        "切片軟件",
+        "無支撐列印",
+        "FDM",
+        "3D列印技術"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/16/more-on-wave-overhangs-for-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "創作者加裝雷射預熱舊層 顯著提升 Z 軸層間結合強度",
+      "category": "硬件",
+      "summary": "為了解決 FDM 3D 列印件 Z 軸強度遠低於 X/Y 軸的缺點，創作者在列印頭加裝雷射器。雷射會在噴嘴擠出熔融塑料前預熱下方的已固化塑料層，使塑料熔體直接與熔體結合，達到近乎各向同性的結構強度。",
+      "why_it_matters": "透過預熱改進層間黏合力，為提高 FDM 列印件結構強度提供了低成本且高效的硬件改裝方向。",
+      "tags": [
+        "硬件改造",
+        "層間黏合",
+        "FDM",
+        "強度優化"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/16/laser-layers-for-almost-isotropicly-strong-prints/"
+        }
+      ]
+    },
+    {
+      "title": "Firestorm Labs 於海軍軍艦成功進行海上 3D 列印與 12 架無人機組裝",
+      "category": "應用",
+      "summary": "Firestorm Labs 在美軍 USS Essex 兩棲攻擊艦航行期間，利用其貨櫃式 xCell 機動製造平台，成功列印出超過 1,000 個零件並組裝出 12 架可隨時起飛的 Squall FPV 四軸無人機。該無人機隨後由海軍陸戰隊於夏威夷完成試飛。",
+      "why_it_matters": "驗證了遠洋艦艇在航行過程中即時分布式製造戰術裝備與無人機的可行性。",
+      "tags": [
+        "國防應用",
+        "機動製造",
+        "無人機",
+        "金屬與複合材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/firestorm-labs-3d-prints-1000-parts-and-12-flight-ready-drones-at-sea-253795/"
+        }
+      ]
+    },
+    {
+      "title": "Buckley Conversions 推出全 3D 列印豪華露營車內飾 車身減重達 680 公斤",
+      "category": "應用",
+      "summary": "Buckley Conversions 於平治 eSprinter 電動露營車上展示了幾乎完全採用大尺寸 3D 列印製作的豪華內飾套件。相比傳統夾板與鋁材改裝方案，新型 3D 列印內飾令整車重量減輕約 1,500 磅（約 680 公斤）。",
+      "why_it_matters": "證明大尺寸 3D 列印在汽車改裝與輕量化內飾領域具有顯著的減重與客製化優勢。",
+      "tags": [
+        "大尺寸3D列印",
+        "汽車改裝",
+        "輕量化",
+        "應用案例"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/buckley-conversions-builds-a-luxury-camper-van-interior-3d-printed-almost-from-scratch-253817/"
+        }
+      ]
+    },
+    {
+      "title": "3D Systems 再獲美空軍 900 萬美元資助 完成大型金屬 3D 列印機研發",
+      "category": "產業",
+      "summary": "3D Systems 在美國空軍資助的大型金屬 3D 列印機（GEN-II DMP-1000）項目中獲得追加 900 萬美元資助，項目總資金達 2,740 萬美元。此延伸計劃為期兩年，旨在完全完成該大型金屬列印技術的終極演示。",
+      "why_it_matters": "美國國防部持續加大對本土大型金屬增材製造技術的投入，以強化國防與航空供應鏈。",
+      "tags": [
+        "3D Systems",
+        "金屬3D列印",
+        "國防製造",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3d-systems-lands-9m-to-complete-air-force-large-format-metal-3d-printing-demonstrator-253803/"
+        }
+      ]
+    },
+    {
+      "title": "Formlabs 聘請前 Apple 高層 Dan Riccio 擔任顧問 疑似加快上市佈局",
+      "category": "產業",
+      "summary": "3D 列印大廠 Formlabs 調整管理層架構，除了設立投資者關係部門外，更邀請前 Apple 硬件工程高級副總裁 Dan Riccio 擔任策略顧問。外界推測此舉是 Formlabs 為首次公開募股（IPO）或重大資本市場動作做準備。",
+      "why_it_matters": "前知名科技巨頭高層加盟將提升 Formlabs 在硬件設計與大規模消費電子生產方面的競爭力。",
+      "tags": [
+        "Formlabs",
+        "高層變動",
+        "IPO",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330385/formlabs-shuffle/"
+        }
+      ]
+    },
+    {
+      "title": "Jean Paul Gaultier 高級訂製時裝秀採用 Sculpteo 3D 列印配件",
+      "category": "應用",
+      "summary": "在巴黎發表的 Jean Paul Gaultier 2026/2027 秋冬高級訂製服系列中，設計團隊與法國 3D 列印服務商 Sculpteo 合作，採用選擇性雷射燒結（SLS）及多光束熔融（MJF）技術製造了雕花胸衣、數千片獨立鱗片及裙裝支架。",
+      "why_it_matters": "展示了選擇性雷射燒結等工業級 3D 列印技術在高端時裝設計中的客製化與柔性結構應用。",
+      "tags": [
+        "時裝設計",
+        "SLS",
+        "MJF",
+        "Sculpteo"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330483/3d-printing-hits-the-runway-in-jean-paul-gaultiers-latest-collection/"
+        }
+      ]
+    },
+    {
+      "title": "RIC Robotics 自動化列印系統進駐科羅拉多州大型 3D 列印社區",
+      "category": "應用",
+      "summary": "美國科羅拉多州 Salida 的 Cleora 社區項目正在建設中，已有 7 棟房屋完工並售出部分單位。該項目佔地 55 英畝，現場正由 RIC Robotics 的兩套自動化 3D 列印系統持續進行房屋建造，預計成為全球最大的規劃 3D 列印住宅區之一。",
+      "why_it_matters": "建築 3D 列印正由單一示範住宅走向規模化社區建設，驗證自動化列印在建築業的實用價值。",
+      "tags": [
+        "建築3D列印",
+        "RIC Robotics",
+        "自動化建造",
+        "應用案例"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ric-robotics-printers-build-out-colorados-first-3d-printed-metro-district-253808/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 14
+}
