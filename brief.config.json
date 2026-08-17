@@ -2,7 +2,12 @@
   "timezone": "Asia/Hong_Kong",
   "language": "繁體中文（香港用語）",
   "max_items": 8,
-  "lookback_hours": 48,
+  "lookback_hours": 72,
+  "fallback_days": 7,
+  "min_recent_candidates": 6,
+  "max_candidates": 40,
+  "max_excerpt_chars": 700,
+  "feed_timeout_ms": 15000,
   "topics": [
     "3D 列印機與硬件",
     "FDM／FFF、SLA／MSLA、SLS 等技術",
@@ -12,5 +17,59 @@
     "Maker／開源社群值得留意的項目",
     "工業、教育、醫療及科研應用",
     "安全、召回、重大漏洞或政策變化"
+  ],
+  "feeds": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "mode": "all"
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "mode": "all"
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "mode": "all"
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "mode": "all"
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "mode": "keyword"
+    }
+  ],
+  "keywords": [
+    "3d print",
+    "3d printer",
+    "additive manufacturing",
+    "filament",
+    "resin printer",
+    "slicer",
+    "prusaslicer",
+    "orca slicer",
+    "bambu",
+    "prusa",
+    "creality",
+    "elegoo",
+    "anycubic",
+    "makerworld",
+    "fdm",
+    "fff",
+    "sla",
+    "msla",
+    "sls",
+    "stl",
+    "g-code",
+    "gcode",
+    "hotend",
+    "extruder",
+    "3d scanning"
   ]
 }
