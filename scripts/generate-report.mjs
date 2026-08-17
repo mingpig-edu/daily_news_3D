@@ -3,8 +3,8 @@ import path from "node:path";
 
 const ROOT = process.cwd();
 const API_KEY = process.env.GEMINI_API_KEY;
-const MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
-const API = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
+const MODEL_OVERRIDE = (process.env.GEMINI_MODEL || "").trim();
+const API_BASE = "https://generativelanguage.googleapis.com/v1beta";
 
 if (!API_KEY) {
   console.error("Missing GEMINI_API_KEY. Add it as a GitHub Actions repository secret.");
@@ -21,20 +21,193 @@ const dateFmt = new Intl.DateTimeFormat("en-CA", {
 });
 const reportDate = dateFmt.format(now);
 
-async function gemini(body) {
-  const response = await fetch(API, {
-    method: "POST",
+class GeminiApiError extends Error {
+  constructor(status, detail, model = "") {
+    super(`Gemini API ${status}${model ? ` (${model})` : ""}: ${detail.slice(0, 1200)}`);
+    this.name = "GeminiApiError";
+    this.status = status;
+    this.detail = detail;
+    this.model = model;
+  }
+}
+
+async function apiFetch(url, options = {}) {
+  return fetch(url, {
+    ...options,
     headers: {
-      "Content-Type": "application/json",
-      "x-goog-api-key": API_KEY
-    },
+      "x-goog-api-key": API_KEY,
+      ...(options.body ? { "Content-Type": "application/json" } : {}),
+      ...(options.headers || {})
+    }
+  });
+}
+
+async function listModels() {
+  const models = [];
+  let pageToken = "";
+
+  do {
+    const params = new URLSearchParams({ pageSize: "1000" });
+    if (pageToken) params.set("pageToken", pageToken);
+
+    const response = await apiFetch(`${API_BASE}/models?${params}`);
+    if (!response.ok) {
+      const detail = await response.text();
+      throw new GeminiApiError(response.status, `Unable to list available models. ${detail}`);
+    }
+
+    const data = await response.json();
+    models.push(...(data.models || []));
+    pageToken = data.nextPageToken || "";
+  } while (pageToken);
+
+  return models;
+}
+
+function cleanModelName(name = "") {
+  return name.replace(/^models\//, "");
+}
+
+function stableFlashVersion(name) {
+  // Accept stable text-output Flash names such as gemini-3.7-flash or gemini-2.5-flash-001.
+  // Excludes Flash-Lite, image, TTS, preview and experimental variants.
+  const match = /^gemini-(\d+(?:\.\d+)*)-flash(?:-(\d{3}))?$/.exec(name);
+  if (!match) return null;
+  return {
+    parts: match[1].split(".").map(Number),
+    pinned: Boolean(match[2])
+  };
+}
+
+function compareVersionsDesc(a, b) {
+  const max = Math.max(a.version.parts.length, b.version.parts.length);
+  for (let i = 0; i < max; i += 1) {
+    const av = a.version.parts[i] ?? 0;
+    const bv = b.version.parts[i] ?? 0;
+    if (av !== bv) return bv - av;
+  }
+  // Prefer the normal stable alias over a pinned -001 variant of the same release.
+  if (a.version.pinned !== b.version.pinned) return Number(a.version.pinned) - Number(b.version.pinned);
+  return a.name.localeCompare(b.name);
+}
+
+function buildModelCandidates(models) {
+  const discovered = models
+    .map((model) => ({
+      name: cleanModelName(model.name),
+      methods: model.supportedGenerationMethods || []
+    }))
+    .filter((model) => model.methods.includes("generateContent"))
+    .map((model) => ({ ...model, version: stableFlashVersion(model.name) }))
+    .filter((model) => model.version)
+    .sort(compareVersionsDesc);
+
+  const names = [];
+  if (MODEL_OVERRIDE) names.push(MODEL_OVERRIDE);
+  names.push(...discovered.map((model) => model.name));
+
+  // If an account exposes no versioned stable Flash names, keep Google's moving alias as a last resort.
+  const latestAliasAvailable = models.some(
+    (model) => cleanModelName(model.name) === "gemini-flash-latest" &&
+      (model.supportedGenerationMethods || []).includes("generateContent")
+  );
+  if (latestAliasAvailable) names.push("gemini-flash-latest");
+
+  return [...new Set(names)];
+}
+
+function isModelCompatibilityError(error) {
+  if (!(error instanceof GeminiApiError)) return false;
+  if (error.status === 404) return true;
+
+  const text = error.detail.toLowerCase();
+  const compatibilityWords = [
+    "not supported",
+    "unsupported",
+    "not available",
+    "no longer available",
+    "not found",
+    "does not support"
+  ];
+  const featureWords = [
+    "model",
+    "google_search",
+    "google search",
+    "grounding",
+    "responseschema",
+    "response schema",
+    "structured output"
+  ];
+
+  if (error.status === 400) {
+    return compatibilityWords.some((word) => text.includes(word)) &&
+      featureWords.some((word) => text.includes(word));
+  }
+
+  // Only treat a 403 as model-specific when the message clearly refers to model access.
+  // Generic API-key, project, billing or permission failures must stop immediately.
+  if (error.status === 403) {
+    const looksModelSpecific = text.includes("model") && compatibilityWords.some((word) => text.includes(word));
+    const looksAccountWide = ["api key", "billing", "project", "permission denied"].some((word) => text.includes(word));
+    return looksModelSpecific && !looksAccountWide;
+  }
+
+  return false;
+}
+
+function isTransientServerError(error) {
+  return error instanceof GeminiApiError && [500, 502, 503, 504].includes(error.status);
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function callModel(model, body) {
+  const response = await apiFetch(`${API_BASE}/models/${encodeURIComponent(model)}:generateContent`, {
+    method: "POST",
     body: JSON.stringify(body)
   });
+
   if (!response.ok) {
     const detail = await response.text();
-    throw new Error(`Gemini API ${response.status}: ${detail.slice(0, 1200)}`);
+    throw new GeminiApiError(response.status, detail, model);
   }
   return response.json();
+}
+
+async function generateWithFallback({ taskName, body, candidates, startAt = 0 }) {
+  let lastError;
+
+  for (let index = startAt; index < candidates.length; index += 1) {
+    const model = candidates[index];
+    console.log(`${taskName}: trying ${model}${index > startAt ? " (fallback)" : ""}...`);
+
+    for (let attempt = 1; attempt <= 2; attempt += 1) {
+      try {
+        const data = await callModel(model, body);
+        return { data, model, index };
+      } catch (error) {
+        lastError = error;
+
+        if (isTransientServerError(error) && attempt < 2) {
+          console.warn(`${taskName}: ${model} returned ${error.status}; retrying once...`);
+          await sleep(1500);
+          continue;
+        }
+
+        if (isModelCompatibilityError(error) || isTransientServerError(error)) {
+          console.warn(`${taskName}: ${model} unavailable/incompatible (${error.status}); trying the next Flash model.`);
+          break;
+        }
+
+        // Authentication, quota/rate limit, billing and malformed-request errors stop here.
+        throw error;
+      }
+    }
+  }
+
+  throw lastError || new Error(`No compatible Gemini Flash model was available for ${taskName}.`);
 }
 
 function responseText(data) {
@@ -60,6 +233,14 @@ function groundingSources(data) {
     });
 }
 
+console.log("Discovering Gemini Flash models available to this API key...");
+const availableModels = await listModels();
+const modelCandidates = buildModelCandidates(availableModels);
+if (!modelCandidates.length) {
+  throw new Error("This API key currently exposes no Gemini Flash model that supports generateContent.");
+}
+console.log(`Flash fallback order: ${modelCandidates.join(" -> ")}`);
+
 const topicText = config.topics.map((topic) => `- ${topic}`).join("\n");
 const researchPrompt = `
 你是一名 3D 列印產業情報編輯。今天（${config.timezone}）是 ${reportDate}。
@@ -79,14 +260,19 @@ ${topicText}
 先完成研究，再輸出一份可供編輯整理的詳盡文字稿。`;
 
 console.log(`[1/2] Researching ${reportDate} with Google Search...`);
-const research = await gemini({
-  contents: [{ parts: [{ text: researchPrompt }] }],
-  tools: [{ google_search: {} }],
-  generationConfig: { temperature: 0.25, maxOutputTokens: 7000 }
+const researchResult = await generateWithFallback({
+  taskName: "Research",
+  candidates: modelCandidates,
+  body: {
+    contents: [{ parts: [{ text: researchPrompt }] }],
+    tools: [{ google_search: {} }],
+    generationConfig: { maxOutputTokens: 7000 }
+  }
 });
-const researchText = responseText(research);
-const sources = groundingSources(research);
+const researchText = responseText(researchResult.data);
+const sources = groundingSources(researchResult.data);
 if (!researchText) throw new Error("Gemini returned no research text.");
+console.log(`Research model: ${researchResult.model}`);
 console.log(`Found ${sources.length} grounded source(s).`);
 
 const sourceCatalogue = sources.map((s) => `[${s.id}] ${s.title} — ${s.uri}`).join("\n");
@@ -138,18 +324,25 @@ ${sourceCatalogue || "（沒有取得可用來源；這種情況下 items 應為
 `;
 
 console.log("[2/2] Structuring report...");
-const structured = await gemini({
-  contents: [{ parts: [{ text: editorialPrompt }] }],
-  generationConfig: {
-    temperature: 0.15,
-    maxOutputTokens: 6000,
-    responseMimeType: "application/json",
-    responseSchema: schema
+const structuredResult = await generateWithFallback({
+  taskName: "Editorial",
+  candidates: modelCandidates,
+  // Start with the model that successfully completed research. If structured output is
+  // unsupported for it, continue downward from there rather than jumping back upward.
+  startAt: researchResult.index,
+  body: {
+    contents: [{ parts: [{ text: editorialPrompt }] }],
+    generationConfig: {
+      maxOutputTokens: 6000,
+      responseMimeType: "application/json",
+      responseSchema: schema
+    }
   }
 });
-const jsonText = responseText(structured);
+const jsonText = responseText(structuredResult.data);
 if (!jsonText) throw new Error("Gemini returned no structured report.");
 const parsed = JSON.parse(jsonText);
+console.log(`Editorial model: ${structuredResult.model}`);
 
 const sourceMap = new Map(sources.map((s) => [s.id, { title: s.title, uri: s.uri }]));
 const items = (parsed.items || []).slice(0, config.max_items).map((item) => ({
@@ -167,7 +360,11 @@ const report = {
   schema_version: 1,
   date: reportDate,
   generated_at: now.toISOString(),
-  model: MODEL,
+  model: structuredResult.model,
+  models: {
+    research: researchResult.model,
+    editorial: structuredResult.model
+  },
   title: parsed.title || `3D 列印每日情報｜${reportDate}`,
   summary: parsed.summary || "",
   items
@@ -182,7 +379,13 @@ const manifestPath = path.join(reportsDir, "index.json");
 let manifest = { latest: null, reports: [] };
 try { manifest = JSON.parse(await fs.readFile(manifestPath, "utf8")); } catch {}
 const reports = (manifest.reports || []).filter((entry) => entry.date !== reportDate);
-reports.push({ date: reportDate, file: reportFile, generated_at: report.generated_at, items: items.length });
+reports.push({
+  date: reportDate,
+  file: reportFile,
+  generated_at: report.generated_at,
+  items: items.length,
+  model: structuredResult.model
+});
 reports.sort((a, b) => b.date.localeCompare(a.date));
 const nextManifest = { latest: reports[0]?.date || null, reports };
 await fs.writeFile(manifestPath, JSON.stringify(nextManifest, null, 2) + "\n");
