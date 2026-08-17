@@ -1,0 +1,61 @@
+:root {
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", sans-serif;
+  color: #151515;
+  background: #f5f3ee;
+  font-synthesis: none;
+}
+* { box-sizing: border-box; }
+body { margin: 0; min-height: 100vh; }
+button, select { font: inherit; }
+a { color: inherit; }
+.shell { width: min(1080px, calc(100% - 32px)); margin: 0 auto; padding: 48px 0 28px; }
+.hero { display: grid; grid-template-columns: 1fr auto; gap: 24px; align-items: end; border-bottom: 4px solid currentColor; padding-bottom: 24px; }
+.eyebrow { margin: 0 0 8px; font: 800 0.72rem/1 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .14em; }
+h1 { margin: 0; font-size: clamp(2.5rem, 8vw, 6rem); line-height: .9; letter-spacing: -.055em; max-width: 900px; }
+.lede { margin: 18px 0 0; font-size: 1.05rem; max-width: 680px; }
+.status { border: 2px solid currentColor; padding: 10px 12px; font: 700 .8rem/1.2 ui-monospace, monospace; white-space: nowrap; }
+.toolbar { display: grid; grid-template-columns: auto minmax(170px, 1fr) auto; gap: 10px; align-items: center; margin: 20px 0 30px; }
+.date-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+button, select { min-height: 44px; border: 2px solid currentColor; border-radius: 0; background: transparent; color: inherit; padding: 9px 12px; font-weight: 750; }
+button:not(:disabled) { cursor: pointer; }
+button:not(:disabled):hover, select:hover { background: currentColor; color: #f5f3ee; }
+button:disabled { opacity: .35; }
+.report-head { display: grid; grid-template-columns: minmax(0, 1fr) minmax(280px, .8fr); gap: 32px; margin-bottom: 26px; align-items: start; }
+.report-date { margin: 0 0 6px; font: 750 .9rem/1.2 ui-monospace, monospace; }
+h2 { margin: 0; font-size: clamp(1.8rem, 4vw, 3.4rem); line-height: 1; letter-spacing: -.035em; }
+.report-summary { margin: 0; font-size: 1rem; line-height: 1.7; }
+.cards { display: grid; gap: 14px; }
+.card { border: 2px solid currentColor; background: rgba(255,255,255,.26); }
+.card summary { list-style: none; cursor: pointer; padding: 18px; display: grid; grid-template-columns: auto 1fr auto; gap: 14px; align-items: start; }
+.card summary::-webkit-details-marker { display: none; }
+.rank { font: 900 1.6rem/1 ui-monospace, monospace; }
+.card-title { margin: 0; font-size: 1.22rem; line-height: 1.25; }
+.category { display: inline-block; margin-top: 7px; font: 750 .72rem/1 ui-monospace, monospace; text-transform: uppercase; letter-spacing: .08em; }
+.toggle { font: 900 1.5rem/1 monospace; }
+.card[open] .toggle { transform: rotate(45deg); }
+.card-body { border-top: 2px solid currentColor; padding: 18px; display: grid; grid-template-columns: 1fr .65fr; gap: 26px; }
+.card-body p { margin: 0 0 12px; line-height: 1.65; }
+.why { font-weight: 750; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.tag { border: 1px solid currentColor; padding: 4px 7px; font: 700 .7rem/1 ui-monospace, monospace; }
+.sources h4 { margin: 0 0 10px; font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; }
+.sources ul { margin: 0; padding-left: 18px; }
+.sources li { margin: 0 0 8px; overflow-wrap: anywhere; }
+.sources a { text-underline-offset: 3px; }
+.empty { border: 2px dashed currentColor; padding: 28px; text-align: center; }
+.empty h2 { font-size: clamp(1.6rem, 5vw, 2.6rem); }
+.empty p { max-width: 660px; margin: 16px auto 0; line-height: 1.6; }
+footer { border-top: 1px solid currentColor; margin-top: 34px; padding-top: 16px; font-size: .82rem; opacity: .7; }
+@media (max-width: 720px) {
+  .shell { width: min(100% - 22px, 1080px); padding-top: 28px; }
+  .hero, .report-head, .card-body { grid-template-columns: 1fr; }
+  .status { justify-self: start; }
+  .toolbar { grid-template-columns: 1fr 1fr; }
+  .toolbar select { grid-column: 1 / -1; grid-row: 1; }
+  .card summary { grid-template-columns: auto 1fr auto; padding: 14px; }
+}
+@media (prefers-color-scheme: dark) {
+  :root { color: #f2f0e9; background: #121212; }
+  button:not(:disabled):hover, select:hover { color: #121212; }
+  .card { background: rgba(255,255,255,.03); }
+}

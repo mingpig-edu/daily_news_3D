@@ -1,0 +1,16 @@
+{
+  "timezone": "Asia/Hong_Kong",
+  "language": "繁體中文（香港用語）",
+  "max_items": 8,
+  "lookback_hours": 48,
+  "topics": [
+    "3D 列印機與硬件",
+    "FDM／FFF、SLA／MSLA、SLS 等技術",
+    "耗材與新材料",
+    "切片軟件、韌體及開源工具",
+    "Bambu Lab、Prusa、Creality、Elegoo、Anycubic 等主要品牌",
+    "Maker／開源社群值得留意的項目",
+    "工業、教育、醫療及科研應用",
+    "安全、召回、重大漏洞或政策變化"
+  ]
+}

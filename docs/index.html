@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="每日自動整理的 3D 列印情報。" />
+  <meta name="color-scheme" content="light dark" />
+  <title>3D 列印每日情報</title>
+  <link rel="stylesheet" href="./assets/style.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">3D PRINT DAILY BRIEF</p>
+        <h1>3D 列印每日情報</h1>
+        <p class="lede">每天自動搜尋、整理值得留意的 3D 列印消息。</p>
+      </div>
+      <div class="status" id="status" aria-live="polite">載入中…</div>
+    </header>
+
+    <section class="toolbar" aria-label="日報導覽">
+      <button id="prevBtn" type="button" disabled>← 前一日</button>
+      <label class="date-label" for="reportSelect">日報</label>
+      <select id="reportSelect" aria-label="選擇日報日期" disabled></select>
+      <button id="nextBtn" type="button" disabled>後一日 →</button>
+    </section>
+
+    <section id="emptyState" class="empty" hidden>
+      <h2>尚未生成第一份日報</h2>
+      <p>完成 GitHub Secret 設定後，在 Actions 手動執行一次 <strong>Daily 3D Print Brief</strong>，之後系統會每天自動更新。</p>
+    </section>
+
+    <article id="report" hidden>
+      <div class="report-head">
+        <div>
+          <p id="reportDate" class="report-date"></p>
+          <h2 id="reportTitle"></h2>
+        </div>
+        <p id="reportSummary" class="report-summary"></p>
+      </div>
+      <div id="cards" class="cards"></div>
+    </article>
+
+    <footer>
+      <p>內容由 Gemini 配合 Google Search 自動整理。重要資訊請以原始來源為準。</p>
+    </footer>
+  </main>
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>
