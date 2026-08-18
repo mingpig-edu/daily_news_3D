@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-19",
+  "generated_at": "2026-08-18T23:56:33.147Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-08-19)",
+  "summary": "今日焦點涵蓋開源熱端與耗材性能數據庫 MeltCalc、Hi3D 發布 2048³ 超高精細度 AI 建模平台，以及亞太區積層製造擴展，包括深圳企業規劃部署 6,500 台拓竹（Bambu Lab）機器的列印農場。科研與醫療方面，印度學者取得低成本廢膠再生擠出機專利，美國 Onkos Surgical 客製化骨盆植入物完成第 1,000 宗手術案例。",
+  "items": [
+    {
+      "title": "開源工具 MeltCalc 發布：整合 64 款熱端與耗材極限參數數據庫",
+      "category": "開源",
+      "summary": "開發者 Robert Samples 建立了名為 MeltCalc 的開源數據庫，專為 FDM 3D 列印玩家與工程師整理熱端與耗材的性能參數。該工具收錄了 64 款不同熱端資料，涵蓋最大熔融流速、列印速度及加熱器功率需求等關鍵數值。使用者可藉此快速查詢特定熱端在搭配不同線材時的極限表現，毋須單靠切片軟件預設值摸索。",
+      "why_it_matters": "為追求高速列印與材料極限的 Maker 提供了實用的量化參考基準，大幅降低硬件參數調配門檻。",
+      "tags": [
+        "FDM",
+        "熱端",
+        "開源工具",
+        "耗材參數",
+        "MeltCalc"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "Hi3D V3.0 上線：首款 2048³ 體素精度 AI 3D 建模平台",
+      "category": "軟件",
+      "summary": "AI 3D 創作平台 Hi3D 推出 V3.0 版本，成為業界首個達 2048³ 體素解析度的商用 AI 模型，總體素量是過往標準的 2.37 倍。新版本顯著改善了跨視角結構推理與專利 UV 補全演算法，並支援高達 8K 的材質貼圖。官方指出該技術可大幅減少 3D 列印與工業設計流程中修復網格破洞的手動工序，並提供 48 小時免費試用。",
+      "why_it_matters": "高精細度 AI 自動建模有助降低列印前的網格修補成本，加速 3D 列印與工業設計的工作流程。",
+      "tags": [
+        "AI建模",
+        "網格修復",
+        "軟件",
+        "工業設計",
+        "Hi3D"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330466/hi3d-v3-0-launches-the-industrys-first-commercially-available-2048%c2%b3-ultra-high-precision-ai-3d-model-with-a-48-hour-free-trial/"
+        }
+      ]
+    },
+    {
+      "title": "亞太 AM 市場擴展：深圳企業規劃 6,500 台拓竹機器的 3D 列印農場",
+      "category": "產業",
+      "summary": "亞太地區積層製造市場迎來新一輪擴張，深圳金石慧納通過備案審查，計劃投資 2 億元人民幣在博羅建設 3D 列印基地，預計部署 6,500 台拓竹（Bambu Lab）設備。此外，南韓 T&R Biofab 的 3D 列印顱骨植入物亦獲得美國 FDA 510(k) 許可，顯示區內消費級農場與醫療級應用同步加速。",
+      "why_it_matters": "數千台規模的桌面級 3D 列印農場逐步成型，確立了分布式彈性製造在消費品及工業生產中的競爭力。",
+      "tags": [
+        "Bambu Lab",
+        "列印農場",
+        "產業動態",
+        "醫療3D列印",
+        "拓竹"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330674/am-pulse-asia-6500-printer-farm-leads-apac-manufacturing-expansion/"
+        }
+      ]
+    },
+    {
+      "title": "NIT Rourkela 獲專利：約 470 美元低成本廢塑膠再生擠出機",
+      "category": "科研",
+      "summary": "印度國立技術學院魯爾克拉分校（NIT Rourkela）機械與化學工程團隊獲批專利（專利號 202431068691），研發出一款便攜式廢塑膠回收擠出系統。該系統製造成本約 45,000 印度盧比（約 470 美元），可將回收塑膠廢料直接轉化為適用於 FDM 3D 列印的複合材料線材。",
+      "why_it_matters": "極低成本的線材擠出方案有助推動基層與教育機構落實塑膠循環再造及降低列印成本。",
+      "tags": [
+        "科研",
+        "材料再生",
+        "FDM",
+        "線材擠出",
+        "環保"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/nit-rourkela-patents-low-cost-extruder-for-turning-plastic-waste-into-3d-printing-filament-253908/"
+        }
+      ]
+    },
+    {
+      "title": "Continuous Composites 控告 FibreSeek 侵害 10 項連續纖維專利",
+      "category": "產業",
+      "summary": "連續纖維 3D 列印技術（CF3D）開發商 Continuous Composites 向美國特拉華州地方法院提起訴訟，控告與 FibreSeek 及 Anisoprint 品牌相關的三家實體侵權。訴狀指出被告侵犯了涵蓋連續纖維增材製造技術的 10 項美國專利。",
+      "why_it_matters": "連續纖維複合材料領域的專利訴訟反映出高強度複合列印技術的商業競爭與智財權爭奪日益激烈。",
+      "tags": [
+        "專利訴訟",
+        "連續纖維",
+        "複合材料",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/continuous-composites-alleges-patent-infringement-in-lawsuit-against-fibreseek-253861/"
+        }
+      ]
+    },
+    {
+      "title": "Onkos Surgical 客製化 3D 列印骨盆植入物突破 1,000 宗手術",
+      "category": "應用",
+      "summary": "醫療器械公司 Onkos Surgical 宣布其獲得 FDA 510(k) 許可的 My3D 病患專屬骨盆植入物平台已完成第 1,000 宗臨床手術。該系統針對每位病患的骨骼結構進行客製化 3D 列印設計與製造，取代傳統標準尺寸植入物，展示了積層製造在複雜骨科重建手術中的臨床普及度。",
+      "why_it_matters": "達成千宗臨床案例標誌著客製化 3D 列印骨科植入物已從實驗性技術邁入成熟常態化應用。",
+      "tags": [
+        "醫療應用",
+        "金屬列印",
+        "FDA",
+        "植入物",
+        "客製化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/onkos-surgicals-3d-printed-my3d-pelvic-platform-crosses-1000-surgical-cases-253875/"
+        }
+      ]
+    },
+    {
+      "title": "Rowan 大學獲 15.5 萬美元資助，以生物列印建立軟骨肉瘤模型",
+      "category": "科研",
+      "summary": "美國 Rowan 大學獲得美國國家癌症研究所（NCI）為期兩年、金額 155,000 美元的項目資助。研究團隊將利用生物列印機（Bioprinter），在厘米級水凝膠塊中按精確間距沉積腫瘤細胞與間充質幹細胞，構建活體軟骨肉瘤體外模型，用以研究這種對化療和放療均具抗藥性的骨癌。",
+      "why_it_matters": "精確的 3D 生物列印腫瘤微環境模型將有助於加速難治性骨癌的藥物篩選與病理研究。",
+      "tags": [
+        "生物列印",
+        "科研",
+        "癌症研究",
+        "醫療"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/rowan-wins-155000-nci-grant-to-3d-print-chondrosarcoma-models-253885/"
+        }
+      ]
+    },
+    {
+      "title": "Rocket Lab 成立德國子公司，拓展歐洲積層製造衛星組件業務",
+      "category": "產業",
+      "summary": "航天企業 Rocket Lab 正式成立德國子公司 Rocket Lab Germany GmbH，總部設於慕尼黑。該實體將作為在歐洲生產衛星、有效載荷及組件的法律載體，並向歐洲客戶提供 Electron 與 Neutron 發射服務，進一步整合其在航天製造領域的業務佈局。",
+      "why_it_matters": "航天巨頭深化歐洲本地製造實體，將進一步帶動歐洲高端航天零件積層製造的供應鏈需求。",
+      "tags": [
+        "航天",
+        "產業",
+        "Rocket Lab",
+        "衛星製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/rocket-lab-sets-up-german-subsidiary-opening-the-door-to-satellite-manufacturing-in-europe-253920/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 20
+}
