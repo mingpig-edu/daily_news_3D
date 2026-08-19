@@ -1,6 +1,14 @@
 {
-  "latest": "2026-08-19",
+  "latest": "2026-08-20",
   "reports": [
+    {
+      "date": "2026-08-20",
+      "file": "2026-08-20.json",
+      "generated_at": "2026-08-19T23:57:01.312Z",
+      "items": 8,
+      "model": null,
+      "mode": "basic-rss"
+    },
     {
       "date": "2026-08-19",
       "file": "2026-08-19.json",

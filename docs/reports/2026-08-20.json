@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-20",
+  "generated_at": "2026-08-19T23:57:01.312Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-08-20",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（Unterminated string in JSON at position 943 (line 1 column 944)）。",
+  "items": [
+    {
+      "title": "Mini Blinking Barrels Keep Desktop Traffic in Check",
+      "category": "硬件／產業",
+      "summary": "Your desk or bench is a work area, so why not make it look the part? That’s the idea behind the miniature blinking traffic barrels that [Glen Akins] recently put together . Of course, just a single blinking light doesn’t really sell the idea of a busy construction zone, so he spe",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/19/mini-blinking-barrels-keep-desktop-traffic-in-check/"
+        }
+      ]
+    },
+    {
+      "title": "Oqton’s 3D Printing Software Wins ASTRO-InSPIRE’s 2nd Annual Tech Challenge",
+      "category": "材料",
+      "summary": "Rejoice, ye process engineers! Your raised concerns do not go in vain. Additive manufacturing (AM) materials qualification is genuinely becoming the central focal point for commercialization efforts in the industry’s metals market segment. Of course, depending on whose perspectiv",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330765/oqtons-3d-printing-software-wins-astro-inspires-2nd-annual-tech-challenge/"
+        }
+      ]
+    },
+    {
+      "title": "3DEO Liquidates Factory as Metal 3D Printing Business Is Broken Up",
+      "category": "材料",
+      "summary": "Metal additive manufacturing company 3DEO is being dismantled. On Tuesday, August 18, the remaining machinery at the company’s Torrance, California, factory went up for sale in an online auction. The sale, run by auctioneer Brian Testo Associates through the BidSpotter platform, ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330786/3deo-liquidates-factory-as-metal-3d-printing-business-is-broken-up/"
+        }
+      ]
+    },
+    {
+      "title": "Additive Economics 101, Part 1: Betwixt Rolex and Ryanair",
+      "category": "材料",
+      "summary": "Let’s look at what matters when we make things that matter. What considerations are there, what is important, what affects cost? Look at the levers in laser powder bed fusion, sintering, and MJF, to see what can make or break a 3D printing business. The point is to give you an id",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330590/additive-economics-101-part-1-betwixt-rolex-and-ryanair/"
+        }
+      ]
+    },
+    {
+      "title": "Hadrian Raises $1.37B Series D, Valuing Automated Defense Manufacturer at $7.87B",
+      "category": "硬件／產業",
+      "summary": "Automated manufacturer Hadrian has raised $1.37 billion in Series D equity financing at a $7.87 billion valuation, roughly five times where the company stood a year ago. The round is aimed at expanding Hadrian’s factory network and pushing the company beyond precision parts towar",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hadrian-raises-1-37b-series-d-valuing-automated-defense-manufacturer-at-7-87b-253913/"
+        }
+      ]
+    },
+    {
+      "title": "LincSolution Targets AI Data Center Cooling With 3D Printed Heat Exchanger Research",
+      "category": "應用／科研",
+      "summary": "South Korean additive manufacturing company LincSolution has launched a three-year international research project to develop mass-production technology for 3D printed heat pump components, targeting entry into the AI data center cooling and electric vehicle thermal management mar",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/lincsolution-targets-ai-data-center-cooling-with-3d-printed-heat-exchanger-research-253916/"
+        }
+      ]
+    },
+    {
+      "title": "Protolabs Funds MIT Research Fellows to Study US Manufacturing Scale-Up",
+      "category": "應用／科研",
+      "summary": "Digital manufacturing service provider Protolabs has awarded a grant to support research fellows at the Massachusetts Institute of Technology (MIT) Industrial Performance Center (IPC) as they study how leading US manufacturers scale advanced technologies into domestic production.",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/protolabs-funds-mit-research-fellows-to-study-us-manufacturing-scale-up-253928/"
+        }
+      ]
+    },
+    {
+      "title": "Building Custom Backyard Solar Lights",
+      "category": "材料",
+      "summary": "In this modern age, if you want a truly swish garden that makes your friends sad when they visit, you need good lighting. [technocraftStudio] has been working on just such a project, creating custom wedge lights to illuminate garden beds in style. You might look at the plastic ho",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/19/building-custom-backyard-solar-lights/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
