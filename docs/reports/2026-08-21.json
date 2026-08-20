@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-21",
+  "generated_at": "2026-08-20T23:59:35.049Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-08-21)",
+  "summary": "今日 3D 列印行業焦點包括 Prusa 全面升級 CORE One+、CORE One L+ 及 XL+ 等旗艦機型，Creality 推出配備四色套件的 SPARKX i7 Nano。同時，金屬列印先鋒 3DEO 清盤拍賣工廠資產，Phase3D 獲美國空軍合約發展陶瓷基複合材料實時檢測，亞太區亦傳出將建設容納 6,500 部機器的超大型 3D 列印農場。",
+  "items": [
+    {
+      "title": "Prusa 升級高階系列推出 CORE One+、CORE One L+ 及 XL+",
+      "category": "硬件",
+      "summary": "Prusa Research 宣佈更新其高階桌面 3D 列印機陣容，推出 CORE One+ (Gen 2)、CORE One L+ 及 XL+。官方同時提供升級套件，讓現有對應用戶毋須換機即可升級至最新規格。",
+      "why_it_matters": "Prusa 維持一貫的向下兼容與模組化升級策略，有助工業及進階用戶以較低成本延長設備生命週期。",
+      "tags": [
+        "Prusa",
+        "CORE One+",
+        "XL+",
+        "FDM",
+        "硬件升級"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330435/prusa-upgrades-its-lineup-core-one-gen2-core-one-l-and-xl/"
+        }
+      ]
+    },
+    {
+      "title": "創想三維推出 SPARKX i7 Nano 桌面四色 3D 列印機",
+      "category": "硬件",
+      "summary": "Creality 推出 SPARKX i7 系列新成員 i7 Nano，採用更緊湊的小型機身設計。該機型於 8 月 15 日在美區商城發售，並隨機搭售全新的 CFS nano 多色套件，提供四色列印支援。",
+      "why_it_matters": "多色桌面 3D 列印競爭持續升溫，Creality 透過縮小機身與搭配新多色系統以擴展入門市場。",
+      "tags": [
+        "Creality",
+        "SPARKX i7 Nano",
+        "多色列印",
+        "CFS nano",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/creality-launches-sparkx-i7-nano-technical-specifications-and-pricing-253938/"
+        }
+      ]
+    },
+    {
+      "title": "金屬 3D 列印企業 3DEO 清盤拍賣工廠資產",
+      "category": "產業",
+      "summary": "金屬增材製造企業 3DEO 位於加州托倫斯的工廠資產進行線上公開拍賣。拍賣物品涵蓋製造、檢驗、熱處理、CNC 加工及機器人等數百件設備，整個精密製造工廠正在被拆分清盤。",
+      "why_it_matters": "反映出金屬增材製造服務市場在資本與營運壓力下的重組與洗牌現狀。",
+      "tags": [
+        "3DEO",
+        "金屬3D列印",
+        "清盤",
+        "拍賣",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330786/3deo-liquidates-factory-as-metal-3d-printing-business-is-broken-up/"
+        }
+      ]
+    },
+    {
+      "title": "Phase3D 獲美國空軍合約開發陶瓷基複合材料實時檢測技術",
+      "category": "應用",
+      "summary": "檢測軟件與工具公司 Phase3D 獲得美國空軍部合約，將其 Fringe 檢測平台應用於陶瓷基複合材料（CMC）。相關材料具備超高溫耐受性能，常用於渦輪葉片、高超音速飛行器及航天熱防護系統。",
+      "why_it_matters": "透過實時光學檢測解決高難度陶瓷複合結構的製造瓶頸，推動航天與國防高溫零件的量產進程。",
+      "tags": [
+        "Phase3D",
+        "美國空軍",
+        "CMC",
+        "實時檢測",
+        "航天國防"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330720/phase3d-gets-air-force-contract-for-real-time-cmc-inspection/"
+        }
+      ]
+    },
+    {
+      "title": "亞太增材製造加速：博羅擬建 6,500 台拓竹印表機超大型農場",
+      "category": "產業",
+      "summary": "亞太地區增材製造迎來多項投資擴展，其中深圳金石暉納計劃在博羅投資 2 億元人民幣，建立配備 6,500 部拓竹（Bambu Lab）3D 列印機的列印基地，項目已完成備案審核。",
+      "why_it_matters": "數千台規模的桌面級 3D 列印農場顯示分散式製造與小批量彈性生產正邁向極大規模化量產。",
+      "tags": [
+        "Bambu Lab",
+        "列印農場",
+        "金石暉納",
+        "增材製造",
+        "亞太市場"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330674/am-pulse-asia-6500-printer-farm-leads-apac-manufacturing-expansion/"
+        }
+      ]
+    },
+    {
+      "title": "Hi3D 發布 V3.0 AI 3D 模型，提供 2048³ 超高體素解析度",
+      "category": "軟件",
+      "summary": "AI 3D 創作平台 Hi3D 推出 V3.0 版本，為業界首個商用 2048³ 體素解析度 AI 3D 模型，體素量較前代標準提升 2.37 倍。該版本支援最高 8K 紋理與改良的 UV 補全演算法，旨在大幅減少進入 3D 列印流程前的手動修模工作量。",
+      "why_it_matters": "高解析度 AI 建模直接銜接列印網格需求，顯著縮短由概念到 3D 列印實體的修模時間。",
+      "tags": [
+        "Hi3D",
+        "AI建模",
+        "3D模型生成",
+        "切片修模",
+        "軟件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330466/hi3d-v3-0-launches-2048-ultra-high-precision-ai-3d-model/"
+        }
+      ]
+    },
+    {
+      "title": "印度 NIT Rourkela 獲廢塑膠轉化 3D 列印線材擠出機專利",
+      "category": "科研",
+      "summary": "印度國立技術學院 Rourkela 分校研究團隊取得便攜式擠出系統專利（專利號 202431068691）。該設備造價約 45,000 盧比（約 470 美元），可將回收塑膠廢料轉化為 FDM 3D 列印使用的複合線材。",
+      "why_it_matters": "超低成本的本地化廢料回收擠出設備有助降低耗材門檻，促進環保與教育領域的循環製造。",
+      "tags": [
+        "NIT Rourkela",
+        "線材擠出機",
+        "塑膠回收",
+        "FDM耗材",
+        "科研專利"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/nit-rourkela-patents-low-cost-extruder-for-turning-plastic-waste-into-3d-printing-filament-253908/"
+        }
+      ]
+    },
+    {
+      "title": "LincSolution 開展 3D 列印熱交換器研究以應對 AI 數據中心散熱需求",
+      "category": "應用",
+      "summary": "韓國增材製造公司 LincSolution 啟動為期三年的國際研發項目，研發 3D 列印熱泵部件的批量生產技術。該項目目標是進軍 AI 數據中心散熱系統及電動車熱管理市場，執行期至 2029 年 6 月。",
+      "why_it_matters": "利用金屬 3D 列印微型化高效率熱交換結構，針對 AI 高負載算力散熱瓶頸提供定制化解法。",
+      "tags": [
+        "LincSolution",
+        "熱交換器",
+        "AI數據中心",
+        "散熱技術",
+        "增材製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/lincsolution-targets-ai-data-center-cooling-with-3d-printed-heat-exchanger-research-253916/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 23
+}
