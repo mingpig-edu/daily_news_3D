@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-22",
+  "generated_at": "2026-08-21T23:58:31.758Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報（2026年8月22日）",
+  "summary": "今日焦點涵蓋 Prusa 與 Creality 的多款新型桌面級硬件更新、Formlabs 董事會重組迎來前 Apple 高層、金屬 3D 列印先驅 3DEO 廠房設備清盤拆售，以及全球首宗個人化超材料骨骼假體植入手術等重要應用與產業進展。",
+  "items": [
+    {
+      "title": "Prusa 更新 XL 與 CORE One 系列硬件並提供升級路徑",
+      "category": "硬件",
+      "summary": "捷克 3D 列印製造商 Prusa Research 正式更新其主力硬件產品線，推出 Prusa XL+、CORE One L+ 及 CORE One+（Gen 2）。新機型針對列印準備、表面品質和日常維護進行改良，全面加入整合式噴嘴擦拭器與全新 GT1.5 皮帶，並為現有舊款用家提供對應的升級套件。",
+      "why_it_matters": "Prusa 延續其硬件向下兼容與模組化升級承諾，讓工業及進階用家能以較低成本延長機器壽命並提升列印穩定性。",
+      "tags": [
+        "Prusa",
+        "Prusa XL+",
+        "CORE One+",
+        "桌面級3D列印",
+        "硬件升級"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/prusa-refreshes-xl-and-core-one-3d-printer-lineup-with-new-hardware-and-upgrade-paths-253981/"
+        }
+      ]
+    },
+    {
+      "title": "Creality 推出 SPARKX i7 Nano 桌面級四色列印機",
+      "category": "硬件",
+      "summary": "Creality 擴充其 i7 系列陣容，正式發布體積更小巧的桌面級 3D 列印機 SPARKX i7 Nano。該設備搭配全新 CFS nano 套件發售，為入門及創客市場提供更緊湊、具備四色列印能力的解決方案。",
+      "why_it_matters": "多色列印市場競爭白熱化，小型化與模組化配件正進一步降低多色 FDM 列印的入手門檻。",
+      "tags": [
+        "Creality",
+        "SPARKX i7 Nano",
+        "多色列印",
+        "FDM",
+        "新機發布"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/creality-launches-sparkx-i7-nano-technical-specifications-and-pricing-253938/"
+        }
+      ]
+    },
+    {
+      "title": "Formlabs 董事會大幅重組：前 Apple 硬件主管 Dan Riccio 加入",
+      "category": "產業",
+      "summary": "專業 SLA 與 SLS 3D 列印設備商 Formlabs 宣布重大人事變動，前 Apple 硬件工程高級副總裁 Dan Riccio 以策略顧問兼投資者身份加入。與此同時，公司宣布新董事長與新總裁任命，而共同創辦人 Natan Linder 則在任職 15 年後正式卸任。",
+      "why_it_matters": "消費電子巨頭高層的加入與核心管理層洗牌，預示 Formlabs 可能在硬件工程擴產與產品商業化策略上迎來重大變革。",
+      "tags": [
+        "Formlabs",
+        "人事變動",
+        "SLA",
+        "SLS",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/formlabs-overhauls-board-riccio-joins-as-linder-steps-down-after-15-years-253870/"
+        }
+      ]
+    },
+    {
+      "title": "金屬 3D 列印廠商 3DEO 破產清盤拆售加州廠房",
+      "category": "產業",
+      "summary": "金屬積層製造企業 3DEO 正式進入資產清算階段，其位於加州托倫斯的廠房機器於線上公開拍賣。拍賣項目涵蓋金屬 3D 列印生產設備、檢測儀器、熱處理設施及 CNC 機床等數百件工業物料，整座精密製造工廠被全面拆售。",
+      "why_it_matters": "反映金屬增材製造代工與零件生產領域競爭激烈，部分重資產營運模式在商業化與融資上面臨嚴峻挑戰。",
+      "tags": [
+        "3DEO",
+        "金屬3D列印",
+        "資產拍賣",
+        "產業洗牌",
+        "破產清盤"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330786/3deo-liquidates-factory-as-metal-3d-printing-business-is-broken-up/"
+        }
+      ]
+    },
+    {
+      "title": "馬德里醫院成功植入全球首個個人化超材料骨骼假體",
+      "category": "科研",
+      "summary": "西班牙格雷戈里奧·馬拉尼翁大學綜合醫院的進階規劃與 3D 製造部門（UPAM3D），成功為一名 38 歲脛骨高度惡性骨肉瘤患者設計並植入全球首個個人化超材料（Metamaterial）骨骼假體。在手術完成近一年後，患者恢復進展良好。",
+      "why_it_matters": "超材料力學結構與金屬 3D 列印的結合，為複雜骨腫瘤切除後的骨骼重建帶來更符合生理力學特性的革命性方案。",
+      "tags": [
+        "醫療應用",
+        "超材料",
+        "骨骼假體",
+        "金屬3D列印",
+        "臨床案例"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/gregorio-maranon-hospital-implants-worlds-first-personalized-metamaterial-bone-prosthesis-253969/"
+        }
+      ]
+    },
+    {
+      "title": "澳洲斥資 80 萬澳元研發具真實人體力學反應之 3D 列印牙科模型",
+      "category": "應用",
+      "summary": "澳洲醫療訓練器材公司 Fusetec 聯同阿德萊德大學及積層製造合作研究中心（AMCRC），展開一項總值 80 萬澳元的 18 個月合作科研項目。該計劃旨在開發新一代仿生牙科訓練模型，能在手術施力時精確模擬真實牙齒、顎骨及軟組織的力學反應。",
+      "why_it_matters": "高仿真度仿生 3D 列印組織能有效替代傳統低仿真教學模具，大幅提升牙科外科手術培訓的擬真度與成功率。",
+      "tags": [
+        "牙科應用",
+        "仿生材料",
+        "醫療培訓",
+        "科研合作",
+        "多材料列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/fusetec-and-adelaide-university-announce-800000-project-to-3d-print-dental-models-that-respond-like-real-tissue-253939/"
+        }
+      ]
+    },
+    {
+      "title": "Amaero 擴大美國本土積層製造專用金屬粉末產能",
+      "category": "材料",
+      "summary": "先進材料製造商 Amaero 正在田納西州麥克唐納工廠擴大鈦合金及難熔合金粉末的生產規模。該設施專門生產用於極端高溫與高壓環境的增材製造粉末，主要針對國防、航空航天及太空產業等關鍵供應鏈需求。",
+      "why_it_matters": "金屬積層製造朝向關鍵國防與航天領域深化發展之際，高階合金粉末的本土供應鏈自主性變得至關重要。",
+      "tags": [
+        "金屬粉末",
+        "鈦合金",
+        "難熔合金",
+        "航空航天",
+        "材料供應鏈"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330970/amaero-builds-u-s-metal-powder-capacity-for-additive-manufacturing/"
+        }
+      ]
+    },
+    {
+      "title": "創客實現熱聲斯特林發動機全 3D 列印化",
+      "category": "開源",
+      "summary": "開源創客項目 [my engines] 成功將熱聲斯特林發動機升級為全 3D 列印結構。新版本發動機輸出端僅包含一個活動零件，其燃燒器與熱端部件更專門針對金屬 SLA 列印進行設計，並直接整合了生物氣／甲烷燃燒器。",
+      "why_it_matters": "展示了金屬 3D 列印技術在微型能源收集與熱聲熱機開源設計中的實用潛力。",
+      "tags": [
+        "開源硬件",
+        "熱聲發動機",
+        "金屬SLA",
+        "斯特林發動機",
+        "創客"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/21/thermoacoustic-sterling-engine-is-now-fully-3d-printable/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 25
+}
