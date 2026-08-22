@@ -1,0 +1,182 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-23",
+  "generated_at": "2026-08-22T23:54:21.054Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：Prusa 新機正式出貨、Nikon 布局太空製造與金屬粉末本土化",
+  "summary": "今日 3D 列印產業焦點包括 Prusa CORE One+ (Gen 2) INDX 換色系統啟動出貨、Nikon 積極拓展軌道太空 3D 列印市場、Amaero 在美擴充金屬粉末產能，以及 Phase3D 獲美空軍合約開發陶瓷矩陣複合材料即時檢測技術。",
+  "items": [
+    {
+      "title": "Prusa CORE One+ (Gen 2) INDX 升級版機型正式啟動出貨",
+      "category": "硬件",
+      "summary": "Prusa Research 正式宣佈首批搭載 Bondtech INDX 多材料換色系統的 Prusa CORE One+ (Gen 2) 轉換套件已開始出貨。同時，官方亦全面開放組裝完成版及 DIY 套件版的整機訂購。",
+      "why_it_matters": "INDX 換色系統出貨代表 Prusa 在多材料與多色切換技術上邁出關鍵一步，進一步提升桌面級工業用戶的生產力。",
+      "tags": [
+        "Prusa",
+        "3D列印機",
+        "Bondtech INDX",
+        "多材料列印"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusa-core-one-gen-2-indx-shipping-has-started-complete-printers-open-for-orders_137623/"
+        }
+      ]
+    },
+    {
+      "title": "前 BASF 耗材製造商 Bedrock 3D 獲得 819 Capital 投資",
+      "category": "產業",
+      "summary": "從 BASF 拆分獨立的耗材製造商 Bedrock 3D（前身為 Innofil3D 及 Forward AM 荷蘭分公司）獲 819 Capital 資金注入。該公司曾是 Ultimaker 等知名 OEM 及零售商的主要線材供應商，本次投資將助其獨立後加速業務拓展。",
+      "why_it_matters": "這筆投資反映出資本市場對歐洲高品質 FDM 耗材供應鏈獨立營運前景的信心。",
+      "tags": [
+        "Bedrock 3D",
+        "BASF",
+        "3D列印耗材",
+        "投資融資"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330832/bedrock-3d-gets-investment-from-819-capital/"
+        }
+      ]
+    },
+    {
+      "title": "Nikon 瞄準太空製造市場，發展商業太空站 3D 列印技術",
+      "category": "應用",
+      "summary": "Nikon Advanced Manufacturing 宣佈將增材製造技術延伸至太空領域。公司預期 3D 列印將成為未來商業太空站的重要工具，能在軌道上直接製造替換零件、專用工具甚至大型結構，減少對地球補給任務的依賴。",
+      "why_it_matters": "太空原位製造能大幅降低發射重量與運輸成本，是未來商業航天基礎設施運營的關鍵技術之一。",
+      "tags": [
+        "Nikon",
+        "太空製造",
+        "航天應用",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330208/nikon-advanced-manufacturing-looks-to-the-next-frontier-for-am-space/"
+        }
+      ]
+    },
+    {
+      "title": "Amaero 在美建構鈦金屬與難熔金屬粉末產能",
+      "category": "材料",
+      "summary": "Amaero 正積極擴充位於美國田納西州麥克唐納的製造基地，生產專供增材製造使用的鈦合金與難熔金屬粉末。這些材料主要應用於國防、航空及太空等需承受極端高溫與高壓的嚴苛環境。",
+      "why_it_matters": "強化美國本土金屬粉末供應鏈，可降低對外國高階材料的依賴，確保國防與航天供應鏈安全。",
+      "tags": [
+        "Amaero",
+        "金屬粉末",
+        "鈦合金",
+        "供應鏈",
+        "航天國防"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330970/amaero-builds-u-s-metal-powder-capacity-for-additive-manufacturing/"
+        }
+      ]
+    },
+    {
+      "title": "Phase3D 獲美國空軍合約，開發陶瓷複合材料即時檢測技術",
+      "category": "科研",
+      "summary": "檢測軟件與工具廠商 Phase3D 獲得美國空軍部合約，將使用其 Fringe Inspection 平台對陶瓷矩陣複合材料（CMC）進行即時監測。CMC 材料常用於渦輪葉片及超音速飛行器熱防護系統等極高溫環境，但製造過程往往面臨品質控制瓶頸。",
+      "why_it_matters": "即時原位質檢技術有助降低高昂的陶瓷複合材料廢品率，加速新型超音速與航天裝備的量產。",
+      "tags": [
+        "Phase3D",
+        "美國空軍",
+        "質檢",
+        "CMC",
+        "陶瓷3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330720/phase3d-gets-air-force-contract-for-real-time-cmc-inspection/"
+        }
+      ]
+    },
+    {
+      "title": "SPEE3D 參展 RIMPAC 軍演，展示野戰遠征金屬列印",
+      "category": "應用",
+      "summary": "金屬 3D 列印廠商 SPEE3D 在 2026 年環太平洋軍事演習（RIMPAC）中展示了遠征式增材製造技術。美軍將本次演習稱為五角大樓史上最大規模的高級製造實用展示，驗證前線即時製造備件的能力。",
+      "why_it_matters": "遠征式金屬 3D 列印能夠在戰場前線現場修復軍用設備，大幅提升後勤補給的韌性與效率。",
+      "tags": [
+        "SPEE3D",
+        "RIMPAC",
+        "軍事應用",
+        "遠征製造",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330856/more-rimpac-expeditionary-am-this-time-with-spee3d/"
+        }
+      ]
+    },
+    {
+      "title": "創作者推出 3D 列印可調速機械相機快門",
+      "category": "開源",
+      "summary": "創作者 Camera Things 成功研發出一款採用滑動式設計的 3D 列印機械快門，解決了自製膠卷相機長久以來難以實現可變快門速度的技術瓶頸。該設計透過雙條滑動結構實現上緊發條與曝光動作。",
+      "why_it_matters": "這項創新展現了桌面級 3D 列印在精密機械機構中的應用潛力，為 DIY 攝影器材玩家提供全新思路。",
+      "tags": [
+        "3D列印相機",
+        "機械結構",
+        "Maker",
+        "DIY",
+        "Hackaday"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/22/the-shutter-makes-this-3d-printed-camera-special/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 415"
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 12
+}
