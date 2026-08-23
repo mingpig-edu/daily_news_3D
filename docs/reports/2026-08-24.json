@@ -1,0 +1,198 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-24",
+  "generated_at": "2026-08-23T23:54:52.257Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：Prusa 推出升級版機型、Formlabs 董事會重組及首宗超材料骨骼移植",
+  "summary": "本日重點包括 Prusa 發布 Prusa XL+ 與 CORE One 系列硬件更新；前 Apple 硬件副總裁 Dan Riccio 加盟 Formlabs 擔任顧問及投資者；醫療領域方面，西班牙團隊完成全球首宗個人化超材料骨骼假體移植手術，澳洲亦展開仿生牙科模型研發。",
+  "items": [
+    {
+      "title": "Prusa 更新旗下 3D 列印機陣容，推出 XL+ 及 CORE One 系列升級版",
+      "category": "硬件",
+      "summary": "捷克 3D 列印機製造商 Prusa Research 宣佈更新旗下產品線，推出 Prusa XL+、CORE One L+ 及 CORE One+ (Gen 2)。新機型引入多項優化硬件設計，包括整合式噴嘴擦拭器及全新 GT1.5 同步帶，旨在提升列印準備效率、表面品質及維護便利性。公司同時為現有用戶提供相應的升級方案。",
+      "why_it_matters": "Prusa 主要旗艦機型的硬件迭代進一步改善了列印品質與操作體驗，並維護了開源社群重視的升級路徑。",
+      "tags": [
+        "Prusa",
+        "3D列印機",
+        "FDM",
+        "硬件更新"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/prusa-refreshes-xl-and-core-one-3d-printer-lineup-with-new-hardware-and-upgrade-paths-253981/"
+        }
+      ]
+    },
+    {
+      "title": "Formlabs 董事會大重組，前 Apple 硬件副總裁 Dan Riccio 加盟",
+      "category": "產業",
+      "summary": "專業級 SLA 與 SLS 3D 列印系統供應商 Formlabs 宣佈任命前 Apple 硬件工程高級副總裁 Dan Riccio 擔任戰略顧問及投資者。此消息伴隨公司董事會的全面重組，包括任命新主席與新總裁，而聯合創辦人 Natan Linder 則在任職 15 年後離任。",
+      "why_it_matters": "前 Apple 高層加入 Formlabs 戰略層面，預示著該公司可能在消費級與工業級硬件設計及量產供應鏈上迎來重大變革。",
+      "tags": [
+        "Formlabs",
+        "SLA",
+        "SLS",
+        "人事變動",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/formlabs-overhauls-board-riccio-joins-as-linder-steps-down-after-15-years-253870/"
+        }
+      ]
+    },
+    {
+      "title": "西班牙醫院完成全球首宗個人化超材料骨骼假體植入手術",
+      "category": "醫療",
+      "summary": "馬德里 Gregorio Marañón 醫院的高級規劃與 3D 製造單元（UPAM3D）成功設計、製造並植入全球首個個人化超材料（Metamaterial）骨骼假體。患者為一名 38 歲脛骨高級別骨肉瘤患者，在手術近一年後復原狀況良好。",
+      "why_it_matters": "展示了 3D 列印超材料在複雜骨科重構中的巨大潛力，能精準匹配人體骨骼力學性能並促進復原。",
+      "tags": [
+        "醫療應用",
+        "超材料",
+        "骨骼假體",
+        "3D列印醫療"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/gregorio-maranon-hospital-implants-worlds-first-personalized-metamaterial-bone-prosthesis-253969/"
+        }
+      ]
+    },
+    {
+      "title": "澳洲 Fusetec 與阿德萊德大學展開 80 萬美元項目，研發仿生牙科 3D 列印模型",
+      "category": "科研",
+      "summary": "澳洲醫療訓練設備公司 Fusetec、阿德萊德大學及增材製造合作研究中心（AMCRC）合作啟動一項為期 18 個月、價值 80 萬美元的研究項目。該項目旨在開發新一代仿生牙科訓練模型，能在受力時模擬真實牙齒、頜骨和軟組織的機械反應。",
+      "why_it_matters": "提升牙科手術模擬的真實感，有助於大幅改善外科醫生的培訓質量與手術安全性。",
+      "tags": [
+        "牙科",
+        "仿生材料",
+        "醫療培訓",
+        "科研合作"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/fusetec-and-adelaide-university-announce-800000-project-to-3d-print-dental-models-that-respond-like-real-tissue-253939/"
+        }
+      ]
+    },
+    {
+      "title": "Amaero 擴建美國金屬粉末產能，強化航天與國防供應鏈",
+      "category": "材料",
+      "summary": "為滿足美國金屬增材製造的需求，Amaero 正在田納西州麥克唐納的製造基地擴建鈦合金及難熔合金粉末產能。這些高階金屬材料主要用於國防、航空及航天等極端高溫高壓環境。",
+      "why_it_matters": "在本土建立穩定的金屬粉末供應鏈，可降低對外國材料依賴並保障國防航天關鍵零件的生產。",
+      "tags": [
+        "金屬3D列印",
+        "金屬粉末",
+        "航天",
+        "國防",
+        "供應鏈"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330970/amaero-builds-u-s-metal-powder-capacity-for-additive-manufacturing/"
+        }
+      ]
+    },
+    {
+      "title": "藝術團隊使用 14 台 Bambu Lab 3D 列印機重現 1.66 億年前斑龍骨架",
+      "category": "應用",
+      "summary": "英國藝術家 Jay Jay Burridge 的 Future Fossils 工作室與 Printpool 合作，利用 14 台 Bambu Lab 桌面級 3D 列印機歷時七週製作出多具 9 米長的巨型斑龍（Megalosaurus）骨骼模型。該批作品目前正在英國布倫海姆宮（Blenheim Palace）的展覽中展出。",
+      "why_it_matters": "證明桌面級 FDM 3D 列印機能以高效率及低成本完成大型博物館級藝術與展覽裝置製作。",
+      "tags": [
+        "Bambu Lab",
+        "FDM",
+        "藝術裝置",
+        "大型3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331058/9-metre-dinosaurs-3d-printed-and-unleashed-at-blenheim-palace/"
+        }
+      ]
+    },
+    {
+      "title": "尼康（Nikon）深化增材製造佈局，聚焦太空軌道零件 3D 列印",
+      "category": "產業",
+      "summary": "Nikon Advanced Manufacturing 表示增材製造（AM）將成為未來商業太空站的關鍵技術。公司認為在軌道上直接 3D 列印替換零件、專用工具甚至大型結構，能大幅減少從地球發射物資的昂貴成本。",
+      "why_it_matters": "光學與精密製造巨頭 Nikon 正積極推進太空增材製造應用，推動軌道維修與製造商業化。",
+      "tags": [
+        "Nikon",
+        "太空製造",
+        "軌道3D列印",
+        "增材製造"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330208/nikon-advanced-manufacturing-looks-to-the-next-frontier-for-am-space/"
+        }
+      ]
+    },
+    {
+      "title": "由 BASF 分拆出的長絲製造商 Bedrock 3D 獲 819 Capital 投資",
+      "category": "產業",
+      "summary": "荷蘭 3D 列印耗材製造商 Bedrock 3D（前身為 Innofil3D 及 Forward AM Technologies Netherlands）宣佈獲得 819 Capital 的戰略投資。該公司自 BASF 分拆後重新獨立營運，將繼續專注於高品質 FDM 耗材的研發與生產。",
+      "why_it_matters": "獲得資金注入將有助這家傳統耗材龍頭在脫離 BASF 後穩定經營，並推動新型耗材研發。",
+      "tags": [
+        "Bedrock 3D",
+        "BASF",
+        "3D列印耗材",
+        "投融資"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330832/bedrock-3d-gets-investment-from-819-capital/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 11
+}
