@@ -1,0 +1,160 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-25",
+  "generated_at": "2026-08-24T23:55:13.138Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 | 2026年8月25日",
+  "summary": "今日重點報導加州大學伯克利分校推出可家用 3D 列印的開源人形機器人項目，以及藝術團隊利用 14 台 Bambu Lab 列印機製作 9 米長巨型恐龍骨架展品。此外還涵蓋桌面級五軸列印機創業項目、無重力矽膠列印技術，以及冷噴塗技術在國防與航天領域的最新應用。",
+  "items": [
+    {
+      "title": "伯克利開源人形機器人 Berkeley Humanoid Lite 支持家用 3D 列印",
+      "category": "開源",
+      "summary": "加州大學伯克利分校團隊發表開源人形機器人項目 Berkeley Humanoid Lite，旨在降低機器人研發門檻。機器人大量組件可直接透過家用 3D 列印機製作，整體物料清單（BOM）成本控制在約 5,000 美元左右，並全部採用標準市售零部件。",
+      "why_it_matters": "降低了人形機器人硬件研發的經濟與製作門檻，讓 Maker 與科研團隊能利用桌面級 3D 列印機低成本構建機器人平台。",
+      "tags": [
+        "開源機器人",
+        "Berkeley",
+        "3D列印組件",
+        "Maker"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330955/berkeley-humanoid-lite-and-the-open-source-robotics-revolution/"
+        }
+      ]
+    },
+    {
+      "title": "藝術團隊利用 14 台 Bambu Lab 列印機打造 9 米長古生物恐龍骨架",
+      "category": "應用",
+      "summary": "英國藝術家 Jay Jay Burridge 的 Future Fossils 工作室與 3D 列印服務商 Printpool 合作，利用 14 台 Bambu Lab 桌面級 3D 列印機，歷時七星期印製出古生物斑龍（Megalosaurus）的骨骼組件。該項目最終拼裝成五座長達 9 米的巨型骨架，目前正在英國布倫海姆宮展出。",
+      "why_it_matters": "展示了多台桌面級 3D 列印機進行小型農場化量產，在大型公共藝術與博物館展品製作中的高效率與實用價值。",
+      "tags": [
+        "Bambu Lab",
+        "桌面級列印機",
+        "大型展品",
+        "藝術應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331058/9-metre-dinosaurs-3d-printed-and-unleashed-at-blenheim-palace/"
+        }
+      ]
+    },
+    {
+      "title": "學生創業團隊 Unlayered 3D 研發桌面級五軸 3D 列印機",
+      "category": "硬件",
+      "summary": "初創企業 Unlayered 3D 由兩位大學生創辦，致力於開發桌面級五軸 3D 列印機。創辦人最初因需要低成本少量生產機器人零件而投入 3D 列印領域，隨後著手研發具備多軸聯動功能的桌面設備，以突破傳統三軸列印在無結構支撐及強度上的限制。",
+      "why_it_matters": "桌面級五軸列印技術有望減少支撐結構使用並優化複雜零件的纖維方向與強度，為小型工作室提供更高自由度的製造能力。",
+      "tags": [
+        "Unlayered 3D",
+        "五軸列印",
+        "桌面級列印機",
+        "硬件創新"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331013/founded-after-class-unlayered-3d-co-founders-philip-pounds-alex-stedman-on-starting-a-5-axis-desktop-oem-in-college/"
+        }
+      ]
+    },
+    {
+      "title": "Rapid Liquid Print 研發水凝膠無重力矽膠列印技術",
+      "category": "材料",
+      "summary": "Rapid Liquid Print（RLP）創辦人分享其獨特的 3D 列印技術，將液態矽膠直接擠出至水凝膠介質中進行固化。這種「無重力」列印方式能擺脫傳統層疊沉積與支撐結構的限制，快速製造純矽膠材質的醫療器件及工業部件。",
+      "why_it_matters": "突破了軟質矽膠材料難以快速精確 3D 列印的瓶頸，拓展了醫療設備與彈性體工業件的設計自由度。",
+      "tags": [
+        "Rapid Liquid Print",
+        "矽膠列印",
+        "水凝膠",
+        "醫療應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330684/3dpod-312-rlps-gravity-free-silicone-manufacturing-with-schendy-kernizan/"
+        }
+      ]
+    },
+    {
+      "title": "Titomic 完成 EOS Defense 國防組件冷噴塗 3D 列印訂單",
+      "category": "產業",
+      "summary": "澳洲冷噴塗增材製造廠商 Titomic 美國分公司宣佈完成來自 EOS Defense Systems 的生產訂單，利用冷噴塗技術為國防裝備提供快速製造組件。同時，業界亦正探討高分子材料於 CubeSat 立方體衛星及動物殘障輔具等領域的 3D 列印應用。",
+      "why_it_matters": "反映出金屬冷噴塗增材製造在國防供應鏈快速響應中的關鍵作用，以及高分子 3D 列印在航天微型衛星上的持續滲透。",
+      "tags": [
+        "Titomic",
+        "冷噴塗",
+        "國防製造",
+        "CubeSat"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331035/3d-printing-news-briefs-8-22-2026/"
+        }
+      ]
+    },
+    {
+      "title": "第十屆增材製造戰略大會（AMS X）將於紐約聚焦 3D 列印商業化",
+      "category": "產業",
+      "summary": "第十屆 Additive Manufacturing Strategies（AMS X）大會宣佈將於 2027 年 2 月在紐約舉行。本屆研討會將著重探討 3D 列印行業的盈利能力、企業整合、國防開支、供應鏈穩定性及大規模量產等商業議題。",
+      "why_it_matters": "凸顯 3D 列印產業正從單純的技術研發轉向關注企業盈利、供應鏈整合與大規模工業化應用的商業成熟期。",
+      "tags": [
+        "AMS X",
+        "展會",
+        "產業整合",
+        "商業化"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331090/ams-x-puts-3d-printing-business-center-stage-registration-prices-increase-august-26/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 415"
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 6
+}
