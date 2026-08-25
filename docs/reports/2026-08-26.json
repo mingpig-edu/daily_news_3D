@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-26",
+  "generated_at": "2026-08-25T23:58:43.386Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-08-26)",
+  "summary": "今日焦點涵蓋 ATLANT 3D 推出應用於半導體與 AI 領域的原子級工業製造系統，HexPEKK 發布關鍵航天結構認證數據，以及德國 Malping 拓展 PEEK 等高性能 FGF 增材製造服務。此外，開源人形機器人 Berkeley Humanoid Lite 與 Bambu Lab 巨型恐龍骨架列印展覽亦展示了 3D 列印從科研到大型應用的多元發展。",
+  "items": [
+    {
+      "title": "ATLANT 3D 推出 NANOFABRICATOR PRO 原子級積層製造系統",
+      "category": "硬件",
+      "summary": "ATLANT 3D 正式推出名為 NANOFABRICATOR PRO 的工業級製造系統，致力將其獨特的原子級積層製造（AM）技術推進至半導體、AI 材料研究以及先進電子領域。該公司目前正於美國建廠並在亞洲設立材料研發中心，近期更獲得未具名全球 AI 超大型雲端服務商（Hyperscaler）的訂單。其技術不同於傳統 FDM 塑膠或金屬粉末列印，專注於極微細尺度的精密製造。",
+      "why_it_matters": "象徵增材製造技術突破微觀極限，正加速切入高階晶片與先進半導體製造供應鏈。",
+      "tags": [
+        "ATLANT 3D",
+        "半導體",
+        "原子級製造",
+        "NANOFABRICATOR PRO",
+        "工業級AM"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331131/atlant-3d-scales-atomic-level-additive-manufacturing-for-chips-and-ai/"
+        }
+      ]
+    },
+    {
+      "title": "HexPEKK 獲 NCAMP 認證數據 推進航天級結構增材製造",
+      "category": "材料",
+      "summary": "航天級高性能材料 HexPEKK® 正式發布經獨立開發的 NCAMP 認證數據與 B-basis 設計容許值。長期以來，聚合物增材製造應用於飛機結構的核心挑戰在於證明材料能穩定符合航空生產規範，而非單純的零件幾何成形。具有公信力的合格材料數據將為結構工程師提供實質依據。",
+      "why_it_matters": "標準化合格數據的公布大幅降低航天結構件採用 3D 列印聚合物的驗證門檻。",
+      "tags": [
+        "HexPEKK",
+        "航天應用",
+        "NCAMP認證",
+        "PEKK",
+        "高性能材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331149/when-data-becomes-the-differentiator/"
+        }
+      ]
+    },
+    {
+      "title": "德國 Malping 拓展 PEEK 與 ULTEM 高性能 FGF 列印服務",
+      "category": "材料",
+      "summary": "位於德國的增材製造服務商 Malping 正擴展其高溫材料擠出業務，採用顆粒擠出（FGF）與 FDM 高溫列印機提供工業零件代工與諮詢。該公司現已支援 PPS-GF20、PEKK、PEEK 及 ULTEM 9085 等高性能材料，目標鎖定醫療與電子產業客戶。創辦人強調其服務重點在於協助客戶根據實際功能需求挑選最適材料。",
+      "why_it_matters": "顆粒擠出（FGF）高溫材料服務有助於降低 PEEK 等工程塑膠的量產與打樣成本。",
+      "tags": [
+        "FGF",
+        "PEEK",
+        "ULTEM",
+        "Malping",
+        "高性能材料",
+        "工程塑膠"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330834/malping-wants-to-do-fgf-peek-as-a-service/"
+        }
+      ]
+    },
+    {
+      "title": "南韓 Lincsolution 設立國防增材製造中心應對地緣貿易局勢",
+      "category": "產業",
+      "summary": "南韓 3D 列印廠商 Lincsolution 宣布成立國防增材製造中心。隨著先進製造技術於各國軍事訓練與後勤支援中扮演愈發關鍵的角色，增材製造正逐步成為國防供應鏈在地化與戰備應急的核心技術手段。",
+      "why_it_matters": "反映 3D 列印技術在全球地緣政治與國防自主供應鏈中具備戰略性地位。",
+      "tags": [
+        "Lincsolution",
+        "國防製造",
+        "軍事應用",
+        "南韓",
+        "供應鏈"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331100/south-koreas-lincsolution-announces-am-defense-hub-as-nation-is-caught-in-us-china-trade-war/"
+        }
+      ]
+    },
+    {
+      "title": "開源人形機器人 Berkeley Humanoid Lite 大量採用 3D 列印組件",
+      "category": "開源",
+      "summary": "加州大學柏克萊分校團隊開發的 Berkeley Humanoid Lite 開源人形機器人引起廣泛關注。該項目大幅簡化了人形機器人的製造門檻，其大量零件可透過家用 3D 列印機製作，搭配網購標準零件即可組裝，整體物料清單（BOM）成本約為 5,000 美元。",
+      "why_it_matters": "結合桌面 3D 列印與開源設計，大幅降低了學術界與創客社群研發人形機器人的硬體成本。",
+      "tags": [
+        "開源硬體",
+        "機器人",
+        "Berkeley",
+        "桌面3D列印",
+        "創客"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330955/berkeley-humanoid-lite-and-the-open-source-robotics-revolution/"
+        }
+      ]
+    },
+    {
+      "title": "英國藝術團隊運用 14 部 Bambu Lab 印表機重現 9 米恐龍骨架",
+      "category": "應用",
+      "summary": "英國布倫亨宮（Blenheim Palace）近日展出名為《Dinosaurs Are Forever》的戶外大型藝術展，當中包含五具長達 9 米的巨齒龍骨架。英國藝術家 Jay Jay Burridge 與 Printpool 合作，動用 14 部 Bambu Lab 桌面 3D 列印機耗時 7 週完成所有恐龍骨骼列印，取代傳統手工雕刻與繁複模具工序。",
+      "why_it_matters": "展示了桌面級印表機叢集（Print Farm）在大型藝術裝置與展品製作中的高效率量產潛力。",
+      "tags": [
+        "Bambu Lab",
+        "桌面3D列印",
+        "藝術展覽",
+        "大型列印",
+        "Print Farm"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331058/9-metre-dinosaurs-3d-printed-and-unleashed-at-blenheim-palace/"
+        }
+      ]
+    },
+    {
+      "title": "初創團隊 Unlayered 3D 開發桌面級五軸 3D 列印機",
+      "category": "硬件",
+      "summary": "由 Philip Pounds 與 Alex Stedman 創立的 Unlayered 3D 團隊分享其在大學期間創立五軸桌面 3D 列印機 OEM 的歷程。創辦人最初因需要小批量生產機器人零件而投入 3D 列印領域，隨後著手開發具備多軸聯動能力的桌面級列印系統以突破傳統三軸列印的支撐限制。",
+      "why_it_matters": "多軸桌面 3D 列印技術有望改善無支撐列印品質並增強複雜幾何結構的強度。",
+      "tags": [
+        "Unlayered 3D",
+        "五軸列印",
+        "多軸3D列印",
+        "硬件開發",
+        "創客"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331013/founded-after-class-unlayered-3d-co-founders-philip-pounds-alex-stedman-on-starting-a-5-axis-desktop-oem-in-college/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": false,
+      "items": 0,
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 12
+}
