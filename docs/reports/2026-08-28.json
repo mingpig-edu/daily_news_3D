@@ -1,0 +1,198 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T06:10:54.966Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：HeyGears 全彩光固化機集資破記錄、先臨三維發表無標記點掃描器",
+  "summary": "本日情報重點關注 HeyGears 全彩桌面光固化列印機於 Kickstarter 突破 1,400 萬美元集資、先臨三維推出免貼標記點的 3D 掃描儀，以及 Hi3D 推出 2048³ 高解像度 AI 3D 建模工具。此外，亦涵蓋開源凝膠懸浮列印、紐約大學 3D 列印醫療支架與 Reebok 經典波鞋重塑等應用進展。",
+  "items": [
+    {
+      "title": "HeyGears G1 於 Kickstarter 籌款突破 1,400 萬美元",
+      "category": "硬件",
+      "summary": "HeyGears 推出的 G1 桌面級全彩光固化 3D 列印機在 Kickstarter 上的集資金額突破 1,400 萬美元，獲得超過 3,400 名支持者參與。該設備結合桌面 UV 列印與光固化技術，成為該平台歷史上集資金額最高的項目之一。",
+      "why_it_matters": "反映市場對桌面級全彩樹脂 3D 列印技術有極高需求，有望帶動消費級光固化設備的技術革新。",
+      "tags": [
+        "HeyGears",
+        "光固化",
+        "全彩列印",
+        "Kickstarter",
+        "3D列印機"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331287/heygears-raises-over-14-million-for-destkop-uv-color-vat-polymerization-system/"
+        }
+      ]
+    },
+    {
+      "title": "先臨三維推出 EinScan Trak 3D 掃描儀 免貼反射標記點",
+      "category": "硬件",
+      "summary": "先臨三維（SHINING 3D）發表全新的 EinScan Trak 3D 掃描儀，解決傳統掃描需要手動黏貼反射標記點的痛點。此技術能直接進行高精度掃描，特別適合古董車修復或博物館文物等禁止接觸表面的物件。",
+      "why_it_matters": "大幅簡化複雜物件掃描的前置工序，顯著提升工業逆向工程與文物數位化的工作效率。",
+      "tags": [
+        "SHINING 3D",
+        "3D掃描",
+        "EinScan Trak",
+        "逆向工程"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/trak-in-markers-out-with-shining-3ds-new-einscan-trak-3d-scanner-254184/"
+        }
+      ]
+    },
+    {
+      "title": "Hi3D 發佈 V3.0 AI 建模平台 解像度達 2048³ Voxel",
+      "category": "軟件",
+      "summary": "基於 Sparc3D 引擎的網頁版 AI 3D 生成平台 Hi3D 推出 V3.0 版本，官方指這是首款商業化並達到 2048³ 體素（Voxel）解像度的 AI 模型。更新重點包含幾何細節表現、結構精準度以及 PBR 紋理材質輸出品質的升級。",
+      "why_it_matters": "顯著提升由 AI 直接生成 3D 模型結構與紋理的精細度，縮短設計師從概念到可列印模型的準備時間。",
+      "tags": [
+        "Hi3D",
+        "AI建模",
+        "3D軟件",
+        "Voxel"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hi3d-launches-ai-3d-model-with-2048%c2%b3-voxel-resolution-254150/"
+        }
+      ]
+    },
+    {
+      "title": "創客利用凝膠懸浮技術成功 3D 列印環氧 resin 船仔",
+      "category": "開源",
+      "summary": "Riley's Lab 打造了一款懸浮 3D 列印機，並搭配自製的 3D 列印針筒泵，成功在剪切稀化支撐凝膠浴中列印矽膠與環氧樹脂模型。此技術讓液體在未固化前保持形狀，突破了傳統擠出式列印對熔點與流動性的限制。",
+      "why_it_matters": "證明 Maker 可以透過開源硬件與凝膠支撐技術，低成本地列印傳統難以成型的液態高分子材料。",
+      "tags": [
+        "開源硬件",
+        "嵌入式3D列印",
+        "環氧樹脂",
+        "Maker",
+        "Benchy"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/27/support-bath-enables-an-epoxy-benchy/"
+        }
+      ]
+    },
+    {
+      "title": "ATLANT 3D 推出 NANOFABRICATOR PRO 平台 物理驗證 AI 設計材料",
+      "category": "科研",
+      "summary": "哥本哈根新創公司 ATLANT 3D 發佈 NANOFABRICATOR PRO 系統，將 AI 材料發現與原子級微納製造及實驗驗證直接連結。該平台填補了當前 AI 能夠預測新材料，但缺乏快速物理製作原型與測試手段的研發缺口。",
+      "why_it_matters": "將 AI 材料預測與實物製造無縫結合，有助大幅縮短先進材料與微型器件的研發週期。",
+      "tags": [
+        "ATLANT 3D",
+        "AI材料",
+        "微納製造",
+        "材料科學"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/atlant-3d-launches-new-platform-to-physically-validate-ai-designed-materials-254138/"
+        }
+      ]
+    },
+    {
+      "title": "紐約大學研發百合花造型 3D 列印支架 改善減重手術併發症",
+      "category": "醫療",
+      "summary": "紐約大學研究團隊開發出一款新型 3D 列印醫療支架，原型呈現百合花形狀，專為減重手術後出現胃滲漏併發症的患者設計。與傳統管狀支架相比，該結構能更有效引流體液並促進患者傷口癒合。",
+      "why_it_matters": "展示了 3D 列印突破傳統醫療器材幾何形狀限制、實現個性化與高功能性植入物的應用潛力。",
+      "tags": [
+        "醫療應用",
+        "3D列印支架",
+        "紐約大學",
+        "生物醫療"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331104/the-business-case-for-3d-printed-stents/"
+        }
+      ]
+    },
+    {
+      "title": "Reebok 夥拍 Zellerfeld 以 3D 列印重現 90 年代經典波鞋",
+      "category": "應用",
+      "summary": "運動品牌 Reebok 聯同前 NBA 球星 Allen Iverson 及 3D 列印鞋履公司 Zellerfeld，利用 3D 列印技術重塑了 1996 年推出的經典波鞋「The Question」，將經典復古造型轉化為全 3D 列印鞋款。",
+      "why_it_matters": "顯示國際知名鞋履品牌持續利用 3D 列印技術實現經典產品的數字化重塑與客製化生產。",
+      "tags": [
+        "Reebok",
+        "Zellerfeld",
+        "鞋履製造",
+        "時尚應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/allen-iverson-reebok-bring-back-90s-sneaker-with-3d-printed-remake-254141/"
+        }
+      ]
+    },
+    {
+      "title": "Phase3D 獲美國空軍合約 將實時檢測技術擴展至陶瓷基複合材料",
+      "category": "產業",
+      "summary": "3D 列印品質監控軟件開發商 Phase3D 獲得美國空軍合約，將其用於金屬增材製造的實時原位干涉檢測（Fringe Inspection）平台擴展至陶瓷基複合材料（CMC），以支援極速推進與高溫防護計畫。",
+      "why_it_matters": "有助提升高溫與極端環境下使用的陶瓷增材製造部件之實時品質監控與可靠性。",
+      "tags": [
+        "Phase3D",
+        "品質監控",
+        "陶瓷基複合材料",
+        "航天軍工"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/phase3d-wins-air-force-contract-to-adapt-fringe-inspection-to-cmcs-254134/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 23
+}
