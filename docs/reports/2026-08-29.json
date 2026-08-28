@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-29",
+  "generated_at": "2026-08-28T23:20:36.306Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-08-29",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（Unterminated string in JSON at position 2685 (line 1 column 2686)）。",
+  "items": [
+    {
+      "title": "Casting Engine Parts from 3D Prints",
+      "category": "材料",
+      "summary": "After building a couple of internal combustion engines by milling billet aluminium stock and cringing at the absolute waste of material this created, [Camden Bowen] figured he’d give casting metal parts a shot . Of course, the key here is to create the molds for said casting, whi",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/28/casting-engine-parts-from-3d-prints/"
+        }
+      ]
+    },
+    {
+      "title": "3D Printing Financials: Aerospace and Defense Help Materialise Manufacturing Rebound",
+      "category": "材料",
+      "summary": "Materialise (Nasdaq: MTLS ) grew revenue and profit in the second quarter of 2026, as its Medical business continued to expand, and stronger aerospace and defense demand helped its Manufacturing segment return to growth. The Belgian 3D printing company reported second-quarter rev",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331416/3d-printing-financials-aerospace-and-defense-help-materialise-manufacturing-rebound/"
+        }
+      ]
+    },
+    {
+      "title": "Phillips Federal Becomes Exclusive Phase3D Reseller for North American Defense Market",
+      "category": "軟件／開源",
+      "summary": "Phase3D is demonstrating a unique combination of technical maturation via intensive R&D, and commercialization through broadening its accessibility to potential users. Just last week, the company received an Air Force contract to explore use of its in-situ monitoring (ISM) hardwa",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331376/phillips-federal-becomes-exclusive-phase3d-reseller-for-north-american-defense-market/"
+        }
+      ]
+    },
+    {
+      "title": "UMaine to Build Up to Nine 3D Printed Homes as It Scales BioHome3D Technology",
+      "category": "應用／科研",
+      "summary": "The University of Maine’s Advanced Structures and Composites Center (UMaine ASCC) is partnering with Maine nonprofit Penquis to produce up to nine 3D printed homes in the Greater Bangor area, marking the university’s first move from a single demonstration house toward a repeatabl",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/umaine-to-build-up-to-nine-3d-printed-homes-as-it-scales-biohome3d-technology-254215/"
+        }
+      ]
+    },
+    {
+      "title": "Bioprinting and Smart Sensors Converge in New RIT Prosthetic Prototype",
+      "category": "材料",
+      "summary": "Researchers at Rochester Institute of Technology (RIT) have developed a new approach to finger and hand prosthetics that integrates four previously separate disciplines, hybrid materials, bioprinting, smart sensors and mechanical design, into a single customizable device. The wor",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bioprinting-and-smart-sensors-converge-in-new-rit-prosthetic-prototype-254211/"
+        }
+      ]
+    },
+    {
+      "title": "Czinger’s 21C Spyder Puts 3D Printing at the Center of a $2.75M Hypercar",
+      "category": "硬件／產業",
+      "summary": "Czinger Vehicles has unveiled the 21C Spyder, an open-top variant of its 21C hypercar built with heavier use of 3D printing than any previous version. Priced from $2.75 million and limited to 30 units, the Spyder is 23% additively manufactured by Czinger’s count, using processes ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/czingers-21c-spyder-puts-3d-printing-at-the-center-of-a-2-75m-hypercar-254220/"
+        }
+      ]
+    },
+    {
+      "title": "Lufthansa Technik Uses 3D Printed Titanium Latch for Aircraft MRO",
+      "category": "材料",
+      "summary": "Maintenance and interiors aircraft giant Lufthansa Technik is exploring 3D printing at greater depths, hoping to take its customers to the heights they’re accustomed to. A team at Lufthansa Technik made a titanium LPBF latch to replace a damaged polymer one. Usually, in 3D printe",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331187/lufthansa-technik-uses-3d-printed-latch/"
+        }
+      ]
+    },
+    {
+      "title": "Researchers develop architected TPMS membranes for biohybrid artificial lungs",
+      "category": "材料",
+      "summary": "A research team from Hannover Medical School, RWTH Aachen University, Technical University Darmstadt and the University of Twente has developed an additive manufacturing-based design framework for artificial lungs that uses triply periodic minimal surface (TPMS) membranes in plac",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/researchers-develop-architected-tpms-membranes-for-biohybrid-artificial-lungs-254178/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
