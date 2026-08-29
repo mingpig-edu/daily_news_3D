@@ -1,0 +1,198 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-30",
+  "generated_at": "2026-08-29T23:20:29.994Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-08-30)",
+  "summary": "今日焦點涵蓋國防與工業前沿應用的重大推進，包括美國海軍簡化潛艇金屬增材製造認證規範、美軍完成艦上海上冷噴塗金屬列印測試，以及橡樹嶺國家實驗室混合工藝製造核反應爐部件。消費級市場方面，HeyGears 全彩光固化新機募資突破 1,400 萬美元，創想三維公布上半年業績並規劃興建新總部；科研領域亦有 NASA 資助的酵母轉化塑膠食品列印突破。",
+  "items": [
+    {
+      "title": "美國海軍發布新技術規範 加速潛艇金屬 3D 列印零件導入",
+      "category": "產業",
+      "summary": "美國海軍發布了最新的專案特定文件（PPD）技術要求，旨在消除金屬 3D 列印技術在潛艇製造、維修與保養中的行政及工程審批障礙。這項新路徑將大幅縮短以金屬增材製造替換老舊傳統零部件的流程，提升整體潛艇產能與供應鏈韌性。",
+      "why_it_matters": "降低關鍵軍備零件的認證門檻，標誌著金屬增材製造在高端海事與國防重工業的規模化應用邁向成熟期。",
+      "tags": [
+        "金屬3D列印",
+        "美國海軍",
+        "潛艇製造",
+        "國防供應鏈"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/navy-fast-tracks-3d-printed-parts-to-boost-submarine-production-254114/"
+        }
+      ]
+    },
+    {
+      "title": "橡樹嶺國家實驗室研發混合工藝 成功 3D 列印無洩漏核反應爐組件",
+      "category": "科研",
+      "summary": "橡樹嶺國家實驗室（ORNL）與 A.J. Tuck Company 合作開發了一種結合 3D 列印、電鑄成形與熱等靜壓（HIP）的混合製造工藝。該技術利用 3D 列印芯軸成功製成滿足核能嚴格標準的無洩漏容器，可用於先進核反應爐的關鍵組件製造。",
+      "why_it_matters": "此混合工藝免去了過往高度依賴海外大型鍛造產能的關鍵步驟，為先進核能製造自主化提供突破性方案。",
+      "tags": [
+        "橡樹嶺國家實驗室",
+        "混合製造",
+        "核反應爐",
+        "電鑄成形"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/new-hybrid-process-turns-3d-printed-mandrel-into-leak-free-nuclear-components-254206/"
+        }
+      ]
+    },
+    {
+      "title": "HeyGears G1 全彩光固化 3D 列印機眾籌突破 1,400 萬美元",
+      "category": "硬件",
+      "summary": "專注於光聚合技術的 HeyGears 在 Kickstarter 推出全新桌面級全彩 3D 列印機 G1，結合桌面 UV 技術與光固化系統。截至目前該專案已獲得超過 3,400 名贊助者支持，集資金額突破 1,460 萬美元，成為該平台歷來最高募資額的專案之一。",
+      "why_it_matters": "全彩光固化技術進入消費與創作者市場引發強烈反響，顯示桌面級 3D 列印市場對高精度彩色一體成型方案的龐大需求。",
+      "tags": [
+        "HeyGears",
+        "光固化",
+        "全彩3D列印",
+        "Kickstarter"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331287/heygears-raises-over-14-million-for-destkop-uv-color-vat-polymerization-system/"
+        }
+      ]
+    },
+    {
+      "title": "創想三維 Creality 上半年營收增長但錄得虧損 擬斥資 8,000 萬美元建新總部",
+      "category": "產業",
+      "summary": "3D 列印品牌創想三維（Creality）公布 2026 年上半年財報，營收達 16.3 億元人民幣，按年增長 12.9%，但因毛利下降與開支增加而錄得淨虧損。同時，這家新上市公司宣布計劃在深圳投資約 8,000 萬美元興建全新的增材製造總部與創新中心。",
+      "why_it_matters": "反映消費級 3D 列印硬件競爭日趨激烈導致利潤收窄，但龍頭廠商仍持續加大在研發與基建設施的長期資本投放。",
+      "tags": [
+        "Creality",
+        "創想三維",
+        "消費級3D列印",
+        "財報"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331409/3d-printing-financials-creality-posts-h1-loss-plans-80m-am-headquarters/"
+        }
+      ]
+    },
+    {
+      "title": "航空航天製造商 Ursa Major 擬透過 23 億美元 SPAC 合併上市",
+      "category": "產業",
+      "summary": "深度採用增材製造技術的航空航天與國防製造商 Ursa Major 宣布將與特殊目的收購公司 Bleichroeder Acquisition Corp. III 合併上市，交易估值約 23 億美元。合併後的新實體預計將在納斯達克掛牌交易，專注於推進火箭推進系統製造。",
+      "why_it_matters": "大規模資本進駐 3D 列印火箭推進領域，將顯著加速航天動力系統的規模化生產與交付週期。",
+      "tags": [
+        "Ursa Major",
+        "SPAC",
+        "航天製造",
+        "火箭發動機"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ursa-major-to-go-public-in-2-3bn-spac-deal-with-inflection-point-254263/"
+        }
+      ]
+    },
+    {
+      "title": "美軍於 2026 環太軍演完成首次艦上冷噴塗金屬 3D 列印測試",
+      "category": "應用",
+      "summary": "美軍聯合團隊在 2026 年環太平洋軍演（RIMPAC）期間，於加拿大補給艦 MV Asterix 上部署了 SPEE3D 冷噴塗金屬 3D 列印系統。這是該技術首次在海上環境實際部署，旨在驗證艦艇在航行現場即時製造關鍵任務備件的可行性。",
+      "why_it_matters": "實踐了前線點對點按需製造的概念，有望大幅降低遠洋作戰對傳統漫長後勤補給鏈的依賴。",
+      "tags": [
+        "SPEE3D",
+        "冷噴塗",
+        "金屬3D列印",
+        "RIMPAC",
+        "國防製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/us-joint-effort-tests-at-sea-metal-3d-printing-rimpac-2026-254255/"
+        }
+      ]
+    },
+    {
+      "title": "研究團隊利用基因改造酵母將塑膠廢料轉化為 3D 列印太空食品",
+      "category": "科研",
+      "summary": "南伊利諾大學卡本代爾分校（SIU）的研究團隊開發出一種新方法，利用基因改造酵母將塑膠與農業廢棄物降解轉化為食用生物質，並透過 3D 列印機擠出製成高蛋白餅乾。該研究獲得 NASA 深空食品挑戰賽的資助並發表於學術會議。",
+      "why_it_matters": "展示了將長途太空任務產生的塑膠廢料就地循環轉化為即時食物的潛力，為深空資源閉環利用開闢新途徑。",
+      "tags": [
+        "NASA",
+        "食品列印",
+        "廢料回收",
+        "生物技術",
+        "太空探索"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/engineered-yeast-turns-plastic-waste-into-3d-printed-food-for-space-missions-254265/"
+        }
+      ]
+    },
+    {
+      "title": "開源創客巧思：耗材不足 70 克的全 3D 列印 PCB 焊接夾具",
+      "category": "開源",
+      "summary": "創客 Chefkoch 設計了一款完全不需額外金屬五金件的 3D 列印 PCB 焊接工作夾具，耗材用量低於 70 克，極適合清理剩餘線材。該設計巧妙地將焊錫線軸作為夾具配重以提升整體穩定性，並支援夾爪水平或垂直方向的快速調整。",
+      "why_it_matters": "展現了利用純 3D 列印機構設計解決實用工器具需求的精巧思維，同時提供了解決零碎剩料的高效方案。",
+      "tags": [
+        "Maker",
+        "開源設計",
+        "PCB工具",
+        "機構設計"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/29/compact-pcb-vise-uses-up-that-leftover-filament/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
