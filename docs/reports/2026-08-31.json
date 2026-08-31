@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T01:22:42.523Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 | 2026-08-31",
+  "summary": "本期情報涵蓋 Creality 財報與深圳新總部規劃、加州伯克利開源 3D 列印人形機器人致動器、美國海軍及國防前線對金屬 3D 列印的加速應用，以及結合雷射平滑、AI 控制 WAAM 與基因工程太空食品等前沿技術創新。",
+  "items": [
+    {
+      "title": "Creality 發佈上半年財報：營收增長但錄得虧損，擬投資 8,000 萬美元建深圳總部",
+      "category": "產業",
+      "summary": "消費級 3D 列印龍頭 Creality（創想三維）公佈 2026 上半年財報，營收達 16.3 億元人民幣，按年增長 12.9%，但受利潤率下降及支出增加影響，公司錄得淨虧損。儘管面臨盈利壓力，公司仍計劃投資 8,000 萬美元於深圳建設全新增材製造總部與創新中心。",
+      "why_it_matters": "反映消費級 3D 列印市場競爭加劇導致毛利率承壓，同時顯示龍頭企業仍持續加大研發與基建投入。",
+      "tags": [
+        "Creality",
+        "創想三維",
+        "財報",
+        "消費級 3D 列印",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331409/3d-printing-financials-creality-posts-h1-loss-plans-80m-am-headquarters/"
+        }
+      ]
+    },
+    {
+      "title": "Berkeley Humanoid Lite 開源人形機器人：採用 DIY 3D 列印致動器降低成本",
+      "category": "開源",
+      "summary": "加州大學伯克利分校團隊提出 Berkeley Humanoid Lite 開源方案，旨在降低人形機器人的製作門檻與成本。該項目核心採用將馬達、3D 列印擺線減速機及嵌入式磁編碼器相結合的模組化致動器，構成機器人主體框架。相關檔案與軟體已於 GitHub 開源，方便 Maker 及研究人員自由改裝或單獨使用其致動器設計。",
+      "why_it_matters": "將 3D 列印擺線減速機融入模組化致動器，顯著降低了創客與科研人員開發人形機器人的硬件成本。",
+      "tags": [
+        "開源",
+        "人形機器人",
+        "致動器",
+        "擺線減速機",
+        "Maker"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/30/lower-cost-humanoid-robot-leverages-diy-actuators/"
+        }
+      ]
+    },
+    {
+      "title": "美國海軍發佈新技術規範 PPD，加速潛艇金屬 3D 列印零件應用",
+      "category": "產業",
+      "summary": "美國海軍正式發佈 Project Peculiar Document（PPD）新技術規範，旨在簡化行政與工程審查流程。此舉能加快金屬 3D 列印技術在潛艇建造、維修及保養中的普及速度，快速替代傳統供應鏈受阻或已停產的舊式零件。",
+      "why_it_matters": "突破了國防領域傳統製造流程的規管瓶頸，為金屬增材製造於高端軍工維修的快速調度樹立示範。",
+      "tags": [
+        "美國海軍",
+        "金屬 3D 列印",
+        "潛艇製造",
+        "國防供應鏈",
+        "PPD"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/navy-fast-tracks-3d-printed-parts-to-boost-submarine-production-254114/"
+        }
+      ]
+    },
+    {
+      "title": "美國國家實驗室合作推 AI 引導 WAAM 技術，填補核能組件製造缺口",
+      "category": "科研",
+      "summary": "橡樹嶺國家實驗室（ORNL）與愛達荷國家實驗室（INL）展開全新合作，利用人工智慧引導電弧增材製造（WAAM）技術生產工業壓力容器。該項目旨在加速關鍵核能組件的合格驗證，解決美國核能擴展過程中面臨的本土供應鏈瓶頸。",
+      "why_it_matters": "結合 AI 控制與 WAAM 大尺寸金屬列印技術，大幅縮短大型核能壓力組件的製造與認證週期。",
+      "tags": [
+        "ORNL",
+        "INL",
+        "WAAM",
+        "人工智慧",
+        "核能製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap-254123/"
+        }
+      ]
+    },
+    {
+      "title": "RIMPAC 2026 軍演展示海上金屬 3D 列印，於補給艦即時製造關鍵零件",
+      "category": "應用",
+      "summary": "在環太平洋軍演（RIMPAC 2026）期間，美軍聯合團隊於加拿大補給艦 MV Asterix 上部署了 SPEE3D 冷噴塗金屬 3D 列印系統。這是該技術首次於海上執行實地列印測試，驗證了軍艦在航行途中隨時製造任務關鍵替代零件的能力。",
+      "why_it_matters": "證實了冷噴塗金屬列印可在航行晃動等複雜海上環境下運作，開創前線戰術即時補給的新範式。",
+      "tags": [
+        "SPEE3D",
+        "冷噴塗",
+        "海上 3D 列印",
+        "RIMPAC 2026",
+        "軍用應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/us-joint-effort-tests-at-sea-metal-3d-printing-rimpac-2026-254255/"
+        }
+      ]
+    },
+    {
+      "title": "創客創新實驗：改裝二極體雷射器至 X 軸，平滑 FDM 3D 列印件表面",
+      "category": "硬件",
+      "summary": "為解決 FDM 3D 列印件明顯層紋問題，創客 [I changed a thing] 嘗試將兩組二極體雷射器掛載於印表機 X 軸上。利用雷射局部加熱熔融列印件表面或頂層，達致類似化學蒸氣平滑化的平整效果，且無須接觸危險化學溶劑。",
+      "why_it_matters": "展示了結合雷射光源與 FDM 機構進行後處理平滑化的新思路，避免了化學蒸氣處理的安全風險。",
+      "tags": [
+        "FDM",
+        "表面平滑",
+        "雷射熔融",
+        "DIY 改裝",
+        "後處理"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/08/29/laser-your-way-to-smoother-fdm-3d-prints/"
+        }
+      ]
+    },
+    {
+      "title": "南伊利諾伊大學開發基因工程酵母，將塑膠廢料轉化為 3D 列印太空食品",
+      "category": "科研",
+      "summary": "南伊利諾伊大學卡邦代爾分校研究團隊獲得 NASA 深空食品挑戰賽資助，成功利用基因重組酵母將塑膠及農業廢料轉化為可食用物質。該原料可直接透過 3D 列印機擠出成型為高蛋白質餅乾，為長途太空任務提供永續食品供給方案。",
+      "why_it_matters": "將廢棄塑膠回收與食品 3D 列印跨界結合，為極限環境下的資源循環利用與太空生存提供創新突破。",
+      "tags": [
+        "NASA",
+        "生物 3D 列印",
+        "太空食品",
+        "廢塑膠回收",
+        "科研創新"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/engineered-yeast-turns-plastic-waste-into-3d-printed-food-for-space-missions-254265/"
+        }
+      ]
+    },
+    {
+      "title": "大尺寸 3D 列印泡沫外殼助力 Piaggio Ape 三輪車成功挑戰 4,500 公里遠征",
+      "category": "應用",
+      "summary": "意大利騎手 Francesco Furlani 駕駛改裝的 Piaggio Ape TM 703 三輪車完成由意大利至挪威北角逾 4,500 公里的遠征。該車的露營車廂全採用大尺寸 3D 列印泡沫外殼製造，重量僅約 70 公斤，較傳統玻璃纖維車廂（約 200 公斤）減重 130 公斤，使低排量三輪車的長途遠征成為可能。",
+      "why_it_matters": "凸顯了大尺寸 3D 列印輕量化結構在微型移動載具及輕量化改裝領域的實用價值。",
+      "tags": [
+        "大尺寸 3D 列印",
+        "輕量化",
+        "露營車",
+        "車輛改裝",
+        "應用案例"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/70kg-vs-200kg-how-a-printed-foam-shell-made-an-ape-camper-road-trip-possible-254196/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 18
+}
