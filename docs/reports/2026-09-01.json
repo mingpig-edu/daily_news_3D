@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T01:49:38.623Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：國防軍工與核能應用迎重大突破",
+  "summary": "今日情報聚焦於國防軍工及先進核能領域的增材製造應用。美軍加速推動潛艇組件金屬 3D 列印驗證，並在環太平洋軍演完成首次海上冷噴塗列印測試；科研團隊亦展示 AI 引導 WAAM 及廢塑料轉化為 3D 列印太空食品的創新成果。",
+  "items": [
+    {
+      "title": "美國海軍發佈新技術規範 加速潛艇金屬 3D 列印零件應用",
+      "category": "產業",
+      "summary": "美國海軍通過名為「Project Peculiar Document」（PPD）的新技術要求，旨在削減行政與工程阻礙，從而快速擴展金屬 3D 列印在潛艇建造、維護與修復中的應用。此舉讓國防供應鏈能更迅速地替換舊有組件，解決零件短缺問題。",
+      "why_it_matters": "政策簡化將顯著縮短軍用組件的替代與供應週期，推動金屬增材製造在國防關鍵領域的規模化落地。",
+      "tags": [
+        "美國海軍",
+        "金屬3D列印",
+        "國防軍工",
+        "PPD"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/navy-fast-tracks-3d-printed-parts-to-boost-submarine-production-254114/"
+        }
+      ]
+    },
+    {
+      "title": "美軍於 RIMPAC 2026 軍演成功測試首個海上金屬 3D 列印系統",
+      "category": "應用",
+      "summary": "美軍聯合部隊在 2026 環太平洋軍演（RIMPAC）期間，於加拿大支援艦 MV Asterix 上部署 SPEE3D 冷噴塗金屬 3D 列印系統。這是該技術首次在海上實際環境中運行測試，嘗試在海上直接製造關鍵備用零件。",
+      "why_it_matters": "驗證了前線即時製造組件的可行性，有助擺脫對傳統海上供應鏈的依賴。",
+      "tags": [
+        "RIMPAC",
+        "SPEE3D",
+        "冷噴塗",
+        "海軍應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/us-joint-effort-tests-at-sea-metal-3d-printing-rimpac-2026-254255/"
+        }
+      ]
+    },
+    {
+      "title": "ORNL 開發複合製造技術 打造無洩漏核反應堆組件",
+      "category": "科研",
+      "summary": "橡樹嶺國家實驗室（ORNL）與 A.J. Tuck 公司合作開發出一種混合製造工藝，結合 3D 列印、電鑄與熱等靜壓技術（HIP）。該工藝能製作用於先進核反應堆的無洩漏容器，成功減少對海外鍛造產能的依賴。",
+      "why_it_matters": "突破了傳統核能組件製造的供應鏈瓶頸，顯著提升關鍵核元件的國產化生產能力。",
+      "tags": [
+        "ORNL",
+        "核能",
+        "複合製造",
+        "熱等靜壓"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/new-hybrid-process-turns-3d-printed-mandrel-into-leak-free-nuclear-components-254206/"
+        }
+      ]
+    },
+    {
+      "title": "航太增材製造商 Ursa Major 擬以 23 億美元估值透過 SPAC 上市",
+      "category": "產業",
+      "summary": "航太與國防製造商 Ursa Major 宣佈與 Bleichroeder Acquisition Corp. III 達成業務合併協議，預計以 23 億美元估值透過 SPAC 形式在納斯達克上市。合併後的公司將改名為 Inflection Point Mach X Bleichroeder Corp.。",
+      "why_it_matters": "反映出國防與航太領域對增材製造技術的強勁需求及資本市場的高度關注。",
+      "tags": [
+        "Ursa Major",
+        "SPAC",
+        "航太",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ursa-major-to-go-public-in-2-3bn-spac-deal-with-inflection-point-254263/"
+        }
+      ]
+    },
+    {
+      "title": "科學家利用工程酵母將廢塑料轉化為太空 3D 列印食品",
+      "category": "科研",
+      "summary": "南伊利諾大學卡邦代爾分校的研究團隊在 NASA 深空食品挑戰賽資助下，研發出利用基因重組酵母將廢棄塑料與農業廢料轉化為可食用物質的方法。該材料可透過 3D 列印機擠出成富含蛋白質的餅乾。",
+      "why_it_matters": "為長途太空任務的資源循環利用與糧食供應提供兼具環保與實用性的創新方案。",
+      "tags": [
+        "太空食品",
+        "廢料回收",
+        "生物3D列印",
+        "NASA"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/engineered-yeast-turns-plastic-waste-into-3d-printed-food-for-space-missions-254265/"
+        }
+      ]
+    },
+    {
+      "title": "ORNL 與 INL 合作導入 AI 引導 WAAM 技術 填補核能供應鏈缺口",
+      "category": "科研",
+      "summary": "橡樹嶺國家實驗室與愛達荷國家實驗室宣佈合作，採用 AI 引導的電弧增材製造（WAAM）技術擴大美國本土工業壓力容器的製造能力。此項目旨在加速核能關鍵組件的認證流程，推動核能產業規模化發展。",
+      "why_it_matters": "將人工智慧與大尺寸金屬 3D 列印結合，有助快速填補核能重型裝備製造的產能缺口。",
+      "tags": [
+        "WAAM",
+        "AI",
+        "核能",
+        "ORNL"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap-254123/"
+        }
+      ]
+    },
+    {
+      "title": "Formlabs 調整高層管理陣容 聘用前 Apple 高層籌備 IPO",
+      "category": "產業",
+      "summary": "3D 列印廠商 Formlabs 近期調整管理層結構，聘請前 Apple 硬件工程高級副總裁 Dan Riccio 擔任戰略顧問。加上公司早前設立的投資者關係主管職位，市場普遍認為此舉旨在為 IPO 或其他上市退場機制鋪路。",
+      "why_it_matters": "前 Apple 硬件專家加入將增強其產品設計與生產能力，同時標誌著桌面與專業級 3D 列印龍頭走向公開市場。",
+      "tags": [
+        "Formlabs",
+        "人事動態",
+        "IPO",
+        "3D列印機"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330385/formlabs-shuffle/"
+        }
+      ]
+    },
+    {
+      "title": "Formnext Asia Shenzhen 2026 展現中國增材製造全產業鏈實力",
+      "category": "產業",
+      "summary": "Formnext Asia Shenzhen 2026 展會吸引 330 家參展商，展出範圍涵蓋消費級 3D 列印機、AI 伺服器冷卻銅板、鐳射器及材料生產線等。展會亮點在於中國製造基地的快速整合能力，能圍繞新應用迅速集結完整產業鏈。",
+      "why_it_matters": "展示了亞洲地區從硬件、軟件到下游應用的完整供應鏈成熟度與規模化製造潛力。",
+      "tags": [
+        "Formnext Asia",
+        "深圳展會",
+        "產業鏈",
+        "消費級3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331443/formnext-asia-shenzhen-2026-china-has-built-the-am-stack-what-comes-next/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 18
+}
