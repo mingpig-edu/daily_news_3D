@@ -1,0 +1,195 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T01:01:19.844Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：PrusaSlicer 3.0 預覽登場與 Formlabs 人事重組",
+  "summary": "今日重點關注 Prusa 發佈 PrusaSlicer 3.0 預覽版，帶來軟件層面的重大進展；SUNLU 夥拍 INSLOGIC 推出新型 FilaDC i10 耗材防潮儲存方案；Formlabs 迎來前 Apple 高管加入顧問團隊並準備上市；此外，醫療與工業 3D 列印領域獲資金大量注入，WAAM 金屬列印技術在大型壓力容器應用亦有新突破。",
+  "items": [
+    {
+      "title": "Prusa 推出 PrusaSlicer 3.0 預覽版",
+      "category": "軟件",
+      "summary": "Prusa 正式公佈 PrusaSlicer 3.0 預覽版，致力於簡化切片設定並提升列印精準度。官方團隊重塑了切片軟件與硬件、韌體之間的協作，讓使用者能以最少的設定步驟獲得高品質列印成品。",
+      "why_it_matters": "作為主流開源切片軟件的重大迭代，3.0 版本將進一步降低 3D 列印門檻並提升自動化列印體驗。",
+      "tags": [
+        "PrusaSlicer",
+        "Prusa",
+        "切片軟件",
+        "開源"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusaslicer-3-0-preview-built-for-the-future-of-3d-printing_137672/"
+        }
+      ]
+    },
+    {
+      "title": "SUNLU 聯手 INSLOGIC 推出 FilaDC i10 耗材儲存系統",
+      "category": "硬件",
+      "summary": "SUNLU 與 INSLOGIC 合作推出新型 FilaDC i10 耗材儲存方案，重新思考 FDM 耗材防潮問題。傳統加熱乾燥盒在大量列印時成效受限，且長時間加熱可能導致敏感耗材變形，新系統旨在解決這些長期痛點。",
+      "why_it_matters": "耗材受潮是導致 FDM 列印失敗與堵嘴的主因，新型儲存技術有助提升高用量用戶的列印穩定度。",
+      "tags": [
+        "SUNLU",
+        "INSLOGIC",
+        "耗材防潮",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/new-filadc-i10-by-sunlu-and-inslogic-rethinks-filament-storage-254310/"
+        }
+      ]
+    },
+    {
+      "title": "Formlabs 高層重組並引入前 Apple 硬件高管",
+      "category": "產業",
+      "summary": "Formlabs 進行管理層改組並聘請前 Apple 硬件工程高級副總裁 Dan Riccio 擔任策略顧問。此外，公司亦設立了投資者關係主管職位，種種舉措顯示 Formlabs 正積極為首次公開招股（IPO）或重大交易作準備。",
+      "why_it_matters": "矽谷高管的加盟與架構重組標誌著這間 SLA 龍頭企業正加速邁向公開上市階段。",
+      "tags": [
+        "Formlabs",
+        "人事動向",
+        "IPO",
+        "SLA"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330385/formlabs-shuffle/"
+        }
+      ]
+    },
+    {
+      "title": "資金持續流入醫療、工業與 AI 3D 列印領域",
+      "category": "產業",
+      "summary": "2026年8月下半月 3D 列印領域資本動作頻繁。3D 列印客製化醫療裝置企業 Hike Medical 籌集了 2250 萬美元；瑞士增材製造公司 Exentis 簽署兩項共計 4080 萬美元的系統訂單；AI 3D 公司 Math Magic 亦於半年內完成近 5000 萬美元融資。",
+      "why_it_matters": "資本市場對醫療客製化、工業批量生產及 AI 輔助 3D 技術的信心持續增強。",
+      "tags": [
+        "醫療應用",
+        "投融資",
+        "AI 3D",
+        "工業增材"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331338/3d-printing-financials-new-money-flows-into-medical-industrial-and-ai-3d/"
+        }
+      ]
+    },
+    {
+      "title": "ORNL 與愛達荷實驗室推進 WAAM 大型壓力容器技術",
+      "category": "科研",
+      "summary": "橡樹嶺國家實驗室（ORNL）與愛達荷國家實驗室（INL）持續推進定向能量沉積（DED/WAAM）技術於工業壓力容器的應用研究。該技術能以較低成本製造石油、天然氣及核能等能源基建所需的巨型壓力容器。",
+      "why_it_matters": "WAAM 技術能大幅降低大型金屬組件製造成本，加快新型能源基建的部署速度。",
+      "tags": [
+        "WAAM",
+        "DED",
+        "ORNL",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331283/ornl-continues-waam-work-on-industrial-pressure-vessels/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 啟動 2026 校園大使計劃",
+      "category": "產業",
+      "summary": "Bambu Lab 公佈首批 50 名 2026 年校園大使，涵蓋北美地區中學生至博士生。該計劃於 2026 年 5 月推出，旨在由學生自主舉辦工作坊及參展創客節，推廣 3D 列印教育與創作。",
+      "why_it_matters": "Bambu Lab 透過校園大使深耕教育市場，進一步鞏固其在青年創客及教育機構的品牌影響力。",
+      "tags": [
+        "Bambu Lab",
+        "教育",
+        "創客社群"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/meet-the-2026-bambu-lab-school-ambassadors/"
+        }
+      ]
+    },
+    {
+      "title": "PETG 成為堅固耐用 PLA 替代耗材的優勢分析",
+      "category": "材料",
+      "summary": "Hackaday 文章深入探討 PETG 耗材作為 PLA 替代品的特性。相較於易碎且需特定條件降解的 PLA，PETG 具備更高耐用度與抗水解能力，且不易因環境變質，非常適合製作機械零件與實用物件。",
+      "why_it_matters": "幫助創客與工程師在選擇 FDM 耗材時更好地權衡強度、耐候性與環保特性。",
+      "tags": [
+        "PETG",
+        "PLA",
+        "FDM耗材",
+        "材料特性"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/09/01/petg-the-pla-filament-alternative-that-just-works/"
+        }
+      ]
+    },
+    {
+      "title": "美國陸軍尋求採購更多遠征型聚合物 3D 列印系統",
+      "category": "應用",
+      "summary": "美國陸軍航空與飛彈司令部（AMCOM）發起徵求，希望獲取額外三款遠征型聚合物增材製造系統。美軍持續推動前線邊緣製造能力，要求供應商快速提供具彈性且能實地部署的列印裝備。",
+      "why_it_matters": "軍事國防應用正轉向前線現場製造，推動具備高便攜性與強韌度的遠征列印設備發展。",
+      "tags": [
+        "國防",
+        "遠征列印",
+        "聚合物",
+        "軍事應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331569/amcom-wants-more-expeditionary-3d-printers-for-us-army-aviation-systems/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 14
+}
