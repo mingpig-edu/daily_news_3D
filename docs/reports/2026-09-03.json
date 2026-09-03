@@ -1,0 +1,198 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T01:07:06.282Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-03)",
+  "summary": "今日焦點涵蓋 Prusa 發布重要切片軟件預告、Bambu Lab 曝光自動換噴頭專利及資安進展、SUNLU 耗材防潮新設備，以及醫療、航天合金與消費級量產應用的重大突破。",
+  "items": [
+    {
+      "title": "PrusaSlicer 3.0 預覽版登場，大幅簡化操作與提升列印精準度",
+      "category": "軟件",
+      "summary": "Prusa 正式釋出 PrusaSlicer 3.0 Preview 預告，重點在於進一步減少使用者的設定程序與手動介入。新版本旨在搭配更佳的硬件與韌體，讓玩家只需一鍵即可獲得高精準度的成品，為下一代 3D 列印生態鋪路。",
+      "why_it_matters": "切片軟件核心升級將直接降低操作門檻並改善開源與消費級 FDM 列印體驗。",
+      "tags": [
+        "Prusa",
+        "PrusaSlicer",
+        "切片軟件",
+        "開源工具"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusaslicer-3-0-preview-built-for-the-future-of-3d-printing_137672/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 申請新專利：自動更換列印頭及噴嘴監控系統",
+      "category": "硬件",
+      "summary": "拓竹（Bambu Lab）在中國提交了三項新專利申請，內容涵蓋噴嘴狀態監控與自動更換列印頭技術。設計包含整合於風道內的照明系統，以及可存放多個可換列印頭的置物架，主要針對相機擠出監控與多色／多材料列印需求。",
+      "why_it_matters": "預示 Bambu Lab 下一代旗艦機型可能具備 Toolchanger 自動換頭能力，大幅改善多色多料列印效率與廢料問題。",
+      "tags": [
+        "Bambu Lab",
+        "硬件",
+        "專利",
+        "多色列印",
+        "Toolchanger"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-lab-patents-detail-automatic-printhead-changing-and-nozzle-monitoring-systems-254247/"
+        }
+      ]
+    },
+    {
+      "title": "SUNLU 聯手 INSLOGIC 推出 FilaDC i10 耗材防潮存儲設備",
+      "category": "硬件",
+      "summary": "SUNLU 與 INSLOGIC 合作推出新型耗材存儲設備 FilaDC i10，針對 FDM 列印中因潮濕導致的堵頭與失敗問題進行改良。該產品旨在打破傳統加熱烘乾盒必須反覆烘乾與密封的繁瑣流程，同時避免長期高溫使溫敏耗材變形。",
+      "why_it_matters": "為高用量創客及農場主提供更高效且低風險的耗材防潮解決方案。",
+      "tags": [
+        "SUNLU",
+        "耗材防潮",
+        "FDM",
+        "硬件周邊"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/new-filadc-i10-by-sunlu-and-inslogic-rethinks-filament-storage-254310/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 發表 Trust Center 成立一周年資安與物聯網成果",
+      "category": "安全",
+      "summary": "Bambu Lab 回顧自 2025 年 10 月成立 Trust Center 以來的資安進展。過去一年中，官方取得多項全球安全認證、引入公開安全更新記錄日誌，並大幅擴展漏洞賞金計劃（Bug Bounty Program），透過社群研究員協助修補潛在漏洞以強化 IoT 生態安全。",
+      "why_it_matters": "展現消費級 3D 列印聯網設備對物聯網資安及隱私透明度的重視與持續改進。",
+      "tags": [
+        "Bambu Lab",
+        "網絡安全",
+        "IoT",
+        "漏洞賞金"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/one-year-on-strengthening-iot-security-through-global-certifications-and-community-collaboration/"
+        }
+      ]
+    },
+    {
+      "title": "研究團隊利用 AI 優化 NASA GRCop-42 合金之低功率 DED 參數",
+      "category": "科研",
+      "summary": "華盛頓州立大學與明尼蘇達大學研究人員開發出名為 BEAM 的 AI 實驗設計方法，能根據先前的列印結果智能推薦最佳參數組合。該技術成功在低至 500W 的雷射功率下，找出適用於 NASA GRCop-42 高導熱銅合金的定向能量沉積（DED）可行參數。",
+      "why_it_matters": "利用 AI 降低了難加工航天金屬 3D 列印的能耗與機台功率門檻。",
+      "tags": [
+        "AI",
+        "DED",
+        "金屬3D列印",
+        "科研",
+        "航天材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ai-guided-experiments-identify-low-power-ded-parameters-for-nasas-grcop-42-alloy-254343/"
+        }
+      ]
+    },
+    {
+      "title": "貝爾法斯特女王大學研發 3D 列印可溶解微針貼片治療皮膚癌",
+      "category": "科研",
+      "summary": "英國貝爾法斯特女王大學（QUB）團隊利用 3D 列印技術製作出微針可溶解貼片，用於局部皮膚癌治療。該微針極其細小不會造成出血，能直接透過皮膚釋放兩種抗癌藥物，有望取代頻繁的外用塗抹藥物與注射，減少患者疼痛。",
+      "why_it_matters": "證明 3D 列印在精準醫療與低痛感局部藥物遞送系統上的臨床應用價值。",
+      "tags": [
+        "醫療應用",
+        "3D生物列印",
+        "科研",
+        "癌症治療"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer-254329/"
+        }
+      ]
+    },
+    {
+      "title": "Adidas 推出全 3D 列印運動鞋 Futurecool，推動消費級規模化生產",
+      "category": "應用",
+      "summary": "Adidas 發表承襲 Climacool 透氣設計的全 3D 列印運動鞋 Futurecool。首批限量 400 雙已於 8 月底開放抽籤，官方並計劃於 2027 年 4 月 1 日以 180 歐元定價在全球市場公開發售，邁向消費級規模化生產。",
+      "why_it_matters": "標誌運動鞋產業正加速將全 3D 列印結構從概念展示推向大眾市場量產商品。",
+      "tags": [
+        "Adidas",
+        "消費級應用",
+        "鞋類列印",
+        "量產"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/"
+        }
+      ]
+    },
+    {
+      "title": "英國鑄造廠 Sarginsons 引進無機 3D 打印砂芯技術",
+      "category": "產業",
+      "summary": "英國 Sarginsons Industries 斥資 80 萬英鎊引進無機 3D 砂芯列印系統，產能達每小時 54 公升。該公司成為英國首家採用此技術的鑄造廠，旨在大幅縮短鋁合金鑄件的生產週期。",
+      "why_it_matters": "砂型 3D 列印技術加速滲透傳統鑄造業，顯著提升複雜金屬鑄件的研製效率。",
+      "tags": [
+        "砂型列印",
+        "工業應用",
+        "金屬鑄造",
+        "英國製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 19
+}
