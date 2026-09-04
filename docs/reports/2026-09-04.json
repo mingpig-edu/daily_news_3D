@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T00:58:41.901Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報（2026年9月4日）",
+  "summary": "今日重點涵蓋 PrusaSlicer 3.0 重大架構改版測試、Bambu Lab 自動換噴頭新專利曝光，以及 3devo 發布新一代 Filament Maker X10 線材製作機。在科研與工業領域，美國海軍與無人機複合材料列印、核能級積層製造合作及 3D 列印微針治癌貼片等應用亦迎來新進展。",
+  "items": [
+    {
+      "title": "PrusaSlicer 3.0 重大架構重寫與測試版亮相",
+      "category": "軟件",
+      "summary": "Prusa Research 正式推進 PrusaSlicer 3.0 重大版本更新。新版本進行了底層代碼重寫，啟動與運算速度顯著提升，不再有以往開啟時的延遲感。整體使用者介面亦經過重新梳理，加入亮色模式，並大幅改善模型擺放調整及與 Printables、Connect 平台的整合切換流暢度。",
+      "why_it_matters": "作為主流開源切片軟件的核心支柱，PrusaSlicer 的底層架構重寫將直接提升龐大用戶群的切片效率與操作體驗。",
+      "tags": [
+        "Prusa",
+        "PrusaSlicer",
+        "切片軟件",
+        "開源"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331710/prusaslicer-3-0-gets-a-major-overhaul/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 申請自動換噴頭與噴嘴監控新專利",
+      "category": "硬件",
+      "summary": "拓竹科技（Bambu Lab）提交了三項中國專利申請，內容涵蓋全新的噴嘴監控與自動更換工具頭系統。專利設計包括整合至風道內的照明組件，以及可容納並自動切換多個可替換工具頭的儲存架結構。相關技術旨在透過相機監控擠出狀態，並為多色或多材料列印提供更靈活的硬件架構。",
+      "why_it_matters": "自動工具頭更換系統若落實至消費級或專業級設備，將可大幅減少多色與多材料列印時的耗材浪費及切換時間。",
+      "tags": [
+        "Bambu Lab",
+        "專利",
+        "多材料列印",
+        "工具頭"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-lab-patents-detail-automatic-printhead-changing-and-nozzle-monitoring-systems-254247/"
+        }
+      ]
+    },
+    {
+      "title": "3devo 發布新一代 Filament Maker X10 線材製造機",
+      "category": "硬件",
+      "summary": "荷蘭桌面線材製造設備先驅 3devo 發表了全新的 Filament Maker X10（FMX10）。該設備不僅承襲了前代產品在實驗室研究與新聚合物配方調配的精準控制能力，亦進一步強化了小批量生產線材的性能。搭配其粉碎機系統，可便利地進行材料回收與新複合材料配方測試。",
+      "why_it_matters": "為材料研發機構與小型生產商提供了從回收原料到精準自製特種線材的完整桌面解決方案。",
+      "tags": [
+        "3devo",
+        "耗材製造",
+        "線材回收",
+        "材料研發"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331487/3devo-releases-filament-maker-x10/"
+        }
+      ]
+    },
+    {
+      "title": "Continuous Composites 獲美國海軍合約列印內嵌電路無人機結構",
+      "category": "應用",
+      "summary": "複合材料 3D 列印廠商 Continuous Composites 獲得美國海軍第二階段小企業創新研究（SBIR）合約。該計劃將推進其連續纖維 3D 列印（CF3D）技術，直接在複合材料結構內部嵌入導電線路，目標是製造兼具承載結構與電氣傳導的多功能無人機（UAV）組件。",
+      "why_it_matters": "結構與電氣系統一體化成型能大幅減輕無人載具重量，並展示了連續纖維積層製造在國防裝備中的高度整合潛力。",
+      "tags": [
+        "Continuous Composites",
+        "連續纖維",
+        "無人機",
+        "國防應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures-254354/"
+        }
+      ]
+    },
+    {
+      "title": "3D Systems 與 Savannah River 國家實驗室合作研發核能級組件",
+      "category": "科研",
+      "summary": "3D Systems 與美國薩凡納河國家實驗室（SRNL）簽署了合作研發協議（CRADA）。雙方將依託先進製造協作中心（AMC），共同推動積層製造技術在核能發電、廣泛能源基礎設施及國家安全領域的高規格應用，加速核能級金屬或關鍵組件的商業化進程。",
+      "why_it_matters": "國家實驗室與商業 3D 列印巨頭的深度合作，有助於突破核能與極端能源環境對積層製造零組件的嚴格認證門檻。",
+      "tags": [
+        "3D Systems",
+        "SRNL",
+        "核能",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership-254363/"
+        }
+      ]
+    },
+    {
+      "title": "女王大學研發 3D 列印微針溶解貼片用於皮膚癌治療",
+      "category": "科研",
+      "summary": "英國貝爾法斯特女王大學研究團隊成功開發出一款可溶解的 3D 列印微針貼片。該貼片上的微針結構極其微細，穿透皮膚時不會引發出血，能直接穿透角質層同時遞送兩種抗癌藥物，為局部皮膚癌患者提供了一種低痛感、替代傳統重複局部塗抹或注射的新療法。",
+      "why_it_matters": "突顯了高精度 3D 列印在精準醫療給藥系統與無痛微針貼片製備上的臨床應用價值。",
+      "tags": [
+        "醫療3D列印",
+        "微針貼片",
+        "藥物傳遞",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer-254329/"
+        }
+      ]
+    },
+    {
+      "title": "Adidas 推出全 3D 列印透氣運動鞋 Futurecool",
+      "category": "應用",
+      "summary": "Adidas 正式發表名為 Futurecool 的全 3D 列印運動鞋，延續其 Climacool 系統的通風透氣概念。首批限量 400 雙附獨立編號版本已於 8 月底開放抽籤，並預計於 2027 年 4 月以 180 歐元定價在全球市場公開發售，推動 3D 列印鞋款走向更大規模的量產體系。",
+      "why_it_matters": "標誌著運動鞋履製造正逐步從概念展示走向具備規模化定價與常規發售的商業量產階段。",
+      "tags": [
+        "Adidas",
+        "消費品",
+        "鞋類製造",
+        "量產"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/"
+        }
+      ]
+    },
+    {
+      "title": "緬因大學發表 30 呎大型 3D 列印快艇 3Dirigo X",
+      "category": "應用",
+      "summary": "緬因大學先進結構與複合材料中心正式下水了名為 3Dirigo X 的 30 呎 3D 列印船舶。該船艇設計最高時速接近 40 節，並具備抵禦離岸惡劣海況的能力，標誌著超大型 3D 列印技術從概念驗證進一步邁向商用與國防造船業的實用製造工具。",
+      "why_it_matters": "證實了超大尺寸複合材料積層製造在大型海洋載具快速成型與結構強度上的實用可行性。",
+      "tags": [
+        "超大型3D列印",
+        "造船業",
+        "複合材料",
+        "海事"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat-254357/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 26
+}
