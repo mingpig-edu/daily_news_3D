@@ -1,0 +1,197 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T00:57:14.663Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-05)",
+  "summary": "今日焦點包括 PrusaSlicer 3.0 重大架構改版測試、Bambu Lab 發表物聯網安全維護進展，以及 3devo 推出新型線材製造機。科研與工業應用方面，澳洲 RMIT 成功研發可浮水的 3D 列印鈦金屬晶格、丹麥完成 36 戶 3D 列印學生公寓，而在國防與能源領域，美軍與美國國家實驗室亦分別與相關 3D 列印廠商展開深度合作。",
+  "items": [
+    {
+      "title": "PrusaSlicer 3.0 重大更新：底層架構重寫與全新介面體驗",
+      "category": "軟件",
+      "summary": "Prusa Research 推出切片軟件 PrusaSlicer 3.0 重大更新。新版本針對底層代碼進行大幅重寫，Alpha 測試顯示啟動速度與操作反應大幅提升，模型排版調整更加順暢。新介面加入柔和的淺色模式，並深度整合 Printables 與 Prusa Connect 平台切換流程。",
+      "why_it_matters": "核心切片工具的大幅效能改善與介面重構，將直接提升 Maker 與專業用戶日常切片及列印的工作效率。",
+      "tags": [
+        "PrusaSlicer",
+        "Prusa",
+        "切片軟件",
+        "開源軟件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331710/prusaslicer-3-0-gets-a-major-overhaul/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 回顧 Trust Center 運作一週年加強物聯網安全架構",
+      "category": "安全",
+      "summary": "Bambu Lab 發表 Trust Center 成立一週年的回顧報告，重點展示物聯網安全與隱私防護進展。品牌自 2025 年 10 月成立該中心以來，陸續取得多項國際安全認證、公開漏洞修復日誌，並持續擴大漏洞賞金計劃（Bug Bounty Program）。官方強調透過與外部資安研究人員合作，主動發現並修補潛在系統缺陷。",
+      "why_it_matters": "消費級 3D 列印機雲端與聯網功能普及下，加強資安驗證與透明度是保障用家資料與設備安全的重要基準。",
+      "tags": [
+        "Bambu Lab",
+        "物聯網安全",
+        "資安",
+        "韌體安全"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/one-year-on-strengthening-iot-security-through-global-certifications-and-community-collaboration/"
+        }
+      ]
+    },
+    {
+      "title": "3devo 推出新款桌面級線材製造機 Filament Maker X10",
+      "category": "硬件",
+      "summary": "荷蘭桌面線材設備廠商 3devo 發表最新機型 Filament Maker X10。該設備延續過往應用於聚合物研發和高等院校的經驗，不僅適用於實驗室配方打樣，亦能承擔小規模的耗材量產任務。搭配該公司的破碎機配件，用戶可直接回收廢料或開發新型混料線材。",
+      "why_it_matters": "新型線材擠出機有助加速研究機構與耗材品牌的小批量研發、自製材料配方及環保回收流程。",
+      "tags": [
+        "3devo",
+        "線材製造",
+        "材料回收",
+        "硬體設備"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331487/3devo-releases-filament-maker-x10/"
+        }
+      ]
+    },
+    {
+      "title": "RMIT 研發結合聚氨酯泡沫的 3D 列印鈦金屬晶格可漂浮於水面",
+      "category": "科研",
+      "summary": "澳洲皇家墨爾本理工大學（RMIT University）研究團隊在《Advanced Materials》發表最新研究，成功製造出能漂浮於水上的金屬-聚合物開孔混合晶格超材料。研究團隊將 3D 列印鈦金屬微結構與注入的聚氨酯泡沫結合，成功將整體骨架密度降至 1.0 g/cm³ 以下，解決了多孔金屬結構容易進水下沉的限制。",
+      "why_it_matters": "該技術為海事工程、航天及特種裝備帶來兼具超輕量化、浮力與高金屬結構強度的全新複合材料解決方案。",
+      "tags": [
+        "RMIT",
+        "鈦金屬",
+        "科研",
+        "金屬3D列印",
+        "超材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/"
+        }
+      ]
+    },
+    {
+      "title": "丹麥 3DCP Group 完工 36 戶低於法定補貼成本上限的 3D 列印學生公寓",
+      "category": "應用",
+      "summary": "丹麥建築公司 3DCP Group 宣布在霍爾斯特布羅（Holstebro）完成名為 Skovsporet 的 3D 列印學生公寓項目，首批住戶已開始入住。該建築項目總面積 1,650 平方米，共提供 36 套公寓單位。整個項目建造成本成功控制在丹麥公共補貼住房的法定成本上限之內，展示了大型列印在保障性住宅的經濟可行性。",
+      "why_it_matters": "驗證了建築 3D 列印技術在大規模住宅開發中具備顯著的成本控制與快速交付能力。",
+      "tags": [
+        "3DCP Group",
+        "建築3D列印",
+        "房地產",
+        "混凝土列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap-254405/"
+        }
+      ]
+    },
+    {
+      "title": "3D Systems 與美國薩凡納河國家實驗室簽署核能 AM 研發協議",
+      "category": "產業",
+      "summary": "3D Systems 與美國能源部薩凡納河國家實驗室（SRNL）簽署合作研發協議（CRADA）。雙方將基於先進製造協同機構（AMC）的技術資源，重點推進適用於核能設施、國家安全防衛及關鍵能源基礎設施的積層製造組件研發與技術轉化。",
+      "why_it_matters": "國家級實驗室與老牌增材製造商深度結盟，預示積層製造正在向高標準、嚴苛條件的核能發電領域加速推進。",
+      "tags": [
+        "3D Systems",
+        "核能",
+        "產業合作",
+        "金屬增材製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership-254363/"
+        }
+      ]
+    },
+    {
+      "title": "Continuous Composites 獲美國海軍合約開發現場嵌入電導體之無人機複材結構",
+      "category": "應用",
+      "summary": "複合材料 3D 列印技術開發商 Continuous Composites 獲得美國海軍第二階段小企業創新研究（SBIR）合約。該計劃將運用其連續纖維 3D 列印（CF3D）技術，直接在無人機的複材承載結構內部嵌入電氣導體，以製造高度整合的多功能無人機結構組件。",
+      "why_it_matters": "將線路結構一體化列印至複合材料骨架內，能大幅減輕無人載具重量並精簡傳統配線與裝配程序。",
+      "tags": [
+        "連續纖維",
+        "複合材料",
+        "無人機",
+        "軍工應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures-254354/"
+        }
+      ]
+    },
+    {
+      "title": "奧地利格拉茨科技大學研發 3D 列印蒸發冷卻黏土磚",
+      "category": "科研",
+      "summary": "奧地利格拉茨科技大學（Graz University of Technology）研究團隊開發出一種新型 3D 列印蒸發冷卻結構牆體。該結構採用特殊黏土混合配方列印成多孔立方體，透過精密設計的內部通風流道，在浸濕狀態下能最大化水氣蒸發與空氣接觸面積，從而顯著降低周邊空氣溫度。",
+      "why_it_matters": "展示了被動式綠色建築節能技術與陶瓷/黏土 3D 列印幾何造型自由度的完美結合。",
+      "tags": [
+        "格拉茨科技大學",
+        "綠色建築",
+        "黏土列印",
+        "被動冷卻"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/09/04/3d-printed-cubes-provide-passive-cooling/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 24
+}
