@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T00:57:51.960Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "本日重點關注 PrusaSlicer 3.0 重大更新發佈、3devo 推出全新 Filament Maker X10 耗材製造機，以及 HeyGears G1X 全彩桌面打印機眾籌破 1,500 萬美元。此外，Quickparts 與 AML3D 在航天國防領域顯著擴展，丹麥亦完成大規模 3D 打印學生公寓項目。",
+  "items": [
+    {
+      "title": "PrusaSlicer 3.0 重大更新發佈 底層重構與 UI 全面升級",
+      "category": "軟件",
+      "summary": "Prusa Research 為其開源切片軟件發佈了 PrusaSlicer 3.0 重大版本更新。新版本經過底層代碼重構，啟動速度與介面響應顯著提升，並採用了更平靜整潔的全新介面設計（包含亮色模式）。此外，軟件更緊密地整合了 Printables 與 Connect 服務，大幅簡化模型瀏覽與打印機管理流程。",
+      "why_it_matters": "作為主流開源切片軟件的重磅更新，性能與 UI 的大幅提升將直接改善廣大 FDM/SLA 用戶的日常切片與工作流體驗。",
+      "tags": [
+        "PrusaSlicer",
+        "Prusa",
+        "切片軟件",
+        "開源"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331710/prusaslicer-3-0-gets-a-major-overhaul/"
+        }
+      ]
+    },
+    {
+      "title": "3devo 推出全新 Filament Maker X10 桌面級耗材擠出機",
+      "category": "硬件",
+      "summary": "荷蘭桌面耗材設備製造商 3devo 正式推出新品 Filament Maker X10。這款機器不僅可用於科研實驗室調製創新聚合物與小批量測試耗材，亦提升了產能以支援量產級擠出。配合該公司的粉碎設備，研發人員與製造商能更輕鬆地進行廢料回收與新材料配方開發。",
+      "why_it_matters": "為材料研究機構與小型耗材生產商提供更強大且靈活的桌面級材料研發與資源回收解決方案。",
+      "tags": [
+        "3devo",
+        "耗材製造",
+        "新材料",
+        "廢料回收"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331487/3devo-releases-filament-maker-x10/"
+        }
+      ]
+    },
+    {
+      "title": "黑格科技 G1X 系列全彩 UV 打印機眾籌破 1,500 萬美元",
+      "category": "硬件",
+      "summary": "HeyGears（黑格科技）推出的全球首款桌面級全彩 3D 及 UV 打印機 G1X 系列，在 Kickstarter 上的眾籌金額已突破 1,500 萬美元。該系列模組化平台集成了全彩 3D 打印、UV 印刷與布料打印功能，提供三款不同配置以滿足創作者與企業的多元生產需求。",
+      "why_it_matters": "反映出市場對桌面級多功能集成及全彩 3D 打印技術的強烈需求與商業潛力。",
+      "tags": [
+        "HeyGears",
+        "黑格科技",
+        "全彩3D打印",
+        "UV打印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331654/the-final-countdown-more-value-for-g1x-series-backers/"
+        }
+      ]
+    },
+    {
+      "title": "Quickparts 投資擴建跨四國 SLA 3D 打印網絡",
+      "category": "產業",
+      "summary": "製造服務商 Quickparts 宣布在全球四國（美國、法國、義大利及英國）廠房引進 12 台 Stratasys NEO800+ 光固化（SLA）3D 打印機。此項投資使其西雅圖航天與國防卓越中心的總投資額接近 600 萬美元，並提升了 40% 的大尺寸生產產能。",
+      "why_it_matters": "透過統一硬件與品質標準擴建跨國生產網絡，有助滿足航天與國防供應鏈對高精度大尺寸組件的嚴格需求。",
+      "tags": [
+        "Quickparts",
+        "Stratasys",
+        "SLA",
+        "航天國防"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331808/quickparts-builds-a-four-country-3d-printing-network-for-space-and-defense/"
+        }
+      ]
+    },
+    {
+      "title": "AML3D 受美國國防業務帶動 財年收入激增 70%",
+      "category": "產業",
+      "summary": "澳洲金屬 3D 打印廠商 AML3D 公佈 2026 財年業績，在美國國防業務大幅增長的帶動下，全年收入達 1,250 萬澳元，按年激增 70%。公司毛利率保持在 63%，並在該財年下半年首次實現 EBITDA（息稅折舊及攤銷前利潤）轉虧為盈。",
+      "why_it_matters": "展示了金屬增材製造技術在國防供應鏈中的商業化進程加快，並成功實現盈利突破。",
+      "tags": [
+        "AML3D",
+        "金屬3D打印",
+        "國防供應鏈",
+        "財報"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331785/3d-printing-financials-aml3d-revenue-jumps-70-as-u-s-defense-business-grows/"
+        }
+      ]
+    },
+    {
+      "title": "3DCP Group 於丹麥完成 36 套 3D 打印學生公寓",
+      "category": "應用",
+      "summary": "丹麥建築科技公司 3DCP Group 採用 COBOD BOD3 建築打印機，於霍爾斯特布羅完成 Skovsporet 項目，打造了 36 套 3D 打印單層學生公寓。建築結合了 FUTURECEM 低碳混凝土、木栓板與玻璃等材料，設計有大型天窗與斜頂，兼具現代感與實用性。",
+      "why_it_matters": "證明了建築 3D 打印技術在規模化、高品質可負擔住宅項目中的實際落地與商用能力。",
+      "tags": [
+        "3DCP Group",
+        "COBOD",
+        "建築3D打印",
+        "丹麥"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331369/3dcp-group-3d-prints-student-housing-in-denmark/"
+        }
+      ]
+    },
+    {
+      "title": "ASTM 重組前沿技術分部 推進增材製造標準化",
+      "category": "科研",
+      "summary": "ASTM International 正式將其先進製造分部重組為「關鍵與新興技術（CET）分部」，以加速跨領域融合技術的標準制定。此外，最新簡報提到用於義肢的 3D 打印電子皮膚研究，以及利用塑料廢料打印食物的創新概念實驗。",
+      "why_it_matters": "國際標準組織重組架構將加速新興打印技術的規範化，促進前沿科研成果轉化為工業應用。",
+      "tags": [
+        "ASTM",
+        "標準化",
+        "電子皮膚",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332082/3d-printing-news-briefs-9-5-2026/"
+        }
+      ]
+    },
+    {
+      "title": "創客社群探索使用 10W 藍光雷射進行 FDM 後處理平滑化",
+      "category": "開源",
+      "summary": "創客頻道 [I changed a thing] 發佈影片紀錄使用 10W 藍光雷射對 3D 打印件進行後處理平滑化的實驗過程與失敗分析。雖然項目目前仍處於實驗階段，但影片詳細記錄了雷射熱融平滑技術的複雜度與邊界條件。",
+      "why_it_matters": "為 FDM 打印件的非化學溶劑後處理平滑技術提供具參考價值的開源實驗數據與失敗經驗歸納。",
+      "tags": [
+        "雷射平滑",
+        "FDM後處理",
+        "創客",
+        "實驗紀錄"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/09/05/if-at-first-you-dont-succeed/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 415"
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 11
+}
