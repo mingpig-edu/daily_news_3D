@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T01:00:58.202Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-07)",
+  "summary": "今日 3D 列印領域重點聚焦於先進材料與前沿製造應用：RMIT 成功研發出能漂浮於水面的 3D 列印鈦金屬超材料；丹麥 36 間 3D 列印學生公寓低於資助上限順利竣工；Quickparts 跨四國部署 12 部大型 SLA 設備擴展航太防務供應鏈；另有開客打造微米級光固化系統及 ASTM 改組新興技術標準部門。",
+  "items": [
+    {
+      "title": "RMIT 研發首款可浮於水面之 3D 列印鈦金屬複合超材料",
+      "category": "科研",
+      "summary": "澳洲皇家墨爾本理工大學（RMIT）研究團隊於《Advanced Materials》期刊發表突破性成果，研發出首款可漂浮於水面的金屬-聚合物開孔混合晶格超材料。團隊將 3D 列印鈦金屬晶格與注入式聚氨酯泡沫結合，成功將整體骨架密度降至 1.0 g/cm³ 以下，解決了多孔金屬結構向來無法浮水的技術瓶頸。",
+      "why_it_matters": "為海洋工程、航太及輕量化防護結構帶來兼具高強度與浮力的全新複合材料設計方向。",
+      "tags": [
+        "RMIT",
+        "鈦金屬",
+        "超材料",
+        "金屬3D列印",
+        "輕量化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/"
+        }
+      ]
+    },
+    {
+      "title": "丹麥 3DCP Group 交付 36 間低於成本上限的 3D 列印學生公寓",
+      "category": "應用",
+      "summary": "丹麥建築公司 3DCP Group 在霍爾斯特布羅（Holstebro）完成「Skovsporet」3D 列印學生公寓項目，首批住戶已正式入伙。該發展項目總面積達 1,650 平方米，共提供 36 間完整生活機能的公寓，造價更成功控制在丹麥公共補貼房屋的預算上限之內。",
+      "why_it_matters": "證實大型 3D 混凝土列印建築具備符合嚴格公共預算規範的商業可行性與經濟效益。",
+      "tags": [
+        "3DCP Group",
+        "建築3D列印",
+        "混凝土列印",
+        "公共房屋"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap-254405/"
+        }
+      ]
+    },
+    {
+      "title": "Quickparts 跨美歐四國增設 12 部大型 SLA 打印機深耕航太國防",
+      "category": "產業",
+      "summary": "製造服務商 Quickparts 宣佈在美國、法國、意大利及英國的廠房增設 12 部 Stratasys NEO800+ 光固化（SLA）3D 列印機。這是該公司對西雅圖航太與國防卓越中心近 600 萬美元投資的一環，預計將把大尺寸零件列印產能提升 40%，確保跨國廠房具備一致的生產標準。",
+      "why_it_matters": "反映積層製造於航太與國防領域的供應鏈正邁向跨國標準化與大規模量產。",
+      "tags": [
+        "Quickparts",
+        "Stratasys",
+        "SLA",
+        "航太",
+        "國防"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331808/quickparts-builds-a-four-country-3d-printing-network-for-space-and-defense/"
+        }
+      ]
+    },
+    {
+      "title": "開客利用光纖微操系統成功實現微米級光固化 3D 列印",
+      "category": "開源",
+      "summary": "創客 [Diffraction Limited] 開發出一款微米級高解析度樹脂列印裝置。該設備透過微操作器引導光纖，將 405nm 雷射聚焦至塗有樹脂的成形板上進行微距固化，成功列印出細節極精細的微米級 3DBenchy 模型。",
+      "why_it_matters": "為個人創客社群提供了一種低成本探索接近商用微型 SLA 級別超高精度列印的可行方案。",
+      "tags": [
+        "微米列印",
+        "SLA",
+        "光固化",
+        "開客",
+        "DIY"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/09/06/printing-micron-scale-benchies-with-resin-and-turmeric/"
+        }
+      ]
+    },
+    {
+      "title": "Wall Colmonoy 獲美國空軍合約翻新 F-16 戰機熱交換器",
+      "category": "應用",
+      "summary": "航太零部件製造及維修商 Wall Colmonoy Oklahoma City 獲美國空軍（USAF）批出多年期、價值數百萬美元的合約。該合約專責為 F-16 戰機翻新及再製造初級與次級熱交換器核心組件。",
+      "why_it_matters": "突顯先進製造與再製造技術在維持軍用現役裝備妥善率及延壽工作中的關鍵地位。",
+      "tags": [
+        "Wall Colmonoy",
+        "美國空軍",
+        "F-16",
+        "再製造",
+        "航太維修"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/wall-colmonoy-oklahoma-city-wins-usaf-contract-for-f-16-heat-exchanger-remanufacturing-254371/"
+        }
+      ]
+    },
+    {
+      "title": "ASTM 重組成立關鍵與新興技術部門 加速先進製造標準制定",
+      "category": "產業",
+      "summary": "國際標準化組織 ASTM 將其先進製造部門重組成「關鍵與新興技術」（CET）部門。該調整旨在加快應對積層製造、電子皮膚及生物再生醫療等跨領域新興技術融合帶來的標準化挑戰。",
+      "why_it_matters": "加速前沿 3D 列印技術標準的落地與整合，有助於降低新技術走向工業化應用的門檻。",
+      "tags": [
+        "ASTM",
+        "產業標準",
+        "先進製造",
+        "新興技術"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332082/3d-printing-news-briefs-9-5-2026/"
+        }
+      ]
+    },
+    {
+      "title": "XTPL 召開股東會表決台灣基金戰略投資 推進半導體微米列印",
+      "category": "產業",
+      "summary": "超微細導電線路列印技術商 XTPL 召開股東大會，審議來自台灣投資基金的戰略投資。此項合作旨在結合台灣在全球半導體產業鏈的核心優勢，進一步推進微米級積層製造技術在晶片封裝與電子製造領域的落地。",
+      "why_it_matters": "代表高精度積層微米分配技術正加速滲透至半導體先進封裝產業鏈中。",
+      "tags": [
+        "XTPL",
+        "半導體",
+        "微米列印",
+        "戰略投資",
+        "先進封裝"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331932/xtpl-calls-shareholder-meeting-to-vote-on-strategic-investment-from-taiwanese-fund/"
+        }
+      ]
+    },
+    {
+      "title": "灣區 Maker Faire 將展出兒童製作之 3D 列印互動寵物動物園",
+      "category": "應用",
+      "summary": "一班 7 至 13 歲的年輕創客為加州 Maker Faire Bay Area 製作了「3D 列印機械寵物動物園」。展品包含超過 20 隻結合 3D 列印外殼、LED、馬達與機械傳動結構的互動動物裝置，並鼓勵公眾在展覽中親自觸摸體驗。",
+      "why_it_matters": "展現 3D 列印結合 STEAM 教育在培育青少年工程思維與動手解決問題能力上的實際成果。",
+      "tags": [
+        "Maker Faire",
+        "STEAM",
+        "教育",
+        "創客",
+        "互動原型"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332130/at-this-3d-printed-petting-zoo-the-mistakes-are-part-of-the-fun/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 11
+}
