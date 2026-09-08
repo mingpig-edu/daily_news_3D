@@ -1,0 +1,178 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T01:12:14.993Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-08)",
+  "summary": "今日焦點涵蓋低成本金屬 3D 列印生態的發展與爭議、平價設備於液流電池電極研發的科研突破，以及 Formnext 深圳展會反映出的生成式 AI 結合趨勢。同時，醫療矯形義肢平台迎來大額融資，牙科光固化樹脂與 PCTG/PETG 材料應用亦有最新進展。",
+  "items": [
+    {
+      "title": "Mastrex 推出平價金屬 LPBF 機型並引發美國製造討論",
+      "category": "硬件",
+      "summary": "Mastrex 推出了一系列共六款金屬雷射粉末床熔融（LPBF）3D 列印機，入場售價由 39,000 美元起，並與金屬粉末供應商 Continuum Powders 達成材料驗證合作。然而業界指出其設備結構與部分中國機型高度相似，質疑其宣稱的「美國製造」純度。隨著多家廠商加入低成本金屬列印市場，該領域正呈現顯著普及趨勢。",
+      "why_it_matters": "金屬 3D 列印門檻大幅降至數萬美元水平，將推動中小企業普及，但產業鏈來源與標籤真實性亦備受審視。",
+      "tags": [
+        "金屬3D列印",
+        "LPBF",
+        "Mastrex",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330722/continuum-and-mastrex-partner-up/"
+        }
+      ]
+    },
+    {
+      "title": "科研團隊利用平價 3D 列印機研發高效液流電池電極",
+      "category": "科研",
+      "summary": "荷蘭恩荷芬理工大學與加拿大滑鐵盧大學的研究團隊，採用售價僅 350 美元的桌面級 3D 列印機製作具精確內部幾何形狀的電池電極。測試顯示，鑽石晶格（diamond lattice）結構在氧化還原液流電池中的傳質效能比一般格柵高出一倍以上，同時大幅減低流體阻力。",
+      "why_it_matters": "證明平價開源級 3D 列印設備足以支援先進能源儲存技術的微結構精密研發。",
+      "tags": [
+        "液流電池",
+        "科研",
+        "電池電極",
+        "材料結構"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/study-reveals-better-electrode-geometry-for-flow-batteries-254444/"
+        }
+      ]
+    },
+    {
+      "title": "Formnext 深圳 2026 觀察：生成式 AI 深度融入 3D 列印生態",
+      "category": "產業",
+      "summary": "Formnext Asia 深圳展會顯示，3D 列印技術正跨界滲透至更多傳統行業，其中最明顯的轉變在於生成式 3D AI 的興起。展會設有專門的 AI 展區，吸引了 Meshy AI、Tripo AI、Hi3D 等多家專注於以提示詞或圖像快速生成 3D 模型的團隊參展。",
+      "why_it_matters": "AI 建模技術大幅降低數碼資產建立門檻，正成為 3D 列印生態擴展的新動力。",
+      "tags": [
+        "Formnext",
+        "生成式AI",
+        "產業動向",
+        "3D建模"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331962/beyond-the-machines-what-stood-out-at-formnext-shenzhen-2026/"
+        }
+      ]
+    },
+    {
+      "title": "矯形器材平台 Hike Medical 獲 2,250 萬美元融資擴充垂直生產",
+      "category": "產業",
+      "summary": "總部位於三藩市的醫療設備公司 Hike Medical 宣佈完成 2,250 萬美元的種子輪及 A 輪融資。該公司將臨床軟件與自建 3D 列印製造深度結合，資金將用於擴充其垂直整合的足部矯形器及耐用醫療器材平台。",
+      "why_it_matters": "顯示醫療器材數碼化及就地 3D 列印客製化生產模式持續獲得資本市場高度認可。",
+      "tags": [
+        "醫療應用",
+        "矯形器",
+        "融資",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform-254433/"
+        }
+      ]
+    },
+    {
+      "title": "Liqcreate 推出獲 CE 認證的客製牙科印模托盤樹脂",
+      "category": "材料",
+      "summary": "荷蘭光敏樹脂製造商 Liqcreate 正式發布 Liqcreate Tray，這是一款取得歐盟 CE Class 1 生物相容性認證的光固化樹脂。該材料專為製作客製化牙科印模托盤而研發，相容市場上主流的開放式平台樹脂 3D 列印機。",
+      "why_it_matters": "開放平台牙科專用材料的增加，有助降低診所與技工所製作客製牙模的耗材成本。",
+      "tags": [
+        "Liqcreate",
+        "牙科",
+        "光敏樹脂",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/new-liqcreate-tray-resin-simplifies-custom-dental-tray-production-254423/"
+        }
+      ]
+    },
+    {
+      "title": "PETG 與 PCTG 耗材特性比較：耐衝擊與韌性差異分析",
+      "category": "材料",
+      "summary": "自造者社群對透明 PETG 與 PCTG 線材進行了詳細對比測試。PCTG 與改性聚酯 PETG 結構相近，但其環己烷二甲醇（CHDM）單體取代比例超過半數，使其相較於普通 PETG 具備更高的韌性、耐衝擊力與光學透明度。",
+      "why_it_matters": "為需要比 PETG 更高耐衝擊強度但維持良好列印便利性的創客提供明確選材參考。",
+      "tags": [
+        "耗材",
+        "PCTG",
+        "PETG",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/09/07/comparing-petg-and-pctg-filaments/"
+        }
+      ]
+    },
+    {
+      "title": "青少年創客打造 3D 列印互動機械寵物園亮相 Maker Faire",
+      "category": "開源",
+      "summary": "一群 7 至 13 歲的年輕創客為 Maker Faire Bay Area 製作了「3D 列印機械寵物園」，展示超過 20 隻結合 3D 列印機構、LED、馬達與感測器的互動仿生機械裝置。作品包含發光擺耳的機械兔與歷經 11 次列印反覆調試的犰狳機械結構，強調在動手試錯中學習。",
+      "why_it_matters": "體現了 3D 列印結合機電整合在 STEAM 青少年創客教育中的實踐價值。",
+      "tags": [
+        "MakerFaire",
+        "創客",
+        "STEAM教育",
+        "機器人"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332130/at-this-3d-printed-petting-zoo-the-mistakes-are-part-of-the-fun/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 10
+}
