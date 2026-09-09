@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T01:14:58.514Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-09)",
+  "summary": "今日重點聚焦於材料混合新進展、醫療科研突破及國防工業應用。Prusa 推出專用 PLA ColorMix 套裝，以 5 卷耗材混出 45 種顏色；南加州大學科研團隊開發出 10 分鐘內低成本列印的嬰兒定制 MRI 感測器；荷蘭 Liqcreate 發表通過 CE 一級認證的齒科印模托盤樹脂。此外，低成本 3D 列印在液流電池電極幾何結構研究中展現出翻倍性能，國防及無人機領域的積層製造農場與電子列印技術亦有重要佈局。",
+  "items": [
+    {
+      "title": "Prusa 推出 Prusament PLA ColorMix 耗材套裝：5 卷線材可混合印出 45 種色調",
+      "category": "材料",
+      "summary": "Prusa 正式發表專為 ColorMix 開源混色模型研發的專用耗材套裝「Prusament PLA ColorMix」。該項目基於開源社群專案 Full Spectrum 延伸，使用者只需透過 5 卷基礎耗材，即可混合調配出多達 45 種顏色陰影與效果。",
+      "why_it_matters": "為多色 FDM 列印愛好者提供標準化且低成本的色彩混合方案，大幅降低存放大量不同顏色耗材的需求。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "PLA",
+        "多色列印",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusament-pla-colormix-print-45-color-shades-using-just-five-filament-spools-and-more_137835/"
+        }
+      ]
+    },
+    {
+      "title": "南加州大學研發 3D 列印嬰兒專用客製化 MRI 感測器，成本僅需 30 美元",
+      "category": "醫療",
+      "summary": "南加州大學（USC）科研團隊研發出柔性 3D 列印 MRI 感測線圈，專門解決嬰幼兒體型適配問題。該感測器可在 10 分鐘內完成客製化製造，成本約為 30 美元，測試顯示其影像對比度達標準商業線圈的約四倍。",
+      "why_it_matters": "以極低成本和極快速度改善兒童醫療造影適配度與成像品質，展現醫療 3D 列印在即時客製化診斷工具上的突破。",
+      "tags": [
+        "醫療應用",
+        "MRI",
+        "科研",
+        "客製化",
+        "柔性列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/usc-team-3d-prints-custom-mri-sensors-for-infants-in-under-10-minutes-254504/"
+        }
+      ]
+    },
+    {
+      "title": "Liqcreate 發表通用型 CE Class 1 認證牙科專用 Tray 樹脂",
+      "category": "材料",
+      "summary": "荷蘭獨立光固化樹脂製造商 Liqcreate 推出通過 CE Class 1 生物相容性認證的 Liqcreate Tray 樹脂，專門用於 3D 列印客製化牙科印模托盤。該材料與牙科實驗室及臨床夥伴合作研發，能適配多數開放式光固化 3D 列印機。",
+      "why_it_matters": "為開源與多品牌光固化設備提供符合醫療規範且兼容性高的齒科耗材選擇，簡化客製化牙模流程。",
+      "tags": [
+        "Liqcreate",
+        "光固化",
+        "SLA",
+        "樹脂",
+        "牙科醫療"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/new-liqcreate-tray-resin-simplifies-custom-dental-tray-production-254423/"
+        }
+      ]
+    },
+    {
+      "title": "研究利用 350 美元 3D 列印機製作鑽石晶格電極，大幅提升液流電池效率",
+      "category": "科研",
+      "summary": "荷蘭恩荷芬理工大學與加拿大滑鐵盧大學的研究團隊，利用一台售價僅 350 美元的 3D 列印機製造出具備精確內部幾何結構的電池電極。研究發現鑽石晶格（diamond lattice）結構的傳質效能是普通網格的兩倍以上，同時大幅降低了流體阻力。",
+      "why_it_matters": "證明平價桌面級 3D 列印技術足以進行高精度的能源材料微結構科研與優化，加速液流電池開發。",
+      "tags": [
+        "科研",
+        "液流電池",
+        "電極幾何",
+        "綠色能源",
+        "開源硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/study-reveals-better-electrode-geometry-for-flow-batteries-254444/"
+        }
+      ]
+    },
+    {
+      "title": "實測顯示：桌面級與工業級 FDM 機台列印 PC-ABS 零件性能差距極小",
+      "category": "材料",
+      "summary": "評測創作者針對 Polymaker PC-ABS 在準專業級桌面機台與 Stratasys Fortus 450mc 工業級 3D 列印機上的表現進行詳細對比測試。PC-ABS 具備高耐用度與抗衝擊性但需要保溫腔體，測試結果顯示家用高階機台印出的成品機械性能完全不輸工業系統。",
+      "why_it_matters": "印證具備恆溫腔體的專業級桌面 FDM 設備在工程塑膠加工上已能達到工業級水準，降低企業導入工程級應用的成本。",
+      "tags": [
+        "FDM",
+        "PC-ABS",
+        "Stratasys",
+        "工業級",
+        "材料測試"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/09/08/are-desktop-pc-abs-prints-outperformed-by-industrial-fdm-not-really/"
+        }
+      ]
+    },
+    {
+      "title": "Quantum Cyber 完成康涅狄格州 80 台 3D 列印機無人機農場建置",
+      "category": "產業",
+      "summary": "自主防務技術公司 Quantum Cyber 宣佈在美國康涅狄格州 Bridgeport 佔地 5 萬平方呎的製造工廠內，完成 80 台 3D 列印機的採購與安裝。該列印農場將作為主要無人機生產線，負責製造自主無人機的結構機身及外殼部件。",
+      "why_it_matters": "代表分散式 3D 列印農場在規模化無人機生產與國防自主供應鏈中正加速落地普及。",
+      "tags": [
+        "列印農場",
+        "無人機",
+        "國防製造",
+        "產業",
+        "自動化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/quantum-cyber-installs-80-unit-3d-printing-drone-farm-at-connecticut-facility-254512/"
+        }
+      ]
+    },
+    {
+      "title": "QTREX 將積層製造電子（AME）技術引進以色列頂尖防務製造商",
+      "category": "應用",
+      "summary": "QTREX Quantum（前身為 Nano Dimension 的 AME 業務收購方）宣佈將其首套積層製造電子（AME）系統安裝於以色列三大防務製造商之一的工廠內。雙方正展開聯合開發計劃，將 3D 列印電子線路技術直接應用於航空航天與國防硬體結構中。",
+      "why_it_matters": "顯示積層製造電子技術在高度機密的航太國防領域進入實體部署階段，推動結構與電路一體化製造。",
+      "tags": [
+        "AME",
+        "電子列印",
+        "航太",
+        "國防",
+        "Nano Dimension"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332201/qtrex-takes-nano-dimensions-ame-technology-into-israeli-defense/"
+        }
+      ]
+    },
+    {
+      "title": "Phase3D 與 Phillips Federal 結盟，拓展北美防務 3D 列印即時品管市場",
+      "category": "軟件",
+      "summary": "3D 列印品質檢驗軟體開發商 Phase3D 與製造服務商 Phillips Federal 達成協議，指定後者為北美防務市場的獨家通路夥伴。該合作將使美國防務機構能直接採購並部署 Phase3D 的即時積層製造原位檢測系統（in-situ inspection）。",
+      "why_it_matters": "加強金屬與關鍵積層製造過程中的即時缺陷監測與品質認證，有助關鍵工業及國防零部件合規。",
+      "tags": [
+        "品質檢驗",
+        "原位監測",
+        "防務",
+        "軟體",
+        "金屬列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/phase3d-names-phillips-federal-exclusive-defense-channel-partner-in-north-america-254501/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 18
+}
