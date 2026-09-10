@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T01:04:01.764Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：Prusa 推出 ColorMix 多色耗材套裝，SprintRay 高填充牙科樹脂獲 FDA 認證",
+  "summary": "今日情報涵蓋耗材創新、牙科醫療應用、金屬 3D 列印硬件及軍工應用。Prusa 發佈基於開源項目的 ColorMix PLA 耗材套裝；SprintRay 推出通過 FDA 認證的高比例氧化鋯牙科樹脂；Mastrex 發佈低成本金屬 LPBF 機型；QTREX 與 Quantum Cyber 則分別展示了 AME 電子列印與無人機農場的最新部署。",
+  "items": [
+    {
+      "title": "Prusa 正式推出 Prusament PLA ColorMix 耗材套裝",
+      "category": "材料",
+      "summary": "Prusa 正式推出了 Prusament PLA ColorMix 耗材套裝。該項目基於社群開源色彩混合模型 Prusa ColorMix 及 Full Spectrum 項目，用戶只需使用 5 卷指定基礎顏色的線材，即可調配並列印出多達 45 種不同色調與深淺的色彩組合。",
+      "why_it_matters": ">-->這項產品大幅簡化了多色 FDM 列印的備料需求，推動了開源色彩混合技術的商業化落實。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "PLA",
+        "多色列印",
+        "開源"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusament-pla-colormix-print-45-color-shades-using-just-five-filament-spools-and-more_137835/"
+        }
+      ]
+    },
+    {
+      "title": "SprintRay 發佈獲 FDA 認證的 Midas Restore 牙科陶瓷樹脂",
+      "category": "材料",
+      "summary": "SprintRay 推出通過美國 FDA 認證的修復牙科材料 Midas Restore，專為 Midas Digital Press 系統設計。該樹脂含有高達 75% 的氧化鋯與玻璃陶瓷成分，專門用於製作永久性嵌體、牙冠及貼面，解決了傳統牙科 3D 列印因流動性限制而無法高比例填充的難題。",
+      "why_it_matters": "突破了光固化樹脂高填充率與列印流動性之間的技術瓶頸，顯著提升了數位牙科終端修復體的耐磨度與美觀度。",
+      "tags": [
+        "SprintRay",
+        "光固化",
+        "牙科醫療",
+        "FDA認證",
+        "修復樹脂"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331887/sprintray-releases-midas-restore/"
+        }
+      ]
+    },
+    {
+      "title": "Mastrex 推出起售價 3.9 萬美元的平價金屬 LPBF 列印機系列",
+      "category": "硬件",
+      "summary": "Mastrex 推出了包含 6 款金屬雷射粉末床熔融（LPBF）3D 列印機的新產品線，起售價為 39,000 美元。公司亦與 Continuum Powders 合作驗證其金屬粉末在 Mastrex 機型上的適用性。不過市場對其設備組件是否源自中國供應商以及「美國製造」的宣稱引發關注。",
+      "why_it_matters": "低成本 LPBF 設備大幅降低了金屬 3D 列印的門檻，正加速金屬積層製造在中小企業中的普及。",
+      "tags": [
+        "Mastrex",
+        "金屬3D列印",
+        "LPBF",
+        "工業硬件",
+        "設備發佈"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/330722/mastrex-3d-printers-made-in-the-usa/"
+        }
+      ]
+    },
+    {
+      "title": "QTREX 為以色列國防巨頭部署 AME 積層製造電子技術",
+      "category": "應用",
+      "summary": "QTREX Quantum 於今年 4 月收購 Nano Dimension 的積層製造電子（AME）業務後，宣佈首套 AME 系統已進入以色列某大型航空航天與國防製造商的設施中進行部署。該項目為聯合開發計劃的一部分，標誌著 AME 技術在軍工領域的進一步落地。",
+      "why_it_matters": "證明積層製造電子（AME）技術正從實驗室研發邁向高端航天與國防工業的實際生產應用。",
+      "tags": [
+        "QTREX",
+        "Nano Dimension",
+        "AME",
+        "電子3D列印",
+        "國防應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332201/qtrex-takes-nano-dimensions-ame-technology-into-israeli-defense/"
+        }
+      ]
+    },
+    {
+      "title": "Quantum Cyber 完成康涅狄格州 80 臺 3D 列印機無人機農場建設",
+      "category": "產業",
+      "summary": "轉型為 3D 列印無人機製造商的 Quantum Cyber，已完成在美國康涅狄格州生產基地安裝 80 臺 3D 列印機的工程。該公司透過授權獲得相關知識產權後，迅速建立起基於 3D 列印技術的無人機大規模生產線。",
+      "why_it_matters": "展示了利用 3D 列印機農場進行無人機分佈式與快速彈性量產的商業落地方案。",
+      "tags": [
+        "無人機",
+        "3D列印農場",
+        "Quantum Cyber",
+        "量產",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331830/quantum-cyber-completes-installation-of-80-3d-printers-at-connecticut-drone-farm/"
+        }
+      ]
+    },
+    {
+      "title": "伊朗繳獲配有 3D 列印模組艙的 Anduril 水下無人航行器",
+      "category": "應用",
+      "summary": "伊朗繳獲了一艘美軍使用的 Anduril Dive-LD 自主水下無人航行器（5.8 米 x 12 米）。該機型設有 3D 列印的負載區域，可根據任務需求快速改裝以支援不同的偵察或掃雷載荷。美方表示該失事機體為較早期的原型測試機型。",
+      "why_it_matters": "凸顯了 3D 列印模組化設計在軍用自主無人載具快速定制負載中的關鍵作用。",
+      "tags": [
+        "Anduril",
+        "水下無人機",
+        "軍事應用",
+        "3D列印載荷",
+        "國防"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332256/iran-captures-anduril-3d-printed-underwater-drone/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 415"
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 11
+}
