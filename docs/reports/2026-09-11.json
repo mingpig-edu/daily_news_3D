@@ -1,0 +1,200 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T01:05:36.571Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：PrusaSlicer 3.0 預覽版登場與 Apple 摺疊手機採用 3D 列印軸承",
+  "summary": "本期重點關注 PrusaSlicer 3.0 公開預覽版發布，帶來全新UI與外掛程式市集；Apple 於首款摺疊手機 iPhone Duo 的軸承中引入兩種 3D 列印製造工藝；Prusa 推出專用 Prusament PLA ColorMix 混色耗材套裝。此外，Tripo AI 完成大額融資並推出新 3D 大模型，SprintRay 推出高填充度牙科修復樹脂，以及金屬、建築與軍事領域的多項創新應用。",
+  "items": [
+    {
+      "title": "PrusaSlicer 3.0 預覽版發布 導入全新架構與外掛程式市集",
+      "category": "軟件",
+      "summary": "Prusa Research 正式發布 PrusaSlicer 3.0 的公開預覽版。本次大版號更新徹底重新設計了用戶介面，並引進全新的專案系統、重構的設定檔架構以及外掛程式（Plugin）系統，未來亦將建立社群外掛程式市集。",
+      "why_it_matters": ",[(重構的底層架構與外掛程式生態將顯著提升這款主流開源切片軟件的可擴充性與操作體驗。)",
+      "tags": [
+        "Prusa",
+        "PrusaSlicer",
+        "切片軟件",
+        "開源"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/prusaslicer-3-0-preview-arrives-with-new-architecture-and-a-community-plugin-marketplace-on-the-way-254561/"
+        }
+      ]
+    },
+    {
+      "title": "Apple 首款摺疊手機 iPhone Duo 軸承導入兩種 3D 列印工藝",
+      "category": "產業",
+      "summary": "Apple 正式發表其首款摺疊智能手機 iPhone Duo（售價 1,999 美元），預計於 10 月 23 日出貨。該手機在軸承機構中採用了兩種截然不同的 3D 列印製造工藝，以實現高強度與精密的開合結構。",
+      "why_it_matters": "消費電子巨頭將 3D 列印技術應用於旗艦手機關鍵零件，標誌著金屬增材製造在消費級高精密量產的重大突破。",
+      "tags": [
+        "Apple",
+        "iPhone Duo",
+        "摺疊手機",
+        "軸承製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone-254601/"
+        }
+      ]
+    },
+    {
+      "title": "Prusament 推出 PLA ColorMix 耗材套裝 5 卷線材可混出 45 種色彩",
+      "category": "材料",
+      "summary": "Prusa 延續其 ColorMix 開源混色模型，正式推出專用的 Prusament PLA ColorMix 耗材套裝。經過夏季的研發測試，用戶只需利用這 5 卷特定基色線材，即可混色列印出高達 45 種不同漸變色調。",
+      "why_it_matters": "官方專用線材配合開源混色演算法，讓多色 FDM 列印無須頻繁更換線材即可實現豐富的色彩漸變。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "PLA",
+        "混色列印",
+        "耗材"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusament-pla-colormix-print-45-color-shades-using-just-five-filament-spools-and-more_137835/"
+        }
+      ]
+    },
+    {
+      "title": "SprintRay 發表 Midas Restore 牙科樹脂 獲 FDA 認證可用於長效修復",
+      "category": "材料",
+      "summary": "SprintRay 推出取得美國 FDA 認證的牙科修復材料 Midas Restore，專為其 Midas 數位壓製系統優化。該樹脂含有 75% 的氧化鋯與玻璃陶瓷，用於製造嵌體、牙冠及貼片，具備極高抗磨損性與自然美感。",
+      "why_it_matters": "克服了傳統牙科 3D 列印樹脂因流動性限制而無法高比例填充陶瓷顆粒的技術瓶頸。",
+      "tags": [
+        "SprintRay",
+        "牙科醫療",
+        "樹脂",
+        "FDA認證",
+        "3D列印材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331887/sprintray-releases-midas-restore/"
+        }
+      ]
+    },
+    {
+      "title": "Tripo AI 完成 30 億人民幣融資並預覽 Tripo P2.0 原生 3D 模型",
+      "category": "軟件",
+      "summary": "專注於 3D 基礎大模型的 Tripo AI 完成約 30 億人民幣（約 4.47 億美元）的 B 及 B+ 輪融資。公司同步預覽發布了新一代 3D 原生基礎大模型 Tripo P2.0，支援四邊形拓撲（Quad-Topology）生成。",
+      "why_it_matters": "巨額資金注入與四邊形拓撲技術突破，將大幅提升生成式 AI 模型直接轉化為高質素 3D 列印網格的效率。",
+      "tags": [
+        "Tripo AI",
+        "人工智能",
+        "3D建模",
+        "生成式AI"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/tripo-ai-lands-3-billion-yuan-unveils-quad-topology-model-254576/"
+        }
+      ]
+    },
+    {
+      "title": "維也納研究團隊證實 3D 混凝土列印可節省高達三分之二原料",
+      "category": "科研",
+      "summary": "奧地利 FH Campus Wien 大學完成為期五年的「C3PO」研究項目，成功驗證透過 3D 列印技術製作混凝土構件，可在不犧牲結構承重能力的前提下，比傳統施工方式減少高達三分之二的混凝土用量。",
+      "why_it_matters": "大幅減少建築領域的材料消耗與碳足跡，展現 3D 列印在可持續建築結構上的實質經濟與環保效益。",
+      "tags": [
+        "混凝土3D列印",
+        "建築科技",
+        "可持續發展",
+        "維也納"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/vienna-researchers-cut-concrete-use-by-two-thirds-with-3d-printing-254580/"
+        }
+      ]
+    },
+    {
+      "title": "UWE Bristol 利用 Meltio 金屬 3D 列印技術於鉑金內部培育紅寶石",
+      "category": "科研",
+      "summary": "西英格蘭大學（UWE Bristol）列印研究中心結合 Meltio Engine 與 5 軸 HAAS 數控工具機，利用金屬絲材 3D 列印鉑金結構。該系統能在列印中途暫停放入晶種並繼續包裹列印，隨後在結構內部直接培育紅寶石或藍寶石。",
+      "why_it_matters": "混成金屬增材製造與內部晶體培育技術結合，除了珠寶製造外，在嵌入式感應器與複合功能組件製造亦具潛力。",
+      "tags": [
+        "Meltio",
+        "金屬3D列印",
+        "DED",
+        "珠寶科技",
+        "複合材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332241/meltio-helps-grow-rubies-inside-3d-printed-platinum/"
+        }
+      ]
+    },
+    {
+      "title": "Continuous Composites 獲美海軍合同 開發嵌入電子元件之 3D 列印無人機",
+      "category": "應用",
+      "summary": "連續纖維 3D 列印廠商 Continuous Composites 獲得美國海軍 Small Business Innovation Research (SBIR) 第二階段合同，將利用其複合材料 3D 列印技術，為無人機（UAV）生產直接嵌入電子元件的結構件。",
+      "why_it_matters": "將電路與感應器直接整合至列印複合材料結構中，能顯著減輕無人機機體重量並提升整體系統整合度。",
+      "tags": [
+        "Continuous Composites",
+        "無人機",
+        "複合材料",
+        "嵌入式電子",
+        "國防應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331981/continuous-composites-gets-phase-ii-sbir-for-embedding-electronics-in-uavs/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
