@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T01:06:55.527Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-12)",
+  "summary": "今日焦點涵蓋 PrusaSlicer 3.0 迎來底層重構並預告插件市集，蘋果首款摺疊機鉸鏈採用 3D 列印工藝量產，以及現代汽車擴大大型 HSS 技術應用於全尺寸零件生產。",
+  "items": [
+    {
+      "title": "PrusaSlicer 3.0 預覽版登場：全新架構與社群插件市集",
+      "category": "軟件",
+      "summary": "Prusa Research 正式推出 PrusaSlicer 3.0 公開預覽版，發布日適逢其源專案 Slic3r 首個提交滿 15 週年。新版本從頭重新打造用戶介面，導入嶄新的專案系統及重新規劃的參數設定檔架構，並首次加入插件擴充機制，未來將提供社群插件市集。",
+      "why_it_matters": "作為主流開源切片軟件的核心升級，全新架構與插件生態系統將大幅改善切片工作流與跨品牌硬件適應彈性。",
+      "tags": [
+        "PrusaSlicer",
+        "Prusa Research",
+        "切片軟件",
+        "開源"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/prusaslicer-3-0-preview-arrives-with-new-architecture-and-a-community-plugin-marketplace-on-the-way-254561/"
+        }
+      ]
+    },
+    {
+      "title": "蘋果首款摺疊機 iPhone Duo 鉸鏈採用雙重 3D 列印工藝",
+      "category": "應用",
+      "summary": "蘋果公司正式發表定價 1,999 美元的首款摺疊智能手機 iPhone Duo，展開時為 7.6 吋內螢幕，摺疊後為 5.4 吋外螢幕。這款新旗艦裝置的鉸鏈機構設計中，導入了兩種不同的 3D 列印工藝進行製造，預計於 10 月 23 日正式發貨。",
+      "why_it_matters": "消費電子巨頭在量產級摺疊精密鉸鏈採用積層製造，標誌著 3D 列印在消費級精密結構件的大規模商用里程碑。",
+      "tags": [
+        "Apple",
+        "iPhone Duo",
+        "摺疊手機",
+        "精密鉸鏈",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone-254601/"
+        }
+      ]
+    },
+    {
+      "title": "Meltio 推出美國本土組裝的工業級金屬列印機器人工作站",
+      "category": "硬件",
+      "summary": "金屬線材雷射定向能量沉積（DED）技術開發商 Meltio 針對美洲工業客戶推出了美國組裝版 Meltio Robot Cell。這款開箱即用的機器人工作站旨在縮短從西班牙整機進口帶來的航運與清關延誤，為當地工業製造提供更即時的交付支援。",
+      "why_it_matters": "設備本地化組裝可顯著降低供應鏈交付週期，加速北美工業市場導入大型金屬 DED 製造方案。",
+      "tags": [
+        "Meltio",
+        "金屬3D列印",
+        "DED",
+        "工業製造",
+        "機器人工作站"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/meltio-launches-u-s-assembled-robot-cell-for-industrial-metal-3d-printing-254565/"
+        }
+      ]
+    },
+    {
+      "title": "現代汽車引進大型 ExOne VX1000 HSS 3D 列印機製造全尺寸零件",
+      "category": "應用",
+      "summary": "南韓現代汽車的南陽研發中心安裝了兩台來自 ExOne 的 VX1000 HSS 聚合物 3D 列印設備。該系統採用高速燒結（HSS）工藝，先於 PA12 粉末床上選擇性噴射紅外吸收墨水，再透過燒結發射器逐層熔合，成型尺寸達 1,000 毫米級別。",
+      "why_it_matters": "車廠將大尺寸粉末燒結技術導入研發與生產，有助於加速汽車全尺寸原型驗證與輕量化終端零件製造。",
+      "tags": [
+        "現代汽車",
+        "ExOne",
+        "HSS",
+        "高速燒結",
+        "汽車工程"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts-254607/"
+        }
+      ]
+    },
+    {
+      "title": "Tripo AI 獲 30 億元融資並預告 Tripo P2.0 基礎模型",
+      "category": "軟件",
+      "summary": "專注於 3D 基礎模型與世界模型的 Tripo AI 宣布完成 B 輪與 B+ 輪累計約 30 億元人民幣融資，由 MPCi 領投。Tripo 同步預告了全新原生 3D 基礎模型 Tripo P2.0，主打針對幾何拓撲的優化架構。",
+      "why_it_matters": "生成式 AI 在原生 3D 模型拓撲結構上的突破，有望大幅縮短由文字或圖片生成可直接 3D 列印模型的前期設計時間。",
+      "tags": [
+        "Tripo AI",
+        "生成式AI",
+        "3D建模",
+        "基礎模型"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/tripo-ai-lands-3-billion-yuan-unveils-quad-topology-model-254576/"
+        }
+      ]
+    },
+    {
+      "title": "西英格蘭大學結合 Meltio 技術於 3D 列印白金結構內培育寶石",
+      "category": "科研",
+      "summary": "西英格蘭大學列印研究中心將 Meltio Engine 與 5 軸 HAAS CNC 工具機整合，利用白金線材進行混合積層製造。研究人員能在列印白金結構過程中暫停加工，放入微小晶體晶種後繼續列印封裝，隨後在結構內部直接生長紅寶石或藍寶石。",
+      "why_it_matters": "展示了金屬混合積層製造在高價值材料中精密預埋與原位生長先進結構的科研潛力。",
+      "tags": [
+        "Meltio",
+        "白金列印",
+        "寶石培育",
+        "混合製造",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332241/meltio-helps-grow-rubies-inside-3d-printed-platinum/"
+        }
+      ]
+    },
+    {
+      "title": "維也納研究利用 3D 列印節省達三分之二混凝土耗用",
+      "category": "科研",
+      "summary": "奧地利 FH Campus Wien 大學完成為期五年的「C3PO」建築研究專案。該項目證實，在維持相同結構承載力的前提下，透過 3D 列印成型工藝設計構件，可比傳統建造方法節省高達三分之二的混凝土材料用量。",
+      "why_it_matters": "以數位化積層製造實現材料最佳化配置，為建築業減碳及降低原物料耗損提供了具說服力的量化數據。",
+      "tags": [
+        "建築3D列印",
+        "混凝土",
+        "結構減重",
+        "可持續建造",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/vienna-researchers-cut-concrete-use-by-two-thirds-with-3d-printing-254580/"
+        }
+      ]
+    },
+    {
+      "title": "創客利用 3D 列印自製相紙打孔機打造替代底片",
+      "category": "開源",
+      "summary": "創客 Jon Schiereck 研製了一款 3D 列印打孔機構，能將空白感光相紙裁切帶精準打出齒孔，製作成可在標準相機內曝光的 35mm 規格條帶。該機器使用打磨成形的鑽頭作為沖頭，克服了個人玩家難以精準沖壓齒孔的技術門檻。",
+      "why_it_matters": "展現了桌面級 3D 列印機構在小眾實驗攝影與特殊工具自製上的高度客製化優勢。",
+      "tags": [
+        "創客",
+        "3D列印機構",
+        "膠卷攝影",
+        "開源製作"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/09/11/this-machine-makes-35mm-almost-film/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
