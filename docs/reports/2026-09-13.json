@@ -1,0 +1,195 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T01:00:28.542Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-13)",
+  "summary": "今日情報重點聚焦於 PrusaSlicer 3.0 大版本重構公測、蘋果於首款折疊手機軸承導入 3D 列印技術、Tripo AI 完成 30 億人民幣融資並發佈全新 3D 原生模型，以及 Meltio 金屬 3D 列印在科研與在地化製造上的最新突破。",
+  "items": [
+    {
+      "title": "PrusaSlicer 3.0 Preview 發佈：全新架構與社群插件市場即將登場",
+      "category": "軟件",
+      "summary": "Prusa Research 正式發佈 PrusaSlicer 3.0 公開預覽版，發佈日期剛好是 Slic3r 首個提交的 15 週年。此版本從頭重新構建了使用者介面，並引入全新的項目系統、重構的設定檔架構以及插件系統。官方亦計劃隨後推出社群插件市場，進一步豐富擴充功能。",
+      "why_it_matters": "切片軟件底層架構的重構與插件機制的引入，將大幅提升 PrusaSlicer 的擴充性與開源生態發展。",
+      "tags": [
+        "PrusaSlicer",
+        "切片軟件",
+        "Prusa",
+        "開源"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/prusaslicer-3-0-preview-arrives-with-new-architecture-and-a-community-plugin-marketplace-on-the-way-254561/"
+        }
+      ]
+    },
+    {
+      "title": "蘋果首款折疊手機 iPhone Duo 軸承組件採用兩項 3D 列印工藝",
+      "category": "應用",
+      "summary": "蘋果公司正式發佈定價 1,999 美元的首款折疊屏幕手機 iPhone Duo。該裝置展開後為 7.6 吋內屏，閉合為 5.4 吋外屏，其軸承結構部件融合了兩項不同的 3D 列印技術進行製造。",
+      "why_it_matters": "消費電子巨頭將 3D 列印直接應用於旗艦手機核心結構件，標誌著金屬增材製造在消費級量產上的重大突破。",
+      "tags": [
+        "Apple",
+        "iPhone Duo",
+        "消費電子",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone-254601/"
+        }
+      ]
+    },
+    {
+      "title": "Tripo AI 完成 30 億人民幣融資並預覽 Tripo P2.0 原生 3D 模型",
+      "category": "軟件",
+      "summary": "3D AI 基礎模型開發商 Tripo AI 宣佈完成約 30 億元人民幣（約 4.47 億美元）的 B 及 B+ 輪融資，由 MPCi 領投。公司同步公開了 Tripo P2.0 原生 3D 基礎模型的預覽版，主打更強大的四邊形拓撲生成能力。",
+      "why_it_matters": "巨額資金投入與生成式 3D 原生模型的升級，將加速 AI 生成 3D 建模在設計與列印工作流中的普及。",
+      "tags": [
+        "AI建模",
+        "Tripo AI",
+        "生成式AI",
+        "融資"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/tripo-ai-lands-3-billion-yuan-unveils-quad-topology-model-254576/"
+        }
+      ]
+    },
+    {
+      "title": "英國大學利用 Meltio 技術於 3D 列印鉑金內部成功培育紅寶石",
+      "category": "科研",
+      "summary": "英國西英格蘭大學（UWE Bristol）印刷研究中心利用整合至 5 軸 HAAS 數控機床的 Meltio Engine 金屬線材列印系統，於鉑金結構內部成功培育寶石。研究人員可以在列印中途暫停，於未完成的結構內放入晶種，再封閉列印並在內部生長出紅寶石或藍寶石。",
+      "why_it_matters": "混合增材製造與晶體生長技術結合，為金屬結構內嵌入功能性晶體與複合器件開闢了新方向。",
+      "tags": [
+        "Meltio",
+        "金屬3D列印",
+        "鉑金",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332241/meltio-helps-grow-rubies-inside-3d-printed-platinum/"
+        }
+      ]
+    },
+    {
+      "title": "Meltio 於美國組裝發佈 Robot Cell 工業級金屬 3D 列印單元",
+      "category": "硬件",
+      "summary": "金屬 3D 列印廠商 Meltio 針對美洲工業客戶推出了於美國在地組裝的 Meltio Robot Cell 機器人單元。這款整合了雷射定向能量沉積（DED）技術的開箱即用機器人系統，旨在減少從西班牙進口整機所產生的物流與海關延遲。",
+      "why_it_matters": "實現大型工業金屬 3D 列印設備的本地化組裝，能顯著縮短交付週期並提高區域供應鏈穩定性。",
+      "tags": [
+        "Meltio",
+        "金屬3D列印",
+        "DED",
+        "工業機器人"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/meltio-launches-u-s-assembled-robot-cell-for-industrial-metal-3d-printing-254565/"
+        }
+      ]
+    },
+    {
+      "title": "現代汽車引進大型 HSS 3D 列印機用於生產全尺寸汽車零部件",
+      "category": "應用",
+      "summary": "南韓現代汽車位於南陽的研發中心引進了兩台來自 ExOne 的 VX1000 HSS 高速燒結聚合物 3D 列印機。該設備採用紅外線吸收墨水噴印於 PA12 粉末並進行逐層燒結，建構體積達 1,000 毫米，專門用於製作全尺寸汽車零件。",
+      "why_it_matters": "車廠大規模應用大型高速燒結技術，有效加快了車輛全尺寸結構件的原型驗證與小批量生產週期。",
+      "tags": [
+        "Hyundai",
+        "汽車產業",
+        "ExOne",
+        "HSS"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts-254607/"
+        }
+      ]
+    },
+    {
+      "title": "3D AI 工具 Meshy 7 發佈：提升幾何對齊與輪廓結構精準度",
+      "category": "軟件",
+      "summary": "生成式 AI 建模平台 Meshy 推出 Meshy 7 版本，著力解決 3D 模型幾何對齊與結構忠實度等問題。該版本引入了多尺度圖像編碼器與精煉數據集管道，能生成更精確的輪廓並消除模型扭曲。",
+      "why_it_matters": "AI 生成模型幾何質量的持續提升，有助於直接產出更符合 3D 列印要求的實體資產。",
+      "tags": [
+        "Meshy",
+        "AI建模",
+        "生成式AI"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331847/meshy-7-all-the-fingers-and-toes/"
+        }
+      ]
+    },
+    {
+      "title": "ATLIX 發佈金屬增材製造品牌新形象；業界關注拓竹科技網絡安全",
+      "category": "產業",
+      "summary": "前身為 TRUMPF Additive Manufacturing 的 ATLIX 宣佈推出全新的增材製造品牌形象，將其工業級雷射粉末床熔融（LPBF）產品系列更名為 xBUILD。同時，行業新聞摘要亦涵蓋了針對拓竹科技（Bambu Lab）網絡安全議題的最新討論。",
+      "why_it_matters": "涵蓋了工業金屬列印大廠品牌重組以及消費級龍頭設備網絡安全等行業關注焦點。",
+      "tags": [
+        "ATLIX",
+        "Bambu Lab",
+        "網絡安全",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332432/3d-printing-news-briefs-9-12-2026/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 17
+}
