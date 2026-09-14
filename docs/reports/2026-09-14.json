@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T01:04:50.746Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 | 2026-09-14",
+  "summary": "今日 3D 列印焦點涵蓋 Apple 於全新摺疊裝置中採用 3D 列印軸承蓋組件、現代汽車引進 ExOne 大尺寸 HSS 工業級 3D 列印系統，以及 AI 建模工具 Meshy 7 的最新發佈。此外，TRUMPF AM 重組更名為 ATLIX、中國 VMP 加速金屬粉末佈局，以及英國慈善團體推行視障父母 3D 列印超聲波模型等應用亦值得關注。",
+  "items": [
+    {
+      "title": "Apple 首款摺疊裝置「Duo」採用 3D 列印軸承保護蓋",
+      "category": "應用",
+      "summary": "Apple 在新任 CEO John Ternus 主導下發表首款摺疊裝置 Duo，當中採用了 3D 列印技術製造軸承保護蓋。這標誌著大型消費電子巨頭正式在旗艦量產硬件中採用增材製造技術。",
+      "why_it_matters": "顯示增材製造在消費級電子產品關鍵結構件上的商業化應用邁向新里程。",
+      "tags": [
+        "Apple",
+        "消費電子",
+        "軸承",
+        "硬件应用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332349/apples-3d-printed-hinge-cover-the-inauguration-of-the-ternus-era/"
+        }
+      ]
+    },
+    {
+      "title": "現代汽車 Namyang 研發中心引進 ExOne 大尺寸 HSS 3D 列印系統",
+      "category": "應用",
+      "summary": "韓國現代汽車（Hyundai）在其 Namyang 研發中心安裝了兩台由 ExOne 製造的 VX1000 HSS 高速燒結聚合物 3D 列印機。該系統採用紅外線吸收墨水配合 PA12 粉末進行逐層燒結，用於製作全尺寸汽車零部件。",
+      "why_it_matters": "有助加快汽車製造商原型製作與全尺寸零部件的量產研發效率。",
+      "tags": [
+        "Hyundai",
+        "ExOne",
+        "HSS",
+        "汽車製造",
+        "工業應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts-254607/"
+        }
+      ]
+    },
+    {
+      "title": "3D AI 建模工具 Meshy 7 發佈 提升幾何對齊與結構精準度",
+      "category": "軟件",
+      "summary": "生成式 AI 3D 建模工具 Meshy 7 正式發佈，導入多尺度影像編碼器與優化數據集流程，旨在解決過往模型背面變形及幾何對齊不良的問題。新版本能產生更精確的輪廓，為 3D 列印與建模提供更高精度的基礎模型。",
+      "why_it_matters": "生成式 AI 3D 工具精度提升，能大幅降低 Maker 及設計師前段建模的時間成本。",
+      "tags": [
+        "Meshy",
+        "AI",
+        "3D建模",
+        "生成式AI",
+        "軟件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331847/meshy-7-all-the-fingers-and-toes/"
+        }
+      ]
+    },
+    {
+      "title": "TRUMPF AM 更名為 ATLIX 並推出全新 xBUILD 工業金屬 3D 列印系列",
+      "category": "產業",
+      "summary": "原 TRUMPF 增材製造部門重組並更名為 ATLIX，同時將旗下工業級雷射粉末床熔融（LPBF）產品線 TruPrint 重新命名為 xBUILD。簡報同時提及工業金屬 AM 的質量管理及 Bambu Lab 的網絡安全議題。",
+      "why_it_matters": "金屬增材製造巨頭品牌的重組反映出工業級 3D 列印市場競爭策略的調整。",
+      "tags": [
+        "ATLIX",
+        "TRUMPF",
+        "金屬3D列印",
+        "LPBF",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332432/3d-printing-news-briefs-9-12-2026/"
+        }
+      ]
+    },
+    {
+      "title": "中國金屬粉末廠商 VMP 擴大投資 搶佔增材製造高階合金市場",
+      "category": "材料",
+      "summary": "年營收達 5,100 萬美元的中國粉末生產商 VMP 計劃配合「十五五」規劃，加大對增材製造高階材料的投資。公司目標是打破過往低價供應商形象，建立涵蓋特種鋼、高溫合金等先進材料的自主垂直整合供應鏈。",
+      "why_it_matters": "金屬 3D 列印粉末供應鏈轉向高階自主化，將影響全球金屬增材製造材料市場格局。",
+      "tags": [
+        "VMP",
+        "金屬粉末",
+        "增材製造",
+        "材料科技",
+        "供應鏈"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331447/51-million-revenue-vmp-wants-to-become-a-leading-additive-manufacturing-metal-powder-producer/"
+        }
+      ]
+    },
+    {
+      "title": "英國 Guide Dogs 推 First Hello 計劃 為視障父母 3D 列印胎兒超聲波圖",
+      "category": "應用",
+      "summary": "英國視障慈善機構 Guide Dogs 推出「First Hello」試驗計劃，將超聲波掃描圖轉化為觸覺 3D 列印模型，讓視障新手父母能夠透過觸覺感受胎兒形態。調查顯示當地逾半數視障人士希望產檢能具備更高的包容性。",
+      "why_it_matters": "展示 3D 列印在醫療及無障礙輔具領域的溫情人文應用與社群價值。",
+      "tags": [
+        "無障礙",
+        "醫療應用",
+        "3D列印超聲波",
+        "公益",
+        "觸覺模型"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332478/uk-charity-3d-prints-ultrasounds-for-visually-impaired-parents/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 7
+}
