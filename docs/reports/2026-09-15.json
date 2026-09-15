@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T01:28:02.700Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報（2026年9月15日）",
+  "summary": "今日情報聚焦於工業級大型 FDM 與 WAAM 複合製造機台的發佈，牙科與醫療領域在 FDA 認證材料與客製化裝置上的新突破，以及 3D 列印在基礎設施及無障礙領域的創新應用。",
+  "items": [
+    {
+      "title": "Stratasys 發佈 F870 大型 FDM 3D 列印機",
+      "category": "硬件",
+      "summary": "Stratasys 正式推出全新的 F870 大型 FDM 3D 列印系統，專門為汽車、航空航天及國防製造商設計，旨在推動增材製造直接進入生產線現場。豐田汽車（Toyota）與 Rivian 車廠在商用發售前已率先引進並評估該平台。此機台大幅提升了生產規模與工業級零件的製造效率。",
+      "why_it_matters": "這代表大型 FDM 技術正加速由樣品製作轉向工廠產線直接生產。",
+      "tags": [
+        "Stratasys",
+        "FDM",
+        "工業製造",
+        "汽車應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/stratasys-launches-f870-large-format-fdm-printer-254617/"
+        }
+      ]
+    },
+    {
+      "title": "Mazak 夥拍橡樹嶺國家實驗室開發 WAAM 增材與數控加工複合平台",
+      "category": "硬件",
+      "summary": "Mazak 與美國橡樹嶺國家實驗室（ORNL）合作開發出一款複合金屬增材製造平台，將電弧增材製造（WAAM）與高精度數控加工整合於同一工作流中。該平台採用兩台 Mazak VC-Ez 20X 垂直加工中心，能幫助製造商在維持品質的同時，以更短的交付時間生產高多樣性、低批量的金屬零件。",
+      "why_it_matters": "混合製造（WAAM + CNC）能大幅縮短大型金屬件的加工週期與成本。",
+      "tags": [
+        "Mazak",
+        "WAAM",
+        "金屬3D列印",
+        "CNC複合加工"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mazaks-vc-ez-20x-machines-power-new-waam-additive-manufacturing-platform-254626/"
+        }
+      ]
+    },
+    {
+      "title": "SprintRay 推出 Midas Restore 陶瓷氧化鋯修復樹脂",
+      "category": "材料",
+      "summary": "SprintRay 發表通過 FDA 認證的 Midas Restore 牙科修復樹脂，內含玻璃陶瓷與氧化鋯填料，專為 Midas 數位壓製機設計。該材料將 3D 列印應用擴展至永久性陶瓷牙冠、嵌體、包體及貼面製作。診所可在單次就診內即時完成客製化牙科修復物列印。",
+      "why_it_matters": "椅旁（Chairside）即日牙科修復材料邁向高強度陶瓷氧化鋯複合新階段。",
+      "tags": [
+        "SprintRay",
+        "牙科3D列印",
+        "醫療材料",
+        "FDA認證"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sprintray-launches-midas-restore-a-ceramic-zirconia-material-for-same-visit-restorations-254635/"
+        }
+      ]
+    },
+    {
+      "title": "Kallisio 啟動頭頸癌 3D 列印醫療裝置 Stentra 擴大存取計畫",
+      "category": "應用",
+      "summary": "個人化癌症醫療科技公司 Kallisio 啟動了一項擴大存取計畫，旨在協助頭頸癌患者取得其獲得 FDA 510(k) 認證的客製化 3D 列印口腔裝置 Stentra。該裝置用於放射治療期間保護正常組織，新計畫讓尚未引進該技術的治療中心的患者亦能直接申請使用。",
+      "why_it_matters": "透過擴大存取計畫能加速 3D 列印個人化醫療裝置在臨床端普及。",
+      "tags": [
+        "Kallisio",
+        "醫療應用",
+        "癌症治療",
+        "FDA認證"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/kallisio-moves-to-close-adoption-gap-for-3d-printed-head-and-neck-cancer-device-254611/"
+        }
+      ]
+    },
+    {
+      "title": "Selle Italia 推出基於個人壓力數據的 Unica 3D 列印單車鞍座",
+      "category": "應用",
+      "summary": "知名單車配件品牌 Selle Italia 推出名為 Unica 的 3D 列印鞍座（座墊）。與過去劃分固定緩衝區域的產品不同，Unica 根據個別騎士的實際壓力分布數據進行構建。該產品提供 SLR 3D 與 Novus Boost Evo 3D 兩種經典形狀，並可搭配碳纖維或 Elite 軌道。",
+      "why_it_matters": "展示了運動器材如何利用 3D 列印實現真正的數據驅動個人化客制。",
+      "tags": [
+        "Selle Italia",
+        "單車鞍座",
+        "消費品",
+        "個人化數據"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle-254631/"
+        }
+      ]
+    },
+    {
+      "title": "瑞典利用混凝土 3D 列印建造滑雪纜車基座",
+      "category": "應用",
+      "summary": "在瑞典 Hemavan，Hyperion Robotics 的混凝土 3D 列印技術被應用於興建滑雪纜車的基礎結構。相比起傳統建造方式，在偏遠或地形複雜地區採用 3D 列印基礎設施能節省大量運輸與工時成本。這項實踐顯示出 3D 列印在建材與遙遠地區土木工程中的實用潛力。",
+      "why_it_matters": "證明 3D 列印建築技術在偏遠地區基礎設施建設中具有極高的成本效益。",
+      "tags": [
+        "建築3D列印",
+        "Hyperion Robotics",
+        "基礎設施",
+        "混凝土列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332224/ski-lift-foundations-made-with-3d-printing-in-hemavan-sweden/"
+        }
+      ]
+    },
+    {
+      "title": "英國慈善機構 Guide Dogs 為視障準父母 3D 列印胎兒超聲波模型",
+      "category": "應用",
+      "summary": "英國視障慈善機構 Guide Dogs 推出名為「First Hello」的試行計畫，將 B 超（超聲波）掃描圖轉換並 3D 列印成觸覺模型。這讓視障準父母能夠透過觸覺感受胎兒的輪廓與模樣，享受與健視人士相同的懷孕里程碑體驗。調研顯示逾半數視障受訪者希望能有更無障礙的產檢體驗。",
+      "why_it_matters": "體現了 3D 列印技術在無障礙關懷與社會公益層面的溫暖應用。",
+      "tags": [
+        "無障礙應用",
+        "公益項目",
+        "醫療模型",
+        "觸覺感知"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332478/uk-charity-3d-prints-ultrasounds-for-visually-impaired-parents/"
+        }
+      ]
+    },
+    {
+      "title": "ATLIX 完成品牌重塑 將 TruPrint 金屬 3D 列印系列更名為 xBUILD",
+      "category": "產業",
+      "summary": "工業級金屬雷射粉末床熔融（LPBF）廠商 ATLIX（前身為 TRUMPF Additive Manufacturing）宣佈全面更新品牌識別。作為重塑計畫的一部分，該公司旗下著名的 TruPrint 工業級設備產品線正式統一更名為 xBUILD，並賦予全新的視覺形象與高管團隊安排。",
+      "why_it_matters": "歐洲主要金屬 3D 列印設備商重組品牌結構，反映出金屬增材市場的轉型與競爭。",
+      "tags": [
+        "ATLIX",
+        "TRUMPF",
+        "金屬3D列印",
+        "品牌重塑"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332432/3d-printing-news-briefs-9-12-2026/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 11
+}
