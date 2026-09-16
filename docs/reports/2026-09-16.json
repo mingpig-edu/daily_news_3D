@@ -1,0 +1,194 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T01:25:11.792Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "彙整 2026 年 9 月 16 日的 3D 列印產業焦點，涵蓋 Creality 與 HeyGears 的新硬體發表、太空科研建材、醫療應用突破及產業融資等重要動態。",
+  "items": [
+    {
+      "title": "Creality 於 IFA 2026 發表 K3 與 SPARKX i8 等多元生態陣容",
+      "category": "硬件",
+      "summary": "Creality 在柏林 IFA 2026 展會上推出包含 K3、SPARKX i8 在內的全新 3D 列印與數位製造產品線。新系列橫跨多色列印、耗材回收、樹脂列印、3D 掃描、雷射加工及 3D 列印鞋類，展現其拓展桌上型生態系的企圖心。",
+      "why_it_matters": "顯示平價多色與周邊整合生態系正持續成為桌上型 3D 列印市場的主流發展方向。",
+      "tags": [
+        "Creality",
+        "IFA 2026",
+        "多色列印",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/creality-introduces-k3-sparkx-i8-and-new-product-lineup-at-ifa-2026-254664/"
+        }
+      ]
+    },
+    {
+      "title": "HeyGears 推出 Reflex RS Turbo 樹脂 3D 列印機",
+      "category": "硬件",
+      "summary": "HeyGears 發布全新 Reflex RS Turbo，旨在結合高效率樹脂 3D 列印與精準的光學控制及自動化工作流程。該設備專為模型、公仔與精細原型設計，確保在提升列印速度的同時不犧牲精細度。",
+      "why_it_matters": "為高精度樹脂列印市場帶來兼顧速度與微小細節表現的新硬體選擇。",
+      "tags": [
+        "HeyGears",
+        "樹脂3D列印",
+        "光固化",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332605/heygears-reflex-rs-turbo-sets-a-new-standard-for-resin-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "香港科技大學團隊以酵母與火星岩塵列印太空建築材料",
+      "category": "科研",
+      "summary": "香港科技大學由土木工程師 Jishen Qiu 帶領的團隊，成功開發出一種利用火星土壤混合酵母與明膠等成分的 3D 可列印建築材料。經測試，其抗壓強度已達到與傳統材料相當的水準。",
+      "why_it_matters": "為未來太空探索與異星原位資源利用（ISRU）提供了創新的生物基 3D 列印建築方案。",
+      "tags": [
+        "HKUST",
+        "火星建築",
+        "生物材料",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hkust-print-mars-housing-from-yeast-gelatine-and-rock-dust-254674/"
+        }
+      ]
+    },
+    {
+      "title": "Impossible Objects 獲得 4000 萬美元 B 輪融資擴展工業級技術",
+      "category": "產業",
+      "summary": "先進製造技術公司 Impossible Objects 宣布完成 4000 萬美元的 B 輪融資，由 Inflection Equity 領投。此資金將用於擴展其工業級 3D 列印技術，此前該公司已取得美國政府針對國防與航太應用的 2000 萬美元合約。",
+      "why_it_matters": "反映出複合材料與高效工業級 3D 列印技術在國防與航太領域的採用率持續上升。",
+      "tags": [
+        "Impossible Objects",
+        "融資",
+        "產業動態",
+        "航太"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/from-prototyping-to-production-impossible-objects-lands-40m-series-b-254689/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 聯手七大殘疾組織啟動 MakerWorld 無障礙設計挑戰賽",
+      "category": "開源",
+      "summary": "Bambu Lab 聯手全球七大無障礙組織，在 MakerWorld 社群發起為期數月的全球設計挑戰賽。活動旨在號召創作者利用 3D 列印為身心障礙人士開發具實際使用價值的日常輔具物件。",
+      "why_it_matters": "推動開源社群與公益組織合作，落實 3D 列印技術在日常生活無障礙輔具上的應用。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "開源社群",
+        "應用"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/seven-organizations-one-maker-community-3d-printing-in-the-service-of-accessibility/"
+        }
+      ]
+    },
+    {
+      "title": "Kallisio 擴大頭頸癌 3D 列印醫療器械 Stentra 的普及計畫",
+      "category": "應用",
+      "summary": "個人化癌症醫療科技公司 Kallisio 推出一項擴大獲取計畫，旨在將獲得美國 FDA 批准的客製化 3D 列印頭頸癌放射治療口腔裝置 Stentra 推廣給更多符合條件的患者。",
+      "why_it_matters": "有助於縮小癌症患者獲得前沿個體化 3D 列印醫療器械的渠道差距。",
+      "tags": [
+        "醫療3D列印",
+        "癌症治療",
+        "FDA",
+        "應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/kallisio-moves-to-close-adoption-gap-for-3d-printed-head-and-neck-cancer-device-254611/"
+        }
+      ]
+    },
+    {
+      "title": "奈及利亞國家科學與工程基礎設施局計畫建立首座金屬增材製造中心",
+      "category": "產業",
+      "summary": "奈及利亞國家科學與工程基礎設施局（NASENI）宣布計畫建設該國首座金屬增材製造中心。此舉旨在減少奈及利亞對進口工業零件的依賴，並建立國內的金屬 3D 列印生產能力。",
+      "why_it_matters": "顯示新興經濟體正積極透過金屬 3D 列印技術來強化本土關鍵工業零組件的製造韌性。",
+      "tags": [
+        "金屬3D列印",
+        "奈及利亞",
+        "產業發展"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/naseni-unveils-plans-for-nigerias-first-metal-additive-manufacturing-hub-254647/"
+        }
+      ]
+    },
+    {
+      "title": "英國導盲犬慈善機構推出盲人父母免費 3D 列印觸覺超音波模型",
+      "category": "應用",
+      "summary": "英國視障慈善機構 Guide Dogs 推出了名為「First Hello」的先導計畫，為視障準父母免費提供胎兒超音波掃描的 3D 列印觸覺模型，讓他們能透過觸摸感受未出生孩子的輪廓。",
+      "why_it_matters": "體現了 3D 列印技術在提升弱勢群體生活體驗與人文關懷上的社會價值。",
+      "tags": [
+        "醫療應用",
+        "慈善",
+        "3D列印模型"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/uk-charity-launches-free-3d-printed-tactile-ultrasounds-for-blind-parents-254682/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}

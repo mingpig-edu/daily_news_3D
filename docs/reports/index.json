@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-15",
+  "latest": "2026-09-16",
   "reports": [
+    {
+      "date": "2026-09-16",
+      "file": "2026-09-16.json",
+      "generated_at": "2026-09-16T01:25:11.792Z",
+      "items": 8,
+      "model": "gemini-3.5-flash-lite",
+      "mode": "rss-plus-gemini"
+    },
     {
       "date": "2026-09-15",
       "file": "2026-09-15.json",
