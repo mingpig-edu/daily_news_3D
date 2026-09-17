@@ -1,0 +1,163 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T01:25:32.658Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-09-17",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（Unterminated string in JSON at position 1342 (line 1 column 1343)）。",
+  "items": [
+    {
+      "title": "Metal 3D Printers for the Desktop Are Finally Starting to Feel Like Desktop Products",
+      "category": "材料",
+      "summary": "FDM 3D printing is becoming increasingly accessible, yet metal 3D printers designed for everyday desktop use remain rare on an ordinary workbench. The real challenge is not making a metal printer small enough to fit on a desk. It is redesigning powder handling, environmental cont",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "FDM",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332624/metal-3d-printers-for-the-desktop-are-finally-starting-to-feel-like-desktop-products/"
+        }
+      ]
+    },
+    {
+      "title": "SWISSto12 Partners with Mitsubishi Electric Corporation",
+      "category": "硬件／產業",
+      "summary": "SWISSto12 will partner with Mitsubishi Electric Corporation. The duo has signed a memorandum of understanding (MoU) covering manufacturing payloads, RF products, and expansion in Asia. SWISSto12 will also manufacture phased-array antenna products for Japan’s GEO secure programs. ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332612/swissto12-partners-with-mitsubishi-electric-corporation/"
+        }
+      ]
+    },
+    {
+      "title": "Impossible Objects Closes $40M Series B",
+      "category": "硬件／產業",
+      "summary": "The Pentagon, along with deep-pocketed collaborators in the private sector, is urgently coordinating the buildup of all the elements necessary for a domestic US drone supply chain. Even so, those in the department most directly responsible for accelerating innovation have caution",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332587/impossible-objects-closes-40m-series-b/"
+        }
+      ]
+    },
+    {
+      "title": "The 3D Printing Opportunity in UGVs",
+      "category": "硬件／產業",
+      "summary": "In 2024, IperionX partnered with fastener firm Vegas Fasteners to jointly make fasteners for the US Army Ground Vehicle Systems Center (GVSC). That DEVCOM component has been hit by funding reductions as attention shifts to drones and missiles. But still, they’re trying to fund ro",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331577/the-3d-printing-opportunity-in-ugvs/"
+        }
+      ]
+    },
+    {
+      "title": "Full-Color Looks Great on 3D Printed Sliding Puzzles",
+      "category": "材料",
+      "summary": "[Angus] of [Maker’s Muse] shows off both a parametric, print-in-place sliding puzzle design he created, and the results of UV printing full-color designs on the same. The results look beautiful , and there was a whole lot of trial and error involved in the process. The design inc",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/09/16/full-color-looks-great-on-3d-printed-sliding-puzzles/"
+        }
+      ]
+    },
+    {
+      "title": "From Digital Design to Physical Expression: Aliencell and CHITUBOX Introduce E1",
+      "category": "軟件／開源",
+      "summary": "As digital fabrication tools continue to evolve, creators are redefining what it means to “finish” a piece of work. For many users, creation no longer ends with modeling, slicing, and previewing on a screen. It continues in the real world through fabrication, personalization, and",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/from-digital-design-to-physical-expression-aliencell-and-chitubox-introduce-e1-254706/"
+        }
+      ]
+    },
+    {
+      "title": "AEVEX Aerospace and Divergent Technologies Team Up to Speed Autonomous Drone Production",
+      "category": "材料",
+      "summary": "U.S. defense technology company AEVEX Aerospace and Divergent Technologies announced a strategic collaboration to pair AEVEX’s operational experience in fielded unmanned aircraft with Divergent’s digital manufacturing platform, aiming to compress the timeline between concept and ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/aevex-aerospace-and-divergent-technologies-team-up-to-speed-autonomous-drone-production-254650/"
+        }
+      ]
+    },
+    {
+      "title": "Fronius launches integrated Additive Cell for automated WAAM production",
+      "category": "軟件／開源",
+      "summary": "Fronius, an Austrian welding technology and automation company, has launched the Fronius Additive Cell, a turnkey Wire Arc Additive Manufacturing (WAAM) system combining welding hardware, robotic automation and additive-specific software. Designed for industrial metal 3D printing",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/fronius-launches-integrated-additive-cell-for-automated-waam-production-254641/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
