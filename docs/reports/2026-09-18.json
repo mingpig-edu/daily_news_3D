@@ -1,0 +1,184 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T01:16:59.860Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "2026年9月18日最新情報：全球3D列印市場第二季規模突破44.8億美元，保持強勁增長；硬件方面 SnowX 展出桌面 SLM 金屬列印機，黑格科技推出新一代光固化設備；航天與國防應用亦有顯著進展。",
+  "items": [
+    {
+      "title": "全球 3D 列印市場 Q2 規模達 44.8 億美元，連續六季增長",
+      "category": "產業",
+      "summary": "根據 AM Research 最新發佈的市場報告，全球金屬、聚合物與陶瓷 3D 列印系統、材料及服務在 2026 年第二季總收入達到 44.8 億美元，按年增長 12%。這標誌著增材製造產業已連續六個季度保持穩定擴張態勢。",
+      "why_it_matters": "數據反映 3D 列印產業已擺脫過往大幅波動，邁入更可預測且具持續性的成長階段。",
+      "tags": [
+        "3D列印市場",
+        "AM Research",
+        "產業趨勢",
+        "增材製造"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332850/3d-printing-market-hits-4-48b-after-six-straight-quarters-of-growth/"
+        }
+      ]
+    },
+    {
+      "title": "SnowX 發表 SnowPod 桌面級 SLM 金屬 3D 列印機",
+      "category": "硬件",
+      "summary": "新興品牌 SnowX 在社群平台展示採用選擇性激光熔化（SLM）技術的桌面金屬 3D 列印機 SnowPod。設備重點改良了金屬粉末處理、環境控制與後處理流程，致力簡化操作流程並提升安全防護。",
+      "why_it_matters": "大幅降低金屬 3D 列印進入工作室與小型的門檻，推動精密金屬製造小型化。",
+      "tags": [
+        "SnowX",
+        "SnowPod",
+        "金屬3D列印",
+        "SLM",
+        "桌面硬件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332624/metal-3d-printers-for-the-desktop-are-finally-starting-to-feel-like-desktop-products/"
+        }
+      ]
+    },
+    {
+      "title": "黑格科技推出 HeyGears Reflex RS Turbo 光固化 3D 列印機",
+      "category": "硬件",
+      "summary": "黑格科技發表 Reflex RS Turbo 樹脂 3D 列印機，結合高效光學控制系統與自動化工作流程。該機器能在大幅提高列印速度的同時保持高精細度，滿足公仔模型、微縮模型及工程樣板的生產需求。",
+      "why_it_matters": "為高精度樹脂打印提供兼具高速輸出與自動化品質穩定的全新解決方案。",
+      "tags": [
+        "HeyGears",
+        "黑格科技",
+        "光固化",
+        "樹脂列印",
+        "3D列印機"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332605/heygears-reflex-rs-turbo-sets-a-new-standard-for-resin-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "Impossible Objects 完成 4,000 萬美元 B 輪融資",
+      "category": "產業",
+      "summary": "美國專注於複合材料增材製造（CBAM）技術的 Impossible Objects 宣佈完成 4,000 萬美元 B 輪融資。資金將主要用於支持美國國防部建構本土無人機供應鏈，提高高強度複合材料組件的產能。",
+      "why_it_matters": "凸顯複合材料 3D 列印技術在軍用無人機及國防供應鏈快速轉型中的戰略價值。",
+      "tags": [
+        "Impossible Objects",
+        "CBAM",
+        "複合材料",
+        "無人機",
+        "國防製造"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332587/impossible-objects-closes-40m-series-b/"
+        }
+      ]
+    },
+    {
+      "title": "SWISSto12 與三菱電機合作生產 3D 列印衛星天線載荷",
+      "category": "應用",
+      "summary": "瑞士 SWISSto12 與日本三菱電機簽署合作備忘錄，結合衛星系統整合經驗與 3D 列印專利技術，共同開發衛星通訊載荷。SWISSto12 將為日本 GEO 安全計畫生產相控陣天線組件，深化亞洲航天市場佈局。",
+      "why_it_matters": "證實 3D 列印的精密射頻組件已獲得國家級高安全性衛星通訊系統採用。",
+      "tags": [
+        "SWISSto12",
+        "三菱電機",
+        "航天",
+        "衛星天線",
+        "3D列印應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332612/swissto12-partners-with-mitsubishi-electric-corporation/"
+        }
+      ]
+    },
+    {
+      "title": "拓竹 MakerWorld 攜手七大機構發起無障礙設計競賽",
+      "category": "開源",
+      "summary": "Bambu Lab 旗下模型平台 MakerWorld 聯合全球七家國際無障礙組織，推出 Make for Good 設計挑戰賽。競賽動員全球 Maker 社群為身心障礙人士研發實用的日常生活輔具模型，活動將持續至 2026 年底。",
+      "why_it_matters": "發揮開源 3D 列印社群的客製化創作力，直接轉化為改善弱勢社群生活的實用工具。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "無障礙設計",
+        "Maker社群",
+        "開源模型"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/seven-organizations-one-maker-community-3d-printing-in-the-service-of-accessibility/"
+        }
+      ]
+    },
+    {
+      "title": "緬因大學發表 30 呎長 3D 列印船艇 3Dirigo X",
+      "category": "科研",
+      "summary": "美國緬因大學進階結構與複合材料中心（ASCC）成功下水測試高性能 3D 列印船艇 3Dirigo X。該艘長達 30 呎的船艇專為航行於近海極端環境而設，最高航速接近 40 節，展示了大尺寸增材製造技術在海洋工程的實用進展。",
+      "why_it_matters": "展現大尺寸複合材料 3D 列印在大型結構與海事工具製造上的技術突破。",
+      "tags": [
+        "緬因大學",
+        "3Dirigo X",
+        "大型3D列印",
+        "海洋工程",
+        "科研應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332517/3d-printing-news-briefs-9-17-2026/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 415"
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 12
+}
