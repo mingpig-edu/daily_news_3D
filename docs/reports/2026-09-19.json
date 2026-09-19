@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T01:09:55.537Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-19)",
+  "summary": "今日焦點涵蓋 Stratasys 在與 Bambu Lab 的重大專利訴訟中勝訴並獲判賠償 2,760 萬美元；Prusa 推出比常規 PLA 輕達 65% 的發泡輕量化耗材；英國國防部與 Alloyed 於七個月內完成 3D 列印渦輪噴射引擎試飛；以及全球增材製造市場連續六季成長，規模達 44.8 億美元。",
+  "items": [
+    {
+      "title": "Stratasys 專利訴訟勝訴，陪審團裁定 Bambu Lab 賠償 2,760 萬美元",
+      "category": "產業",
+      "summary": "美國德州聯邦法院陪審團在一項重大專利訴訟中裁定，四家與 Bambu Lab 相關的公司侵犯了 Stratasys 的四項 3D 列印專利，並判定 Bambu Lab 須支付約 2,760 萬美元的過往損害賠償。陪審團同時駁回了 Bambu Lab 關於專利無效的抗辯，且認定其侵權行為屬於蓄意性質。",
+      "why_it_matters": "這是消費級與工業級 3D 列印龍頭之間最具指標性的專利戰，其判決結果可能重塑全球桌面 FDM 印表機的市場格局及技術授權規範。",
+      "tags": [
+        "Stratasys",
+        "Bambu Lab",
+        "專利訴訟",
+        "FDM",
+        "知識產權"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333013/stratasys-wins-27-6m-in-patent-case-against-bambu-lab/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa 發表 Prusament PLA Lightweight：主動發泡技術減重達 65%",
+      "category": "材料",
+      "summary": "Prusa 宣布擴充耗材產品線，正式推出 Prusament PLA Lightweight 主動發泡材料。該材料在噴嘴加熱時會觸發添加劑膨脹，使擠出聚合物密度大幅降低，整體重量比常規 PLA 減輕多達 65%。官方特別推薦該耗材用於遙控航模、角色扮演道具等對重量極為敏感的模型製造。",
+      "why_it_matters": "為無人機、航模及大型道具製作社群帶來原廠級穩定發泡耗材，在維持結構外型的同時大幅減輕成品負重。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "PLA Lightweight",
+        "發泡耗材",
+        "3D列印材料"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusament-pla-lw-65-lighter-than-regular-pla-perfect-choice-for-aircraft-cosplay-and-more_138059/"
+        }
+      ]
+    },
+    {
+      "title": "英國國防部與 Alloyed 合作，3D 列印渦輪噴射引擎 7 個月內完成試飛",
+      "category": "應用",
+      "summary": "英國國防部（MOD）與製造初創公司 Alloyed 宣布，其合作研發的新型渦輪噴射引擎從最初概念設計到完成實際飛行測試僅耗時不到七個月。該計畫旨在為英國防衛系統建立本土化、可快速擴產的自主推進製造能力，目前已產出一系列適用於不同平台的引擎型號。",
+      "why_it_matters": "展示了金屬增材製造大幅壓縮複雜航太動力系統研發周期的能力，加速國防供應鏈在地化生產布局。",
+      "tags": [
+        "Alloyed",
+        "航太",
+        "渦輪引擎",
+        "國防製造",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mod-alloyed-take-new-turbojet-engine-from-concept-to-flight-in-under-seven-months-254767/"
+        }
+      ]
+    },
+    {
+      "title": "桌面級金屬 SLM 印表機 SnowPod 亮相，主打簡化粉末處理流程",
+      "category": "硬件",
+      "summary": "由 SnowX 開發的新款金屬 3D 印表機 SnowPod 於社群平台曝光，該設備採用選擇性激光熔融（SLM）技術並鎖定日常工作枱場景。SnowPod 針對傳統金屬列印中最棘手的金屬粉末處理、環境控制與後處理進行了重新設計，著重解決粉末防護與操作安全難題。",
+      "why_it_matters": "標誌著金屬 3D 列印正嘗試由工業廠房逐步走向常規工作坊，大幅降低用戶操作危險粉末的門檻。",
+      "tags": [
+        "SnowPod",
+        "SLM",
+        "金屬3D列印",
+        "桌面級",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332624/metal-3d-printers-for-the-desktop-are-finally-starting-to-feel-like-desktop-products/"
+        }
+      ]
+    },
+    {
+      "title": "全球 3D 列印市場連續六季增長，2026 年 Q2 規模達 44.8 億美元",
+      "category": "產業",
+      "summary": "根據 Additive Manufacturing Research 最新發布的市場數據，2026 年第二季全球增材製造市場規模達到 44.8 億美元，實現連續第六個季度成長。該季營收涵蓋金屬、聚合物與陶瓷系統、材料及服務，相較去年同期增長 12%，顯示產業擴張節奏維持穩健。",
+      "why_it_matters": "反映增材製造市場正擺脫先前的不確定性，朝向可持續且成熟的商業化生產階段穩步推進。",
+      "tags": [
+        "市場報告",
+        "AM Research",
+        "產業動態",
+        "市場增長"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332850/3d-printing-market-hits-4-48b-after-six-straight-quarters-of-growth/"
+        }
+      ]
+    },
+    {
+      "title": "瑞士研究團隊 3D 列印地形模型，模擬研究致命雪崩與崩塌動態",
+      "category": "科研",
+      "summary": "瑞士雪與雪崩研究所（SLF）聯同蘇黎世聯邦理工學院（ETH Zurich）的研究人員，利用 3D 列印技術精確重現了 Blatten 村莊周邊的實體地貌。該村莊於 2025 年曾遭岩崩重創，科學家利用此微縮地形模型來研究岩石、冰與水混合物在真實山地環境中的運動機制。",
+      "why_it_matters": "體現了高精度 3D 列印在地理科研與防災模擬中的實際應用價值，有助改善自然災害預警模型。",
+      "tags": [
+        "ETH Zurich",
+        "SLF",
+        "地形模型",
+        "防災科研",
+        "學術應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/a-miniature-blatten-3d-printed-terrain-recreates-a-deadly-avalanche-254777/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 於 MakerWorld 推出無障礙輔助器具全球 3D 列印挑戰賽",
+      "category": "開源",
+      "summary": "Bambu Lab 與七家無障礙倡導組織合作，在旗下模型平台 MakerWorld 發起全球輔具設計挑戰賽，活動預計持續至 2026 年 12 月。競賽將陸續釋出 24 個具體設計需求，號召創作者設計可直接列印的實用器具，協助身障人士解決日常生活難題。",
+      "why_it_matters": "善用龐大的創客社群能量，推動開源無障礙輔具的實用化設計與普及。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "輔助器具",
+        "開源社群",
+        "設計挑戰賽"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-lab-launches-global-3d-printing-challenge-for-assistive-devices-254787/"
+        }
+      ]
+    },
+    {
+      "title": "ugee 推出兒童 AI 繪圖板 ArtPlay Pad，支援 2D 草圖一鍵轉 3D 列印",
+      "category": "硬件",
+      "summary": "數位創意品牌 ugee 推出專為兒童設計的 ArtPlay Pad 繪圖平板。該裝置結合壓感手寫筆與 AI 生成功能，能將兒童繪製的 2D 草圖一鍵轉換為 3D 模型，並可直接導出至該品牌自家的兒童 3D 列印機進行實體列印。",
+      "why_it_matters": "將生成式 AI 與 3D 列印硬件高度整合，進一步降低年輕學習者在 3D 建模與創客教育上的操作門檻。",
+      "tags": [
+        "ugee",
+        "AI繪圖",
+        "兒童教育",
+        "3D列印機",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ugee-launches-ai-powered-drawing-tablet-for-children-254782/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
