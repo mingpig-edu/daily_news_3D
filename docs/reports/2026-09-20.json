@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T01:08:57.160Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報（2026-09-20）",
+  "summary": "今日重點關注 Stratasys 與拓竹（Bambu Lab）專利訴訟案判決、Prusa 推出全新輕量化發泡耗材 Prusament PLA Lightweight，以及英國國防部在 7 個月內成功測試 3D 列印渦輪噴射引擎等多項重磅產業與技術動態。",
+  "items": [
+    {
+      "title": "Stratasys 勝訴拓竹專利案 獲判 2,760 萬美元賠償",
+      "category": "產業",
+      "summary": "美國德州聯邦陪審團裁定，拓竹（Bambu Lab）相關公司侵犯了 Stratasys 的四項 3D 列印技術專利，並駁回了拓竹關於專利無效的申訴。陪審團判處拓竹須支付 2,760 萬美元的過去損害賠償，並認定其侵權行為屬故意侵權。",
+      "why_it_matters": "這是桌面級 3D 列印龍頭與工業巨頭之間極具代表性的專利判決，對消費級 3D 列印產業的技術研發與專利佈局影響深遠。",
+      "tags": [
+        "Stratasys",
+        "Bambu Lab",
+        "專利訴訟",
+        "侵權",
+        "法律"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333013/stratasys-wins-27-6m-in-patent-case-against-bambu-lab/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa 推出 Prusament PLA Lightweight 輕量化發泡耗材",
+      "category": "材料",
+      "summary": "Prusa 正式擴充其官方耗材產品線，推出 Prusament PLA Lightweight 主動發泡材料。該材料在加熱噴嘴擠出時會觸發添加劑膨脹，使列印成品的重量比普通 PLA 減少高達 65%。",
+      "why_it_matters": "為遙控飛機、Cosplay 道具及對重量敏感的 Maker 項目提供更輕量、高品質的官方材料選擇。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "PLA Lightweight",
+        "發泡材料",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusament-pla-lw-65-lighter-than-regular-pla-perfect-choice-for-aircraft-cosplay-and-more_138059/"
+        }
+      ]
+    },
+    {
+      "title": "英國國防部與 Alloyed 合作 7 個月內完成 3D 列印噴射引擎首飛",
+      "category": "應用",
+      "summary": "英國國防部與製造初創公司 Alloyed 合作，在不到 7 個月內將一款新型 3D 列印渦輪噴射引擎從概念設計推進至完成試飛。該項目旨在為英國國防系統建立自主且可快速擴展的推進能力，未來亦將打造引擎家族。",
+      "why_it_matters": "展現了金屬 3D 列印在大幅縮短國防裝備研發週期及建構自主供應鏈方面的龐大潛力。",
+      "tags": [
+        "Alloyed",
+        "英國國防部",
+        "金屬3D列印",
+        "航天軍工",
+        "噴射引擎"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mod-alloyed-take-new-turbojet-engine-from-concept-to-flight-in-under-seven-months-254767/"
+        }
+      ]
+    },
+    {
+      "title": "KLS Martin 即將交付第 500 件 Lithoz 3D 列印生物陶瓷植入物",
+      "category": "應用",
+      "summary": "德國手術醫療器材商 KLS Martin 已將基於 Lithoz 磷酸鈣材料 LithaBone TCP 製作的客製化陶瓷植入物列為 IPS Gate 平台的標準產品。公司預計將於 2026 年第三季末前完成第 500 件植入物的交付。",
+      "why_it_matters": "標誌著 3D 列印生物陶瓷材料在客製化骨科及外科技術的臨床應用已實現規模化與常態化交付。",
+      "tags": [
+        "KLS Martin",
+        "Lithoz",
+        "生物陶瓷",
+        "醫療應用",
+        "植入物"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/kls-martin-set-to-deliver-500th-lithoz-printed-bioceramic-implant-by-end-of-3q-2026-254870/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 於 MakerWorld 推出無障礙輔具全球設計挑戰賽",
+      "category": "開源",
+      "summary": "Bambu Lab（拓竹）與七家無障礙組織合作，於 MakerWorld 平台發起全球 3D 列印設計挑戰賽。賽事將陸續推出 24 個設計簡報，徵集能解決殘疾人士日常生活中具體痛點的 3D 列印模型。",
+      "why_it_matters": "這是 MakerWorld 首次針對身障輔助器具推出的專題設計競賽，促進開源社群將 3D 列印應用於社會公益。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "無障礙設計",
+        "開源社群",
+        "輔助器具"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-lab-launches-global-3d-printing-challenge-for-assistive-devices-254787/"
+        }
+      ]
+    },
+    {
+      "title": "ugee 推出結合 AI 與 3D 列印的兒童繪圖板 ArtPlay Pad",
+      "category": "硬件",
+      "summary": "數位創作品牌 ugee 推出專為兒童設計的 ArtPlay Pad 繪圖板。該設備結合壓感筆技術與 AI 演算法，可一鍵將兒童的 2D 手繪草圖轉化為 3D 模型，並直接匯出至其專用的兒童 3D 列印機進行印製。",
+      "why_it_matters": "透過 AI 生成技術簡化 3D 建模流程，顯著降低了兒童及初學者體驗 3D 列印創作的門檻。",
+      "tags": [
+        "ugee",
+        "AI",
+        "兒童3D列印",
+        "繪圖板",
+        "3D建模"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ugee-launches-ai-powered-drawing-tablet-for-children-254782/"
+        }
+      ]
+    },
+    {
+      "title": "UltiMaker 與 Bioactivx 合作開發即時創傷護理 3D 列印方案",
+      "category": "應用",
+      "summary": "桌面 3D 列印機廠商 UltiMaker 與新加坡醫療科技初創公司 Bioactivx 簽署合作備忘錄，將共同開發可現場部署的再生創傷護理 3D 列印解決方案。同時，Bioactivx 的旗艦再生產品亦已獲得新加坡衛生科學局（HSA）批準。",
+      "why_it_matters": "推動桌面級 3D 列印設備進入醫療現場，為再生醫學的即時客製化治療提供新途徑。",
+      "tags": [
+        "UltiMaker",
+        "Bioactivx",
+        "再生醫學",
+        "醫療應用",
+        "創傷護理"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ultimaker-and-bioactivx-to-target-on-demand-wound-care-via-new-collaboration-254875/"
+        }
+      ]
+    },
+    {
+      "title": "2026 年第二季全球 3D 列印市場規模達到 44.8 億美元",
+      "category": "產業",
+      "summary": "根據 AM Research 最新發布的數據，2026 年第二季全球金屬、聚合物與陶瓷 3D 列印設備、材料及服務總收入達 44.8 億美元，按年增長 12%。這代表增材製造市場已連續六個季度實現穩定增長。",
+      "why_it_matters": "顯示增材製造產業已進入相對持續且穩定的擴展階段，市場需求保持健康增長。",
+      "tags": [
+        "AM Research",
+        "市場報告",
+        "增材製造",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332850/3d-printing-market-hits-4-48b-after-six-straight-quarters-of-growth/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 23
+}
