@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T01:04:57.297Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 | 2026-09-21",
+  "summary": "本日重點情報包括 Stratasys 對 Bambu Lab 的專利訴訟獲判 2,760 萬美元賠償、英國國防部與 Alloyed 在 7 個月內完成 3D 列印噴射引擎試飛、UltiMaker 與 Bioactivx 展開按需傷口護理 3D 列印合作，以及美軍加碼資助 IperionX 擴建鈦金屬粉末產能等重大產業動態。",
+  "items": [
+    {
+      "title": "Stratasys 專利訴訟勝訴 Bambu Lab 獲判賠 2,760 萬美元",
+      "category": "法律",
+      "summary": "美國德克薩斯州東區聯邦地區法院陪審團作出裁決，認定 Bambu Lab 侵犯了 Stratasys 的四項 3D 列印專利，並判給 Stratasys 約 2,760 萬美元的過往損害賠償。Stratasys 發布聲明確認了裁決結果，而 Bambu Lab 則對此裁決表示異議。",
+      "why_it_matters": "此裁決可能對桌面級與工業級 3D 列印廠商之間的技術專利界線及授權生態產生重大的產業影響。",
+      "tags": [
+        "Stratasys",
+        "Bambu Lab",
+        "專利訴訟",
+        "法律",
+        "增材製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/new-update-in-stratasys-v-bambu-lab-patent-infringement-action-254833/"
+        }
+      ]
+    },
+    {
+      "title": "英國國防部夥同 Alloyed 於 7 個月內完成 3D 列印噴射引擎試飛",
+      "category": "應用",
+      "summary": "英國國防部與製造初創公司 Alloyed 合作，在不到 7 個月內將一款全新的 3D 列印渦輪噴射引擎從初始概念推向完成實際飛行測試。該項目旨在為英國國防系統建立可快速擴展的本土推進能力，雙方計劃進一步擴大引擎產能並開發系列產品。",
+      "why_it_matters": "展示了金屬 3D 列印技術在國防與航空推進領域顯著縮短研發週期與實現快速部署的能力。",
+      "tags": [
+        "Alloyed",
+        "英國國防部",
+        "渦輪噴射引擎",
+        "金屬 3D 列印",
+        "國防"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mod-alloyed-take-new-turbojet-engine-from-concept-to-flight-in-under-seven-months-254767/"
+        }
+      ]
+    },
+    {
+      "title": "UltiMaker 與 Bioactivx 合作開發按需再生傷口護理 3D 列印方案",
+      "category": "醫療",
+      "summary": "桌面 3D 列印機製造商 UltiMaker 與新加坡醫療科技初創公司 Bioactivx 簽署諒解備忘錄，將共同開發用於再生傷口護理的可部署按需 3D 列印解決方案。同時，Bioactivx 的旗艦產品亦已獲得新加坡衛生科學局（HSA）的監管批准。",
+      "why_it_matters": "標誌著桌面級 3D 列印設備進一步擴展至個人化醫療及現場即時醫療護理應用。",
+      "tags": [
+        "UltiMaker",
+        "Bioactivx",
+        "醫療 3D 列印",
+        "傷口護理",
+        "生醫"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ultimaker-and-bioactivx-to-target-on-demand-wound-care-via-new-collaboration-254875/"
+        }
+      ]
+    },
+    {
+      "title": "美國陸軍撥款 1,150 萬美元 資助 IperionX 擴建鈦金屬粉末產能",
+      "category": "材料",
+      "summary": "美國陸軍向 IperionX 發出第二次任務指令，即時提供 1,150 萬美元資助，以擴展該公司位於維珍尼亞州設施的鈦金屬粉末至零部件製造能力。此項合作屬於總額 9,900 萬美元合約的一部分，旨在加強美國本土鈦金屬供應鏈並減少對外依賴。",
+      "why_it_matters": "凸顯增材製造關鍵金屬原材料本土供應鏈在國防安全與戰略儲備層面的高度重視。",
+      "tags": [
+        "IperionX",
+        "鈦金屬",
+        "美國陸軍",
+        "金屬粉末",
+        "供應鏈"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/latest-army-award-expands-iperionx-titanium-production-capacity-254881/"
+        }
+      ]
+    },
+    {
+      "title": "KLS Martin 即將交付第 500 件 Lithoz 3D 列印生物陶瓷植入物",
+      "category": "醫療",
+      "summary": "德國外科醫療器材製造商 KLS Martin 已將採用 Lithoz 磷酸鈣材料 LithaBone TCP 製作的患者專用陶瓷植入物列為其 IPS Gate 平台的標準產品。該公司預計在 2026 年第三季末前達到交付第 500 件植入物的里程碑。",
+      "why_it_matters": "證實了高精度陶瓷 3D 列印技術在臨床客製化骨科植入物市場已進入規模化實用階段。",
+      "tags": [
+        "KLS Martin",
+        "Lithoz",
+        "陶瓷 3D 列印",
+        "生物植入物",
+        "醫療"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/kls-martin-set-to-deliver-500th-lithoz-printed-bioceramic-implant-by-end-of-3q-2026-254870/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 於 MakerWorld 推出無障礙輔具全球 3D 列印設計挑戰賽",
+      "category": "社群",
+      "summary": "Bambu Lab 與七家無障礙組織合作，在 MakerWorld 平台上推出了 2026 年 9 月至 12 月舉行的全球 3D 列印設計挑戰賽。活動將發布 24 個設計需求，邀請創作者設計可列印物品，以解決殘疾人士在日常生活中遇到的具體問題。",
+      "why_it_matters": "充分利用 3D 列印開源社群力量，推動開源無障礙輔助器具的創新與普及。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "無障礙",
+        "設計競賽",
+        "開源社群"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-lab-launches-global-3d-printing-challenge-for-assistive-devices-254787/"
+        }
+      ]
+    },
+    {
+      "title": "ugee 推出兒童 AI 繪圖板 可將 2D 草圖轉換為 3D 模型進行列印",
+      "category": "硬件",
+      "summary": "數位創作品牌 ugee 推出名為 ArtPlay Pad 的兒童 AI 繪圖板，配備專業級壓感筆技術與 AI 功能。使用者只需單擊即可將兒童的 2D 手繪草圖轉換為 3D 模型，並能直接導出至該公司專為兒童設計的 3D 列印機。",
+      "why_it_matters": "降低了兒童與新手接觸 3D 建模及 3D 列印的門檻，促進 STEAM 教育與創作體驗。",
+      "tags": [
+        "ugee",
+        "AI 建模",
+        "兒童 3D 列印",
+        "繪圖板",
+        "STEAM"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ugee-launches-ai-powered-drawing-tablet-for-children-254782/"
+        }
+      ]
+    },
+    {
+      "title": "瑞士研究人員利用 3D 列印實體地形模型研究山體滑坡與山崩運動",
+      "category": "科研",
+      "summary": "瑞士雪與雪崩研究所（SLF）與蘇黎世聯邦理工學院（ETH Zurich）的研究團隊建造了 Blatten 村莊周邊地形的 3D 列印實體模型，用於研究岩石、冰與水的混合物如何在真實地貌中移動。該模型精確重現了 2025 年遭受山崩破壞的村莊地形。",
+      "why_it_matters": "展示了 3D 列印技術在自然災害模擬、地形分析及防災科研領域的實體應用價值。",
+      "tags": [
+        "ETH Zurich",
+        "SLF",
+        "地形模型",
+        "防災科研",
+        "科研應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/a-miniature-blatten-3d-printed-terrain-recreates-a-deadly-avalanche-254777/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 17
+}
