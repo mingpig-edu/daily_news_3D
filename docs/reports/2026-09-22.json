@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T01:36:32.449Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-22)",
+  "summary": "本日焦點涵蓋工業與消費級市場的重大專利戰進展，Stratasys 在德州聯邦法院獲判勝訴，Bambu Lab 被判賠償 2,760 萬美元；此外，TDK 斥資高達 4 億美元收購金屬 3D 列印公司 Fabric8Labs，史丹福大學與密西西比大學則分別在次體素多材料列印及 AI 個人化藥物製造取得科研突破。",
+  "items": [
+    {
+      "title": "Stratasys 贏得對 Bambu Lab 專利訴訟，陪審團裁定賠償 2,760 萬美元",
+      "category": "產業",
+      "summary": "美國德州聯邦法院陪審團裁定，四家與 Bambu Lab 相關的公司侵犯了 Stratasys 的四項專利，並駁回了 Bambu Lab 關於專利無效的主張。陪審團判決 Bambu Lab 需支付 2,760 萬美元賠償金。Bambu Lab 正就該裁決提出質疑，並在美歐兩地持續進行專利有效性抗辯。",
+      "why_it_matters": "這是桌面級與工業級 3D 列印大廠之間標誌性的專利訴訟，可能對消費級高速 3D 列印機的市場格局及核心技術應用造成深遠影響。",
+      "tags": [
+        "Bambu Lab",
+        "Stratasys",
+        "專利訴訟",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333013/stratasys-wins-27-6m-in-patent-case-against-bambu-lab/"
+        }
+      ]
+    },
+    {
+      "title": "TDK 斥資高達 4 億美元收購金屬 3D 列印公司 Fabric8Labs",
+      "category": "產業",
+      "summary": "日本電子大廠 TDK 達成協議，以最高 4 億美元現金收購美國聖地牙哥金屬 3D 列印初創公司 Fabric8Labs。收購價包含首期付款及多年盈利分成（earnout）。TDK 計劃運用 Fabric8Labs 的金屬 3D 列印技術來拓展旗下的數據中心業務。",
+      "why_it_matters": "電子元件巨頭大手筆收購金屬 3D 列印技術，突顯出積層製造在未來數據中心硬件散熱及特種架構上的戰略價值。",
+      "tags": [
+        "TDK",
+        "Fabric8Labs",
+        "金屬列印",
+        "併購"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/tdk-agrees-to-acquire-metal-3d-printing-company-fabric8labs-for-up-to-400-million-254911/"
+        }
+      ]
+    },
+    {
+      "title": "史丹福大學開發次體素 3D 列印技術，實現單一擠出線內多材料控制",
+      "category": "科研",
+      "summary": "史丹福大學機械工程系 Natalie Larson 團隊研發出一種「次體素（subvoxel）」3D 列印技術。該技術能在單一擠出列印線段內精準擠出並控制多種材料，使單一部件具備多重功能。研究團隊正將其應用於人造肉、車載結構電池及國防超材料（metamaterials）等多個領域。",
+      "why_it_matters": "打破傳統擠出技術材料單一的物理限制，大幅提升多材料一體成型物件的功能密度與設計自由度。",
+      "tags": [
+        "多材料列印",
+        "史丹福大學",
+        "科研突破",
+        "擠出技術"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/stanford-labs-subvoxel-3d-printing-technique-aims-to-make-one-part-serve-multiple-functions-at-once-254859/"
+        }
+      ]
+    },
+    {
+      "title": "VulcanForms 聯手 Specter Aerospace 量產低成本高超音速武器構件",
+      "category": "應用",
+      "summary": "數碼製造公司 VulcanForms 與航天初創 Specter Aerospace 建立製造合作夥伴關係，旨在規模化生產吸氣式高超音速武器。該合作結合了 VulcanForms 的工業級金屬積層製造平台與 Specter 的飛行載具研發實力，建立了該領域首見的美國本土積層量產能力。",
+      "why_it_matters": "驗證了工業級金屬 3D 列印在現代國防裝備與高超音速硬件規模化製造中的核心地位。",
+      "tags": [
+        "金屬 3D 列印",
+        "VulcanForms",
+        "航天國防",
+        "工業量產"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/vulcanforms-specter-aerospace-target-low-cost-hypersonic-munitions-with-new-manufacturing-partnership-254795/"
+        }
+      ]
+    },
+    {
+      "title": "Fives AddUp 計劃於美國本土製造 FormUp 750 大尺寸金屬列印機",
+      "category": "硬件",
+      "summary": "Fives 集團旗下的 AddUp 宣布將在美國本土設立大型激光粉末床熔融（L-PBF）設備 FormUp 750 的生產線。製造業務預計於 2027 年在俄亥俄州希伯倫的現有廠房展開，以直接供應北美工業市場的需求。",
+      "why_it_matters": "工業級大尺寸金屬 3D 列印設備在地化生產，有助縮短供應鏈並加速北美重工業對積層製造的導入。",
+      "tags": [
+        "AddUp",
+        "L-PBF",
+        "金屬 3D 列印",
+        "硬件製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/fives-addup-to-manufacture-formup-750-large-format-metal-printer-in-the-u-s-254853/"
+        }
+      ]
+    },
+    {
+      "title": "密西西比大學聯手 Colorcon 研發 AI 系統推動 3D 列印個人化藥丸規模化",
+      "category": "科研",
+      "summary": "密西西比大學與藥物輔料公司 Colorcon 達成合作協議，開發一個由人工智能驅動的數據庫系統。該項目旨在協助藥局及製藥商以可規模化的方式，製造個人化 3D 列印藥物，提升客製化製劑生產的可行性。",
+      "why_it_matters": "結合 AI 算法與 3D 列印技術解決藥物成型的配方與工藝難題，是推進精準醫療與分散式藥品生產的關鍵一步。",
+      "tags": [
+        "醫療應用",
+        "AI",
+        "藥物列印",
+        "科研合作"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/an-ai-guide-could-make-personalized-3d-printed-pills-scalable-254864/"
+        }
+      ]
+    },
+    {
+      "title": "trinckle 正式公開發佈 Additive App Suite 自動化夾具設計套件",
+      "category": "軟件",
+      "summary": "經過公開測試後，trinckle 的 Additive App Suite 軟件模組正式面向全球發售。該套件整合了多個易用的 3D 列印應用工具，讓一般車間員工無需深厚 CAD 背景也能自行快速設計陰影板（shadow boards）、定位治具或夾爪等生產用輔具。",
+      "why_it_matters": "降低車間一線人員設計積層製造工裝夾具的技術門檻，加速 3D 列印工具在製造現場的普及應用。",
+      "tags": [
+        "trinckle",
+        "切片軟件",
+        "CAD 工具",
+        "工業軟件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332701/trinckle-releases-additive-app-suite/"
+        }
+      ]
+    },
+    {
+      "title": "奧本大學團隊開發約 150 美元低成本 3D 列印帶鏡頭喉鏡",
+      "category": "應用",
+      "summary": "奧本大學獸醫學院與工程學院聯合研發出一款配備鏡頭的 3D 列印喉鏡，成本約為 150 美元。該裝置能將插管過程即時投射至螢幕上，專門協助獸醫學生學習為豬隻及山羊等大型動物進行插管教學。",
+      "why_it_matters": "展現了低成本 3D 列印在專用醫療與教學器材上的快速原形製作及降本優勢。",
+      "tags": [
+        "醫療應用",
+        "獸醫器材",
+        "低成本製造",
+        "開源Maker"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/auburn-team-3d-prints-low-cost-camera-laryngoscope-254849/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 18
+}
