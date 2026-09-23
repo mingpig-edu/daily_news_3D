@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T01:30:20.874Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-23)",
+  "summary": "今日 3D 列印產業焦點包含 Stratasys 在與拓竹（Bambu Lab）的重大專利訴訟中勝訴、OpenAI GPT-6 Astra 展示從相片重建 CAD 幾何的能力、拓竹發佈首款非 3D 列印設備 R1 雷射切割機，以及金屬增材製造在深海壓力容器與工業應用的最新進展。",
+  "items": [
+    {
+      "title": "Stratasys 於專利訴訟勝訴 拓竹（Bambu Lab）獲判賠償 2,760 萬美元",
+      "category": "產業",
+      "summary": "美國德州聯邦陪審團裁定拓竹（Bambu Lab）侵犯了 Stratasys 的四項專利，並需賠償 2,760 萬美元。陪審團同時否決了拓竹關於專利無效的申訴。拓竹隨後發表聲明，表示正在美國和歐洲對相關專利的有效性提出進一步法律挑戰。",
+      "why_it_matters": "此裁決是消費級與工業級 3D 列印巨頭之間重大專利戰的重要里程碑，可能對桌面級多材料列印市場產生深遠影響。",
+      "tags": [
+        "Stratasys",
+        "Bambu Lab",
+        "專利訴訟",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333013/stratasys-wins-27-6m-in-patent-case-against-bambu-lab/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI 發佈 GPT-6 Astra 引入 BenchCAD 技術 可從相片重建 CAD 幾何",
+      "category": "軟件",
+      "summary": "OpenAI 發佈全新模型 GPT-6 Astra，其中包括針對 3D 幾何能力的 BenchCAD 基準測試。該測試評估模型能否僅憑數張相片，將 3D 物體重建為可編輯的 CAD 程式碼，而非靜態網格模型。",
+      "why_it_matters": "突破了傳統 3D 掃描限制，大幅降低將實物轉換為可編輯 3D 列印 CAD 模型之門檻。",
+      "tags": [
+        "OpenAI",
+        "GPT-6",
+        "CAD",
+        "人工智能"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/open-ai-gpt-6-astra-can-reconstruct-cad-geometry-from-photos-why-that-matters-for-additive-manufacturing-254957/"
+        }
+      ]
+    },
+    {
+      "title": "拓竹（Bambu Lab）推出首款非 3D 列印設備 R1 55W CO2 雷射切割機",
+      "category": "硬件",
+      "summary": "拓竹正式發佈 R1 雷射切割雕刻機，配備 55W CO2 雷射器，最高速度可達 1000 mm/s。這是拓竹旗下首款非 3D 列印機硬件，能切割及雕刻木材、透明亞加力及皮革，並具備自動對齊光路與家用安全防護。",
+      "why_it_matters": "拓竹將產品線延伸至桌面製造生態系統，讓創客能夠在單一工作台上結合 3D 列印與雷射加工。",
+      "tags": [
+        "Bambu Lab",
+        "R1",
+        "雷射切割",
+        "桌面製造"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/big-job-light-work-bambu-lab-launches-r1/"
+        }
+      ]
+    },
+    {
+      "title": "Visitech 推出 LRS 8KA Laser 405 光學引擎 針對大尺寸 DLP 3D 列印",
+      "category": "硬件",
+      "summary": "挪威 DLP 光學引擎製造商 Visitech 推出專為增材製造設計的 LRS 8KA Laser 405。該系統採用原生 4K DMD 搭配全新雷射模組，結合多個雷射二極管，能輸出超過 30W 的光功率，功率為上一代產品的兩倍以上。",
+      "why_it_matters": "新型高功率光學引擎可大幅提昇大面積 DLP 3D 列印的成型速度與解析度表現。",
+      "tags": [
+        "Visitech",
+        "DLP",
+        "光學引擎",
+        "工業級"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332747/visitech-targets-larger-scale-3d-printing-with-new-4k-light-engine/"
+        }
+      ]
+    },
+    {
+      "title": "trinckle 正式發佈 Additive App Suite 簡化工場工具設計",
+      "category": "軟件",
+      "summary": "trinckle 結束公開測試後，向全球正式推出 Additive App Suite。該軟體模組化工具允許前線員工輕鬆設計陰影板、夾具及包裝嵌件等日常工場工具。此前該軟體套件僅整合於 Stratasys GrabCAD 系統內。",
+      "why_it_matters": "為非專業 CAD 人員提供簡單易用的增材製造設計工具，促進 3D 列印在製造業現場的應用普及。",
+      "tags": [
+        "trinckle",
+        "設計軟件",
+        "工業應用",
+        "工具夾具"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332701/trinckle-releases-additive-app-suite/"
+        }
+      ]
+    },
+    {
+      "title": "DEEP Manufacturing 獲 DNV 全球唯一弧焊增材製造（WAAM）壓力容器認證",
+      "category": "應用",
+      "summary": "專攻安全關鍵結構的 DEEP Manufacturing 宣佈獲得 DNV 認證，成為全球唯一獲全套 DNV 認可的金屬弧焊增材製造（WAAM）廠商。該認證涵蓋載人壓力容器（PVHO）、壓力殼體及相關材料設備。",
+      "why_it_matters": "標誌著大型金屬 3D 列印技術成功突破海事與深海高壓等嚴苛領域的安全合規門檻。",
+      "tags": [
+        "WAAM",
+        "DNV認證",
+        "金屬3D列印",
+        "深海工程"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/deep-manufacturing-holds-the-worlds-only-full-dnv-approval-for-waam-pressure-vessel-production-254967/"
+        }
+      ]
+    },
+    {
+      "title": "密西西比大學與 Colorcon 合作 開發 AI 數據庫推動 3D 列印個性化藥物",
+      "category": "科研",
+      "summary": "密西西比大學研究團隊與藥用成分公司 Colorcon 達成協議，共同建立基於人工智能的數據庫。該項目由 Mo Maniruzzaman 教授領導，旨在協助藥房及藥廠快速配製並規模化生產個性化 3D 列印藥丸。",
+      "why_it_matters": "利用 AI 技術解決藥物 3D 列印配方與製程複雜度問題，加速精準醫療實踐。",
+      "tags": [
+        "醫療應用",
+        "AI",
+        "3D列印藥物",
+        "科研成果"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/an-ai-guide-could-make-personalized-3d-printed-pills-scalable-254864/"
+        }
+      ]
+    },
+    {
+      "title": "中國金屬 3D 列印廠商國智中心（GLB）完成 3,000 萬美元 A 輪融資",
+      "category": "產業",
+      "summary": "中國金屬 3D 列印企業國智中心（Global Laser Box, GLB）宣佈完成近 2 億元人民幣（約 3,000 萬美元）A 輪融資，由奇富資本、長興投資及創世紀投資支持。資金將用於研發選擇性雷射熔融（SLM）列印機與軟體、擴充產能及開拓海外市場。",
+      "why_it_matters": "反映出資本市場對金屬增材製造（SLM）技術及工業級設備出口前景持持續看好態度。",
+      "tags": [
+        "金屬3D列印",
+        "SLM",
+        "融資",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333056/3d-printing-financials-28m-in-china-u-s-deals-and-a-metal-am-comeback/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 20
+}
