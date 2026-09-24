@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T01:23:56.999Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-24)",
+  "summary": "今日焦點包括 Bambu Lab 跨足非 3D 列印領域推出首款雷射切割機 R1、Stratasys 在專利訴訟中獲判勝訴以及 Stratasys 發表大型 FDM 新機、Creality 於 Indiegogo 推出無耗材廢料的多色印表機，以及多項工業與醫療應用進展。",
+  "items": [
+    {
+      "title": "Bambu Lab 推出首款非 3D 列印產品 R1 55W CO2 雷射切割與雕刻機",
+      "category": "硬件",
+      "summary": "Bambu Lab 發表旗下首款非 3D 列印設備 R1，搭載 55W CO2 雷射，專為木材、壓克力、皮革等材料設計。該機器具備自動光路對徑與高達 1000 mm/s 的切割速度，標誌著品牌正逐步拓展至完整的桌面製造生態系。",
+      "why_it_matters": "代表消費級 3D 列印巨頭 Bambu Lab 正式跨足雷射加工市場，擴大桌上型數位製造的產品線。",
+      "tags": [
+        "Bambu Lab",
+        "雷射切割",
+        "硬件發佈"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333248/bambu-lab-moves-beyond-3d-printing-with-r1-laser-cutter/"
+        }
+      ]
+    },
+    {
+      "title": "美國聯邦陪審團裁定 Stratasys 在專利案中勝訴並獲賠 2,760 萬美元，Bambu Lab 將持續挑戰",
+      "category": "產業",
+      "summary": "德州東區聯邦地區法院陪審團裁定，Bambu Lab 相關公司侵犯了 Stratasys 的四項專利，並駁回了 Bambu Lab 對專利有效性的質疑，判賠 2,760 萬美元。對此，Bambu Lab 已發表聲明回應，並正於美歐兩地持續對該專利提出挑戰。",
+      "why_it_matters": "這是近年 3D 列印產業規模最大的專利訴訟之一，判決結果可能對桌面級多色與核心技術市場格局造成深遠影響。",
+      "tags": [
+        "Stratasys",
+        "Bambu Lab",
+        "專利訴訟"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333013/stratasys-wins-27-6m-in-patent-case-against-bambu-lab/"
+        }
+      ]
+    },
+    {
+      "title": "Creality 於 Indiegogo 推出 SPARKX i8，主打無外置廢料與高速多色列印",
+      "category": "硬件",
+      "summary": "Creality 在 Indiegogo 上發布全新多色 3D 列印機 SPARKX i8，早鳥價 309 美元。該機採用獨特的 QuarTeks 顏色變換系統，將四個獨立耗材通道整合至單一工具頭中，實現無外部沖洗廢料、無過渡塔的 CMYK 全彩列印。",
+      "why_it_matters": "引入了全新的單工具頭多色架構，顯著減少多色列印時的耗材浪費與列印時間。",
+      "tags": [
+        "Creality",
+        "多色列印",
+        "集資"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333385/creality-launches-sparkx-i8-on-indiegogo/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 於 IMTS 2026 推出大型工業級 FDM 3D 列印機 F870",
+      "category": "硬件",
+      "summary": "Stratasys 在芝加哥 IMTS 展前夕推出 F870，這是一款專為汽車、航太及國防等大型工業製造所設計的生產級 FDM 平台。該系統目前已進駐 Rivian 與 Toyota Production Engineering 等頂尖企業的生產線。",
+      "why_it_matters": "進一步強化大型工業級 FDM 裝置在車廠與航太量產線上的應用落地。",
+      "tags": [
+        "Stratasys",
+        "工業級",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332957/stratasys-showcases-3d-printed-automotive-applications-new-printer-at-imts-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Visitech 發表全新 LRS 8KA 雷射 405 光引擎，支援更大尺寸 DLP 列印",
+      "category": "硬件",
+      "summary": "挪威 DLP 光引擎製造商 Visitech 推出了專為增材製造打造的 LRS 8KA Laser 405。該系統結合原生 4K DMD 與全新雷射模組，可提供超過 30W 的光學功率，其光學輸出功率為上一代 LED 產品的兩倍以上。",
+      "why_it_matters": "大幅提升光固化（DLP）3D 列印的功率與成型尺寸潛力，有助於推動工業級高精度列印。",
+      "tags": [
+        "Visitech",
+        "DLP",
+        "光引擎"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332747/visitech-targets-larger-scale-3d-printing-with-new-4k-light-engine/"
+        }
+      ]
+    },
+    {
+      "title": "西北敘利亞照護中心利用 3D 列印為戰傷截肢者製作義肢",
+      "category": "應用",
+      "summary": "敘利亞西北部伊德利卜省的義肢中心已全面採用 3D 列印技術，為內戰爆發以來受傷的數百萬傷者製作客製化義肢。這項技術有效緩解當地長期面臨的醫療物資與義肢產能短缺問題。",
+      "why_it_matters": "展現了 3D 列印在人道救援與醫療資源匱乏地區的關鍵實用價值。",
+      "tags": [
+        "醫療",
+        "義肢",
+        "人道救援"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3d-printing-speeds-up-prosthetics-for-syrias-wounded-254857/"
+        }
+      ]
+    },
+    {
+      "title": "奧本大學團隊研發成本僅 150 美元的 3D 列印獸醫相機喉鏡",
+      "category": "科研",
+      "summary": "奧本大學獸醫學院與工程學院的跨領域團隊開發了一款具備相機功能的 3D 列印喉鏡，製造成本僅約 150 美元。該設備能在即時螢幕上顯示操作過程，旨在協助獸醫學生進行大型動物（如山羊與豬隻）的氣管插管訓練。",
+      "why_it_matters": "透過開源與低成本設計提升獸醫教育的實作培訓效率。",
+      "tags": [
+        "科研",
+        "醫療教育",
+        "獸醫"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/auburn-team-3d-prints-low-cost-camera-laryngoscope-254849/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 23
+}
