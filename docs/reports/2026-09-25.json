@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T01:30:19.915Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "今日 3D 列印與製造情報聚焦於重要硬體發表、產業擴張與科研進展，包含 Bambu Lab 首度跨足推出 R1 雷射切割機、Creality 於 Indiegogo 發布 SPARKX i8 多色 3D 列印機，以及多項金屬 3D 列印與智慧製造領域的最新動態。",
+  "items": [
+    {
+      "title": "Bambu Lab 推出首款非 3D 列印機產品 R1 55W CO2 雷射切割機",
+      "category": "硬件",
+      "summary": "Bambu Lab 推出 R1 55W CO2 雷射切割與雕刻機，這是該公司歷史上首款非 3D 列印機的產品。該機器支援木材、壓克力、皮革等多種材料切割，具備自動光路對齊與家用安全設計。",
+      "why_it_matters": "象徵 Bambu Lab 正式跨出 3D 列印領域，朝向更全面的桌面製造生態系統邁進。",
+      "tags": [
+        "Bambu Lab",
+        "雷射切割",
+        "新品發表"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333248/bambu-lab-moves-beyond-3d-printing-with-r1-laser-cutter/"
+        }
+      ]
+    },
+    {
+      "title": "Creality 於 Indiegogo 發布 SPARKX i8 四色 3D 列印機",
+      "category": "硬件",
+      "summary": "Creality 在 Indiegogo 上推出了 SPARKX i8 多色 3D 列印機，早鳥價為 309 美元。其核心採用 QuarTeks 色彩變換系統，將四個獨立燈絲通道整合至單一工具頭，訴求實現無外部廢料及無耗材塔的高速全彩列印。",
+      "why_it_matters": "為多色 3D 列印市場帶來全新架構，有效降低多色列印的廢料與時間成本。",
+      "tags": [
+        "Creality",
+        "多色列印",
+        "集資"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333385/creality-launches-sparkx-i8-on-indiegogo/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 於 IMTS 2026 發表大型工業級 FDM 平台 F870",
+      "category": "硬件",
+      "summary": "Stratasys 在國際製造技術展（IMTS）前夕發表 F870 大型生產級 FDM 3D 列印平台。該系統已獲得 Rivian Automotive 與 Toyota Production Engineering 等頂尖企業採用，用於加速工廠生產線。",
+      "why_it_matters": "滿足車廠與航太等工業製造商對大型、量產級積層製造設備的迫切需求。",
+      "tags": [
+        "Stratasys",
+        "FDM",
+        "工業應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332957/stratasys-showcases-3d-printed-automotive-applications-new-printer-at-imts-2026/"
+        }
+      ]
+    },
+    {
+      "title": "HeyGears 推出 Reflex RS Turbo 樹脂 3D 列印機",
+      "category": "硬件",
+      "summary": "HeyGears 發布 Reflex RS Turbo，旨在結合高效率與高精度，協助創作者在提升樹脂 3D 列印速度的同時，不犧牲模型細節表現。",
+      "why_it_matters": "進一步推動光固化樹脂列印在速度與精細度之間的平衡標準。",
+      "tags": [
+        "HeyGears",
+        "SLA",
+        "樹脂列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/heygears-reflex-rs-turbo-sets-a-new-standard-for-resin-3d-printing-254919/"
+        }
+      ]
+    },
+    {
+      "title": "SHINING 3D 推出瀏覽器端 3D 掃描數據管理平台 ShiningSpace",
+      "category": "軟件",
+      "summary": "深圳 3D 掃描技術商先臨三維（SHINING 3D）推出 ShiningSpace，這是一個基於瀏覽器的數位平台，讓使用者能在掃描後集中進行儲存、檢視、編輯與分享。",
+      "why_it_matters": "解決了 3D 掃描硬體普及後，使用者在處理大量掃描數據時缺乏統一管理工具的痛點。",
+      "tags": [
+        "SHINING 3D",
+        "3D掃描",
+        "雲端平台"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/managing-3d-scan-data-just-got-a-dedicated-platform-with-shining-3ds-new-shiningspace-254983/"
+        }
+      ]
+    },
+    {
+      "title": "Instruct3D 發表金屬積層製造品質驗證平台",
+      "category": "軟件",
+      "summary": "總部位於謝菲爾德的 Instruct3D 商業化推出 Additive Build Intelligence，這是一個結合軟體與感測器的系統，專為金屬積層製造設計，能預測列印缺陷並提供零件驗證依據。",
+      "why_it_matters": "有助於金屬 3D 列印在嚴格品質要求的工業領域中提升良率與驗證效率。",
+      "tags": [
+        "金屬3D列印",
+        "品質控制",
+        "軟體"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/instruct3d-launches-additive-build-intelligence-platform-for-metal-am-quality-verification-255016/"
+        }
+      ]
+    },
+    {
+      "title": "AML3D 獲得美軍核潛艇銅鎳零件訂單",
+      "category": "產業",
+      "summary": "Austal USA Advanced Technologies 向 AML3D 下達約 50 萬澳元的訂單，將利用線弧積層製造（WAM）技術為美國海軍核潛艇製造三個大型銅鎳流體控制零件。",
+      "why_it_matters": "證明大型金屬積層製造技術在國防與高壓關鍵零件製造上的實務應用獲得肯定。",
+      "tags": [
+        "AML3D",
+        "金屬3D列印",
+        "國防"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/aml3d-secures-au0-5m-order-for-navy-nuclear-submarine-parts-255014/"
+        }
+      ]
+    },
+    {
+      "title": "LLNL 結合機器學習與相機即時偵測直接墨水書寫法缺陷",
+      "category": "科研",
+      "summary": "勞倫斯利佛摩國家實驗室（LLNL）的研究人員開發了一套基於相機的檢測系統，利用 AI 與機器學習在直接墨水書寫（DIW）3D 列印過程中即時檢查零件幾何形狀與捕捉缺陷。",
+      "why_it_matters": "實現了積層製造製程中的即時幾何監控，有助於大幅降低廢品率。",
+      "tags": [
+        "AI",
+        "科研",
+        "製程監控"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/llnl-pairs-machine-learning-with-cameras-to-catch-diw-defects-early-254956/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
