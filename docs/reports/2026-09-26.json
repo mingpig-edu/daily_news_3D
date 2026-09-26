@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T01:34:27.078Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-26)",
+  "summary": "今日焦點涵蓋 Bambu Lab 深圳廠區動工、Creality 群眾募資推出多色 3D 列印機，以及多項金屬 3D 列印與材料的重要產業動態。",
+  "items": [
+    {
+      "title": "拓竹科技 300 萬台年產能深圳新廠正推進建設",
+      "category": "產業",
+      "summary": "Bambu Lab 位於深圳的全新 3D 列印製造總部正積極推進場地平整與前置準備工作。該廠區未來預計將創造每年超過 300 萬台 3D 列印機的龐大生產能力，標誌著其製造規模進一步擴張。",
+      "why_it_matters": "顯示桌面級 3D 列印龍頭廠正大幅擴充產能，對全球市場供應鏈與競爭格局產生深遠影響。",
+      "tags": [
+        "Bambu Lab",
+        "產業",
+        "深圳"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-labs-3-million-3d-printer-factory-moves-toward-construction-in-shenzhen-255056/"
+        }
+      ]
+    },
+    {
+      "title": "創客實體於 Indiegogo 推出 SPARKX i8 四通道多色 3D 列印機募資",
+      "category": "硬件",
+      "summary": "Creality 近期在 Indiegogo 展開 SPARKX i8 多色 3D 列印機的群眾募資活動。該機型透過單一工具頭餵送四條耗材，早鳥優惠價為 309 美元，低於 399 美元的建議零售價。",
+      "why_it_matters": "提供市場另一款多色列印平價選擇，進一步推動多色技術在桌面級機型的普及。",
+      "tags": [
+        "Creality",
+        "硬件",
+        "多色列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/creality-crowdfunds-sparkx-i8-four-channel-multi-color-3d-printer-255039/"
+        }
+      ]
+    },
+    {
+      "title": "Snapmaker 推出 Snapmaker Space 多色與多材料模型平台",
+      "category": "軟件",
+      "summary": "Snapmaker 推出了 Snapmaker Space 的測試版，這是一個用於探索、分享與列印多色及多材料 3D 模型平台。該服務結合模型庫與針對工具頭列印機（如 Snapmaker U1）預先備妥的列印設定檔，上線初期已提供超過 2,500 個模型。",
+      "why_it_matters": "有助於簡化多色與多材料 3D 列印的檔案準備流程，提升用戶的創作與列印體驗。",
+      "tags": [
+        "Snapmaker",
+        "軟件",
+        "多色列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/snapmaker-launches-space-platform-for-multicolor-and-multimaterial-3d-models-254989/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 於 IMTS 2026 展出 F870 大型工業級 FDM 印表機",
+      "category": "硬件",
+      "summary": "Stratasys 在芝加哥 IMTS 展覽前夕發表了全新的 F870 大型生產級 FDM 3D 列印平台。該系統專為汽車、航太與國防等工業製造打造，目前已獲 Rivian Automotive 與 Toyota Production Engineering 等大廠導入應用。",
+      "why_it_matters": "強化了大型工業級 FDM 設備在車廠與航太生產線上的實際應用與量產能力。",
+      "tags": [
+        "Stratasys",
+        "硬件",
+        "工業應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332957/stratasys-showcases-3d-printed-automotive-applications-new-printer-at-imts-2026/"
+        }
+      ]
+    },
+    {
+      "title": "IperionX 驗證 GenX 連續式製程，有望降低鈦粉成本",
+      "category": "材料",
+      "summary": "IperionX 已成功驗證其專利 HAMR 鈦粉製程的連續式版本 GenX。其產出的球形粉末樣本皆符合用於醫療與航太零件的 Grade 23 氧氣規格標準。",
+      "why_it_matters": "有機會大幅降低金屬粉末床熔融等製程的原料成本，加速金屬 3D 列印的普及。",
+      "tags": [
+        "材料",
+        "金屬3D列印",
+        "鈦粉"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/iperionxs-genx-could-lower-feedstock-costs-for-3d-printing-254995/"
+        }
+      ]
+    },
+    {
+      "title": "AML3D 獲得 50 萬澳元訂單，供應海軍核潛艇零件",
+      "category": "應用",
+      "summary": "Austal USA Advanced Technologies 向 AML3D 下達首筆生產訂單，將採用其線材電弧加法製造（WAM）製程製作三個大型銅鎳流體控制組件，應用於美國海軍核潛艇，合約價值約 50 萬澳元。",
+      "why_it_matters": "展示了大型金屬增材製造技術在國防與高規格海軍製造領域的實質突破。",
+      "tags": [
+        "AML3D",
+        "應用",
+        "國防"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/aml3d-secures-au0-5m-order-for-navy-nuclear-submarine-parts-255014/"
+        }
+      ]
+    },
+    {
+      "title": "Instruct3D 推出金屬增材製造品管平台 Additive Build Intelligence",
+      "category": "軟件",
+      "summary": "總部位於謝菲爾德的 Instruct3D 正式商業化推出 Additive Build Intelligence，這是一個結合軟體與感測器的金屬 3D 列印系統。該系統旨在協助用戶預測列印缺陷、檢視列印過程並提供零件驗證依據。",
+      "why_it_matters": "透過軟硬體結合提升金屬 3D 列印製程的可追溯性與品管品質，對高精密製造至關重要。",
+      "tags": [
+        "金屬3D列印",
+        "軟件",
+        "品管"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/instruct3d-launches-additive-build-intelligence-platform-for-metal-am-quality-verification-255016/"
+        }
+      ]
+    },
+    {
+      "title": "《異星工廠 (Factorio)》官方模型正式登陸 Printables",
+      "category": "開源",
+      "summary": "知名遊戲《異星工廠》的官方 3D 列印模型已正式上架 Printables.com。Wube 團隊為玩家準備了 65 個獨立模型、共 247 個包含不同公差與比例的 STL 檔案供下載。",
+      "why_it_matters": "豐富了創客社群的遊戲主題模型資源，並展現知名遊戲 IP 與 3D 列印平台的官方合作。",
+      "tags": [
+        "Printables",
+        "社群",
+        "模型"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/factorio-has-arrived-on-printables_138519/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
