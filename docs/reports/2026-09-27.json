@@ -1,0 +1,190 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T01:27:16.848Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "2026年9月27日的 3D 列印產業情報，涵蓋硬件新品、材料技術創新、開源社群動態及重大產業發展。",
+  "items": [
+    {
+      "title": "Creality 推出 SPARKX i8 四通道多色 3D 列印機",
+      "category": "硬件",
+      "summary": "Creality 在 Indiegogo 上針對 SPARKX i8 多色 3D 列印機展開群眾募資，該機型可透過單一工具頭送入四種耗材。早鳥優惠價為 309 美元，較未來上市建議零售價 399 美元低 23%。",
+      "why_it_matters": "代表平價多色 FDM 列印市場持續擴展，提供消費者更多元的選擇。",
+      "tags": [
+        "Creality",
+        "多色列印",
+        "群眾募資"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/creality-crowdfunds-sparkx-i8-four-channel-multi-color-3d-printer-255039/"
+        }
+      ]
+    },
+    {
+      "title": "Snapmaker 推出 Space 多色與多材料 3D 模型平台",
+      "category": "軟件",
+      "summary": "Snapmaker 已開放 Snapmaker Space 平台測試版，這是一個用於尋找、分享及列印多色與多材料 3D 模型的服務。該平台結合模型庫與專為工具頭切換型 3D 列印機（如 Snapmaker U1）預先準備好的列印設定檔。",
+      "why_it_matters": "有助於完善多色與多材料印表機的生態系統，提升用戶獲取模型的便利性。",
+      "tags": [
+        "Snapmaker",
+        "模型平台",
+        "多色列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/snapmaker-launches-space-platform-for-multicolor-and-multimaterial-3d-models-254989/"
+        }
+      ]
+    },
+    {
+      "title": "經典遊戲《Factorio》官方 3D 模型登陸 Printables",
+      "category": "開源",
+      "summary": "知名遊戲《Factorio》（異星工廠）的官方 3D 模型已正式在 Printables.com 上線。開發團隊 Wube 準備了 247 個 STL 檔案，包含 65 個獨立模型，提供不同的變化、公差與比例供玩家下載。",
+      "why_it_matters": "為 Maker 與遊戲粉絲提供大量官方授權的高品質模型，豐富社群創作內容。",
+      "tags": [
+        "Printables",
+        "Factorio",
+        "模型下載"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/factorio-has-arrived-on-printables_138519/"
+        }
+      ]
+    },
+    {
+      "title": "IperionX 驗證 GenX 技術有望降低 3D 列印原料成本",
+      "category": "材料",
+      "summary": "IperionX 已驗證其專利 HAMR 鈦粉製程的連續版本 GenX。其生產的每批球形粉末樣品皆符合 Grade 23 氧氣規格，這是醫療與航太零件廣泛使用的超低間隙級合金粉末。",
+      "why_it_matters": "有助於降低金屬粉末床熔融等技術的高昂原料成本，推動金屬 3D 列印普及。",
+      "tags": [
+        "IperionX",
+        "鈦粉",
+        "金屬列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/iperionxs-genx-could-lower-feedstock-costs-for-3d-printing-254995/"
+        }
+      ]
+    },
+    {
+      "title": "ORNL 與波音合作採用 WAAM 技術列印大型鋼模具",
+      "category": "應用",
+      "summary": "橡樹嶺國家實驗室（ORNL）與波音公司利用電弧增材製造（WAAM）技術，成功製作出一個鋼製沖壓成型模具（SFD）。該模具高 6 英尺、寬 4 英尺、重近 2 噸，將用於波音為美國太空總署（NASA）進行的專案中。",
+      "why_it_matters": "展示大型金屬增材製造在航太工業級應用中的實際落地能力。",
+      "tags": [
+        "ORNL",
+        "波音",
+        "WAAM",
+        "航太"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ornl-3d-prints-steel-mold-for-boeing-aircraft-work-255091/"
+        }
+      ]
+    },
+    {
+      "title": "愛爾蘭戈 Galway 大學與 Ifremer 測試 3D 列印人工魚礁以恢復深海珊瑚",
+      "category": "科研",
+      "summary": "法愛研究團隊將 23 個 3D 列印人工魚礁放置於大西洋海底深達 1,100 公尺處，藉此測試增材製造是否能加速被底拖網破壞的冷水珊瑚棲息地復育。",
+      "why_it_matters": "拓展了 3D 列印技術在海洋生態保育與環境科研領域的實際應用。",
+      "tags": [
+        "珊瑚復育",
+        "環保",
+        "科研應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/university-of-galway-and-ifremer-test-3d-printed-reefs-for-cold-water-coral-recovery-255078/"
+        }
+      ]
+    },
+    {
+      "title": "Instruct3D 推出金屬增材製造品質驗證軟硬體平台",
+      "category": "硬件",
+      "summary": "總部位於謝菲爾德的 Instruct3D 商業化推出 Additive Build Intelligence，這是一個結合軟體與感測器的系統，專為金屬增材製造設計，幫助用戶預測列印問題並提供零件驗證依據。",
+      "why_it_matters": "加強金屬 3D 列印製程中的監控與品質保證，滿足工業級應用的嚴格標準。",
+      "tags": [
+        "金屬列印",
+        "品質監控",
+        "工業軟體"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/instruct3d-launches-additive-build-intelligence-platform-for-metal-am-quality-verification-255016/"
+        }
+      ]
+    },
+    {
+      "title": "Amaero 宣佈推遲美國首次公開募股（IPO）",
+      "category": "產業",
+      "summary": "金屬粉末生產商 Amaero 原計劃在美國進行首次公開募股（IPO）以籌集約 5,260 萬美元並於那斯達克上市，但近期宣佈因不利的市場條件而暫緩該項發售計畫。",
+      "why_it_matters": "反映目前資本市場環境對增材製造企業融資及上市計畫帶來的現實挑戰。",
+      "tags": [
+        "Amaero",
+        "IPO",
+        "金屬粉末",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333465/amaero-targets-52-6m-u-s-ipo-amid-major-metal-powder-expansion/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
