@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T01:39:21.471Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-28)",
+  "summary": "今日焦點涵蓋 Bambu Lab 的全新 3 萬台產能廠房動態及倫敦時裝周應用、Snapmaker 推出多色多材料平臺測試版、Creality 在 Indiegogo 眾籌四通道多色機型，以及多項金屬與工業應用的最新進展。",
+  "items": [
+    {
+      "title": "Bambu Lab 深圳全新總部廠房推進地盤工程 目標年產 300 萬台3D列印機",
+      "category": "產業",
+      "summary": "Bambu Lab 位於深圳的新 3D 列印機製造總部正在推進場地平整與前期準備工作。該公司計劃在此建立年產超過 300 萬台 3D 列印機的生產基地。這標誌著該項目的工業用地交易正逐步落實為實體建築工程。",
+      "why_it_matters": "顯示出 Bambu Lab 持續擴大產能與深化規模化生產的雄心。",
+      "tags": [
+        "Bambu Lab",
+        "產業動態",
+        "生產基地"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-labs-3-million-3d-printer-factory-moves-toward-construction-in-shenzhen-255056/"
+        }
+      ]
+    },
+    {
+      "title": "Snapmaker 推出 Space 平臺 支援多色與多材料 3D 模型分享及列印",
+      "category": "軟件",
+      "summary": "設備製造商 Snapmaker 推出了 Snapmaker Space 平臺的測試版，旨在供用戶發現、分享和列印多色與多材料 3D 模型。該服務結合了模型庫與針對工具頭切換 3D 列印機（如 Snapmaker U1）預先準備好的列印設定檔。目前平臺上已有超過 2,500 個帶有 U1 設定檔的模型上線。",
+      "why_it_matters": "為多色與多材料列印用家提供更完善的模型資源與生態支援。",
+      "tags": [
+        "Snapmaker",
+        "軟件工具",
+        "多色列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/snapmaker-launches-space-platform-for-multicolor-and-multimaterial-3d-models-254989/"
+        }
+      ]
+    },
+    {
+      "title": "Creality 在 Indiegogo 展開 SPARKX i8 四通道多色 3D 列印機眾籌",
+      "category": "硬件",
+      "summary": "Creality 在 Indiegogo 上為 SPARKX i8 四通道多色 3D 列印機啟動了眾籌專案。該機型透過單一工具頭餵入四種不同的耗材來實現多色列印。早鳥優惠價設定為 309 美元，低於未來建議零售價 399 美元。",
+      "why_it_matters": "提供桌面級多色列印市場更多的平價硬體選擇。",
+      "tags": [
+        "Creality",
+        "硬體發布",
+        "眾籌"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/creality-crowdfunds-sparkx-i8-four-channel-multi-color-3d-printer-255039/"
+        }
+      ]
+    },
+    {
+      "title": "IperionX 驗證 GenX 連續鈦粉製程 有望降低 3D 列印原料成本",
+      "category": "材料",
+      "summary": "IperionX 已成功驗證其專利 HAMR 鈦粉製程的連續版本 GenX。其生產的每批球形粉末樣品皆符合 Grade 23 氧氣規格，這是一種廣泛用於醫療與航太零件列印的超低間隙級別材料。",
+      "why_it_matters": "有助於降低金屬粉末床熔融等製程的高昂原料成本。",
+      "tags": [
+        "金屬3D列印",
+        "鈦粉",
+        "新材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/iperionxs-genx-could-lower-feedstock-costs-for-3d-printing-254995/"
+        }
+      ]
+    },
+    {
+      "title": "美國橡樹嶺國家實驗室與波音合作 利用 WAAM 列印大型鋼質模具",
+      "category": "工業",
+      "summary": "美國橡樹嶺國家實驗室（ORNL）與波音公司合作，利用電弧增材製造（WAAM）技術製作了一款鋼質沖壓成型模具（SFD）。該模具高 6 英尺、寬 4 英尺、重近 2 噸，耗時八星期列印完成，未來波音將用於 NASA 的複合材料飛機製造專案。",
+      "why_it_matters": "展示大型金屬增材製造在航太重工業模具製造上的應用潛力。",
+      "tags": [
+        "WAAM",
+        "航太應用",
+        "工業製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ornl-3d-prints-steel-mold-for-boeing-aircraft-work-255091/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 夥拍設計師 SUSAN FANG 亮相倫敦時裝周",
+      "category": "應用",
+      "summary": "中國時裝設計師 SUSAN FANG 在倫敦時裝周發表春夏系列，其中展出了多款 3D 列印涼鞋、蕾絲及裝飾。Bambu Lab 作為該系列的官方技術夥伴，設計團隊直接在工作室使用 Bambu Lab 的案頭系統進行原型製作與runway服飾生產。",
+      "why_it_matters": "突顯案頭級 3D 列印機在高級時裝設計與實體生產中的直接應用價值。",
+      "tags": [
+        "Bambu Lab",
+        "時尚應用",
+        "跨界合作"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333560/bambu-lab-and-susan-fang-3d-print-for-london-fashion-week/"
+        }
+      ]
+    },
+    {
+      "title": "愛爾蘭與法國研究團隊於大西洋海底測試 3D 列印人工珊瑚礁",
+      "category": "科研",
+      "summary": "法愛研究團隊在大西洋海床深達 1,100 公尺處部署了 23 個 3D 列印人工珊瑚礁。此舉旨在測試增材製造是否能加速受底拖網破壞的深海冷水珊瑚棲息地恢復。",
+      "why_it_matters": "開拓了 3D 列印在海洋生態保育與科研應用的新領域。",
+      "tags": [
+        "科研應用",
+        "環保生態",
+        "珊瑚礁"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/university-of-galway-and-ifremer-test-3d-printed-reefs-for-cold-water-coral-recovery-255078/"
+        }
+      ]
+    },
+    {
+      "title": "Radian Forge 獲 250 萬美元種子輪融資 支援海事工業基地",
+      "category": "產業",
+      "summary": "採用電弧增材製造大型金屬構件的維州企業 Radian Forge 完成了 250 萬美元的 Seed Preferred 輪融資。該輪融資由 Veteran Ventures Capital 的 Fund II 領投，並有 Virginia Innovation Partnership Corporation 及現有投資者參與。",
+      "why_it_matters": "反映國防與海事供應鏈對大型金屬增材製造技術的資金青睞。",
+      "tags": [
+        "融資",
+        "海事工業",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/radian-forge-closes-2-5m-round-to-support-maritime-industrial-base-255003/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 16
+}
