@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T02:34:31.160Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-09-29)",
+  "summary": "今日 3D 列印產業亮點包含香港城大與劍橋大學聯合成立智能製造中心、Addireen 發表第三代綠光純銅金屬列印機，以及 Bambu Lab 夥拍公益組織舉辦全球無障礙設計賽。此外，太空微重力實驗與工業級數位線索（Digital Thread）管理軟件亦取得新進展。",
+  "items": [
+    {
+      "title": "香港城大與劍橋合作成立 3D 列印智能製造中心",
+      "category": "科研",
+      "summary": "香港城市大學與劍橋大學聯合成立「先進與智能製造中心」（CASM），以增材製造為核心技術平台。該中心將重點把 3D 列印技術應用於數據中心冷卻、新一代制冷、輕量化新能源汽車及新材料開發等四大領域。",
+      "why_it_matters": "促進頂級學術機構合作，加速 3D 列印技術在能源與綠色科技等前沿領域的工業化落地。",
+      "tags": [
+        "CityUHK",
+        "劍橋大學",
+        "智能製造",
+        "科研合作"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/cityuhk-cambridge-launch-3d-printing-centred-smart-manufacturing-hub-255120/"
+        }
+      ]
+    },
+    {
+      "title": "Addireen 推出第三代綠光金屬 3D 列印機攻純銅量產",
+      "category": "硬件",
+      "summary": "中國金屬 3D 列印廠商 Addireen 發佈第三代綠光金屬增材製造系統 XH-M350G-2HR，旨在將純銅 3D 列印從原型製作推進至穩定的批量生產。該設備成型體積為 350 × 350 mm，針對列印效率、長時間運行穩定性及整板零件一致性進行重點優化。",
+      "why_it_matters": "綠光雷射能有效突破高反射率純銅材料的列印瓶頸，推動高導電導熱組件的工業化量產。",
+      "tags": [
+        "Addireen",
+        "綠光雷射",
+        "純銅列印",
+        "金屬 3D 列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/addireen-launches-xh-m350g-2hr-for-faster-more-consistent-copper-3d-printing-255104/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 夥拍 Makers Making Change 舉辦全球無障礙設計賽",
+      "category": "開源",
+      "summary": "加拿大非營利組織 Neil Squire 旗下的 Makers Making Change 項目，與 Bambu Lab 及多個無障礙組織合作推出「Make for Good」全球設計挑戰賽。賽事於 Bambu Lab 的 MakerWorld 平台舉辦，邀請創客與設計師開發助行或輔助技術裝置。",
+      "why_it_matters": "展示桌面級 3D 列印與開源社群結合，推動個人化輔助科技普及的社會價值。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "輔助科技",
+        "開源社群"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/makers-making-change-and-bambu-lab-launch-global-assistive-technology-3d-printing-challenge-255127/"
+        }
+      ]
+    },
+    {
+      "title": "Artec 3D 發佈首款容差驅動無綫 3D 掃描器 Neo",
+      "category": "硬件",
+      "summary": "3D 掃描軟硬件開發商 Artec 3D 推出專為品質檢測與逆向工程設計的無綫掃描器 Artec Neo。該設備引入「容差驅動 3D 掃描」技術，允許使用者根據工件不同區域的公差要求調整測量工作流，無須全件套用同一高精度強度。",
+      "why_it_matters": "簡化工業級品質檢測的作業流程，顯著提升複雜組件的掃描效率與靈活度。",
+      "tags": [
+        "Artec 3D",
+        "3D 掃描",
+        "品質檢測",
+        "逆向工程"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/artec-3d-launches-neo-wireless-scanner-with-tolerance-driven-3d-scanning-255131/"
+        }
+      ]
+    },
+    {
+      "title": "XYZO 發佈高分子自動化混合製造平台",
+      "category": "硬件",
+      "summary": "英國 XYZO 公司推出高分子自動化混合製造平台，將增材製造與精密機械加工、後處理成型、檢測及過程控制深度整合。該系統旨在減少各工序之間的人工干預，將孤立的 3D 列印轉變為可控的成品零部件生產線。",
+      "why_it_matters": "混合製造技術成功打通列印與後處理環節，填補了高分子 3D 列印邁向自動化終端生產的關鍵缺口。",
+      "tags": [
+        "XYZO",
+        "混合製造",
+        "自動化",
+        "高分子"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/xyzo-launches-automated-hybrid-manufacturing-platform-for-polymer-production-255134/"
+        }
+      ]
+    },
+    {
+      "title": "研究人員利用微重力環境探索金屬 3D 列印熔池缺陷",
+      "category": "科研",
+      "summary": "美國國家科學基金會（NSF）與國際太空站（ISS）國家實驗室選中由聖路易斯華盛頓大學主導的研究項目。該項目將利用太空中的微重力環境，觀察金屬粉末顆粒在融化與混合過程中的微觀行為，探索消除金屬增材製造缺陷的新方法。",
+      "why_it_matters": "微重力環境能消除浮力對流影響，有助研究人員深入理解冶金物理原理並提升地表金屬列印品質。",
+      "tags": [
+        "微重力",
+        "金屬 3D 列印",
+        "ISS",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/microgravity-research-targets-defects-in-metal-additive-manufacturing-255110/"
+        }
+      ]
+    },
+    {
+      "title": "Authentise 推動 3D 列印數位線索管理系統",
+      "category": "軟件",
+      "summary": "軟件廠商 Authentise 致力於建立連接 3D 列印全流程的「數位線索」（Digital Thread）系統。該平台能夠追蹤設計版本、耗材批次、機台狀態、生產過程及檢測數據，為航天及醫療等對品質合規要求極高的行業提供完整的數據記錄。",
+      "why_it_matters": "解決增材製造數據孤島問題，是工業級 3D 列印達成可追溯性與品質認證的關鍵一步。",
+      "tags": [
+        "Authentise",
+        "數位線索",
+        "數據管理",
+        "工業軟件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333349/the-part-is-only-half-the-story-why-3d-printing-needs-a-digital-thread/"
+        }
+      ]
+    },
+    {
+      "title": "Velo3D 加入美國政府與產業數據交換計劃 GIDEP",
+      "category": "產業",
+      "summary": "金屬 3D 列印製造商 Velo3D 宣佈加入美國政府與產業數據交換計劃（GIDEP）。透過該計劃，Velo3D 將能取得政府與國防產業共享的技術、品質及供應鏈風險資訊，強化其在國防製造領域的品質管控與供應鏈韌性。",
+      "why_it_matters": "展現增材製造深度融入國防與航天供應鏈的趨勢，符合高安全標準數據共享要求。",
+      "tags": [
+        "Velo3D",
+        "GIDEP",
+        "國防製造",
+        "供應鏈"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/velo3d-joins-government-industry-data-exchange-program-255084/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 16
+}
