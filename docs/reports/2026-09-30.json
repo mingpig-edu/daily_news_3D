@@ -1,0 +1,178 @@
+{
+  "schema_version": 2,
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T02:08:06.236Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "為您整理 2026 年 9 月 30 日的 3D 列印產業重點消息，涵蓋美國加州槍械防範法案、Stratasys 與 Bambu Lab 專利訴訟解析、醫療與機器人領域的增長趨勢，以及多項新材料與軟體工具的更新。",
+  "items": [
+    {
+      "title": "加州正式簽署 3D 列印槍械防範法案",
+      "category": "安全",
+      "summary": "加州州長加文·紐森簽署了 Assembly Bill 2047 法律，旨在防止 3D 列印機製作槍械及機關槍轉換裝置。該法未來將要求在加州銷售的印表機具備識別並阻擋特定列印檔案的技術，但目前對印表機製造商尚無立即的實質改變。",
+      "why_it_matters": "此為首個針對 3D 列印設備安全與防範法規的重要立法進展，未來可能影響印表機硬體與韌體的設計標準。",
+      "tags": [
+        "法規",
+        "安全",
+        "加州",
+        "槍械"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333850/california-signs-3d-printer-gun-blocking-bill-into-law/"
+        }
+      ]
+    },
+    {
+      "title": "深入解析 Stratasys 與 Bambu Lab 的 2,760 萬美元專利訴訟",
+      "category": "產業",
+      "summary": "德州東區聯邦陪審團於 9 月 18 日裁定，與 Bambu Lab 相關的公司侵犯了 Stratasys 的四項專利，並判賠 2,760 萬美元。業界專家開始深入剖析此案背後的美國訴訟技術核心，並預告將有後續針對歐洲及全球專利戰局的深入探討。",
+      "why_it_matters": "此一重大專利判決可能對桌面級 FDM 3D 列印市場的技術競爭與品牌發展產生深遠影響。",
+      "tags": [
+        "Bambu Lab",
+        "Stratasys",
+        "專利",
+        "法律"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333562/stratasys-vs-bambu-lab-whats-really-behind-the-27-6m-patent-verdict/"
+        }
+      ]
+    },
+    {
+      "title": "LLNL 利用 3D 列印固態生物反應器將廢甲烷轉化為琥珀酸",
+      "category": "科研",
+      "summary": "美國勞倫斯利佛摩國家實驗室（LLNL）的研究人員打造了一款 3D 列印的固態生物反應器，能將廢甲烷轉化為用於聚合物和藥物的工業化學品琥珀酸。該反應器效能比傳統液態系統高出 10 倍以上且耗能更低。",
+      "why_it_matters": "展示了 3D 列印在高效化學工程與環保永續應用上的強大科研潛力。",
+      "tags": [
+        "生物反應器",
+        "科研",
+        "化學工程",
+        "LLNL"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/llnl-3d-prints-solid-state-bioreactor-that-turns-waste-methane-into-succinate-255148/"
+        }
+      ]
+    },
+    {
+      "title": "SnowX 於 Kickstarter 預熱 SnowPod 輕便型金屬 3D 列印機",
+      "category": "硬件",
+      "summary": "中國蘇州公司 SnowX 正在開發名為 SnowPod 的雷射粉末床熔融（LPBF）輕便型金屬增材製造系統。該公司已為預計在 2026 年第四季展開的群眾募資活動開設 Kickstarter 預熱頁面。",
+      "why_it_matters": "金屬 3D 列印設備正朝向更輕便、桌面化的方向發展，擴大市場觸及面。",
+      "tags": [
+        "金屬3D列印",
+        "LPBF",
+        "Kickstarter",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/snowx-opens-kickstarter-pre-launch-page-for-snowpod-compact-metal-3d-printer-255152/"
+        }
+      ]
+    },
+    {
+      "title": "AmeraLabs 推出三款用於牙科 3D 列印的 CE 一級光敏樹脂",
+      "category": "材料",
+      "summary": "立陶宛 3D 列印樹脂製造商 AmeraLabs 擴展其牙科材料產品線，推出三款具備 CE 一級標誌的新樹脂。新材料包含用於客製化印模托盤的 CIT-25、手術導板的 SGR-28，以及牙科試戴應用的 TRY-23。",
+      "why_it_matters": "專為牙科工作流程設計的認證材料有助於提升應用的合規性與精準度。",
+      "tags": [
+        "光敏樹脂",
+        "牙科",
+        "材料",
+        "醫療"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ameralabs-introduces-three-ce-class-i-resins-for-dental-3d-printing-255153/"
+        }
+      ]
+    },
+    {
+      "title": "Flux 軟體更新支援直接圍繞電路板設計 3D 列印外殼",
+      "category": "軟件",
+      "summary": "總部位於舊金山的電路板設計 AI 軟體開發商 Flux 推出了新功能，可直接從使用者的電路板佈局生成 3D 列印外殼。使用者只需在聊天視窗描述需求，軟體便能根據實際幾何尺寸建造對應的外殼。",
+      "why_it_matters": "打通了電子電路設計與外殼結構製造之間的數位工作流程，提升原型開發效率。",
+      "tags": [
+        "軟件",
+        "AI",
+        "電路板",
+        "設計"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/flux-software-now-designs-3d-printable-cases-around-circuit-boards-255167/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 攜手設計師 SUSAN FANG 亮相倫敦時裝週",
+      "category": "應用",
+      "summary": "中國時裝設計師 SUSAN FANG 在倫敦時裝週發表 2027 春夏 Air-Illusion 系列，其中包含多款 3D 列印涼鞋與蕾絲配件。Bambu Lab 作為官方技術夥伴，不僅提供機器支援，設計團隊更直接在工作室使用其桌面系統進行原型製作與走秀服飾生產。",
+      "why_it_matters": "顯示桌面級 3D 列印技術在高端時尚與設計產業中的實際應用日益普及。",
+      "tags": [
+        "時尚",
+        "Bambu Lab",
+        "應用",
+        "設計"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333560/bambu-lab-and-susan-fang-3d-print-for-london-fashion-week/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 20
+}
