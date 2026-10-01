@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T02:09:15.484Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-01)",
+  "summary": "今日焦點涵蓋加州正式簽署 3D 列印槍械管制法案、Stratasys 與 Bambu Lab 專利訴訟後續分析，以及 Carbon 在歐洲成功捍衛雙重固化核心專利。科研與硬件方面，深圳中科邁銳（Addireen）投產綠光金屬 3D 列印生產線，MIT 與約翰霍普金斯大學聯手研發出微流控活檢採樣裝置，展示 3D 列印在醫療及尖端製造領域的最新進展。",
+  "items": [
+    {
+      "title": "加州州長簽署 3D 列印槍械封鎖法案，推動未來檔案識別管制",
+      "category": "安全",
+      "summary": "加州州長 Gavin Newsom 正式簽署 AB 2047 法案（加州防止槍械列印法案）。新法旨在防止 3D 列印機製造槍械或全自動轉換裝置，並建立了未來要求在加州銷售的列印機內建檔案識別與阻截機制的框架流程。法案目前尚未即時對製造商強制施加技術限制，而是設立後續研擬規範的程序。",
+      "why_it_matters": "此法案為全球 3D 列印設備監管樹立了重要政策先例，未來可能深遠影響消費級與工業級設備的韌體與軟體架構。",
+      "tags": [
+        "法規政策",
+        "安全監管",
+        "加州法案",
+        "3D列印槍械"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333850/california-signs-3d-printer-gun-blocking-bill-into-law/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 與 Bambu Lab 專利訴訟獲陪審團裁決，涉及 2,760 萬美元賠償",
+      "category": "產業",
+      "summary": "美國德州東區聯邦法院陪審團就 Stratasys 對 Bambu Lab 的專利侵權訴訟作出裁決，認定 Bambu Lab 相關公司侵犯了 Stratasys 的四項核心專利，並裁定高達 2,760 萬美元的賠償金。這場爭議引發了業界對 FDM 基礎技術專利邊界與後續歐洲訴訟進展的高度關注。",
+      "why_it_matters": "這場指標性訴訟的結果將直接衝擊主流消費級高速 3D 列印機品牌的專利佈局與全球市場競爭態勢。",
+      "tags": [
+        "Stratasys",
+        "Bambu Lab",
+        "專利訴訟",
+        "FDM",
+        "知識產權"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333562/stratasys-vs-bambu-lab-whats-really-behind-the-27-6m-patent-verdict/"
+        }
+      ]
+    },
+    {
+      "title": "Carbon 成功在歐洲專利局捍衛雙重固化核心專利",
+      "category": "材料",
+      "summary": "歐洲專利局（EPO）上訴委員會裁定維持 Carbon 的第 EP 3158400 號專利，結束了競爭對手歷時數年的挑戰。該專利涵蓋利用具備多重硬化機制材料製造 3D 列印物件的方法，即 Carbon 核心的雙重固化技術，能顯著提升光固化零件的耐用度與機械強度以供終端應用。",
+      "why_it_matters": "確認了 Carbon 在高強度終端光固化樹脂領域的技術專利壁壘，鞏固其在工業級光固化量產市場的領先優勢。",
+      "tags": [
+        "Carbon",
+        "光固化",
+        "雙重固化",
+        "樹脂材料",
+        "歐洲專利局"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333969/carbon-wins-patent-battle-over-key-dual-cure-3d-printing-in-europe/"
+        }
+      ]
+    },
+    {
+      "title": "中科邁銳（Addireen）贛州新基地投產，月產能達 50 台金屬 3D 列印設備",
+      "category": "硬件",
+      "summary": "專注於金屬增材製造的深圳企業 Addireen 於江西贛州章貢區的新生產基地正式啟用。該基地具備每月生產多達 50 台金屬 3D 列印系統的產能，主要用於擴大其綠光雷射設備的市場推廣，專攻純銅、銅合金及熱管理組件的列印製造。",
+      "why_it_matters": "綠光金屬 3D 列印產能的大幅擴張，有助加速純銅及高反射金屬在熱管理與電子領域的工業化應用。",
+      "tags": [
+        "金屬3D列印",
+        "綠光雷射",
+        "純銅列印",
+        "工業硬件",
+        "增材製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/addireen-opens-ganzhou-facility-with-capacity-for-up-to-50-metal-am-systems-per-month-255220/"
+        }
+      ]
+    },
+    {
+      "title": "MIT 與約翰霍普金斯大學研發 3D 列印微流控裝置助早期癌症檢測",
+      "category": "科研",
+      "summary": "麻省理工學院（MIT）與約翰霍普金斯大學的研究團隊合作開發出一款手持式工具，其核心採用 3D 列印的微流控元件。該工具能精準從剛切除的組織特定位置採集活細胞進行早期癌變分析，同時完整保留其餘組織供常規病理學檢查。",
+      "why_it_matters": "展示了高精度 3D 列印在微流控及精準醫療採樣工具中的實用潛力，有助推動癌症早期診斷技術的普及。",
+      "tags": [
+        "醫療應用",
+        "微流控",
+        "MIT",
+        "癌症檢測",
+        "生醫科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mit-and-johns-hopkins-develop-early-cancer-detection-3d-printed-device-255216/"
+        }
+      ]
+    },
+    {
+      "title": "奧克拉荷馬州立大學開發結合機器學習的原位感測複合材料 3D 列印機",
+      "category": "科研",
+      "summary": "奧克拉荷馬州立大學（OSU）與密西西比州立大學獲得美國國家科學基金會（NSF）資助，正在研製一款多噴頭連續纖維與聚合物複合材料 3D 列印平台。該系統配備原位監測感測器，並結合機器學習演算法在列印過程中即時檢測並分析零件品質。",
+      "why_it_matters": "即時機器學習閉環控制與連續纖維列印結合，是解決複合材料增材製造內部缺陷與提高結構一致性的關鍵突破。",
+      "tags": [
+        "複合材料",
+        "連續纖維",
+        "機器學習",
+        "原位監測",
+        "多噴頭"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/osu-team-adds-in-situ-sensing-to-multi-head-composite-3d-printing-platform-255200/"
+        }
+      ]
+    },
+    {
+      "title": "勞倫斯利佛摩國家實驗室 3D 列印固態生物反應器轉化甲烷為工業化學品",
+      "category": "應用",
+      "summary": "美國勞倫斯利佛摩國家實驗室（LLNL）利用 3D 列印技術製造出新型固態生物反應器，能將廢棄甲烷轉化為琥珀酸（Succinate）。研究團隊指出，相較於傳統液態反應系統，該緊湊型 3D 列印反應器的效能提升超過 10 倍，同時大幅降低能耗。",
+      "why_it_matters": "證明了 3D 列印定製流道與多孔結構在綠色化工與廢氣高值化轉化上的巨大應用價值。",
+      "tags": [
+        "LLNL",
+        "生物反應器",
+        "化學工程",
+        "綠色科技",
+        "工業應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/llnl-3d-prints-solid-state-bioreactor-that-turns-waste-methane-into-succinate-255148/"
+        }
+      ]
+    },
+    {
+      "title": "維珍尼亞理工大學獲 NSF 資助，利用增材製造研發極端高溫自潤滑合金",
+      "category": "材料",
+      "summary": "維珍尼亞理工大學聯同亞利桑那州立大學及愛荷華州立大學獲得美國國家科學基金會 200 萬美元資助，開展極端高溫自潤滑耐磨合金研究。該項目將結合增材製造、計算建模、高通量測試及機器學習，開發在極端高溫下仍能保持結構強度的金屬材料。",
+      "why_it_matters": "結合 3D 列印與機器學習快速篩選極端環境特種合金，將大幅縮短航空航天與能源領域高溫耐磨零件的研發週期。",
+      "tags": [
+        "金屬材料",
+        "高溫合金",
+        "自潤滑",
+        "材料研發",
+        "NSF"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/virginia-tech-led-project-uses-additive-manufacturing-to-develop-self-lubricating-alloys-for-extreme-heat-255197/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
