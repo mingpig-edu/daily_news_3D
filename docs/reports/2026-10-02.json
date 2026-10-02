@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T02:15:40.003Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "2026年10月2日的 3D 列印產業情報，涵蓋材料專利勝訴、醫療檢測裝置突破、航海與國防金屬認證、新硬體與法規動態等最新消息。",
+  "items": [
+    {
+      "title": "Carbon 贏得歐洲雙重固化 3D 列印專利上訴",
+      "category": "產業",
+      "summary": "美國 3D 列印公司 Carbon 成功在歐洲專利局（EPO）上訴中捍衛其關鍵的雙重固化技術專利。該專利涵蓋利用多種硬化機製製造 3D 列印物體的方法，有助於將光固化列印件轉化為更強韌的最終用途產品。EPO 董事會最終維持了該專利的最廣泛權利要求。",
+      "why_it_matters": "鞏固了 Carbon 在高性能終端零件應用的核心技術壁壘，免受競爭對手挑戰。",
+      "tags": [
+        "Carbon",
+        "專利",
+        "光固化",
+        "歐洲專利局"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333969/carbon-wins-patent-battle-over-key-dual-cure-3d-printing-in-europe/"
+        }
+      ]
+    },
+    {
+      "title": "Mencast Marine WAAM 船用螺旋槳獲雙船級社認證",
+      "category": "產業",
+      "summary": "新加坡螺旋槳製造商 Mencast Marine 利用電弧增材製造（WAAM）技術製造的船用螺旋槳，正式獲得勞氏船級社（Lloyd’s Register）與美國驗船協會（ABS）的雙重認證。這被兩家船級社認定為全球首例同類認證。這項成就展示了大型金屬增材製造在嚴格海事標準下的應用潛力。",
+      "why_it_matters": "標誌著 WAAM 金屬大型零件在航海產業中取得重大合規突破，加速商業化落地。",
+      "tags": [
+        "WAAM",
+        "金屬3D列印",
+        "海事",
+        "認證"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mencast-marines-waam-propeller-earns-dual-class-certification-255241/"
+        }
+      ]
+    },
+    {
+      "title": "MIT 與約翰霍普金斯大學開發 3D 列印早期癌症檢測手持裝置",
+      "category": "科研",
+      "summary": "麻省理工學院（MIT）與約翰霍普金斯大學的研究人員合作開發了一款手持式檢測工具，核心為 3D 列印微流體裝置。該裝置可從新鮮切除的組織特定部位採集活細胞，同時保留其餘組織供病理學檢查使用。研究團隊表示，這項技術有助於實現更早期的癌症檢測。",
+      "why_it_matters": "結合 3D 列印微流體與臨床醫學，為癌症早期篩檢提供了一種更具效率的創新工具。",
+      "tags": [
+        "醫療",
+        "微流體",
+        "科研",
+        "3D列印應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mit-and-johns-hopkins-develop-early-cancer-detection-3d-printed-device-255216/"
+        }
+      ]
+    },
+    {
+      "title": "Creality 創想推出 Sermoon P1S 3D 掃描器進軍專業市場",
+      "category": "硬件",
+      "summary": "Creality 推出全新的 Sermoon P1S 手持式 3D 掃描器，結合結構光與藍光雷射技術。該設備宣稱具備 0.02 mm 的精度，主要面向逆向工程、工業應用及外業工作。此舉顯示該公司正積極從單一硬體製造擴展至涵蓋創作與檔案分享的全方位工具生態。",
+      "why_it_matters": "標誌著平價 3D 列印品牌向高精度專業掃描與逆向工程市場的進一步擴張。",
+      "tags": [
+        "Creality",
+        "3D掃描器",
+        "逆向工程",
+        "硬體"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333273/creality-goes-pro-with-sermoon-p1s-3d-scanner/"
+        }
+      ]
+    },
+    {
+      "title": "MX3D 獲得 DNV AMC3 金屬增材製造設施認證",
+      "category": "產業",
+      "summary": "阿姆斯特丹機器人金屬增材製造系統製造商 MX3D 的 WAAM 設施，正式獲得挪威船級社（DNV）發出的增材製造臨界度 3（AMC3）級別合格證書。此認證依據 DNV-ST-B203 標準發布，適用於海事、國防與能源領域的金屬零件製造。",
+      "why_it_matters": "提升了業界對機器人電弧增材製造設施在關鍵工業領域生產安全與品質的信心。",
+      "tags": [
+        "MX3D",
+        "WAAM",
+        "DNV認證",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mx3d-receives-dnv-amc3-certification-for-its-waam-facility-255254/"
+        }
+      ]
+    },
+    {
+      "title": "加州正式簽署 3D 列印槍支防範法案",
+      "category": "安全",
+      "summary": "美國加州州長加文·紐森（Gavin Newsom）正式簽署 Assembly Bill 2047（加州槍支列印預防法案）。該法律旨在防止 3D 列印機製造槍支及機槍轉換裝置，未來可能要求在加州銷售的印表機內建可識別並阻止特定列印檔案的技術，不過目前對現有製造商尚無即時更改要求。",
+      "why_it_matters": "反映了政府針對消費級 3D 列印安全性與非法武器製造的立法監管趨勢。",
+      "tags": [
+        "法規",
+        "安全",
+        "3D列印槍支",
+        "政策"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333850/california-signs-3d-printer-gun-blocking-bill-into-law/"
+        }
+      ]
+    },
+    {
+      "title": "格拉斯哥與雪梨工程師利用電阻抗斷層掃描追蹤超材料裂紋",
+      "category": "科研",
+      "summary": "格拉斯哥大學與雪梨大學的工程師成功製作出 3D 列印超材料，能夠在受損時顯示受損位置並追蹤損害擴散過程。這項技術透過電阻抗斷層掃描來即時監測結構內部變化，有助於提升先進材料的結構安全性評估。",
+      "why_it_matters": "為 3D 列印複雜結構提供了智慧化、即時的損害監測手段，具備極高的工程應用潛力。",
+      "tags": [
+        "超材料",
+        "科研",
+        "感測",
+        "3D列印應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/glasgow-and-sydney-engineers-use-electrical-impedance-tomography-to-track-cracks-in-3d-printed-metamaterials-255234/"
+        }
+      ]
+    },
+    {
+      "title": "愛迪仁贛州新廠投產，金屬 3D 列印系統月產能達 50 台",
+      "category": "產業",
+      "summary": "深圳金屬增材製造開發商愛迪仁（Addireen）位於中國贛州章貢區的新廠房正式投入營運。該設施每月可生產多達 50 台金屬 3D 列印系統，主要支援其綠色雷射設備的大規模推廣，應用於純銅、銅合金及熱管理零組件的製造。",
+      "why_it_matters": "顯示中國金屬增材製造設備供應商正逐步擴大產能，以應對高導熱金屬應用的成長需求。",
+      "tags": [
+        "金屬3D列印",
+        "產能",
+        "銅合金",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/addireen-opens-ganzhou-facility-with-capacity-for-up-to-50-metal-am-systems-per-month-255220/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 20
+}
