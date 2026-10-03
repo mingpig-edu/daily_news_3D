@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T01:56:50.771Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-10-03",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（Unterminated string in JSON at position 403 (line 1 column 404)）。",
+  "items": [
+    {
+      "title": "America’s Small Factories are Still Waiting for Work",
+      "category": "材料",
+      "summary": "Join 3D Printing Industry’s online AMA Software event on 22 October 2026 to explore how AI and software are changing manufacturing, with speakers from NVIDIA, Autodesk and Materialise. American manufacturers are accumulating orders while many smaller factories struggle to find en",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/americas-small-factories-are-still-waiting-for-work-255350/"
+        }
+      ]
+    },
+    {
+      "title": "Mosquito Dreams Part 1: Thonet, A World History",
+      "category": "材料",
+      "summary": "As a child, I lived in Kenya for a while. When we went to Mombasa, wafting breezes, crunchy white powder that sounds like snow underfoot, beaches bordered by many unseen blues, we had to take malaria medication. Beneath the gauzy beige of my mosquito net, I hallucinated. Sweat ba",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331985/mosquito-dreams-part-1-thonet-a-world-history/"
+        }
+      ]
+    },
+    {
+      "title": "ADDMAN to Buy Up to $10.8M in Nickel 718 Powder from 6K Additive Over 30 Months",
+      "category": "材料",
+      "summary": "After years of buildup, we’re finally starting to see what the US metal additive manufacturing (AM) market could look like at scale. To be sure, it’s still not quite there, outside certain pockets of robust growth. But the groundwork has been laid, and features of a mature market",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334058/addman-to-buy-up-to-10-8m-in-nickel-718-powder-from-6k-over-30-months/"
+        }
+      ]
+    },
+    {
+      "title": "Sinto Advanced Ceramics adds aluminum nitride and silicon nitride to 3D printing portfolio",
+      "category": "材料",
+      "summary": "Hear from the experts shaping additive manufacturing software. Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&A! Sinto Advanced Ceramics Europe, a contract manufacturer specializing in additively manufactured t",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sinto-advanced-ceramics-adds-aluminum-nitride-and-silicon-nitride-to-3d-printing-portfolio-255339/"
+        }
+      ]
+    },
+    {
+      "title": "6K Additive to Supply and Buy Back Nickel 718 Powder for ADDMAN in US$10.8M Deal",
+      "category": "軟件／開源",
+      "summary": "Hear from the experts shaping additive manufacturing software. Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&A! Pennsylvania-based metal powder producer 6K Additive has signed a 30-month long-term agreement to",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/6k-additive-to-supply-and-buy-back-nickel-718-powder-for-addman-in-us10-8m-deal-255336/"
+        }
+      ]
+    },
+    {
+      "title": "Skyrora Hot-Fires Scaled-Down Orbital Vehicle for 45 Seconds in Scotland",
+      "category": "材料",
+      "summary": "Hear from the experts shaping additive manufacturing software. Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&A! UK launch services company Skyrora has completed a 45-second static hot-fire test of a scaled-dow",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/skyrora-hot-fires-scaled-down-orbital-vehicle-for-45-seconds-in-scotland-255247/"
+        }
+      ]
+    },
+    {
+      "title": "Myrava Moves Into Radiation Therapy With Cleared 3D Printed Bolus",
+      "category": "軟件／開源",
+      "summary": "Hear from the experts shaping additive manufacturing software. Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&A! Myrava, formerly known as Ricoh 3D for Healthcare, has received U.S. Food and Drug Administration",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/myrava-moves-into-radiation-therapy-with-cleared-3d-printed-bolus-255208/"
+        }
+      ]
+    },
+    {
+      "title": "Zetamix to Make Metal Parts on Board Charles de Gaulle Aircraft Carrier",
+      "category": "材料",
+      "summary": "Zetamix ‘s metal 3D printing solution is to be used aboard the French aircraft carrier Charles de Gaulle. The $3 billion carrier , built in 2002, has a complement of 1350 and an additional 600 troops working on the aircraft. Capable of carrying up to 30 aircraft, the carrier is s",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333280/zetamix-to-make-metal-parts-on-board-charles-de-gaulle-aircraft-carrier/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 20
+}
