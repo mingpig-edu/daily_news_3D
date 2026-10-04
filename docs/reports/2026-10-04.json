@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T02:39:19.253Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "2026年10月4日的每日 3D 列印情報，涵蓋國防合約、醫療認證、船舶金屬列印、新材料及硬件設備等重要動態。",
+  "items": [
+    {
+      "title": "Myrava 獲 FDA 510(k) 批准推出 3D 列印放射治療填充物",
+      "category": "應用",
+      "summary": "前身為 Ricoh 3D for Healthcare 的 Myrava 獲得美國食品藥物管理局（FDA）510(k) 批准，用於患者專屬的 3D 列印放射治療填充物。此項醫療認證將進一步推動 3D 列印技術在癌症放射治療中的臨床應用。",
+      "why_it_matters": "標誌著醫療級 3D 列印在放射治療領域取得重要監管突破，有助於提供更精準的患者專屬治療。",
+      "tags": [
+        "醫療",
+        "FDA",
+        "應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/myrava-moves-into-radiation-therapy-with-cleared-3d-printed-bolus-255208/"
+        }
+      ]
+    },
+    {
+      "title": "Creality 推出 Sermoon P1S 專業手持 3D 掃描器",
+      "category": "硬件",
+      "summary": "創客品牌 Creality 發表全新的 Sermoon P1S 手持式 3D 掃描器，結合結構光與藍光雷射技術。該設備主打逆向工程、工業應用與外勤工作，宣稱精度可達 0.02 mm。",
+      "why_it_matters": "顯示 Creality 正持續擴展其產品線，從 3D 列印機延伸至檔案創建與掃描工具，加強其在硬體生態的佈局。",
+      "tags": [
+        "Creality",
+        "3D掃描器",
+        "硬體"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333273/creality-goes-pro-with-sermoon-p1s-3d-scanner/"
+        }
+      ]
+    },
+    {
+      "title": "Mencast Marine WAAM 船用螺旋槳獲雙船級社認證",
+      "category": "產業",
+      "summary": "新加坡螺旋槳製造商 Mencast Marine 利用線材電弧增材製造（WAAM）技術製作的推進器，成功獲得勞氏船級社（Lloyd’s Register）與美國船級社（ABS）的雙重認證，被認為是全球首例。",
+      "why_it_matters": "大型金屬 3D 列印技術在海事工業中取得關鍵認證，證明 WAAM 技術已具備商業應用的結構可靠性。",
+      "tags": [
+        "WAAM",
+        "海事",
+        "認證"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mencast-marines-waam-propeller-earns-dual-class-certification-255241/"
+        }
+      ]
+    },
+    {
+      "title": "Zetamix 複合絲材將應用於法國「戴高樂號」航空母艦",
+      "category": "材料",
+      "summary": "Nanoe 旗下的 Zetamix 金屬 3D 列印解決方案將部署至法國海軍「戴高樂號」航空母艦上。該項目由法國艦隊支援服務處與 Naval Group 共同實施，用於在海上複雜環境中製造金屬備件。",
+      "why_it_matters": "將金屬 3D 列印帶入遠洋軍艦，能大幅提升海上維修效率與零件自給能力。",
+      "tags": [
+        "金屬3D列印",
+        "海事",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333280/zetamix-to-make-metal-parts-on-board-charles-de-gaulle-aircraft-carrier/"
+        }
+      ]
+    },
+    {
+      "title": "Sinto Advanced Ceramics 擴展技術陶瓷 3D 列印材料組合",
+      "category": "材料",
+      "summary": "專門從事增材製造技術陶瓷的合約製造商 Sinto Advanced Ceramics Europe，在其材料組合中新增了氮化鋁（AlN）與氮化矽（Si₃N₄）。",
+      "why_it_matters": "為工業界提供更多高性能、耐高溫與高導熱的先進陶瓷 3D 列印選項。",
+      "tags": [
+        "陶瓷",
+        "新材料",
+        "工業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sinto-advanced-ceramics-adds-aluminum-nitride-and-silicon-nitride-to-3d-printing-portfolio-255339/"
+        }
+      ]
+    },
+    {
+      "title": "MX3D WAAM 設施獲得 DNV AMC3 級別資質認證",
+      "category": "產業",
+      "summary": "總部位於阿姆斯特丹的機器人金屬增材製造商 MX3D，其 WAAM 設施獲得挪威船級社（DNV）發出的增材製造關鍵性 3 (AMC3) 級別合格證書，適用於海事、國防與能源領域的金屬零件。",
+      "why_it_matters": "進一步確立其大型 robotic WAAM 設施在嚴苛工業應用中的品質與安全標準。",
+      "tags": [
+        "WAAM",
+        "認證",
+        "工業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mx3d-receives-dnv-amc3-certification-for-its-waam-facility-255254/"
+        }
+      ]
+    },
+    {
+      "title": "格拉斯哥與雪梨工程師利用電阻抗斷層掃描追蹤 3D 列印超材料裂紋",
+      "category": "科研",
+      "summary": "英國格拉斯哥大學與澳洲雪梨大學的工程師合作，開發出能夠自我顯示損壞位置並追蹤裂紋蔓延的 3D 列印超材料。",
+      "why_it_matters": "為智慧材料與結構健康監測提供創新的科研基礎，有助於預防結構性災難。",
+      "tags": [
+        "科研",
+        "超材料",
+        "感測"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/glasgow-and-sydney-engineers-use-electrical-impedance-tomography-to-track-cracks-in-3d-printed-metamaterials-255234/"
+        }
+      ]
+    },
+    {
+      "title": "Titomic 獲得 500 萬美元美國國防冷噴塗系統合約",
+      "category": "產業",
+      "summary": "先進製造企業 Titomic 宣布其美國子公司獲得美國空軍總值 500 萬美元的國防合約，主要應用於 TKF 1000 冷噴塗增材製造系統。",
+      "why_it_matters": "顯示美國國防部門對冷噴塗金屬增材製造技術的持續投資與應用落地。",
+      "tags": [
+        "國防",
+        "冷噴塗",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334152/3d-printing-news-briefs-10-3-2026/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 17
+}
