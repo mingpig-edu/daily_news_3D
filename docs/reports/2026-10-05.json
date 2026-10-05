@@ -1,0 +1,178 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T02:00:53.879Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：Bambu Lab 推出無障礙設計競賽與醫療、國防應用新進展",
+  "summary": "今日情報聚焦於 Bambu Lab 聯合無障礙組織發起的全球 3D 列印設計大賽，以及 3D 列印技術在醫療（Myrava 獲 FDA 認證）、國防（法國航空母艦部署 Zetamix 金屬列印、Titomic 獲美軍合約）與先進材料（氮化鋁與氮化矽陶瓷、Nickel 718 粉末）的最新應用。",
+  "items": [
+    {
+      "title": "Bambu Lab 夥拍七大無障礙組織於 MakerWorld 推出輔具設計大賽",
+      "category": "開源",
+      "summary": "Bambu Lab 旗下 3D 模型平台 MakerWorld 宣佈與七家深耕 3D 列印輔助工具的無障礙組織合作，推出「Make for Good: Accessibility Design Contest」全球設計競賽。比賽將持續至 2026 年 12 月，邀請創客根據 24 份特定設計需求簡報，為有需要人士研發實用的 3D 列印生活輔具。",
+      "why_it_matters": "展現 3D 列印社群平台從單純模型分享轉型為推動社會實用公益與開源設計的重要推動力。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "無障礙輔具",
+        "設計競賽"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334195/bambu-lab-7-accessibility-organizations-launch-design-challenge-for-3d-printed-assistive-devices/"
+        }
+      ]
+    },
+    {
+      "title": "Myrava 放射治療用客製化 3D 列印劑量等效物獲得美國 FDA 認證",
+      "category": "醫療",
+      "summary": "前身為 Ricoh 3D for Healthcare 的 Myrava 公司，其用於癌症放射治療的患者專用 3D 列印劑量等效物（Bolus）成功取得美國 FDA 510(k) 醫療器材上市前許可。該產品能為接受放射治療的患者提供個人化精準配戴與保護。",
+      "why_it_matters": "取得 FDA 認證代表客製化 3D 列印醫療器件邁向臨床普及，顯著提升放射治療效果與患者舒適度。",
+      "tags": [
+        "Myrava",
+        "醫療 3D 列印",
+        "FDA 認證",
+        "放射治療"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/myrava-moves-into-radiation-therapy-with-cleared-3d-printed-bolus-255208/"
+        }
+      ]
+    },
+    {
+      "title": "法國戴高樂號航空母艦部署 Zetamix 金屬 3D 列印系統製作艦上零件",
+      "category": "應用",
+      "summary": "法國 Fleet Support Service 與 Naval Group 合作，將 Zetamix 的金屬 3D 列印解決方案部署於戴高樂號航空母艦（Charles de Gaulle）。該航母需隨時維修各種耗損設備，艦上配備金屬列印技術可即時生產維修零件，保障艦艇作戰能力。",
+      "why_it_matters": "證明金屬 3D 列印已能進駐極端後勤環境，為軍艦提供即時線上下備件生產能力。",
+      "tags": [
+        "Zetamix",
+        "金屬 3D 列印",
+        "國防應用",
+        "戴高樂號航母"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333280/zetamix-to-make-metal-parts-on-board-charles-de-gaulle-aircraft-carrier/"
+        }
+      ]
+    },
+    {
+      "title": "Sinto Advanced Ceramics 於陶瓷 3D 列印產品線新增氮化鋁與氮化矽材料",
+      "category": "材料",
+      "summary": "專營工程陶瓷增材製造的代工廠商 Sinto Advanced Ceramics Europe 宣佈，在其 3D 列印材料庫中正式加入氮化鋁（AlN）與氮化矽（Si3N4）。這兩種先進陶瓷材料具備優異的高溫熱傳導、絕緣性及高強度機械性能。",
+      "why_it_matters": "拓展了極端環境與高功率電子散熱領域對高性能陶瓷 3D 列印組件的選擇。",
+      "tags": [
+        "Sinto",
+        "陶瓷 3D 列印",
+        "氮化鋁",
+        "氮化矽"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sinto-advanced-ceramics-adds-aluminum-nitride-and-silicon-nitride-to-3d-printing-portfolio-255339/"
+        }
+      ]
+    },
+    {
+      "title": "6K Additive 與 ADDMAN 簽署 1,080 萬美元 Nickel 718 粉末長期供貨與回收協議",
+      "category": "材料",
+      "summary": "金屬粉末製造商 6K Additive 與 ADDMAN Engineering 簽署為期 30 個月的長期合約，合約總值高達 1,080 萬美元。6K Additive 除了向 ADDMAN 供應 Nickel 718 高鎳合金粉末外，亦包含粉末回購機制，建立閉環循環供應鏈。",
+      "why_it_matters": "展示金屬增材製造供應鏈正朝向長約化、規模化及資源循環再用的成熟商業模式發展。",
+      "tags": [
+        "6K Additive",
+        "ADDMAN",
+        "Nickel 718",
+        "金屬粉末"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/6k-additive-to-supply-and-buy-back-nickel-718-powder-for-addman-in-us10-8m-deal-255336/"
+        }
+      ]
+    },
+    {
+      "title": "Skyrora 於蘇格蘭完成軌道火箭縮尺版 45 秒靜態點火測試",
+      "category": "應用",
+      "summary": "英國發射服務公司 Skyrora 在蘇格蘭 Machrihanish 成功為其 Skyrora XL 軌道發射載具的縮尺版本完成長達 45 秒的靜態熱點火測試。該載具關鍵部件採用增材製造技術生產，為未來的軌道發射任務奠定基礎。",
+      "why_it_matters": "驗證了 3D 列印火箭推動組件在實機高溫高壓環境下的結構可靠度與性能。",
+      "tags": [
+        "Skyrora",
+        "航天 3D 列印",
+        "火箭引擎",
+        "靜態點火"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/skyrora-hot-fires-scaled-down-orbital-vehicle-for-45-seconds-in-scotland-255247/"
+        }
+      ]
+    },
+    {
+      "title": "Titomic 獲得美國空軍 500 萬美元冷噴塗 3D 列印設備合約",
+      "category": "產業",
+      "summary": "Titomic 的美國子公司獲得美國空軍頒發價值 500 萬美元（約 690 萬澳元）的國防合約，將提供 TKF 1000 冷噴塗增材製造系統。此外，消息亦指出 VulcanForms 與 Specter Aerospace 正合作利用 3D 列印製造極音速推進系統。",
+      "why_it_matters": "凸顯冷噴塗與金屬增材製造在國防及極音速先進武器製造領域的戰略價值。",
+      "tags": [
+        "Titomic",
+        "冷噴塗",
+        "美國空軍",
+        "國防採購"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334152/3d-printing-news-briefs-10-3-2026/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 10
+}
