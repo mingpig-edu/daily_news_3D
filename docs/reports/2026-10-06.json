@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T02:58:45.511Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：藥物 3D 列印首獲藥監批文、Stratasys 與拓竹專利戰引關注",
+  "summary": "今日 3D 列印重點包括 MB Therapeutics 獲得法國藥監機構批文生產 3D 列印藥物藥筒；Stratasys 與拓竹專利訴訟在歐美兩地的進展剖析；MX3D 電弧增材製造獲得 DNV 最高級別認證；硬件與材料方面，INTAMSYS 發布配備 100°C 加熱艙的 IDEX 新機，Sinto 推出氮化鋁與氮化矽陶瓷耗材，Tripo 則帶來原生四邊形網格 AI 建模工具。",
+  "items": [
+    {
+      "title": "MB Therapeutics 獲法國 ANSM 批准生產 3D 列印藥物藥筒",
+      "category": "醫療",
+      "summary": "法國初創企業 MB Therapeutics 獲得法國國家藥品和健康產品安全局（ANSM）授權，生產用於 3D 列印固體口服劑型的半固態藥品藥筒。該公司表示，這是全球首個在正式藥品監管框架下獲准生產 3D 列印藥物專用藥筒的生產基地。此項認證代表 3D 列印技術在精準醫療與小批量定制藥物供應上邁出重要一步。",
+      "why_it_matters": "標誌著 3D 列印藥物製造正式進入常規醫藥監管認可階段，為個人化劑量配方量產鋪平道路。",
+      "tags": [
+        "醫療應用",
+        "藥品3D列印",
+        "ANSM",
+        "MB Therapeutics"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mb-therapeutics-wins-french-approval-for-3d-printed-medicine-supply-255362/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 與拓竹專利訴訟跨大西洋延伸，歐洲與美國法庭現分歧",
+      "category": "產業",
+      "summary": "業界深入分析 Stratasys 與拓竹（Bambu Lab）之間的專利訴訟進展。繼美國法庭就清理塔（purge tower）等技術作出 2,760 萬美元裁決後，歐洲統一專利法院（UPC）海牙分部亦就涉案歐洲專利 EP2964450 審理 Stratasys 對 Bambu Lab H2C 打印機的初步禁令申請。兩地法庭在專利有效性與裁決結果上呈現不同走向，持續引發產業廣泛關注。",
+      "why_it_matters": "案件裁決可能重塑消費級與專業級 FDM 打印機核心多色切片技術的專利版圖與市場格局。",
+      "tags": [
+        "拓竹",
+        "Stratasys",
+        "專利訴訟",
+        "Bambu Lab",
+        "UPC"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333565/stratasys-vs-bambu-lab-why-europe-and-the-u-s-reached-different-results-part-ii/"
+        }
+      ]
+    },
+    {
+      "title": "MX3D 奪 DNV 最高 AMC3 認證，電弧增材製造打入關鍵海事領域",
+      "category": "產業",
+      "summary": "阿姆斯特丹金屬列印公司 MX3D 宣布成為全球首家獲得 DNV 船級社「增材製造關鍵等級 3」（AMC3）認證的電弧增材製造（WAAM）設施。AMC3 是 DNV 評級中的最高等級，確認 MX3D 具備生產高關鍵性金屬構件的品質能力。該認證將使 WAAM 技術可直接應用於海事、國防及能源領域的高承載與嚴苛環境結構件。",
+      "why_it_matters": "確立了大型電弧金屬 3D 列印在海事與能源等極端工程環境中的結構可靠性與合規標準。",
+      "tags": [
+        "MX3D",
+        "WAAM",
+        "電弧增材",
+        "DNV認證",
+        "海事工程"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mx3d-earns-dnvs-highest-additive-manufacturing-certification-for-wire-arc-3d-printing-255360/"
+        }
+      ]
+    },
+    {
+      "title": "INTAMSYS 推出 Funmat Pro 310 NEO：IDEX 雙噴頭配備 100°C 主動加熱艙",
+      "category": "硬件",
+      "summary": "工業級 FDM 設備廠 INTAMSYS 擴展其 Funmat Pro 系列，推出新機 Funmat Pro 310 NEO。新設備採用獨立雙噴頭（IDEX）運動系統，並配備最高可達 100°C 的全封閉主動加熱腔室。該機型主要針對中小企業與工程研發需求，專門用於穩定列印各類工程塑料與高性能聚合物。",
+      "why_it_matters": "為中階工業市場帶來更具性價比的高溫工程塑料與雙材料水溶支撐解決方案。",
+      "tags": [
+        "INTAMSYS",
+        "FDM",
+        "IDEX",
+        "工程塑料",
+        "高溫打印艙"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/"
+        }
+      ]
+    },
+    {
+      "title": "Sinto Advanced Ceramics 推出氮化鋁及氮化矽非氧化物陶瓷 3D 列印材料",
+      "category": "材料",
+      "summary": "Sinto Advanced Ceramics Europe 宣布在其增材製造材料組合中新增兩款非氧化物陶瓷：氮化鋁（AlN）與氮化矽（Si₃N₄）。原廠此前已在內部專案中完成驗證，現正式向研發、原型製作及工業應用市場開放供應。這兩款材料具備優異的熱導率與高溫耐磨特性，拓展了陶瓷列印的工業適用範圍。",
+      "why_it_matters": "非氧化物特種陶瓷的量產化供應，有助推動半導體、散熱模組及高溫耐磨零件的精密製造。",
+      "tags": [
+        "陶瓷3D列印",
+        "氮化鋁",
+        "氮化矽",
+        "工程材料",
+        "Sinto"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sinto-advanced-ceramics-adds-aluminum-nitride-and-silicon-nitride-to-its-ceramic-3d-printing-portfolio-255356/"
+        }
+      ]
+    },
+    {
+      "title": "Tripo AI 發布 Tripo P2.0 基礎模型，首創原生生成四邊形網格",
+      "category": "軟件",
+      "summary": "3D 基礎模型開發商 Tripo AI 正式推出 Tripo P2.0。該模型聲稱為 AI 3D 領域首個能夠原生生成四邊形拓撲（quad topology）網格的模型，擺脫了以往生成模型輸出三角面密集成網、難以編輯的限制。原生四邊形結構能顯著簡化後續的 CAD 修模、動畫綁定及切片 3D 列印流程。",
+      "why_it_matters": "解決了 AI 生成 3D 模型拓撲混亂、難以直接導入 CAD 和切片軟件的關鍵瓶頸。",
+      "tags": [
+        "Tripo AI",
+        "AI建模",
+        "四邊形網格",
+        "3D軟件",
+        "拓撲優化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/native-quad-meshes-arrive-in-ai-3d-generation-with-tripo-p2-0-255368/"
+        }
+      ]
+    },
+    {
+      "title": "菲博瑞達推出 SLM M500 大尺寸四激光金屬 3D 打印機",
+      "category": "硬件",
+      "summary": "中國佛山設備商菲博瑞達（Faiborida 3D）推出大尺寸激光粉末床熔融（LPBF）金屬 3D 打印機 SLM M500。該機具備 500 × 500 × 500 mm 的成型空間，並配備 4 台 500W 激光器。設備旨在為需要高成型速率與大尺寸工件生產的工業用戶提供更大批量的製造能力。",
+      "why_it_matters": "多激光大成型面金屬機型持續普及，有助壓低工業金屬列印的單件成型成本。",
+      "tags": [
+        "金屬3D列印",
+        "LPBF",
+        "SLM",
+        "多激光",
+        "Faiborida"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/faiborida-3d-introduces-four-laser-slm-m500-metal-3d-printer-255371/"
+        }
+      ]
+    },
+    {
+      "title": "拓竹 MakerWorld 聯同 7 間無障礙機構發起無障礙輔具全球設計挑戰賽",
+      "category": "開源",
+      "summary": "拓竹（Bambu Lab）旗下的 3D 模型社群平台 MakerWorld 宣布與 7 間推廣 3D 列印輔助用具的無障礙機構合作，推出「Make for Good」無障礙設計競賽。比賽將持續至 2026 年 12 月，主辦方提供了 24 項具體設計需求，邀請全球創客針對日常生活實際痛點，設計實用的開源 3D 列印輔助器具。",
+      "why_it_matters": "善用大型列印社群的設計能量，將 3D 列印快速定制優勢轉化為實際無障礙社會效益。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "無障礙輔具",
+        "開源設計",
+        "Maker"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334195/bambu-lab-7-accessibility-organizations-launch-design-challenge-for-3d-printed-assistive-devices/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 16
+}
