@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T02:23:30.672Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-07)",
+  "summary": "本日情報焦點包括 Stratasys 與 Bambu Lab 專利訴訟最新進展、Kickstarter 掀起新一波高階技術桌面化眾籌熱潮、MX3D 獲得 DNV 最高 AMC3 金屬增材認證，以及 Tripo P2.0 AI 原生四邊形網格生成等重點動態。",
+  "items": [
+    {
+      "title": "Stratasys 與 Bambu Lab 專利訴訟於歐洲及美國出現不同局勢",
+      "category": "產業",
+      "summary": "針對 Stratasys 與 Bambu Lab 的專利糾紛，歐洲統一專利法院（UPC）海牙地方分院審理了針對 Bambu Lab H2C 印表機的臨時禁令申請。該訴訟涉及專利 EP2964450，而美國與歐洲法院在審理同一項技術專利時展現出不同的監管與法律思維。",
+      "why_it_matters": "此專利戰的最終裁決將深度影響消費級與工業級 3D 列印廠商在跨國市場的專利佈局與產品設計策略。",
+      "tags": [
+        "Stratasys",
+        "Bambu Lab",
+        "專利訴訟",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333565/stratasys-vs-bambu-lab-why-europe-and-the-u-s-reached-different-results-part-ii/"
+        }
+      ]
+    },
+    {
+      "title": "Kickstarter 掀起新一波桌面 3D 列印機眾籌熱潮",
+      "category": "硬件",
+      "summary": "桌面級 3D 列印機再度於 Kickstarter 籌得數以百萬計美元，多個項目正將全彩列印、連續碳纖維、多獨立噴頭（IDEX）、SLS 甚至金屬 LPBF 等高級工業技術下放至小型及低成本機型。其中 HeyGears G1 系列籌得超 1,780 萬美元，FibreSeek 亦籌得近 470 萬美元。",
+      "why_it_matters": "反映桌面級設備正快速平民化以往高昂的專業級與金屬列印技術，降低高階製造門檻。",
+      "tags": [
+        "Kickstarter",
+        "3D列印機",
+        "HeyGears",
+        "眾籌"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334287/kickstarter-is-testing-the-next-wave-of-desktop-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "MX3D 獲 DNV 最高 AMC3 級別金屬 WAAM 3D 列印認證",
+      "category": "產業",
+      "summary": "總部位於阿姆斯特丹的 MX3D 宣佈成為全球首家獲得 DNV 頒發「Additive Manufacturing Criticality 3 (AMC3)」最高級別認證的電弧增材製造（WAAM）設施。該認證確認 MX3D 具備為海事、國防及能源領域生產高關鍵性金屬構件的資格。",
+      "why_it_matters": "代表 WAAM 大尺寸金屬 3D 列印技術在嚴苛工業環境中的品質規範與安全性獲得國際權威機構認可。",
+      "tags": [
+        "MX3D",
+        "WAAM",
+        "DNV認證",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/mx3d-earns-dnvs-highest-additive-manufacturing-certification-for-wire-arc-3d-printing-255360/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 攜手七大無障礙組織於 MakerWorld 舉辦設計大賽",
+      "category": "開源",
+      "summary": "Bambu Lab 與七家致力於推廣無障礙輔具的組織合作，在其模型平台 MakerWorld 推出「Make for Good: Accessibility Design Contest」。比賽將持續至 2026 年 12 月，邀請創客根據 24 份具體需求簡報，設計可供 3D 列印的實用日常無障礙輔具。",
+      "why_it_matters": "展現 3D 列印模型社群如何結合公益需求，推動客製化無障礙設備的普及與開源應用。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "無障礙輔具",
+        "開源社群"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334195/bambu-lab-7-accessibility-organizations-launch-design-challenge-for-3d-printed-assistive-devices/"
+        }
+      ]
+    },
+    {
+      "title": "ANTINSKY 發表多款工程級耗材與牙科 3D 列印樹脂",
+      "category": "材料",
+      "summary": "ANTINSKY 推出全新材料陣容，主打高耐熱、耐化學性及彈性需求。工程級耗材包含含有 30% 碳纖維增強的 PPA-CF30HT 及 PPS-CF，其中 PPA-CF30HT 彎曲模量達 12,136 MPa；同時推出 TPU85A 與 TPU95A-HS 高速彈性耗材，以及用於咬合板、假牙基底和模型的牙科樹脂。",
+      "why_it_matters": "為 FDM 與光固化用戶提供了更高剛性與針對特定牙科應用的專業材料選擇。",
+      "tags": [
+        "ANTINSKY",
+        "3D列印耗材",
+        "碳纖維",
+        "牙科樹脂"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334222/several-new-engineering-and-dental-3d-printing-materials-recommended/"
+        }
+      ]
+    },
+    {
+      "title": "Tripo AI 推出 Tripo P2.0：支援原生四邊形網格 3D 生成",
+      "category": "軟件",
+      "summary": "AI 3D 基礎模型開發商 Tripo AI 正式發佈 Tripo P2.0 模型，官方稱其為首個能原生生成四邊形拓撲（Quad Mesh）結構的 AI 3D 基礎模型。該技術解決了以往 AI 生成 3D 模型拓撲混亂、難以直接用於編輯與列印的痛點。",
+      "why_it_matters": "原生四邊形網格大幅簡化了 AI 生成 3D 模型後的修復與列印前處理流程。",
+      "tags": [
+        "Tripo AI",
+        "AI3D生成",
+        "3D軟件",
+        "網格優化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/native-quad-meshes-arrive-in-ai-3d-generation-with-tripo-p2-0-255368/"
+        }
+      ]
+    },
+    {
+      "title": "滑鐵盧大學研發 3D 列印生物可降解過濾器 可清除 90% 水中微塑膠",
+      "category": "科研",
+      "summary": "加拿大滑鐵盧大學研究人員利用生物可降解塑膠 3D 列印出一款水過濾柱，僅靠重力運作即可過濾污水中 90% 的微塑膠。該系統結合表面微孔工程與壓敏膠黏劑塗層技術，能有效捕捉極微小微塑膠顆粒。",
+      "why_it_matters": "展現了 3D 列印結構設計在環保及水質淨化領域的低成本實用突破。",
+      "tags": [
+        "滑鐵盧大學",
+        "微塑膠過濾",
+        "環保科技",
+        "科研應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/waterloo-3d-prints-new-filter-that-removes-90-of-microplastics-from-water-255398/"
+        }
+      ]
+    },
+    {
+      "title": "INTAMSYS 發佈 Funmat Pro 310 NEO 工業級雙噴頭 FFF 印表機",
+      "category": "硬件",
+      "summary": "INTAMSYS 推出全新 Funmat Pro 310 NEO 3D 列印機，結合獨立雙噴頭（IDEX）系統與可達 100°C 的主動加熱封閉腔體。該設備專為中小企業設計，旨在解決高階工程聚合物列印時容易翹曲與層間粘合不足的問題。",
+      "why_it_matters": "提供中小型企業更具成本效益的高性能工程塑膠雙材料列印方案。",
+      "tags": [
+        "INTAMSYS",
+        "Funmat Pro 310 NEO",
+        "IDEX",
+        "工程塑膠"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 20
+}
