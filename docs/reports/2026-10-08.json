@@ -1,0 +1,197 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T02:41:38.874Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-08)",
+  "summary": "今日 3D 列印情報焦點：美國加州立法強制 3D 列印機內建槍械阻截技術，引發製造商合規關注；Prusa Core One L+ 實機規格與做工評測曝光；材料領域迎來高剛性耐高溫 PPA-CF/PPS-CF 新工程耗材；科研方面，滑鐵盧大學開發出可清除 90% 微塑膠的 3D 列印過濾柱，研究人員亦成功實現晶格結構原位自感應損傷監測；工業應用端，Wabtec 部署逾 15 萬件列車列印部件，AMAZEMET 則聯手歐洲組織開發核聚變金屬組件；Q2 全球增材製造市場按年增長 12% 達 45 億美元。",
+  "items": [
+    {
+      "title": "美國加州簽署法案 強制 3D 列印機配備槍械阻截技術",
+      "category": "安全",
+      "summary": "美國加州州長 Gavin Newsom 正式簽署法案，使加州成為繼紐約州後全美第二個強制境內銷售之 3D 列印機必須內置槍械阻截技術（firearm-blocking technology）的州份。該法規要求製造商在設備中加入相應防護機制，以防止非法列印槍械零件。這項政策標誌著針對 3D 列印硬件與韌體的法規監管進一步收緊。",
+      "why_it_matters": "設備製造商未來進入北美主要市場時，必須在列印機韌體及切片軟件層面應對嚴格的合規審查與防護機制要求。",
+      "tags": [
+        "加州法規",
+        "安全合規",
+        "槍械防護",
+        "產業監管"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/californias-3d-printer-gun-law-signed-for-firearm-blocking-technology-in-3d-printers-255446/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa Core One L+ 實機評測公布 做工與包裝環保標準提升",
+      "category": "硬件",
+      "summary": "針對 Prusa Core One L+ 的實機上手評測正式釋出，展示了這款 CoreXY 機型在包裝設計與裝配做工上的細節。新機包裝延續環保理念，大量採用可回收紙板並僅在關鍵受力結構使用發泡膠，達到保護機身與減廢的平衡。評測亦指出機身裝配質素與結構較以往機型有明顯升級。",
+      "why_it_matters": "展示了 Prusa 新一代 CoreXY 旗艦級設備的量產水準，為追求高精度與穩定度的桌面及工坊用戶提供重要硬體參考。",
+      "tags": [
+        "Prusa",
+        "Prusa Core One L+",
+        "CoreXY",
+        "硬件評測"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/331351/prusa-core-one-l-a-worthy-upgrade/"
+        }
+      ]
+    },
+    {
+      "title": "ANTINSKY 推出超高剛性 PPA-CF30HT 及耐化學 PPS-CF 等新材料",
+      "category": "材料",
+      "summary": "耗材品牌 ANTINSKY 推出針對高強度與嚴苛環境的新型工程耗材及齒科樹脂。重點產品包括耐高溫且加入 30% 碳纖維增強的 PPA-CF30HT，其彎曲模量達到 12,136 MPa，具備極佳剛性；同時亦推出耐化學 PPS-CF、高速彈性 TPU 系列以及多款齒科光敏樹脂。",
+      "why_it_matters": "工程級超剛性碳纖維耗材的普及，讓桌面 FDM 列印機得以承接更多高應力與耐化學腐蝕的工業功能件製造。",
+      "tags": [
+        "工程耗材",
+        "碳纖維",
+        "PPA-CF",
+        "PPS-CF",
+        "齒科樹脂"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334222/several-new-engineering-and-dental-3d-printing-materials-recommended/"
+        }
+      ]
+    },
+    {
+      "title": "滑鐵盧大學開發 3D 列印濾柱 單靠重力去除 90% 水中微塑膠",
+      "category": "科研",
+      "summary": "加拿大滑鐵盧大學（University of Waterloo）研究團隊研發出一款以生物可降解塑料製成的 3D 列印水過濾管柱。該過濾系統結合了表面微孔結構工程與壓敏膠塗層技術，無需外加動力、單憑重力即可自污水中捕獲並去除 90% 的微塑膠顆粒。",
+      "why_it_matters": "證明結合結構工程與功能塗層的 3D 列印製品，在低能耗環保水處理領域具備極高的實用與推廣價值。",
+      "tags": [
+        "滑鐵盧大學",
+        "科研突破",
+        "微塑膠過濾",
+        "環境工程"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/waterloo-3d-prints-new-filter-that-removes-90-of-microplastics-from-water-255398/"
+        }
+      ]
+    },
+    {
+      "title": "3D 列印晶格結構實現原位電阻抗監測 斷裂前即時預警損傷",
+      "category": "科研",
+      "summary": "最新科研論文發表了一種具備損傷自感應能力的 3D 列印晶格（Lattice）結構。該技術利用原位電阻抗斷層掃描（Electrical Impedance Tomography）技術，能夠在結構失效前實時探測全場內部損傷與微裂紋演變。",
+      "why_it_matters": "為航空航天等高安全規格複合材料構件提供了智能健康監測方案，大幅降低突發性災難故障風險與檢修成本。",
+      "tags": [
+        "晶格結構",
+        "結構健康監測",
+        "電阻抗斷層掃描",
+        "預測性維護"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334230/3d-printed-lattices-monitor-damage/"
+        }
+      ]
+    },
+    {
+      "title": "Wabtec 全球運行逾 15 萬件 3D 列印鐵路零件 解決停產備件難題",
+      "category": "應用",
+      "summary": "鐵路巨頭 Wabtec 目前已有超過 150,000 件 3D 列印零件應用於全球列車運行中。面對歐洲老舊車隊面臨的傳統鑄造交期過長以及停產零件斷供問題，增材製造成功縮短生產週期、實現減重，並挽救瀕臨退役的關鍵設備運作。",
+      "why_it_matters": "印證了增材製造在大型公共運輸基礎設施維護與關鍵備件數字庫存化方面的顯著商業價值與可靠性。",
+      "tags": [
+        "Wabtec",
+        "鐵路交通",
+        "工業備件",
+        "維修延壽"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/wabtec-leverages-additive-manufacturing-to-address-europes-aging-fleet-spare-parts-challenge-255212/"
+        }
+      ]
+    },
+    {
+      "title": "AMAZEMET 聯手 Fusion for Energy 推進核聚變金屬 3D 列印組件",
+      "category": "科研",
+      "summary": "負責 ITER 歐洲協調工作的 Fusion for Energy（F4E）與波蘭金屬增材製造企業 AMAZEMET 簽署合作備忘錄。雙方將針對核聚變裝置中的極端工況環境，展開先進材料研發與特種金屬組件增材製造接合技術的深入合作。",
+      "why_it_matters": "突顯金屬 3D 列印在次世代潔淨能源與前沿極限工程關鍵零件製造中的重要戰略地位。",
+      "tags": [
+        "AMAZEMET",
+        "Fusion for Energy",
+        "金屬增材製造",
+        "核聚變"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/amazemet-joins-fusion-for-energy-in-materials-and-joining-collaboration-for-fusion-components-255438/"
+        }
+      ]
+    },
+    {
+      "title": "2026 年第二季全球增材製造市場規模達 45 億美元 按年增長 12%",
+      "category": "產業",
+      "summary": "根據 AM Research 最新發布的追蹤數據顯示，2026 年第二季全球增材製造市場總規模達到 45 億美元，較去年同期增長 12%。數據反映出全球 3D 列印設備、材料與服務市場在工業需求回暖下重拾雙位數增長步調。",
+      "why_it_matters": "顯示增材製造產業正逐步擺脫調整期，宏觀市場需求與終端量產應用投資持續擴張。",
+      "tags": [
+        "市場數據",
+        "AM Research",
+        "產業分析",
+        "增長動能"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/global-am-market-shows-12-growth-to-4-5bn-in-q2-255451/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
