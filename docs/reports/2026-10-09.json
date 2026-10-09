@@ -1,0 +1,199 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T02:56:25.743Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-09)",
+  "summary": "今日焦點：加州正式簽署法案強制 3D 列印機內建槍械阻擋技術；Prusa 為 Core One 推出達 400°C 的快拆高溫熱端；AM Research 報告顯示第二季全球積層製造市場按年增長 12%；另有結構模擬軟件更新、醫療與國防載具實測量產等最新應用進展。",
+  "items": [
+    {
+      "title": "加州簽署法案強制 3D 列印機導入槍械阻擋技術",
+      "category": "安全",
+      "summary": "美國加州州長 Gavin Newsom 正式簽署新法案，使加州成為全美第二個強制要求在境內銷售的 3D 列印機配備槍械阻擋技術的州份。該法案緊隨紐約州的類似立法，旨在透過技術手段防止利用桌面 3D 列印技術非法製造槍械部件。",
+      "why_it_matters": "象徵政府監管機構加大對 3D 列印硬件與韌體的管控力度，長遠將直接影響消費級與工業級打印機的系統設計與銷售規範。",
+      "tags": [
+        "加州法規",
+        "安全監管",
+        "槍械阻擋技術",
+        "法規政策"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/californias-3d-printer-gun-law-signed-for-firearm-blocking-technology-in-3d-printers-255446/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa 為 Core One 推出 400°C 快速更換高溫熱端",
+      "category": "硬件",
+      "summary": "Prusa Research 正式為旗下 Core One 3D 列印機推出全新高溫熱端（HT HOTEND），最高擠出溫度達 400°C。該熱端支援在一分鐘內免工具快速更換，專門支援 PPS-CF、PPA-CF、PA11-CF、PC Blend 及 ASA 等工程級線材，並可透過較高擠出溫度有效提升零件的層間結合強度。",
+      "why_it_matters": "進一步降低桌面與專業用戶列印超高性能工程塑膠的門檻，同時提高成品力學強度與模組維護便利性。",
+      "tags": [
+        "Prusa",
+        "Core One",
+        "高溫熱端",
+        "工程材料",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334355/prusa-research-releases-new-ht-hotend/"
+        }
+      ]
+    },
+    {
+      "title": "全球積層製造市場第二季達 45 億美元，按年增長 12%",
+      "category": "產業",
+      "summary": "市場研調機構 Additive Manufacturing Research（AM Research）發佈最新季度追蹤數據，顯示 2026 年第二季全球積層製造市場總規模達 45 億美元，較去年同期增長 12%。數據顯示積層製造設備與材料市場的需求維持穩健擴展。",
+      "why_it_matters": "反映積層製造技術於全球工業生產與供應鏈整合中的滲透率持續提升，市場呈現健康增長趨勢。",
+      "tags": [
+        "AM Research",
+        "市場報告",
+        "積層製造規模",
+        "產業趨勢"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/global-am-market-shows-12-growth-to-4-5bn-in-q2-255451/"
+        }
+      ]
+    },
+    {
+      "title": "PharmaTher 公佈 3D 列印製藥路線圖，CraftMake 預計本季接單",
+      "category": "應用",
+      "summary": "特種製藥公司 PharmaTher Holdings 公佈其多年期 3D 列印藥物發展藍圖，計劃於 2026 年第四季開始接受其專利 CraftMake 藥物 3D 列印機的首批訂單。該公司規劃由配方調劑藥物起步，並放眼在 2028 年針對罕見兒科疾病取得新藥申請（NDA）核准。",
+      "why_it_matters": "推進了個人化精準給藥從研發階段步向商業設備交付與嚴格藥物監管審批的進程。",
+      "tags": [
+        "PharmaTher",
+        "醫療應用",
+        "藥物3D列印",
+        "CraftMake"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/pharmather-sets-3d-printed-medicine-roadmap-targeting-first-craftmake-orders-this-quarter-and-a-rare-pediatric-nda-by-2028-255486/"
+        }
+      ]
+    },
+    {
+      "title": "Spherene 於 sphereneNXT v2.0.0 整合內部架構結構力學模擬",
+      "category": "軟件",
+      "summary": "瑞士工程軟件開發商 Spherene 為其網頁端內部架構設計平台推出 sphereneNXT v2.0.0，新增整合式結構模擬功能。工程師現在可以直接在瀏覽器平台內進行線性模擬分析，在設計積層製造內部複雜幾何結構的同時即時評估力學性能。",
+      "why_it_matters": "省卻了在設計建模與外部分析工具之間頻繁切換的流程，大幅提升輕量化與先進內部結構設計的迭代效率。",
+      "tags": [
+        "Spherene",
+        "sphereneNXT",
+        "結構模擬",
+        "DfAM",
+        "切片工具"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/spherene-adds-integrated-structural-simulation-to-spherenenxt-255460/"
+        }
+      ]
+    },
+    {
+      "title": "Print&Live 與 iSCALE 3D 完成實戰測試並量產無人車免充氣車輪",
+      "category": "應用",
+      "summary": "烏克蘭開發商 Print&Live UA 與 iSCALE 3D 宣佈，其為無人地面載具（UGV）開發的 3D 列印免充氣車輪已順利通過實地及作戰測試。該產品現已進入小批量生產階段，並持續定期交付作戰單位使用。",
+      "why_it_matters": "印證了積層製造技術在極端惡劣環境中具備敏捷生產、快速適應戰場苛刻需求的能力與韌性。",
+      "tags": [
+        "UGV",
+        "免充氣輪胎",
+        "無人地面載具",
+        "國防應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/printlive-and-iscale-3d-scale-up-production-of-airless-ugv-wheels-after-combat-testing-255481/"
+        }
+      ]
+    },
+    {
+      "title": "科研團隊利用原位電阻抗斷層成像實現 3D 列印晶格即時結構損傷監測",
+      "category": "科研",
+      "summary": "最新發表於學術期刊的研究提出利用原位電阻抗斷層成像技術（In situ Electrical Impedance Tomography），讓 3D 列印晶格結構具備即時損傷監測功能。該技術能讓結構在突發性斷裂或災難性損壞前預先感應並定位微小受損，特別適用於航空等關鍵複合材料領域。",
+      "why_it_matters": "為開發兼具輕量化與自我診斷健康狀態的智能 3D 列印構件提供了全新技術方向，有助降低維護週期與檢測成本。",
+      "tags": [
+        "科研論文",
+        "晶格結構",
+        "原位監測",
+        "複合材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334230/3d-printed-lattices-monitor-damage/"
+        }
+      ]
+    },
+    {
+      "title": "ANTINSKY 發佈高剛性 PPA-CF30HT 工程線材與牙科專用光敏樹脂",
+      "category": "材料",
+      "summary": "耗材品牌 ANTINSKY 發佈多款專用工程線材與牙科材料，其中包括添加 30% 碳纖維的高溫抗形變材料 PPA-CF30HT（彎曲模量達 12,136 MPa）以及 PPS-CF；同時推出 TPU85A/95A-HS 彈性線材，以及針對牙合板、假牙基底與牙模的專用光敏樹脂。",
+      "why_it_matters": "豐富了工業級終端部件及數位牙科對高溫、耐化學腐蝕及精準彈性特性的材料選擇。",
+      "tags": [
+        "ANTINSKY",
+        "PPA-CF",
+        "PPS-CF",
+        "工程線材",
+        "牙科材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334222/several-new-engineering-and-dental-3d-printing-materials-recommended/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
