@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T02:20:06.462Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 打印每日情報：Prusa 推出 400°C 高溫熱端、加州立例管制 3D 打印槍械、HP 迎 MJF 十週年",
+  "summary": "本期情報涵蓋 Prusa 為 Core One 推出高達 400°C 的高溫快拆熱端、加州通過法例要求 3D 打印機配備槍械阻截技術，以及 HP 慶祝 MJF 技術十週年並擴展入門級設備。此外，Spherene 為其設計平台加入結構模擬功能，全球增材製造市場第二季亦錄得 12% 增長。",
+  "items": [
+    {
+      "title": "Prusa Research 推出 400°C 高溫熱端配件",
+      "category": "硬件",
+      "summary": "Prusa Research 為其 Core One 3D 打印機推出了全新高溫熱端（HT Hotend），最高列印溫度可達 400°C。該熱端支援免工具在 1 分鐘內快速更換，專門針對 PA11-CF、PPS-CF、PC Blend 及 ASA 等工程級材料進行優化。官方指更高的擠出溫度能顯著改善層間粘合力，從而提升零件的整體強度。",
+      "why_it_matters": "快拆設計與高溫能力讓桌面級打印機能更輕鬆處理高強度工程塑料，推動高階材料應用普及。",
+      "tags": [
+        "Prusa",
+        "Core One",
+        "熱端",
+        "高溫列印",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334355/prusa-research-releases-new-ht-hotend/"
+        }
+      ]
+    },
+    {
+      "title": "美國加州簽署新法案 要求 3D 打印機加裝槍械阻截技術",
+      "category": "安全",
+      "summary": "加州州長 Gavin Newsom 簽署新法例，規定在該州銷售的 3D 打印機必須配備防止打印槍械零件的阻截技術。加州成為繼紐約州後，美國第二個實施此類強制規範的州份。此法案將對打印機製造商的韌體及軟件設計帶來全新的合規挑戰。",
+      "why_it_matters": "法例強制要求硬件或軟件層面加設槍械過濾機制，可能改變全球 3D 打印機製造商的韌體開發與營運模式。",
+      "tags": [
+        "加州",
+        "法例",
+        "網絡安全",
+        "槍械阻截",
+        "監管政策"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/californias-3d-printer-gun-law-signed-for-firearm-blocking-technology-in-3d-printers-255446/"
+        }
+      ]
+    },
+    {
+      "title": "Spherene 為 sphereneNXT 平台整合結構模擬功能",
+      "category": "軟件",
+      "summary": "瑞士工程軟件開發商 Spherene 發布 sphereneNXT v2.0.0 更新，為其基於瀏覽器的內部結構設計平台加入整合式線性結構模擬功能。工程師現在可以直接在平台上進行應力與結構分析，無需將模型匯出至外部 CAE 軟件。這有助於優化增材製造零件的內部晶格結構設計。",
+      "why_it_matters": "在瀏覽器端直接整合模擬與結構優化，顯著縮短了複雜增材製造零件的設計與驗證週期。",
+      "tags": [
+        "Spherene",
+        "sphereneNXT",
+        "結構模擬",
+        "切片軟件",
+        "CAD"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/spherene-adds-integrated-structural-simulation-to-spherenenxt-255460/"
+        }
+      ]
+    },
+    {
+      "title": "HP 慶祝 MJF 技術 10 週年 並發布入門級 MJF 1200 系統",
+      "category": "硬件",
+      "summary": "HP 在 RAPID 展會期間慶祝進入增材製造市場 10 週年，並公佈多項新技術進展，包括全新入門級 Multi Jet Fusion 1200 系統。此外，HP 亦展示了 Metal Jet 平台的粉末處理升級、Jet Fusion 5600 的雙色打印模式，以及高溫工業絲材打印機 HP IF 600HT 在北美市場的全面上市。",
+      "why_it_matters": "入門級 MJF 系統的推出降低了工業級粉末床熔融技術的門檻，有助中小型企業採用高品質生產方案。",
+      "tags": [
+        "HP",
+        "Multi Jet Fusion",
+        "MJF 1200",
+        "工業打印",
+        "粉末床熔融"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333886/10-years-of-mjf-onsite-at-hps-vancouver-washington-facility/"
+        }
+      ]
+    },
+    {
+      "title": "全球增材製造市場 2026 年第二季按年增長 12%",
+      "category": "產業",
+      "summary": "根據 Additive Manufacturing Research 的最新追蹤數據，2026 年第二季全球增材製造市場規模達到 45 億美元，比去年同期增長 12%。數據顯示，儘管全球宏觀經濟面臨挑戰，工業界對 3D 打印技術在量產與供應鏈韌性方面的投資依然保持穩健增長。",
+      "why_it_matters": "雙位數的季度增長反映增材製造正在從原型製作加速轉向最終零件的規模化生產。",
+      "tags": [
+        "市場分析",
+        "AM Research",
+        "產業趨勢",
+        "經濟數據"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/global-am-market-shows-12-growth-to-4-5bn-in-q2-255451/"
+        }
+      ]
+    },
+    {
+      "title": "PharmaTher 計劃在美國建立 3D 打印按需製藥網絡",
+      "category": "應用",
+      "summary": "加拿大製藥公司 PharmaTher 推出了 M3DICINES 全國網絡計劃，旨在建立分布式 3D 打印藥物網絡，以更接近患者需求的地點進行按需生產。該計劃首階段將與美國配製藥房合作，未來計劃擴展至醫院、研究機構及政府設施，徹底改變傳統集中式藥物製造與運輸模式。",
+      "why_it_matters": "分散式 3D 打印製藥有助實現個人化劑量調配，並提升關鍵藥物的緊急供應鏈韌性。",
+      "tags": [
+        "PharmaTher",
+        "醫療應用",
+        "個人化醫療",
+        "分散式製造",
+        "製藥"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334520/pharmather-plans-u-s-network-to-3d-print-medicines-on-demand/"
+        }
+      ]
+    },
+    {
+      "title": "6K Additive 獲得 2,740 萬美元貸款 擴建金屬粉末產能",
+      "category": "材料",
+      "summary": "金屬增材製造粉末生產商 6K Additive 與美國出口入銀行（EXIM）簽署最終貸款協議，獲得高達 2,740 萬美元的融資額度。資金將用於擴建位於賓夕法尼亞州 Burgettstown 的總部設施，進一步擴大高品質金屬粉末的生產規模，以應對國防與航空航天領域的需求。",
+      "why_it_matters": "大規模資金注入將有助緩解高階金屬增材製造粉末的供應瓶頸，支持國防及航天供應鏈。",
+      "tags": [
+        "6K Additive",
+        "金屬粉末",
+        "材料供應",
+        "融資",
+        "航天國防"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/6k-additive-signs-us27-4m-loan-to-expand-powder-production-255525/"
+        }
+      ]
+    },
+    {
+      "title": "Bendix 採用 AON3D Hylo 打印碳纖維 PEEK 工業夾具",
+      "category": "應用",
+      "summary": "商用車系統製造商 Bendix 採用 AON3D 的 Hylo 系統，成功打印出配備水溶性 PEEK 支撐材料的碳纖維增強 PEEK 製造工具與夾具零件。其高級製造工程團隊藉此快速測試與更新生產系統，顯著縮短夾具迭代時間。",
+      "why_it_matters": "高階碳纖維 PEEK 配搭可溶性支撐材料的 3D 打印應用，驗證了高耐溫材料在重型工業生產夾具上的替代潛力。",
+      "tags": [
+        "AON3D",
+        "Bendix",
+        "PEEK",
+        "碳纖維",
+        "工業夾具"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334449/bendix-aon3d-all-gas-no-brakes/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 23
+}
