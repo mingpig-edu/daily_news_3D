@@ -1,0 +1,200 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T01:53:33.726Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-11)",
+  "summary": "今日焦點涵蓋 Prusa 為 Core One 推出 400°C 高溫熱端、Valve 開源 Steam Frame VR 官方 CAD 數據以支援社群改裝，以及 HP MJF 十週年發布多項新硬體。此外，金屬粉末廠商 6K Additive 獲大額貸款擴產，藥品與軍工領域的分散式及實戰 3D 列印應用亦展現強勁商業化推進態勢。",
+  "items": [
+    {
+      "title": "Prusa 推出 Core One 專用 400°C 高溫熱端",
+      "category": "硬件",
+      "summary": "Prusa Research 針對旗艦 Core One 3D 列印機推出全新高溫熱端（HT Hotend），最高打印溫度可達 400°C。該熱端具備免工具快拆設計，更換時間在一分鐘以內，專為處理 ASA、PC Blend、PA11-CF、PPS-CF/GF 及 PPA-CF 等工程塑料而設計。高擠出溫度顯著增強了零件的層間結合力，例如 PC Blend-CF 材料的層間強度提升達 7%。",
+      "why_it_matters": "大幅降低用戶列印高性能碳纖維及工程塑料的難度，讓消費級旗艦機能穩定製作工業級結構件。",
+      "tags": [
+        "Prusa",
+        "Core One",
+        "熱端",
+        "高溫打印",
+        "工程塑料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334355/prusa-research-releases-new-ht-hotend/"
+        }
+      ]
+    },
+    {
+      "title": "Valve 開源釋出 Steam Frame VR 頭顯 CAD 與硬體參考模型",
+      "category": "開源",
+      "summary": "Valve 伴隨新 VR 頭顯 Steam Frame 的出貨，正式向社群釋出硬體參考數據庫。庫中提供 VR 核心模組、頭帶與控制器的 STEP 格式 CAD 檔案，方便玩家與開發者直接設計 3D 列印配件與收納盒。官方更明確標註了手柄內嵌紅外線追蹤 LED 的精準方位，避免列印件遮擋訊號影響追蹤效果。",
+      "why_it_matters": "官方釋出高精度 CAD 數據徹底免除逆向掃描量度成本，大幅推動 Maker 社群配件與外設改裝生態發展。",
+      "tags": [
+        "Valve",
+        "Steam Frame",
+        "CAD",
+        "開源模組",
+        "Maker"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/10/10/valve-releases-hardware-and-cad-reference-for-new-vr-headset/"
+        }
+      ]
+    },
+    {
+      "title": "6K Additive 獲 2740 萬美元融資擴建金屬粉末工廠",
+      "category": "產業",
+      "summary": "金屬積層製造粉末供應商 6K Additive 與美國進出口銀行（EXIM）正式簽署最終貸款協議，獲得高達 2,740 萬美元的專項融資。該筆資金將直接注入其位於賓夕法尼亞州伯吉茨敦的工廠擴建項目，進一步提升優質金屬粉末的生產量。該擴產計劃旨在滿足航空航太、國防以及先進製造業對金屬 3D 列印原料急增的本土供應需求。",
+      "why_it_matters": "關鍵金屬粉末原材料獲政府信貸支持擴產，反映出積層製造供應鏈在地化在國防與先進工業中的戰略地位。",
+      "tags": [
+        "6K Additive",
+        "金屬粉末",
+        "融資",
+        "積層製造供應鏈"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/6k-additive-signs-us27-4m-loan-to-expand-powder-production-255525/"
+        }
+      ]
+    },
+    {
+      "title": "HP 慶祝 MJF 技術 10 週年並展示入門款 MJF 1200 及高溫線材機",
+      "category": "硬件",
+      "summary": "HP 積層製造部門於十週年之際展示多項技術成果，包括新推出的入門級 Multi Jet Fusion 1200 系統，降低工業級粉末床熔融技術門檻。同時，HP 為 Metal Jet 金屬平台推出新材料和粉末處理模組，並為 Jet Fusion 5600 帶來高產能模式與雙色技術。此外，HP 的高溫工業長絲 3D 列印機 IF 600HT 亦正式在美加市場全面發售。",
+      "why_it_matters": "HP 透過平價化 MJF 入門機與高溫線材設備雙管齊下，進一步擴大工業與中小型製造市場覆蓋率。",
+      "tags": [
+        "HP",
+        "Multi Jet Fusion",
+        "MJF 1200",
+        "金屬 3D 列印",
+        "工業級"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333886/10-years-of-mjf-onsite-at-hps-vancouver-washington-facility/"
+        }
+      ]
+    },
+    {
+      "title": "Spherene 於 sphereneNXT v2.0.0 加入瀏覽器端結構力學模擬",
+      "category": "軟件",
+      "summary": "瑞士工程軟件公司 Spherene 為其雲端積層製造內部幾何設計工具 sphereneNXT 發布 v2.0.0 版本，正式整合結構模擬功能。該模擬工具允許工程師在瀏覽器中直接執行線性結構分析，即時驗證複雜內部晶格架構的應力與負載表現。這項更新免去了在多個 CAD 和 CAE 軟件間反覆導出與修復網格的繁瑣流程。",
+      "why_it_matters": "將結構力學即時驗證內建於輕量化生成平台，能顯著壓縮內部結構優化的迭代週期。",
+      "tags": [
+        "Spherene",
+        "sphereneNXT",
+        "結構模擬",
+        "切片與設計",
+        "晶格結構"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/spherene-adds-integrated-structural-simulation-to-spherenenxt-255460/"
+        }
+      ]
+    },
+    {
+      "title": "PharmaTher 啟動全美分散式按需 3D 列印藥品網絡計劃",
+      "category": "應用",
+      "summary": "加拿大製藥商 PharmaTher 推出 M3DICINES 全國網絡計劃，旨在建立就近按需 3D 列印藥品的分散式生產站點。該項目優先面向美國的複方藥局（compounding pharmacies），後續規劃拓展至醫院、合約代工廠及科研機構。此模式打破了依賴中心化工廠大批量生產與長距離配送成藥的傳統模式，讓客製化劑型與劑量可在終端即時製造。",
+      "why_it_matters": "推動藥品 3D 列印從概念驗證走向規模化去中心化醫療供應鏈，體現個人化醫療的按需生產潛力。",
+      "tags": [
+        "PharmaTher",
+        "醫療",
+        "藥物 3D 列印",
+        "分散式製造"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334520/pharmather-plans-u-s-network-to-3d-print-medicines-on-demand/"
+        }
+      ]
+    },
+    {
+      "title": "Print&Live 與 iSCALE 3D 完成戰場驗證並擴產無氣 UGV 車輪",
+      "category": "應用",
+      "summary": "烏克蘭開發團隊 Print&Live UA 與 iSCALE 3D 宣布完成應用於無人地面載具（UGV）的 3D 列印無氣車輪測試，經實戰驗證具備高度耐用性。目前該無氣輪胎已進入小批量常態化生產，並定期交付一線部隊使用。無氣結構能有效抵禦彈片穿刺損壞，確保無人車在極端地形與作戰環境下的機動生存能力。",
+      "why_it_matters": "實戰環境驗證了彈性體 3D 列印結構件的可靠性，凸顯應急國防供應鏈中積層製造的快速補給價值。",
+      "tags": [
+        "國防應用",
+        "無氣車輪",
+        "UGV",
+        "彈性製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/printlive-and-iscale-3d-scale-up-production-of-airless-ugv-wheels-after-combat-testing-255481/"
+        }
+      ]
+    },
+    {
+      "title": "Hyperion 與 Inspire Robotics 於東帝汶部署貨櫃式再生塑膠列印工廠",
+      "category": "應用",
+      "summary": "澳洲大尺寸積層製造廠 Hyperion Systems 攜手 Inspire Robotics，將於今年底在東帝汶部署貨櫃式 3D 列印工作站。該項目結合機器人、AI 與再生塑料技術，打造標榜循環經濟的就地製造單元。系統旨在將當地收集的廢塑料回收並直接打印為實用基礎設施和部件，降低對進口物料的依賴。",
+      "why_it_matters": "為海島及偏遠地區提供模組化廢料回收結合 3D 列印的在地生產範式，具備循環經濟示範意義。",
+      "tags": [
+        "Hyperion",
+        "大尺寸 3D 列印",
+        "循環經濟",
+        "塑膠回收"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hyperion-systems-and-inspire-robotics-to-deploy-recycled-plastic-3d-printing-factory-in-timor-leste-255512/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 18
+}
