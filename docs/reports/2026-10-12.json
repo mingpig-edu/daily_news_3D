@@ -1,0 +1,172 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T02:23:48.277Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "彙整 2026 年 10 月 12 日的 3D 列印產業與科研動態，涵蓋醫療應用、HP 十週年創新、循環經濟及航太國防等最新發展。",
+  "items": [
+    {
+      "title": "PharmaTher 計劃建立美國隨需 3D 列印藥物網絡",
+      "category": "應用",
+      "summary": "加拿大製藥公司 PharmaTher 推出了 M3DICINES 國家網絡計劃，旨在建立一個分佈式網站網絡，以便在更靠近需求的地方 3D 列印藥物。該計劃將從美國的調劑藥房開始，最終可能擴展到醫院、合約製造商、研究機構和政府設施。此舉將改變傳統集中生產與運輸成品劑量模式。",
+      "why_it_matters": "推動分散式藥物製造，讓醫療機構能按需現場列印客製化藥物。",
+      "tags": [
+        "醫療",
+        "製藥",
+        "分佈式製造"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334520/pharmather-plans-u-s-network-to-3d-print-medicines-on-demand/"
+        }
+      ]
+    },
+    {
+      "title": "HP 慶祝 Multi Jet Fusion 技術十週年並展示多項新系統",
+      "category": "產業",
+      "summary": "HP 增材製造解決方案在 Boston 的 RAPID 活動上慶祝進入 AM 市場十週年，並推出多項創新。其中包括入門級 Multi Jet Fusion 1200 系統、Metal Jet 平台的粉末處理新材料、Jet Fusion 5600 的高生產力列印模式與雙色技術，以及 Industrial Filament 600 高溫 3D 列印機在美國與加拿大的全面上市。多家產業媒體近期亦實地參觀了其位於華盛頓州溫哥華的設施。",
+      "why_it_matters": "標誌著 MJF 技術發展滿十年，並透過新硬體與材料擴大其工業應用版圖。",
+      "tags": [
+        "HP",
+        "MJF",
+        "工業級",
+        "金屬列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333886/10-years-of-mjf-onsite-at-hps-vancouver-washington-facility/"
+        }
+      ]
+    },
+    {
+      "title": "Hyperion Systems 與 Inspire Robotics 將在東帝汶部署回收塑膠 3D 列印廠",
+      "category": "應用",
+      "summary": "澳洲大型增材製造公司 Hyperion Systems 與 Inspire Robotics 簽署協議，將於今年稍晚在東帝汶安裝貨櫃化 3D 列印系統。兩家公司將此項目形容為全球首創的循環經濟倡議，結合了機器人技術、人工智慧與回收塑膠。這項合作展示了大型增材製造在偏遠地區落實永續發展的潛力。",
+      "why_it_matters": "結合 AI、機器人與回收塑膠，在偏遠地區實現創新的循環經濟與在地生產。",
+      "tags": [
+        "循環經濟",
+        "大型3D列印",
+        "回收材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hyperion-systems-and-inspire-robotics-to-deploy-recycled-plastic-3d-printing-factory-in-timor-leste-255512/"
+        }
+      ]
+    },
+    {
+      "title": "瑞典于默奧大學研究顯示桌面級 3D 列印機能用於製作實驗室科學儀器",
+      "category": "科研",
+      "summary": "瑞典于默奧大學的研究人員展示了如何利用桌面級 3D 列印機製造實驗室設備，為科學家提供更便宜的工具建構方式。物理系的研究重點在於研究細菌等微小生物的設備，包含利用雷射尋找和移動細菌的裝置。這項研究證明消費級 3D 列印機能協助實驗室降低對商業儀器的依賴，並依據特定科研需求進行設計與修改。",
+      "why_it_matters": "大幅降低科研實驗室自製精密設備的成本與門檻。",
+      "tags": [
+        "科研",
+        "桌面級",
+        "實驗室儀器"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334367/the-science-lab-you-can-3d-print/"
+        }
+      ]
+    },
+    {
+      "title": "6K Additive 獲得 2,740 萬美元貸款以擴大金屬粉末產能",
+      "category": "產業",
+      "summary": "金屬增材製造粉末生產商 6K Additive 已與美國進出口銀行（EXIM）簽署最終貸款協議，獲得高達 2,740 萬美元的有擔保融資便利。這筆資金將用於支援其位於伯吉特斯敦總部的擴建計畫，以應對不斷增長的市場需求。此擴張反映出金屬粉末供應鏈在國防與航太等領域的重要性日益增加。",
+      "why_it_matters": "資金注入有助於緩解金屬 3D 列印供應鏈的產能壓力。",
+      "tags": [
+        "金屬粉末",
+        "供應鏈",
+        "融資"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/6k-additive-signs-us27-4m-loan-to-expand-powder-production-255525/"
+        }
+      ]
+    },
+    {
+      "title": "設計博物館根特新館安裝 3D 列印鋁製大門",
+      "category": "應用",
+      "summary": "設計工作室 Unfold 完成了名為「Freeze Frame 82.2」的 WAAM 3D 列印鋁製雕塑，外形宛如捕捉到運動中的劇院布幕，現已成為比利時根特設計博物館新館 DING 的主要入口大門。該結構尺寸超過一定規模，展現了電弧增材製造（WAAM）在大型建築與藝術設計上的應用成果。",
+      "why_it_matters": "展示 WAAM 技術在大型建築與公共藝術結構上的實務應用。",
+      "tags": [
+        "WAAM",
+        "鋁合金",
+        "建築設計"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/unfold-installs-3d-printed-aluminum-curtain-as-main-gate-of-design-museum-gents-new-wing-255507/"
+        }
+      ]
+    },
+    {
+      "title": "固體火箭推進器：美國國防領域增材製造的第一個重大規模化測試",
+      "category": "產業",
+      "summary": "儘管無人機是目前增材製造產業高度關注的焦點，但在無人機之前，美國國防領域中 AM 的一大核心焦點其實是固體火箭推進器（SRMs）。隨著全球貿易競爭與地緣政治衝突加劇，涉及國防 AM 的企業仍需持續關注固體火箭推進器的發展與規模化生產挑戰。這反映了增材製造在關鍵軍事與航太供應鏈中的長期戰略意義。",
+      "why_it_matters": "點出國防供應鏈中，固體火箭推進器仍是 3D 列印規模化應用的關鍵戰場。",
+      "tags": [
+        "航太",
+        "國防",
+        "火箭推進器"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334446/solid-rocket-motors-the-first-big-scaling-test-for-am-in-the-us-defense-sector/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 10
+}
