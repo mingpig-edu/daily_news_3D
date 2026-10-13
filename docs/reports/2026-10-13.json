@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T03:33:56.429Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：2026年10月13日",
+  "summary": "今日焦點涵蓋中國鋼鐵巨頭斥資 50 億元人民幣打造配備 400 台金屬機的手機零件超級工廠；Prusa 八擠出機 Core One+ INDX 面臨第三方線材相容性等實測考驗；UniFormation 推出整合清洗與烘乾的一體化光固化機；另有 UpNano 微納級 3DAR 技術、飛彈零件增材製造與分散式製藥網絡等前沿進展。",
+  "items": [
+    {
+      "title": "敬業集團斥資 50 億建 400 台金屬 3D 列印機超級工廠，進軍智能手機供應鏈",
+      "category": "產業",
+      "summary": "中國鋼鐵巨頭敬業集團旗下子公司簽署協議，將於廣東省豐順縣投資約 50 億元人民幣（約 7 億美元）興建先進製造基地。該基地規劃配備 400 台金屬 3D 列印機、20 條金屬粉末生產線及 100 條相關產線，主要針對智能手機零件的規模化生產。此舉標誌著金屬增材製造正在大型消費電子產品製造領域迎來超大規模部署。",
+      "why_it_matters": "代表消費電子零組件的金屬增材製造正從小規模試產邁向數百台設備量產的超級工廠階段。",
+      "tags": [
+        "金屬3D列印",
+        "消費電子",
+        "智能手機",
+        "規模化生產",
+        "工業級"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/chinese-super-factory-with-400-metal-3d-printers-planned-for-smartphone-production-255540/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa Core One+ INDX 實測遇阻：八擠出機升級套件面臨校準與第三方耗材考驗",
+      "category": "硬件",
+      "summary": "Prusa 針對旗艦 FDM 機型推出的 Core One+ INDX 升級套件配備八組獨立擠出機，理論上能以極低的沖擦廢料（宣稱每次換料僅約 0.013 克）實現多色與多材料列印。然而知名創客 Thomas Sanladerer 在實際評測中發現，該機器的開機強制校準流程繁瑣，且目前在使用非 Prusa 官方線材時面臨顯著困難。雖然其配備的高階 Bondtech 雙齒輪擠出機硬體規格出色，但軟體相容性與使用者體驗仍有待完善。",
+      "why_it_matters": "反映出高密度多擠出機架構在降低廢料的同時，對軟韌體容錯率與線材生態相容性提出了更高要求。",
+      "tags": [
+        "Prusa",
+        "FDM",
+        "多材料列印",
+        "擠出機",
+        "Core One+"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/10/12/the-prusa-core-one-indx-a-troubled-multi-extruder-upgrade/"
+        }
+      ]
+    },
+    {
+      "title": "UniFormation S10 登陸眾籌：一體化整合列印、清洗與烘乾後處理",
+      "category": "硬件",
+      "summary": "UniFormation 宣佈將於 2026 年 10 月 22 日在 Kickstarter 上線桌面級光固化 3D 列印機 S10，早鳥定價為 999 美元起。S10 標榜為全球首款高度自動化的桌面光固化系統，將列印、清洗與烘乾後處理工序全面整合至單一機身內。用戶無需在列印完成後手動取出覆滿樹脂的載台搬移至清洗機，能大幅減少樹脂接觸風險並簡化模型製作流程。",
+      "why_it_matters": "解決了光固化列印長期以來繁瑣且沾手的手動後處理痛點，推進桌面光固化設備的一體化自動化普及。",
+      "tags": [
+        "UniFormation",
+        "光固化",
+        "SLA/MSLA",
+        "自動化後處理",
+        "Kickstarter"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334652/uniformation-s10-heads-to-kickstarter-with-an-integrated-resin-printing-and-post-processing-system/"
+        }
+      ]
+    },
+    {
+      "title": "UpNano 發表 3DAR 灰階光刻技術，達成三維體素級精準調控",
+      "category": "科研",
+      "summary": "奧地利微納米 3D 列印專家 UpNano 正式公開其最新的 3DAR（3D Adaptive Resolution，三維自適應解析度）技術。該技術建基於高精度雙光子聚合（2PP）與灰階光刻原理，允許系統在列印過程中對單個三維體素進行獨立控制。這項創新使列印設備能在保持 100 奈米極致解析度的同時，於亞微米至公分尺度工件中靈活平衡成型速度與表面品質。",
+      "why_it_matters": "為微型光學元件、高精密醫療微結構及微流控晶片的跨尺度快速微納製造帶來關鍵突破。",
+      "tags": [
+        "UpNano",
+        "雙光子聚合",
+        "微納3D列印",
+        "體素控制",
+        "光刻技術"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334433/upnano-develops-3dar/"
+        }
+      ]
+    },
+    {
+      "title": "ASTRO America 牽頭 900 萬美元軍民合作協議，加速 Gray Wolf 飛彈 3D 列印生產",
+      "category": "產業",
+      "summary": "美國先進科學技術研究組織（ASTRO America）聯手 Northrop Grumman、佛羅里達州立大學 InSPIRE 及美國空軍研究實驗室（AFRL），簽署了價值 900 萬美元的合作研發協議（CRADA）。該計畫旨在針對 Gray Wolf 飛彈系列零組件建立專屬的增材製造工藝與標準。公私合營機制將促進跨部門共享研發專利、技術人才與工業設施，推動先進製造技術直接落地於軍事防務供應鏈。",
+      "why_it_matters": "展示了國防工業如何透過公私研發協議加速關鍵武器系統的增材製造供應鏈認證與本土化部署。",
+      "tags": [
+        "國防軍工",
+        "金屬3D列印",
+        "航太",
+        "CRADA",
+        "美國空軍"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/astro-america-9m-crada-to-3d-print-gray-wolf-missile-parts-255568/"
+        }
+      ]
+    },
+    {
+      "title": "PharmaTher 啟動 M3DICINES 網絡，以 3D 列印應對罕見病與應急藥品供應",
+      "category": "應用",
+      "summary": "加拿大特種製藥企業 PharmaTher Holdings 宣佈啟動 M3DICINES 全國網絡計畫，旨在北美建立分散式合格站點以應對藥物供應鏈短缺。該計畫採用 CraftMake 藥用級 3D 列印機，初期將與美國 503A 調劑藥局合作，現場客製化生產罕見病及急需應急藥品。透過分散式列印技術，醫療機構能夠按劑量即時製造個人化藥錠，克服傳統集中量產模式在小批量特殊用藥上的供應鏈脆弱性。",
+      "why_it_matters": "驗證了藥用 3D 列印由單一實驗室走向符合監管法規的臨床即時調配與分散式醫療製造可行性。",
+      "tags": [
+        "醫療3D列印",
+        "藥物列印",
+        "分散式製造",
+        "罕見病",
+        "個人化醫療"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/pharmather-builds-network-of-3d-printing-nodes-for-rare-disease-shortage-and-emergency-medicines-255547/"
+        }
+      ]
+    },
+    {
+      "title": "美科研團隊建立多尺度流變模擬框架，精確預測建築混凝土 3D 列印狀態",
+      "category": "科研",
+      "summary": "美國西北大學與阿拉巴馬大學的研究團隊在材料學期刊發表最新成果，成功開發出用於模擬新鮮混合水泥漿流動特性的多尺度建模框架。混凝土 3D 列印的成敗極度取決於漿料在擠出瞬間與堆疊過程中的流變行為，過軟會導致坍塌，過硬則容易堵塞噴嘴。該數值模型能夠深入微觀顆粒交互作用，為現場調配可列印水泥砂漿提供可靠的理論與模擬依據。",
+      "why_it_matters": "大幅降低混凝土 3D 列印在材料配比與擠出過程中的試錯成本，為大規模建築列印提供數位工程工具。",
+      "tags": [
+        "建築3D列印",
+        "水泥列印",
+        "材料流變學",
+        "數值模擬",
+        "科研突破"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/simulations-explain-fresh-cement-flow-for-3d-printing-255550/"
+        }
+      ]
+    },
+    {
+      "title": "INSLOGIC 聯名 Neural4D 發起 Prompt to Print 企劃，打通 AI 與實體列印鏈路",
+      "category": "軟件",
+      "summary": "3D 列印線材製造商 INSLOGIC 聯手生成式 AI 3D 平台 Neural4D，宣佈於 2026 年 10 月中旬啟動為期一個月的創作者企劃。該活動旨在展示如何直接透過自然語言文字提示詞或二維圖像，經由 AI 生成模型無縫匯入切片並使用線材列印成實體物件。雙方合作致力於降低 3D 建模技術門檻，串聯生成式 AI 與桌面 FDM 列印生態。",
+      "why_it_matters": "反映出消費級 3D 列印內容生成正加速朝「提示詞到實物」（Text-to-Print）的無縫工作流演進。",
+      "tags": [
+        "生成式AI",
+        "AI建模",
+        "FDM",
+        "切片軟體",
+        "創客工具"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/inslogic-and-neural4d-launch-from-prompt-to-print-campaign-linking-ai-3d-generation-with-filament-printing-255583/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 19
+}
