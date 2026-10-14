@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T01:54:22.009Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：UpNano 納米級 3DAR 技術、UniFormation 一體化光固化機與 Prusament 顆粒料",
+  "summary": "今日 3D 列印焦點涵蓋微納米級打印突破、消費級光固化流程整合與工業材料供應模式創新。UpNano 推出 3D 自適應分辨率技術革新 2PP 微米製造；UniFormation 發表整合列印與後處理的 S10 光固化機；Prusa 則推出小批量 Prusament 塑料顆粒，直接支援大尺寸粒料列印與研發需求。此外，國防與航空領域在認證零件及金屬替代合金驗證方面亦有重要進展。",
+  "items": [
+    {
+      "title": "UpNano 發表雙光子聚合 3DAR 技術，實現三維自適應分辨率",
+      "category": "硬件",
+      "summary": "奧地利維也納微納米 3D 列印技術公司 UpNano 推出名為「3D Adaptive Resolution（3DAR）」的新技術。該技術能在雙光子聚合（2PP）列印過程中，依據目標幾何形狀動態調整 X、Y 與 Z 軸上的列印體素（voxel）。首批具備 3DAR 功能的 3D 列印設備已正式售出給客戶。",
+      "why_it_matters": "解決了高精度雙光子列印速度受限的難題，使次微米級結構與大體積幾何製造兼具精度與效率。",
+      "tags": [
+        "UpNano",
+        "雙光子聚合",
+        "2PP",
+        "納米列印",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/upnano-launches-3d-adaptive-resolution-for-two-photon-polymerization-255543/"
+        }
+      ]
+    },
+    {
+      "title": "UniFormation 推出 S10 桌面級光固化機，整合列印與清洗烘乾",
+      "category": "硬件",
+      "summary": "UniFormation 宣布將於 2026 年 10 月 22 日在 Kickstarter 上線桌面級光固化 3D 列印機 S10，早鳥定價 999 美元起。S10 將列印、清洗及烘乾工序合而為一，列印完成後系統會自動銜接後續處理，免除用家手動取出載板並更換設備的繁瑣步驟。",
+      "why_it_matters": "大幅簡化光固化列印最耗時且髒亂的後處理流程，有效降低模型製作與小型工作室的人手操作負擔。",
+      "tags": [
+        "UniFormation",
+        "S10",
+        "光固化",
+        "後處理",
+        "自動化"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334652/uniformation-s10-heads-to-kickstarter-with-an-integrated-resin-printing-and-post-processing-system/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa 推出 Prusament 顆粒料，供應大尺寸列印與小規模聚合物研發",
+      "category": "材料",
+      "summary": "Prusa 宣布推出 Prusament Pellets 原料顆粒批次，專為大尺寸 3D 列印（FGF）及小規模聚合物研發實驗室設計。以往工業聚合物原料多以數百公斤或公噸起售，難以滿足小型機構需求；新產品讓實驗室與工作坊能直接採購數公斤至數十公斤的小批量工程顆粒。",
+      "why_it_matters": "打破了顆粒原料大宗採購的高門檻，加速顆粒擠出列印普及化並降低材料開發與測試成本。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "顆粒料",
+        "FGF",
+        "材料研發"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusament-pellets-raw-material-batches-for-large-format-3d-printing-or-small-scale-polymer-research-development_138773/"
+        }
+      ]
+    },
+    {
+      "title": "America Makes 批出 1,240 萬美元資助，推動國防金屬 3D 列印替代合金驗證",
+      "category": "產業",
+      "summary": "America Makes 與美國國防製造與加工國家中心（NCDMM）公布「金屬互換性增材成熟倡議（MIAMI）」獲選名單。該項目獲 OSW WIRE 辦公室資助 1,240 萬美元，旨在推動並驗證增材製造金屬合金替代傳統國防零件的可行性與可靠性。",
+      "why_it_matters": "透過官方標準化驗證流程，加快金屬 3D 列印零件打入關鍵國防與軍工供應鏈。",
+      "tags": [
+        "America Makes",
+        "金屬列印",
+        "國防",
+        "材料驗證",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/america-makes-awards-12-4m-to-validate-metal-am-alloys-as-replacements-in-defense-parts-255631/"
+        }
+      ]
+    },
+    {
+      "title": "Oerlikon 部署全球首台 ATLIX xBUILD 5000 金屬 3D 列印機",
+      "category": "硬件",
+      "summary": "先進材料製造商 Oerlikon 在美國北卡羅來納州亨特斯維爾廠房完成了 ATLIX xBUILD 5000 金屬列印系統的全球首次生產級部署。該設備配備四組 1 kW 激光器，構建尺寸達 500 mm 見方，旨在提升航空航天、國防及半導體領域的產能，並計劃於 2027 年增購更多設備。",
+      "why_it_matters": "多激光大尺寸金屬 3D 列印技術的落地投產，進一步強化了高要求尖端工業零部件的規模化生產能力。",
+      "tags": [
+        "Oerlikon",
+        "ATLIX",
+        "金屬列印",
+        "LPBF",
+        "工業製造"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334608/oerlikon-adds-atlixs-xbuild-5000-plans-more-for-2027/"
+        }
+      ]
+    },
+    {
+      "title": "Plane Support 獲澳洲 CASA 認證，以 3D 列印製造直升機空調風道",
+      "category": "應用",
+      "summary": "澳洲航空工程公司 Plane Support 獲得澳洲民航安全局（CASA）授權，在 APMA 零件製造框架下，採用增材製造技術為 214B 直升機生產難以採購的客艙空調通風管道。這項認證使該公司能合法供應 3D 列印民用航空更換零件。",
+      "why_it_matters": "為停產或難以尋獲原廠零件的老舊航空器提供了符合嚴格適航法規的按需製造解決方案。",
+      "tags": [
+        "航空",
+        "適航認證",
+        "CASA",
+        "備件製造",
+        "應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/plane-support-wins-casa-approval-to-3d-print-hard-to-source-214b-helicopter-ducting-255627/"
+        }
+      ]
+    },
+    {
+      "title": "美研究團隊開發多尺度流動模擬框架，優化混凝土 3D 列印",
+      "category": "科研",
+      "summary": "美國西北大學與阿拉巴馬大學的研究人員建立了一個多尺度流動建模框架，專門研究新拌水泥漿的流變行為。該研究發表於期刊上，著重解析水泥漿流動特性對建築 3D 列印過程的直接影響，有助改善材料擠出成型品質。",
+      "why_it_matters": "為混凝土 3D 列印建立了精確的流變理論模型，有助減少建築列印中材料堵塞或結構塌陷的問題。",
+      "tags": [
+        "建築列印",
+        "混凝土",
+        "流變學",
+        "科研",
+        "數值模擬"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/simulations-explain-fresh-cement-flow-for-3d-printing-255550/"
+        }
+      ]
+    },
+    {
+      "title": "美國海軍潛艇採用 3D 列印防水艙，成功節省 20 萬美元改裝費",
+      "category": "應用",
+      "summary": "美國海軍洛杉磯級攻擊核潛艇帕薩迪納號（SSN 752）的水兵利用 3D 列印製造了一款低成本防水外殼，成本僅約 1,000 美元。該外殼能讓水下無人機在淹沒的魚雷發射管中部署時維持訊號連接，成功取代了原本預計耗資 20 萬美元的常規艦體改裝工程。",
+      "why_it_matters": "展現了艦艇前線按需 3D 列印在大幅削減維護改造成本與加速戰術部署上的極高實用價值。",
+      "tags": [
+        "美國海軍",
+        "軍事應用",
+        "快速成型",
+        "維修改造",
+        "應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3d-printed-1000-fix-that-replaces-200000-submarine-alteration-255618/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
