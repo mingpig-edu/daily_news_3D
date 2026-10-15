@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T01:28:27.501Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-15)",
+  "summary": "本期要聞聚焦 Stratasys 與 Bambu Lab 專利訴訟最新進展、Formlabs 發表獲室內空氣質素認證的新光固化機 Form Studio 1，以及建築 3D 列印龍頭 ICON 獲兩億美元融資。此外，Prusa 推出顆粒耗材原料、Hexagon 發布無線工業 3D 掃描器，航天與金屬材料領域亦有重大突破。",
+  "items": [
+    {
+      "title": "美國 PTAB 裁定 Stratasys 多項專利無效，Bambu Lab 訴訟案再添變數",
+      "category": "產業",
+      "summary": "在德州陪審團要求拓竹（Bambu Lab）因侵權向 Stratasys 賠償 2,760 萬美元約兩周後，美國專利審判暨上訴委員會（PTAB）最新裁定指出，Stratasys 另外四項專利中的部分權利要求不具備可專利性。儘管此裁決並未直接推翻先前的侵權判決，但大幅增加了雙方專利訴訟的複雜程度。",
+      "why_it_matters": "行政專利覆審結果為後續上訴提供新籌碼，牽動開源與消費級 3D 列印生態的專利版圖。",
+      "tags": [
+        "Stratasys",
+        "Bambu Lab",
+        "專利訴訟",
+        "PTAB"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/latest-ptab-rulings-on-stratasys-patents-complicate-bambu-lab-lawsuit-255696/"
+        }
+      ]
+    },
+    {
+      "title": "Formlabs 推出光固化 3D 列印機 Form Studio 1，主打室內空氣質素認證",
+      "category": "硬件",
+      "summary": "3D 列印大廠 Formlabs 正式發表全新光固化 3D 列印機 Form Studio 1。官方特別強調該設備為同類產品中首部獲得 UL GREENGUARD Gold 室內空氣質素認證的機型，改善了樹脂列印的環境安全性。",
+      "why_it_matters": "光固化設備揮發氣體長期受詬病，安全認證有助降低辦公室與教育環境部署樹脂設備的門檻。",
+      "tags": [
+        "Formlabs",
+        "Form Studio 1",
+        "SLA",
+        "光固化",
+        "室內空氣質素"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/new-formlabs-form-studio-1-launches-technical-specifications-and-pricing-255688/"
+        }
+      ]
+    },
+    {
+      "title": "ICON 完成 2 億美元 D 輪融資，加速 Titan 建築 3D 列印機生產",
+      "category": "產業",
+      "summary": "建築 3D 列印科技公司 ICON 宣布完成 2 億美元 D 輪融資，由 Baillie Gifford 與貝萊德（BlackRock）旗下基金共同領投，多家既有投資機構跟投。資金將主要用於擴大生產旗下 Titan 大型建築 3D 列印機，以滿足建築承包商需求。",
+      "why_it_matters": "巨額資本注入進一步鞏固 ICON 於增材建築市場的領先地位，推動 3D 列印建築步向規模化量產。",
+      "tags": [
+        "ICON",
+        "建築3D列印",
+        "融資",
+        "Titan"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/icon-raises-200m-to-manufacture-titan-3d-printers-for-builders-255641/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa 推出 Prusament Pellets 小批量塑膠顆粒原料",
+      "category": "材料",
+      "summary": "Prusa 針對實驗室研發與大尺寸 3D 列印市場推出 Prusament Pellets 膠粒原料。傳統高分子原料通常需按噸或數百公斤起訂，Prusa 提供小批量規格，方便小型工作室或材料科研團隊小規模試驗與打樣。",
+      "why_it_matters": "降低科研與大尺寸顆粒擠出機（FGF）的原料採購門檻，有利加速高分子材料測試與應用創新。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "塑膠顆粒",
+        "FGF",
+        "3D列印材料"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusament-pellets-raw-material-batches-for-large-format-3d-printing-or-small-scale-polymer-research-development_138773/"
+        }
+      ]
+    },
+    {
+      "title": "Hexagon 發布 HYPERSCAN SR 工業級無線 3D 掃描器",
+      "category": "硬件",
+      "summary": "瑞典測量技術公司 Hexagon 推出專為工廠產線、供應商設施及現場服務設計的無線光學追蹤 3D 掃描器 HYPERSCAN SR。該系統整合 WiFi 6 連接技術、可替換電池以及動態光學追蹤，能顯著減少尺寸檢驗的事前準備流程。",
+      "why_it_matters": "完全擺脫線纜束縛並結合高速通訊，有效提升大型工件工業逆向工程與品質檢測的機動性。",
+      "tags": [
+        "Hexagon",
+        "3D掃描",
+        "HYPERSCAN SR",
+        "工業檢測",
+        "逆向工程"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hexagon-launches-hyperscan-sr-wireless-3d-scanner-for-industrial-inspection-255670/"
+        }
+      ]
+    },
+    {
+      "title": "X-Bow 增材製造火箭發動機獲選用於美軍巡航導彈",
+      "category": "應用",
+      "summary": "固體火箭發動機（SRM）製造商 X-Bow Systems 宣布獲防務承包商 Leidos 選中，負責為美國陸軍的低成本集裝箱彈藥（LCCM）巡航導彈研發並生產助推發動機。X-Bow 的發動機核心採用增材製造技術生產，有助壓低製造成本。",
+      "why_it_matters": "3D 列印固態火箭推進技術正式切入軍規低成本精確打擊武器，展示增材製造在國防供應鏈的實戰潛力。",
+      "tags": [
+        "X-Bow",
+        "國防軍工",
+        "固體火箭發動機",
+        "航天軍工",
+        "增材製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/x-bow-3d-printed-rocket-motors-selected-for-army-cruise-missile-255650/"
+        }
+      ]
+    },
+    {
+      "title": "Gränges 聯手合作夥伴開發 LPBF 專用鋁鈧合金",
+      "category": "材料",
+      "summary": "瑞典製造商 Gränges 旗下粉末冶金部門（GPM）宣布與金屬零件專家 Pint 及法國研究機構 IRT M2P 展開合作，共同研發兩款適用於雷射粉末床熔融（LPBF）技術的高性能鋁鈧合金（Al-Sc）。新材料目標應用於要求嚴苛的工業環境。",
+      "why_it_matters": "高強度鋁合金是航空與汽車輕量化的核心瓶頸，新合金配方有望進一步拓展金屬 3D 列印在極端工況的應用。",
+      "tags": [
+        "Gränges",
+        "金屬3D列印",
+        "LPBF",
+        "鋁鈧合金",
+        "材料開發"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/granges-pushes-aluminium-3d-printing-into-demanding-industrial-environments-255656/"
+        }
+      ]
+    },
+    {
+      "title": "中國玩具廠部署 2300 部 Snapmaker 打印機打造多色農場",
+      "category": "應用",
+      "summary": "中國玩具製造商金奇玩具（Jinqi Toys）宣布已部署約 2,300 部 Snapmaker U1 3D 列印機進行多色產品規模化量產。該公司主要在 1688 及 Amazon 銷售可動模型與擺件，稱引入大規模列印農場後，多色產品的營收佔比出現顯著增長。",
+      "why_it_matters": "驗證了千台級消費/桌面型 3D 列印機農場在終端消費品製造中的經濟可行性與敏捷交付優勢。",
+      "tags": [
+        "Snapmaker",
+        "3D列印農場",
+        "多色列印",
+        "消費品製造",
+        "量產"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/chinese-toymakers-two-thousand-3d-printer-farm-makes-multi-color-3d-printing-viable-255655/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 23
+}
