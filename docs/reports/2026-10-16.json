@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T01:20:16.279Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-16)",
+  "summary": "今日焦點涵蓋各大品牌的重大軟硬件發布與行業專利進展：Bambu Lab 預告即將推出旗下首款 3D 掃描器 S1；NVIDIA 開源 CAD 實體建模庫 USD BRep；Formlabs 與 Snapmaker 亦分別發表全新 Form Studio 1 光固化列印機及 Liber 高流量熱端。此外，Prusa 推出顆粒耗材原料，而美國專利審判委員會對 Stratasys 專利請求項的無效裁決則為 Bambu Lab 的侵權訴訟帶來變數。",
+  "items": [
+    {
+      "title": "Bambu Lab 預告推出旗下首款 3D 掃描器 S1",
+      "category": "硬件",
+      "summary": "Bambu Lab 正式預告即將跨足 3D 掃描領域，推出旗下首款 3D 掃描器 Bambu Lab S1，預計於 2026 年 11 月正式登場。繼先前推出結合雷射切割功能的機型後，官方正進一步將產品線由單純的桌面 3D 列印機拓展至個人數碼製造生態圈。目前該款掃描器的詳細規格、功能清單與售價尚未公開。",
+      "why_it_matters": "標誌著消費級 3D 列印龍頭正加速構建從 3D 捕捉到成型輸出的完整個人製造工具鏈。",
+      "tags": [
+        "Bambu Lab",
+        "3D 掃描器",
+        "S1",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334952/bambu-lab-is-building-more-than-3d-printers-now-comes-the-s1-scanner/"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA 開源 CAD 建模核心 USD BRep",
+      "category": "開源",
+      "summary": "科技巨頭 NVIDIA 宣布以 Apache 2.0 開源許可協議發布幾何建模庫 USD BRep。該軟件庫圍繞其 SMLib 實體建模核心構建，為開發者提供基於 NURBS 的邊界表示（BRep）建模能力。此舉預計將直接推動 AI 輔助 CAD 設計工具與 3D 列印前處理軟件的深度整合。",
+      "why_it_matters": "開放工業級幾何建模核心能大幅降低新一代 CAD 與 AI 輔助 3D 設計軟件的開發門檻。",
+      "tags": [
+        "NVIDIA",
+        "開源",
+        "CAD",
+        "USD BRep",
+        "軟件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/nvidia-opens-cad-modelling-kernel-what-could-it-mean-for-ai-assisted-design-and-3d-printing-255720/"
+        }
+      ]
+    },
+    {
+      "title": "Formlabs 正式發布 Form Studio 1 光固化 3D 列印機",
+      "category": "硬件",
+      "summary": "光固化大廠 Formlabs 正式揭曉全新光敏樹脂 3D 列印機 Form Studio 1。業界分析指出，從管理層動向、聘任前 Apple 高層到早前於深圳進行的宣傳活動，皆顯示該公司正尋求擴展更大規模的市場版圖。該款新設備進一步豐富了 Formlabs 在光固化領域的產品線。",
+      "why_it_matters": "Formlabs 藉新機型與策略調整試圖搶佔更廣泛的桌面級至工作坊級光固化市場份額。",
+      "tags": [
+        "Formlabs",
+        "Form Studio 1",
+        "光固化",
+        "SLA",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/formlabs-new-form-studio-1-3d-printer-the-clues-behind-its-push-into-a-bigger-market-255678/"
+        }
+      ]
+    },
+    {
+      "title": "美國 PTAB 裁定 Stratasys 四項專利請求項無效，牽動 Bambu Lab 訴訟走勢",
+      "category": "產業",
+      "summary": "在德州陪審團要求 Bambu Lab 因侵犯四項專利向 Stratasys 支付 2,760 萬美元賠償約兩周後，美國專利審判暨上訴委員會（PTAB）最新裁定另外四項獨立的 Stratasys 專利請求項不具可專利性。儘管是次裁決並非直接撤銷先前陪審團審理的專利，但仍為雙方曠日持久的專利戰增添了變數。",
+      "why_it_matters": "專利訴訟後續發展與專利有效性審查，將對消費級 3D 列印業界的專利壁壘與技術授權產生深遠影響。",
+      "tags": [
+        "Stratasys",
+        "Bambu Lab",
+        "專利訴訟",
+        "PTAB",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/latest-ptab-rulings-on-stratasys-patents-complicate-bambu-lab-lawsuit-255696/"
+        }
+      ]
+    },
+    {
+      "title": "Snapmaker 聯手 Phaetus 推出獲 E3D 授權技術之 Liber 高流量熱端",
+      "category": "硬件",
+      "summary": "3D 列印硬件品牌 Snapmaker 與擠出部件製造商 Phaetus 合作，為 Snapmaker U1 推出專用 Snapmaker × Phaetus Liber 高流量熱端。該熱端的核心 Liber 技術獲得了 E3D 的 FlowCore 技術平台正式授權，旨在提升熔融沉積成型的高速擠出表現。",
+      "why_it_matters": "知名配件廠與品牌機深度合作並採用主流技術授權，能有效提升桌面設備的高速列印穩定性與熔膠流量。",
+      "tags": [
+        "Snapmaker",
+        "Phaetus",
+        "E3D",
+        "熱端",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/snapmaker-and-phaetus-launch-liber-hotend-with-licensed-e3d-technology-255725/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa 推出 Prusament Pellets 顆粒耗材原料，支援大尺寸列印與實驗研發",
+      "category": "材料",
+      "summary": "Prusa 旗下耗材品牌 Prusament 正式推出小批次包裝的塑料顆粒原料 Prusament Pellets。過往聚合物顆粒通常僅以數百公斤或噸級大批量銷售，令小型實驗室或工作坊難以採購。該產品主要面向大尺寸顆粒擠出列印以及小規模的高分子聚合物研發測試需求。",
+      "why_it_matters": "打破傳統工業顆粒材料的起訂量門檻，有助加速科研團隊與顆粒直擠 3D 列印用戶的材料測試週期。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "材料",
+        "顆粒耗材",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "Prusa Blog",
+          "uri": "https://blog.prusa3d.com/prusament-pellets-raw-material-batches-for-large-format-3d-printing-or-small-scale-polymer-research-development_138773/"
+        }
+      ]
+    },
+    {
+      "title": "歐洲太空總署展開 DIQAM 項目，致力實現航天 3D 列印零件「一鍵認證」",
+      "category": "科研",
+      "summary": "德國積層製造軟件開發商 amsight 現正主導名為 DIQAM 的歐洲太空總署（ESA）FIRST! 計畫。該項目旨在建立航天 3D 列印零件的數碼資格認證框架，致力大幅縮短運載火箭及太空船金屬列印零組件繁瑣的驗證耗時，力爭達到接近「一鍵認證」的數碼化流程。",
+      "why_it_matters": "大幅加速航天金屬 3D 列印零件的認證效率，有助降低關鍵零件進入太空應用的驗證成本與週期。",
+      "tags": [
+        "ESA",
+        "航天應用",
+        "品質認證",
+        "軟件",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/esa-first-project-diqam-aims-to-cut-am-space-part-qualification-to-one-click-255711/"
+        }
+      ]
+    },
+    {
+      "title": "Hexagon 推出 HYPERSCAN SR 工業檢測無線 3D 掃描器",
+      "category": "硬件",
+      "summary": "瑞典測量技術公司 Hexagon 正式發布專為工業檢測設計的全無線光學追蹤 3D 掃描器 HYPERSCAN SR。該設備整合了 WiFi 6 無線傳輸、可更換電池系統以及動態光學追蹤技術，專為工廠產線、供應商現場和外勤維修等場景設計，可大幅簡化尺寸檢測前的準備工作。",
+      "why_it_matters": "無線化與動態追蹤技術讓工業級逆向工程與高精度品質檢測擺脫線纜束縛，提升產線巡檢彈性。",
+      "tags": [
+        "Hexagon",
+        "3D 掃描器",
+        "工業檢測",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hexagon-launches-hyperscan-sr-wireless-3d-scanner-for-industrial-inspection-255670/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
