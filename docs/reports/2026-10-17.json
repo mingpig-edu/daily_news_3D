@@ -1,0 +1,199 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T01:19:19.617Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-17)",
+  "summary": "今日重點聚焦於多色列印新突破與生態圈擴展：Creality 推出配備四噴嘴 KliTek 系統的 K3 旗艦機，大幅削減換色時間與料廢；Bambu Lab 則預告即將發表 S1 3D 掃描器，進一步擴展個人製造版圖。此外，NVIDIA 開源 CAD 幾何建模庫，以及全球工業級 3D 列印市場營收大幅回升，均反映積層製造在硬件、軟件及產業應用上的持續演進。",
+  "items": [
+    {
+      "title": "Creality 推出 K3 旗艦 3D 列印機，主打四噴嘴快速換色系統",
+      "category": "硬件",
+      "summary": "Creality 宣佈在美國開放旗艦級 K 系列 3D 列印機 Creality K3 預購，售價由 849 美元起。該機型榮獲 IFA 2026 創新獎，亮點在於採用專利的四噴嘴 KliTek 系統。該技術可將四種耗材保留在獨立通道中，並在約 5 秒內切換輕量噴嘴組件，號稱可減少高達 80% 的總列印時間及高達 85% 的耗材浪費。",
+      "why_it_matters": "解決了傳統單噴嘴多色列印耗費大量退料抽料時間與產生過多「吐料廢物」的核心痛點。",
+      "tags": [
+        "Creality",
+        "多色列印",
+        "FDM",
+        "硬件新品"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334925/creality-k3-opens-for-pre-order-at-849-advancing-multi-color-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 預告首款 3D 掃描器 S1，進一步擴展個人製造工具生態",
+      "category": "硬件",
+      "summary": "Bambu Lab 預告將於 2026 年 11 月推出其首款 3D 掃描器 Bambu Lab S1。雖然官方尚未公佈技術規格與定價，但此舉顯示該品牌繼先前涉足雷射切割後，進一步向桌面 3D 列印機以外的數碼製造領域擴張。",
+      "why_it_matters": "標誌著 Bambu Lab 正加速建構完整的逆向工程與個人數碼製造生態圈。",
+      "tags": [
+        "Bambu Lab",
+        "3D掃描",
+        "硬件",
+        "生態系統"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334952/bambu-lab-is-building-more-than-3d-printers-now-comes-the-s1-scanner/"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA 開源 USD BRep 建模庫，助推 AI 輔助設計與 3D 列印工作流",
+      "category": "軟件",
+      "summary": "NVIDIA 正式推出以 SMLib 實體建模核心構建的開源幾何建模庫 USD BRep，並採用 Apache 2.0 授權條款釋出。該軟件為開發者提供基於 NURBS 的邊界表示（BRep）建模能力，有望深度整合至未來的積層製造與設計工作流。",
+      "why_it_matters": "開源強大的 CAD 幾何建模核心將大幅降低 CAD 與 AI 輔助生成模型開發門檻，有利加速 3D 設計工具的演進。",
+      "tags": [
+        "NVIDIA",
+        "開源",
+        "CAD",
+        "軟件",
+        "AI"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/nvidia-opens-cad-modelling-kernel-what-could-it-mean-for-ai-assisted-design-and-3d-printing-255720/"
+        }
+      ]
+    },
+    {
+      "title": "CONTEXT 數據：工業級 3D 列印營收反彈增長 40%，桌面市場呈飽和跡象",
+      "category": "產業",
+      "summary": "市調機構 CONTEXT 最新數據顯示，2026 年第二季全球 3D 列印硬件收入按年增長 31%，帶動整體積層製造市場重回增長軌道。增長主要受無人機、火箭及智能手機等工業應用需求推動，使工業級機型營收增長達 40%，而桌面級市場則陸續浮現飽和跡象。",
+      "why_it_matters": "反映 3D 列印市場重心持續向高附加價值的航空航天及消費電子等工業級製造轉移。",
+      "tags": [
+        "市場趨勢",
+        "工業級",
+        "產業分析",
+        "營收報告"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/"
+        }
+      ]
+    },
+    {
+      "title": "Snapmaker 聯同 Phaetus 推出 Liber 高流量熱端，獲 E3D 技術授權",
+      "category": "硬件",
+      "summary": "硬件製造商 Snapmaker 與擠出部件專門廠 Phaetus 合作，為 Snapmaker U1 推出 Snapmaker × Phaetus Liber 高流量熱端。該產品的 Liber 技術基於英國著名零件商 E3D 的 FlowCore 技術平台所授權打造。",
+      "why_it_matters": "透過授權成熟的專利高流量擠出技術，可顯著提升桌面列印機的高速熔膠表現與列印效率。",
+      "tags": [
+        "Snapmaker",
+        "Phaetus",
+        "E3D",
+        "熱端",
+        "配件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/snapmaker-and-phaetus-launch-liber-hotend-with-licensed-e3d-technology-255725/"
+        }
+      ]
+    },
+    {
+      "title": "ESA 啟動 DIQAM 項目，推動航天 3D 列印零件「一鍵式」數碼認證",
+      "category": "科研",
+      "summary": "德國積層製造軟件開發商 amsight 正在領導歐洲太空總署（ESA）的全新 FIRST! 項目「DIQAM」（積層製造太空組件數碼認證框架）。該項目的核心目標是大幅簡化並加快用於運載火箭及太空船的 3D 列印組件認證流程，長遠期望達成「一鍵認證」。",
+      "why_it_matters": "認證週期漫長一直是航天金屬 3D 列印零部件落地的一大瓶頸，數碼化流程有助大幅縮短入軌驗證週期。",
+      "tags": [
+        "ESA",
+        "航天",
+        "認證",
+        "軟件",
+        "科研應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/esa-first-project-diqam-aims-to-cut-am-space-part-qualification-to-one-click-255711/"
+        }
+      ]
+    },
+    {
+      "title": "實測證實 PLA 無法自然堆肥降解，打破「環保分解」迷思",
+      "category": "材料",
+      "summary": "Hackaday 報導了創客針對聚乳酸（PLA）耗材進行的為期一年戶外掩埋實驗。經經歷歐洲寒冬與乾熱夏季後挖出檢查，該樣本依然幾乎完好無損，證實了 PLA 必須在特定高溫工業堆肥環境下才會分解，在常溫泥土中並不能自然降解。",
+      "why_it_matters": "釐清了社群對於 PLA 耗材環保特性的常見誤解，有助推動更務實的 3D 列印塑膠廢料處理與回收討論。",
+      "tags": [
+        "PLA",
+        "耗材",
+        "材料科學",
+        "環保"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/10/16/disposing-of-pla-and-why-composting-is-not-an-option/"
+        }
+      ]
+    },
+    {
+      "title": "Hexagon 推出 HYPERSCAN SR 無線 3D 掃描器，專攻工業尺寸檢測",
+      "category": "硬件",
+      "summary": "量測技術大廠海克斯康（Hexagon）發表全無線光學追蹤 3D 掃描器 HYPERSCAN SR，專為產線環境、供應商廠房及現場維修等工業檢驗場景而設。該系統配備 WiFi 6 連線技術、可換式電池及動態光學追蹤，能顯著精簡尺寸量測前置準備時間。",
+      "why_it_matters": "全無線與光學追蹤技術降低了工業場域進行精密逆向工程及公差檢測的操作門檻。",
+      "tags": [
+        "Hexagon",
+        "3D掃描",
+        "工業檢測",
+        "硬件新品"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hexagon-launches-hyperscan-sr-wireless-3d-scanner-for-industrial-inspection-255670/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 24
+}
