@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T01:02:16.432Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-18)",
+  "summary": "今日焦點涵蓋消費級與工業級 3D 列印生態的最新動態。Creality 正式預售多噴嘴旗艦機 K3，大幅改善多色列印速度與耗材浪費；Bambu Lab 宣佈進軍 3D 掃描領域推出 S1；NVIDIA 則開源了幾何建模核心庫 USD BRep，為生成式 AI 與 CAD 工作流帶來突破。此外，硬體配件合作、市場數據反彈以及航天認證項目亦值得關注。",
+  "items": [
+    {
+      "title": "Creality 旗艦 K3 開啟預售，主打四噴嘴快速多色切換",
+      "category": "硬件",
+      "summary": "Creality 旗艦 K 系列 3D 列印機 K3 在美國正式以 849 美元開啟預售。該機採用獨家四噴嘴 KliTek 系統，在獨立通道中預備四種耗材，並能在約 5 秒內完成輕量化噴嘴切換。此設計解決了傳統單噴嘴頻繁回抽與廢料排擠的問題，宣稱可減少達 80% 的列印時間與 85% 的耗材浪費。",
+      "why_it_matters": "跳脫現有單噴嘴排廢料的多色列印方案，以快速換噴嘴架構大幅縮短耗時與減少廢料損耗。",
+      "tags": [
+        "Creality",
+        "K3",
+        "多色列印",
+        "FDM",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334925/creality-k3-opens-for-pre-order-at-849-advancing-multi-color-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 拓展個人製造生態，預告首款 3D 掃描儀 S1",
+      "category": "硬件",
+      "summary": "Bambu Lab 釋出最新預告，將於 2026 年 11 月推出旗下首款 3D 掃描儀 Bambu Lab S1。雖然詳細規格、定價與功能尚未公佈，但這是該品牌繼拓展激光切割應用後，進一步向數碼製造鏈上游逆向工程工具延伸的舉動。",
+      "why_it_matters": "標誌著 Bambu Lab 從純列印設備商轉型為全方位個人製造生態品牌，補全建模輸入端的工作流。",
+      "tags": [
+        "Bambu Lab",
+        "3D掃描",
+        "硬件",
+        "生態拓展"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334952/bambu-lab-is-building-more-than-3d-printers-now-comes-the-s1-scanner/"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA 開源 CAD 建模核心 USD BRep，加速 AI 輔助設計與 3D 列印",
+      "category": "開源",
+      "summary": "NVIDIA 正式在 Apache 2.0 開源協議下釋出幾何建模庫 USD BRep。該庫建基於 SMLib 實體建模核心，為開發者提供基於 NURBS 的邊界表示（BRep）建模功能，有助推動 AI 輔助設計與實體 CAD 格式的無縫對接。",
+      "why_it_matters": "開源工業級幾何建模核心能顯著降低開發門檻，推動 AI 生成 CAD 幾何體及後續 3D 列印應用的成熟。",
+      "tags": [
+        "NVIDIA",
+        "開源",
+        "CAD",
+        "軟件",
+        "AI"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/nvidia-opens-cad-modelling-kernel-what-could-it-mean-for-ai-assisted-design-and-3d-printing-255720/"
+        }
+      ]
+    },
+    {
+      "title": "Snapmaker 聯手 Phaetus 推出授權 E3D 技術之 Liber 高流量熱端",
+      "category": "硬件",
+      "summary": "硬件製造商 Snapmaker 與擠出部件研發商 Phaetus 合作，為 Snapmaker U1 推出 Snapmaker × Phaetus Liber 高流量熱端。該產品採用了經 E3D 官方授權的 FlowCore 技術平台製造。",
+      "why_it_matters": "第三方成熟高流量熱端技術透過授權方式整合至品牌列印機，有助提升高速列印的穩定度與熔融效率。",
+      "tags": [
+        "Snapmaker",
+        "Phaetus",
+        "E3D",
+        "熱端",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/snapmaker-and-phaetus-launch-liber-hotend-with-licensed-e3d-technology-255725/"
+        }
+      ]
+    },
+    {
+      "title": "CONTEXT 報告：2026 Q2 全球硬件營收增長 31%，工業級需求反彈",
+      "category": "產業",
+      "summary": "根據市場調查機構 CONTEXT 最新數據，2026 年第二季全球 3D 列印機硬件營收同比增長 31%，市場重回增長軌道。增長主要受無人機、火箭及手機相關的工業級設備需求帶動，錄得達 40% 的營收反彈，與此同時桌面級市場則顯現飽和跡象。",
+      "why_it_matters": "顯示積層製造產業的重心正在向高價值、終端生產的航天與工業級市場轉移，桌面端則面臨增長放緩。",
+      "tags": [
+        "市場報告",
+        "CONTEXT",
+        "工業級",
+        "產業趨勢"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/"
+        }
+      ]
+    },
+    {
+      "title": "ESA 啟動 DIQAM 項目，致力實現航天積層組件「一鍵式」認證",
+      "category": "科研",
+      "summary": "德國積層製造軟件開發商 amsight 牽頭歐洲太空總署（ESA）的 FIRST! DIQAM（航天組件積層製造數碼認證框架）項目。該項目旨在利用數碼化工作流加速火箭和太空船 3D 列印零件的品質認證流程，長遠目標是實現「一鍵式」合規認證。",
+      "why_it_matters": "漫長的品質認證是航天金屬 3D 列印應用的主要瓶頸，數碼化標準認證將大幅縮短入軌週期。",
+      "tags": [
+        "ESA",
+        "航天工程",
+        "品質認證",
+        "軟件",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/esa-first-project-diqam-aims-to-cut-am-space-part-qualification-to-one-click-255711/"
+        }
+      ]
+    },
+    {
+      "title": "金屬粉末製造商 Amaero 登陸納斯達克，完成 1,570 萬美元 IPO",
+      "category": "產業",
+      "summary": "金屬粉末生產商 Amaero Inc. 完成在納斯達克資本市場的首次公開募股，定價為每股 4.25 美元，共發行逾 470 萬股，淨募得約 1,570 萬美元。公司表示雖然完成融資，但因擴產需求預計 2027 年仍需進一步籌集資金。",
+      "why_it_matters": "反映金屬積層製造材料供應鏈重組及資本市場對上游關鍵粉末產能的持續投資與關注。",
+      "tags": [
+        "Amaero",
+        "IPO",
+        "金屬粉末",
+        "材料",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/amaero-nets-15-7m-in-nasdaq-ipo-but-expects-to-need-more-capital-in-2027-255754/"
+        }
+      ]
+    },
+    {
+      "title": "Nothing 旗下 CMF 發表新藍牙喇叭，官方提供 3D 列印自訂指南",
+      "category": "應用",
+      "summary": "潮流科技品牌 Nothing 旗下 CMF 推出了 CMF Speaker S 與 CMF Speaker M 兩款便攜式喇叭。兩款設備均採用可拆卸的前面板與音量旋鈕設計，官方更在其社群平台發佈了改裝指南，鼓勵用戶透過 3D 列印自訂專屬外觀配件。",
+      "why_it_matters": "消費電子品牌主動將 3D 列印整合至產品的個人化與客製化改裝設計中，推動消費級列印日常應用。",
+      "tags": [
+        "CMF",
+        "Nothing",
+        "消費電子",
+        "個人化",
+        "應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/nothings-first-cmf-speakers-support-3d-printed-knobs-and-panels-255707/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 17
+}
