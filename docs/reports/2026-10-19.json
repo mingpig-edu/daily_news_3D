@@ -1,0 +1,160 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T01:16:38.426Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-19)",
+  "summary": "今日重點聚焦於 Creality 旗艦多色 3D 列印機 K3 開啟預購，以全新獨立多噴頭切換方案大幅改善耗時與廢料問題；同時，工業級積層製造市場受航天、國防及消費電子驅動大幅增長，金屬粉末製造商 Amaero 成功登陸納斯達克，顯示出高階製造資本市場的持續活躍。",
+  "items": [
+    {
+      "title": "Creality 旗艦多色 3D 列印機 K3 開啟預售，定價 849 美元",
+      "category": "硬件",
+      "summary": "Creality 正式在美國市場開啟最新旗艦 K 系列 3D 列印機 K3 的預購，售價由 849 美元起。該機器採用獲獎的自研四噴頭 KliTek 系統，有別於傳統單噴頭反覆退料與換料方案，K3 能在獨立通道中預載四種耗材，並於大約 5 秒內完成輕量噴頭切換。官方數據顯示該技術可縮短最多 80% 列印時間，並減少高達 85% 廢料。",
+      "why_it_matters": "解決了目前單噴頭多色系統換料廢料多、耗時長的核心痛點，有望引領桌面級多色列印架構的新一輪升級。",
+      "tags": [
+        "Creality",
+        "多色列印",
+        "FDM",
+        "3D列印機"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334925/creality-k3-opens-for-pre-order-at-849-advancing-multi-color-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "CONTEXT 報告：工業級 3D 列印機營收激增 40%，桌面市場呈飽和趨勢",
+      "category": "產業",
+      "summary": "市場調查機構 CONTEXT 最新數據顯示，2026 年第二季全球 3D 列印硬件營收同比增長 31%。其中，受無人機、火箭航天及智能手機等產業需求拉動，工業級 3D 列印機營收錄得 40% 的顯著增幅，與此同時桌面級個人市場則呈現飽和跡象。",
+      "why_it_matters": "突顯積層製造市場重心正進一步由消費級向高增長、高毛利的工業生產與終端零件製造轉移。",
+      "tags": [
+        "CONTEXT",
+        "市場動態",
+        "工業級",
+        "產業分析"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/"
+        }
+      ]
+    },
+    {
+      "title": "金屬粉末生產商 Amaero 登陸納斯達克，IPO 募資 1,570 萬美元",
+      "category": "材料",
+      "summary": "金屬積層製造粉末供應商 Amaero Inc. 正式於納斯達克資本市場上市，定價每股 4.25 美元，共計公開發行逾 470 萬股。扣除承銷費用與相關成本後，淨募得約 1,570 萬美元資金。公司同時預期在擴展產能的背景下，2027 年可能仍需進一步籌集資金。",
+      "why_it_matters": "專用金屬粉末材料在航天及國防等關鍵應用需求強勁，上市融資將有助企業擴大尖端合金材料產能。",
+      "tags": [
+        "Amaero",
+        "金屬粉末",
+        "IPO",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/amaero-nets-15-7m-in-nasdaq-ipo-but-expects-to-need-more-capital-in-2027-255754/"
+        }
+      ]
+    },
+    {
+      "title": "CORE Industrial Partners 收購三家製造公司，深化航天與國防布局",
+      "category": "產業",
+      "summary": "私募基金 CORE Industrial Partners 旗下 Fathom 平台宣布收購位於紐約羅徹斯特的三家製造業務，包括 TCS Industries、TCS Electronics 以及 Precision Grinding & Manufacturing Corporation (PGM)。CORE 此前已先後收購 3DXTECH、Gearbox3D 等知名 3D 列印材料與硬件廠商，本次收購將進一步加強其在航天與國防製造領域的服務能力。",
+      "why_it_matters": "資本透過持續併購整合積層製造與傳統精密加工資源，加速國防供應鏈的本土化與一體化服務能力。",
+      "tags": [
+        "收購",
+        "CORE Industrial Partners",
+        "航天國防",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334861/core-industrial-partners-buys-more-firms/"
+        }
+      ]
+    },
+    {
+      "title": "Freemelt 獲國防訂單，評估金屬 3D 列印耐熱零件潛力",
+      "category": "科研",
+      "summary": "瑞典金屬 3D 列印技術公司 Freemelt 獲得來自當地國防企業的原型訂單。該協議旨在研究利用電子束或金屬積層製造技術，是否能提升難熔金屬材料及耐熱零件在極端國防應用中的綜合性能。",
+      "why_it_matters": "驗證金屬 3D 列印在高溫難熔金屬加工上的可行性，對高超音速與國防動力零件開發具重要參考價值。",
+      "tags": [
+        "Freemelt",
+        "金屬列印",
+        "國防應用",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/freemelt-to-test-whether-3d-printing-can-improve-heat-resistant-metal-parts-for-defense-255752/"
+        }
+      ]
+    },
+    {
+      "title": "HP 攜手 DyeMansion 推進矯形器與假肢 3D 列印數位化工作流",
+      "category": "應用",
+      "summary": "HP Additive Manufacturing Solutions 與後處理技術專家 DyeMansion 合作推廣醫療假肢與矯形器（O&P）解決方案。雙方探討從患者三維掃描、個性化數碼設計、積層製造成型到自動化染色後處理與最終組裝的完整連貫工作流，以滿足耐用度、佩戴舒適感與客製化需求。",
+      "why_it_matters": "打通列印至後處理的完整數位化鏈條，有助加速客製化醫療器械的規模式落地與日常應用普及。",
+      "tags": [
+        "HP",
+        "DyeMansion",
+        "醫療應用",
+        "假肢矯形"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335023/beyond-the-printer-hp-and-dyemansion-tackle-the-future-of-prosthetics/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 9
+}
