@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T01:49:49.394Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-20)",
+  "summary": "今日焦點涵蓋低成本金屬 3D 列印新機登場、大尺寸清粉設備升級，以及 Polymaker 推出大尺寸顆粒調色系統。軟件與開源領域亦有重要進展，包括 Rust 語言開發的開源 CAD 工具及 AI 局部建模修訂功能。此外，酒泉航天金屬列印基地動向與 Josef Prusa 對行業競爭格局的觀察，均反映積層製造向實際生產深化的趨勢。",
+  "items": [
+    {
+      "title": "SnowX 發表平價金屬 3D 列印機 SnowPod",
+      "category": "硬件",
+      "summary": "中國廠商 SnowX 計劃透過 Kickstarter 推出平價雷射粉末床熔融（LPBF）機型 SnowPod。該設備成型體積為 80 × 80 × 100 mm，配備 200W 光纖雷射，主要針對 316L 不鏽鋼列印。機身採用封閉式粉末盒進行供粉與內部粉末回收，並配備雙重 HEPA 13/14 過濾及 PM2.5 監測系統。",
+      "why_it_matters": "入門級金屬列印機加入密封式粉盒與內置回收機制，進一步降低桌面或小型工作室使用金屬 3D 列印的門檻與安全隱憂。",
+      "tags": [
+        "金屬3D列印",
+        "LPBF",
+        "SnowX",
+        "硬件",
+        "Kickstarter"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333909/push-button-metal-snowx/"
+        }
+      ]
+    },
+    {
+      "title": "Polymaker 推出 CymphoniK 大尺寸顆粒混色系統",
+      "category": "材料",
+      "summary": "Polymaker 針對大尺寸顆粒擠出積層製造（LFAM）推出名為 CymphoniK 的混色生態系統。該方案允許設計工作室與服務商僅利用 6 種基礎原料顆粒，即可在現場即時調配出超過 100 種自訂顏色。此舉有助於減少多種彩色顆粒的庫存負擔。",
+      "why_it_matters": "解決了大尺寸顆粒列印需長期囤積多色專用材料的痛點，顯著降低工業設計與批量製造的倉儲成本與耗材週轉負擔。",
+      "tags": [
+        "Polymaker",
+        "材料",
+        "LFAM",
+        "顆粒列印",
+        "色彩管理"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/polymakers-cymphonik-mixes-100-colors-from-six-pellets-255737/"
+        }
+      ]
+    },
+    {
+      "title": "Solukon 推出大型金屬清粉設備 SFM-AT850",
+      "category": "硬件",
+      "summary": "德國自動清粉設備廠 Solukon 發表全新 SFM-AT850，用以取代原有的 SFM-AT800-S 與 SFM-AT1000-S 機型。該系統專為火箭引擎或液壓組件等大型金屬工件設計，支援零件尺寸達 650 × 650 × 800 mm、最大承重 1,000 公斤。設備並提供超聲波激振升級選項，協助清除熱交換器等狹窄內部通道的殘留粉末。",
+      "why_it_matters": "金屬列印後處理是量產流程的主要瓶頸，針對重型零件的自動清粉有助航空航天零件更穩定地步入規模化生產。",
+      "tags": [
+        "Solukon",
+        "後處理",
+        "金屬列印",
+        "清粉",
+        "航天工程"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335041/solukon-goes-big-with-new-sfm-at850-depowdering-system/"
+        }
+      ]
+    },
+    {
+      "title": "開發者以 Rust 打造開源 CAD 工具 SolidCraft 與 CADCraft",
+      "category": "開源",
+      "summary": "兩款完全以 Rust 語言撰寫的開源 CAD 應用程式釋出，探索 AI 輔助開發在工程軟件領域的極限。其中包括由 GitHub 開發者 bherbruck 製作的參數化 3D 建模軟件 SolidCraft，以及由 ArtCraft 團隊開發的 AutoCAD 風格製圖工具 CADCraft。",
+      "why_it_matters": "現代系統程式語言結合開源模式，有望打破商業專有 CAD 軟件的長年壟斷，為 Maker 及工程界提供高效率的新選擇。",
+      "tags": [
+        "開源",
+        "CAD",
+        "Rust",
+        "SolidCraft",
+        "軟件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/vibecoded-clones-of-solidworks-and-autocad-released-as-open-source-255770/"
+        }
+      ]
+    },
+    {
+      "title": "Meshy 推出 Meshy Edit 支援文本局部修改 3D 模型",
+      "category": "軟件",
+      "summary": "AI 3D 生成技術公司 Meshy 推出新工具 Meshy Edit。用戶只需在現有 3D 模型上標記指定區域並輸入文字提示詞，即可單獨修改該選區的造型，同時完整保留其他幾何特徵。修改後的模型能直接匯出至切片軟件進行列印。",
+      "why_it_matters": "解決了 AI 生成模型難以局部微調的缺點，讓創作者與 Maker 能直接整合生成式 AI 與 3D 切片生產流程。",
+      "tags": [
+        "Meshy",
+        "AI建模",
+        "切片軟件",
+        "軟件",
+        "工具"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/meshy-edit-lets-makers-change-one-part-of-a-3d-model-and-send-it-straight-to-the-slicer-255766/"
+        }
+      ]
+    },
+    {
+      "title": "酒泉 5 億美元商業航天製造項目佈局百台金屬列印機",
+      "category": "產業",
+      "summary": "中國甘肅省酒泉市就一項總投資達 30 億元人民幣（約 5 億美元）的商業航天製造基地進行 EPC 工程招標。該項目將結合 AI 設計與金屬 3D 列印技術，規劃引進 100 台 3D 列印機，並具備年產 6,300 噸金屬粉末的產能規模。",
+      "why_it_matters": "代表航天產業對積層製造的投入已從個別零件驗證邁向百台機群規模化集群生產，帶動原材料產能大幅擴張。",
+      "tags": [
+        "航天工程",
+        "金屬列印",
+        "產業",
+        "金屬粉末",
+        "投資"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/500m-jiuquan-aerospace-project-plans-100-3d-printers-and-6300-tonnes-of-annual-metal-powder-capacity-255709/"
+        }
+      ]
+    },
+    {
+      "title": "Josef Prusa 探討平價 3D 列印機跨入生產端的新競爭格局",
+      "category": "產業",
+      "summary": "隨著平價 3D 列印機廣泛應用於實際生產，Prusa Research 創辦人 Josef Prusa 在專訪中指出，設備製造商當前面對的競爭關鍵已轉向資金實力、軟件生態、知識產權（IP）及戰略資訊保護與供應鏈採購。他警告這些幕後角力將深遠影響所有使用者與產業生態。",
+      "why_it_matters": "點出桌面機邁入商用生產階段後，開源社群與封閉商業生態在知識產權與安全管理上的根本角力。",
+      "tags": [
+        "Prusa",
+        "產業趨勢",
+        "知識產權",
+        "開源生態"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/interview-one-minute-to-midnight-josef-prusa-on-3d-printings-new-terms-of-competition-255791/"
+        }
+      ]
+    },
+    {
+      "title": "Sneakprint 推出 ShoeFactory 平台支援拖鞋數碼檔案自印",
+      "category": "應用",
+      "summary": "慕尼黑鞋履初創公司 Sneakprint 推出名為 ShoeFactory 的網絡平台，改以數碼檔案形式銷售個人化合身鞋履。顧客可利用智能手機掃描腳型，在瀏覽器微調參數化模型，並直接下載 STL 檔案於自有 3D 列印機上製作拖鞋。",
+      "why_it_matters": "展示了由「集中生產與實體物流」轉向「分佈式下載並在地列印」的個人化消費品商業新模式。",
+      "tags": [
+        "應用",
+        "鞋履",
+        "參數化設計",
+        "消費級",
+        "STL"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/your-feet-your-printer-sneakprint-sells-custom-slides-as-downloads-255741/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 15
+}
