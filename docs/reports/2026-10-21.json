@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T01:35:32.422Z",
+  "model": "gemini-3.7-flash",
+  "models": {
+    "editorial": "gemini-3.7-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：Creality 四噴頭 K3 開啟預售、UC Berkeley 聯乘 Prusa 發表開源體積列印機",
+  "summary": "今日 3D 列印焦點涵蓋桌面設備創新、開源前沿技術與材料突破。Creality 推出配備四噴頭系統的 K3 打印機以解決多色打印耗損；UC Berkeley 攜手 Prusa 與 Formlabs 推出開源體積 3D 打印機 OpenCAL；Prusa 則進一步將線材聚合物膠粒分裝發售，方便顆粒直印與研發需求。此外，平價金屬打印新勢力 SnowPod 亮相、Sakuu 推進 6 億美元上市交易，以及細菌生物打印與形狀記憶合金支架等科研成果均值得關注。",
+  "items": [
+    {
+      "title": "Creality 推出四噴頭 K3 打印機，預售價 849 美元主打減少換色廢料",
+      "category": "硬件",
+      "summary": "Creality 旗艦 K 系列最新機種 K3 在美國開啟預售，起售價為 849 美元。新機採用名為 KliTek 的四噴頭系統，旨在大幅縮短多色打印時的換色時間，並減少換料吐料所造成的耗材浪費。",
+      "why_it_matters": "以多噴頭架構直接對撼單噴頭多料擠出方案，有效解決多色 FDM 打印長期為人詬病的廢料過多與換色過慢痛點。",
+      "tags": [
+        "Creality",
+        "K3",
+        "FDM",
+        "多色打印",
+        "硬件發布"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/creality-opens-k3-pre-orders-at-849-with-four-nozzle-system-to-cut-multi-color-purge-waste-255796/"
+        }
+      ]
+    },
+    {
+      "title": "UC Berkeley 攜手 Prusa 與 Formlabs 推出開源體積 3D 打印機 OpenCAL",
+      "category": "開源",
+      "summary": "加州大學柏克萊分校正式釋出 DIY 體積 3D 打印機項目 OpenCAL，該項目與 Prusa Research 及 Formlabs 合作開發。設備基於電腦軸向微影（CAL）技術，透過旋轉樹脂小瓶配合光投射實現無分層快速成型，專用樹脂將經由 Prusa 銷售，且已在 MIT 等多所機構投入運行。",
+      "why_it_matters": "將過去局限於實驗室的高階無層厚體積列印技術開源化並商業化配套材料，有助加速新一代超高速光固化技術普及。",
+      "tags": [
+        "Prusa",
+        "Formlabs",
+        "體積3D打印",
+        "OpenCAL",
+        "開源硬件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335160/opencal-v2-volumetric-printer-launched/"
+        }
+      ]
+    },
+    {
+      "title": "平價金屬 3D 打印新勢力 SnowX 發表一體化桌面設備 SnowPod",
+      "category": "硬件",
+      "summary": "中國廠商 SnowX 準備透過 Kickstarter 推出入門級激光金屬粉末床熔融（LPBF）打印機 SnowPod。該設備成型體積為 80 × 80 × 100 mm，配備 200W 光纖激光，專為 316L 不銹鋼設計，並採用密閉粉末匣與內部粉末回收及雙 HEPA 13/14 過濾系統。",
+      "why_it_matters": "封閉式粉盒與入門定價降低了金屬 3D 打印在安全維護與空間門檻上的限制，反映桌面級金屬打印競爭正在升溫。",
+      "tags": [
+        "SnowX",
+        "LPBF",
+        "金屬3D打印",
+        "Kickstarter",
+        "硬件發布"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333909/push-button-metal-snowx/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa 推出 3.5kg 至 14kg 小包裝塑料顆粒，支援直接打印與材料研發",
+      "category": "材料",
+      "summary": "Prusa Research 宣布開始發售其 Prusament 線材所使用的原生聚合物顆粒，包裝容量介乎 3.5 公斤至 14 公斤。此舉主要針對使用顆粒直印技術（FGF）的用戶，以及進行小規模材料開發的科研機構。",
+      "why_it_matters": "打破以往工業塑料顆粒需按噸訂購的門檻，為顆粒直印用戶及原型材料調校提供高性價比且可靠的原料來源。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "材料",
+        "顆粒打印",
+        "聚合物"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/no-more-buying-by-the-ton-prusa-launches-small-batch-polymer-pellets-255814/"
+        }
+      ]
+    },
+    {
+      "title": "SprintRay 拓展一站式數碼牙科工作流，發布口掃儀與椅旁 Nano 系統",
+      "category": "硬件",
+      "summary": "牙科 3D 打印企業 SprintRay 於 3DNext 2026 大會上展示完整診所生態，推出品牌首款口腔內部掃描儀 Foundation。同場亦發表名為 Nano Series 的小型椅旁打印、清洗及固化一體化系統，讓牙醫能即時完成義齒成型。",
+      "why_it_matters": "打印廠商逐步將版圖延伸至前端掃描與全套後處理，實現從口內取模到終端產品成型的封閉式醫療解決方案。",
+      "tags": [
+        "SprintRay",
+        "牙科",
+        "口內掃描儀",
+        "醫療應用",
+        "光固化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sprintray-builds-a-one-stop-digital-dentistry-workflow-from-scanning-to-curing-255834/"
+        }
+      ]
+    },
+    {
+      "title": "電池 3D 打印企業 Sakuu 達成 6 億美元 SPAC 合併協議擬登陸紐交所",
+      "category": "產業",
+      "summary": "專注於積層製造固態電池的 Sakuu Corporation 宣布與特殊目的收購公司 Pyrophyte Acquisition Corp. II 簽訂合併協議，擬於紐約證券交易所上市。該交易對 Sakuu 的投前股權估值達 6 億美元，並計劃於 2027 年推出 Kavian 生產平台。",
+      "why_it_matters": "為積層製造在新能源電池規模化生產領域注入龐大資本，也是近期 3D 打印領域罕見的大型公開上市交易。",
+      "tags": [
+        "Sakuu",
+        "SPAC",
+        "固態電池",
+        "紐交所",
+        "產業金融"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sakuu-plugs-into-public-markets-with-600m-spac-merger-and-a-2027-kavian-launch-255842/"
+        }
+      ]
+    },
+    {
+      "title": "蘇黎世聯邦理工學院利用細菌礦化作用 3D 打印低碳建築外牆",
+      "category": "科研",
+      "summary": "ETH Zurich 建築系研究人員利用巴氏芽孢桿菌（Sporosarcina pasteurii）引導的微生物誘導碳酸鈣沉澱（MICP）技術製造建築外牆構件。活體細菌在砂粒間沉澱方解石晶體完成黏合，製造過程相比傳統混凝土需要更少能源並大幅降低碳排放。",
+      "why_it_matters": "展示了生物製造與建築 3D 打印結合的潛力，為未來零碳及自癒合建築結構提供新型材料路線。",
+      "tags": [
+        "ETH Zurich",
+        "生物製造",
+        "建築3D打印",
+        "低碳材料",
+        "科研突破"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334981/eth-zurich-uses-bacteria-to-3d-print-facade-elements/"
+        }
+      ]
+    },
+    {
+      "title": "馬德里科研團隊 3D 打印編織型鎳鈦形狀記憶合金血管支架",
+      "category": "科研",
+      "summary": "IMDEA 材料研究所與馬德里理工大學（UPM）合作，成功利用鎳鈦合金（nitinol）3D 打印出編織狀血管結構。測試顯示，該支架被壓縮至原本直徑的一半後，依然能夠恢復超過 90% 的原有形狀，兼具高柔韌性與抗疲勞強度。",
+      "why_it_matters": "克服了金屬 3D 打印精密植入物易碎或形變回彈不足的缺陷，為個人化心血管微創器械帶來新突破。",
+      "tags": [
+        "醫療3D打印",
+        "鎳鈦合金",
+        "血管支架",
+        "形狀記憶",
+        "科研突破"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/woven-in-metal-imdea-and-upm-3d-print-stents-that-bend-without-breaking-255810/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 23
+}
