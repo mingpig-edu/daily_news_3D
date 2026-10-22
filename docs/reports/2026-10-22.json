@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T01:31:54.790Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-22)",
+  "summary": "今日焦點涵蓋加州大學伯克利分校開源超快速體積 3D 列印機 OpenCAL；Prusa 與 Polymaker 分別推進小包裝顆粒及大形列印現場混色方案；此外，平價金屬列印機 SnowPod 亮相，以及建築、齒科與定格動畫領域的最新軟硬件技術應用。",
+  "items": [
+    {
+      "title": "UC Berkeley 開源體積 3D 列印機 OpenCAL，90 秒極速成型且造價僅 1,600 美元",
+      "category": "科研",
+      "summary": "加州大學伯克利分校研究團隊正式公開 OpenCAL 自製體積光固化（VAM）3D 列印機專案。該系統透過旋轉樹脂瓶並投射動態光場，可在約 1 分鐘至 90 秒內將完整物件一次性固化成型。機器組裝成本僅約 1,600 美元，大幅降低了該前沿技術的研究門檻。",
+      "why_it_matters": "將過去昂貴的體積積層製造技術轉化為平價開源硬件，有助加速無層紋極速列印技術的普及與學術研發。",
+      "tags": [
+        "OpenCAL",
+        "體積列印",
+        "VAM",
+        "開源硬件",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/build-it-yourself-opencal-volumetric-3d-printer-forms-whole-parts-in-90-seconds-for-1600-255846/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa 推出 3.5kg 至 14kg 小包裝聚合物顆粒，便利顆粒直印與材料研發",
+      "category": "材料",
+      "summary": "Prusa Research 宣布開始單獨發售旗下 Prusament 線材所用的原生聚合物顆粒，包裝規格介乎 3.5kg 至 14kg。此舉主要針對採用顆粒直出（FGF）列印的用戶，以及進行小規模材料調配與科研的機構。用戶無須再按傳統工業噸級標準採購大宗顆粒原料。",
+      "why_it_matters": "打破了顆粒原料大批量起訂的限制，大幅降低顆粒直接列印與新材料配方測試的試錯成本。",
+      "tags": [
+        "Prusa",
+        "Prusament",
+        "塑料顆粒",
+        "FGF",
+        "耗材研發"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/no-more-buying-by-the-ton-prusa-launches-small-batch-polymer-pellets-255814/"
+        }
+      ]
+    },
+    {
+      "title": "Polymaker 推出 CymphoniK 原生顆粒現場混色解決方案",
+      "category": "材料",
+      "summary": "Polymaker 針對大尺寸積層製造（LFAM）推出名為 CymphoniK 的顆粒混色系統。該系統整合軟硬件與專用顆粒，以青、洋紅、黃、黑、白及中性色共六種基礎色顆粒為核心，讓用戶能在本地即刻調配出特定色彩。此方案可解決訂購母粒週期長及起訂量過大的痛點。",
+      "why_it_matters": "為大尺寸顆粒列印用戶提供靈活的自訂調色能力，特別切合展示道具、標誌與小批量特種應用的即時需求。",
+      "tags": [
+        "Polymaker",
+        "CymphoniK",
+        "LFAM",
+        "顆粒列印",
+        "混色系統"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335141/six-colors-endless-possibilities-polymaker-launches-cymphonik/"
+        }
+      ]
+    },
+    {
+      "title": "中國新創 SnowX 發布入門級金屬 3D 列印機 SnowPod",
+      "category": "硬件",
+      "summary": "中國廠商 SnowX 計劃在 Kickstarter 發布低成本雷射粉末床熔融（LPBF）金屬列印機 SnowPod。該設備成型體積為 80 × 80 × 100 mm，配備 200W 光纖雷射，主要支援 316L 不銹鋼列印。設備採用封閉式粉末盒管理與內部粉末回收，並配搭雙 HEPA 13/14 濾網與 PM2.5 監測系統。",
+      "why_it_matters": "進一步推動金屬 3D 列印走向平價化與桌面化，並藉由封閉式粉末盒提升小型工作室操作金屬粉末的安全性。",
+      "tags": [
+        "SnowX",
+        "SnowPod",
+        "金屬3D列印",
+        "LPBF",
+        "桌面級"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333909/push-button-metal-snowx/"
+        }
+      ]
+    },
+    {
+      "title": "SprintRay 推出首款口內掃描儀與 Nano 系列椅旁齒科列印系統",
+      "category": "硬件",
+      "summary": "齒科 3D 列印方案商 SprintRay 於 3DNext 2026 活動中發表其首款名為 Foundation 的口內掃描儀。同時，公司亦推出了緊湊型椅旁列印、清洗與固化一體化設備 Nano 系列。此舉標誌著該品牌正式建立起由數位取模到成品後處理的閉環工作流程。",
+      "why_it_matters": "整合口腔掃描至後固化處理的全套流程，進一步簡化齒科診所椅旁即時列印的操作門檻與部署時間。",
+      "tags": [
+        "SprintRay",
+        "齒科應用",
+        "口內掃描儀",
+        "光固化",
+        "醫療硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sprintray-builds-a-one-stop-digital-dentistry-workflow-from-scanning-to-curing-255834/"
+        }
+      ]
+    },
+    {
+      "title": "定格動畫工作室 LAIKA 引入 PrismSlicer 預覽 PolyJet 全彩列印效果",
+      "category": "軟件",
+      "summary": "布拉格軟體開發商 Additive Appearance 與知名定格動畫工作室 LAIKA 達成協議，將 PrismSlicer 著色渲染工具引入其製作流程。該軟件專為 PolyJet 技術設計，能夠在列印前精準估算並預覽全彩色澤及半透明材料的光學外觀，輔助藝術家製作更擬真的角色面部模型。",
+      "why_it_matters": "解決了全彩多材質 3D 列印在成型前難以預覽半透明度與真實混色效果的問題，顯著降低定格動畫道具的反覆試印成本。",
+      "tags": [
+        "PrismSlicer",
+        "LAIKA",
+        "切片軟件",
+        "全彩列印",
+        "PolyJet"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/laika-adopts-prismslicer-to-preview-full-color-3d-printed-faces-255850/"
+        }
+      ]
+    },
+    {
+      "title": "蘇黎世聯邦理工學院利用細菌生物礦化 3D 列印建築立面構件",
+      "category": "科研",
+      "summary": "蘇黎世聯邦理工學院（ETH Zurich）建築系研究人員 Karen Antorveza Paez 開發出利用微生物誘導碳酸鈣沉澱（MICP）成型建築構件的技術。該研究使用巴氏巴氏芽孢桿菌（Sporosarcina pasteurii）引導方解石結晶沉澱，將沙粒黏結成型。此方法相比傳統水泥建材能大幅降低能耗與碳排放。",
+      "why_it_matters": "結合活體細菌與生物水泥技術於積層製造，為環保低碳建築構件提供了一條可行的生物製造新途徑。",
+      "tags": [
+        "ETH Zurich",
+        "生物製造",
+        "建築列印",
+        "綠色材料",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334981/eth-zurich-uses-bacteria-to-3d-print-facade-elements/"
+        }
+      ]
+    },
+    {
+      "title": "GADC 引進 Caracol 大型 Heron 400 機械臂列印系統進駐格陵蘭",
+      "category": "應用",
+      "summary": "格陵蘭北極開發公司（GADC）採購了 Caracol 的 Heron 400 軌道式六軸以上機械臂 3D 列印系統，專門製造大型聚合物與複合材料部件。該設備機械臂跨度達 4 米並配備逾 10 米導軌，在芝加哥完成測試後將部署至格陵蘭，計劃培訓本地創業人才以在地製造取代昂貴的跨海航運。",
+      "why_it_matters": "展示了大型機械臂 3D 列印在偏遠極地應對高昂物流成本與供應鏈中斷問題的實用戰略價值。",
+      "tags": [
+        "Caracol",
+        "機械臂列印",
+        "LFAM",
+        "在地製造",
+        "複合材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335139/caracol-and-gadc-want-to-print-in-greenland/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 24
+}
