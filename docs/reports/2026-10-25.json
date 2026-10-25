@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T01:10:13.708Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：Formlabs 進軍平價光固化市場，工業與科研增材應用持續突破",
+  "summary": "今日焦點涵蓋多項硬件突破與前沿應用：Formlabs 推出售價 699 美元的桌面光固化機 Form Studio 1 正面挑戰消費級品牌；Peopoly 顆粒擠出機 Giga 800 正式公開發售並加入雷射調平技術；WASP 發表結合泥土與熱塑性塑料的雙擠出工藝。此外，國防、水電重工與軟體機械人科研領域亦迎來多項重要進展。",
+  "items": [
+    {
+      "title": "Formlabs 推出 699 美元入門級光固化機 Form Studio 1",
+      "category": "硬件",
+      "summary": "向來主打專業及工業市場的 Formlabs 正式推出售價僅 699 美元的桌面級光固化 3D 列印機 Form Studio 1。新機主要面向業餘創作者、小型企業、教育機構及初學者，並已開放全球預購，預計於 2026 年 11 月中旬開始發貨。此舉標誌著該品牌直接切入長期由 Elegoo、Anycubic 及 Creality 主導的平價光固化市場。",
+      "why_it_matters": "傳統專業光固化大廠首度以平價機型下沉消費級市場，預料將大幅加劇入門光固化生態的競爭。",
+      "tags": [
+        "Formlabs",
+        "Form Studio 1",
+        "光固化",
+        "MSLA",
+        "3D列印機"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335375/formlabs-enters-the-699-resin-3d-printer-market-taking-on-chinese-competitors/"
+        }
+      ]
+    },
+    {
+      "title": "Peopoly 顆粒擠出 3D 列印機 Giga 800 正式公開發售",
+      "category": "硬件",
+      "summary": "Peopoly 正式公開發售其大型熔融顆粒製造（FGF）3D 列印機 Giga 800，出廠起售價為 15,000 美元。相較於先前向早期試用者提供的版本，正式發售機型根據社群意見反饋，新增了雷射輔助自動熱床調平系統。該系統旨在提供低成本顆粒原料列印的同時，維持大型件列印的高精度與可靠度。",
+      "why_it_matters": "顆粒擠出技術進一步走向成熟商用，有助中小型製造商以更低耗材成本製作大型工業零件。",
+      "tags": [
+        "Peopoly",
+        "Giga 800",
+        "FGF",
+        "顆粒擠出",
+        "大型3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/peopoly-brings-laser-leveling-to-15000-large-format-pellet-3d-printer-255881/"
+        }
+      ]
+    },
+    {
+      "title": "WASP 開發泥土與塑料雙擠出技術",
+      "category": "硬件",
+      "summary": "意大利 3D 列印機廠商 WASP 正在研發一項可逆向的雙擠出製造技術，並已提交專利申請。該技術結合了液體沉積成型（LDM）與熔融顆粒製造（FGF），使單部設備能夠交替擠出天然黏土漿料與熱塑性塑料。塑膠結構的加入有助提升建築材料強度，同時維持天然材料的可回收性。",
+      "why_it_matters": "混合沉積工藝打破了無機建材與塑料強化的界線，為永續建築增材製造提供了新方向。",
+      "tags": [
+        "WASP",
+        "LDM",
+        "FGF",
+        "建築3D列印",
+        "雙擠出"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/wasp-develops-dual-extrusion-technology-for-reversible-earth-and-plastic-3d-printing-255876/"
+        }
+      ]
+    },
+    {
+      "title": "美國防部採購 Nikon 巨型金屬列印系統以加速導彈生產",
+      "category": "應用",
+      "summary": "美國防部向 Nikon Advanced Manufacturing 授予新合約，採購多台定製規格的 Nikon SLM Solutions NXG-E 金屬 3D 列印系統。該設備配備 2 米級大型成型艙，將用於加速戰斧（Tomahawk）巡航導彈等國防彈藥的生產交付。軍方期望藉由大型金屬積層製造縮短關鍵零件漫長的前置生產期。",
+      "why_it_matters": "國防供應鏈正加速將超大型金屬 3D 列印納入關鍵武器裝備的常規生產體系。",
+      "tags": [
+        "Nikon",
+        "SLM",
+        "金屬3D列印",
+        "國防製造",
+        "航天"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335341/the-pentagon-turns-to-nikon-advanced-manufacturing-to-ramp-up-tomahawk-production/"
+        }
+      ]
+    },
+    {
+      "title": "東方電機獲 1580 萬合約開發三峽大壩密封環原位增材修復技術",
+      "category": "應用",
+      "summary": "中國長江電力向東方電機頒發總值約 1,580 萬元人民幣的合約，為三峽水電站研發大型水輪機轉輪密封環的原位增材製造修復技術。項目歷時 29 個月，涵蓋直徑 8.4 至 10.9 米的 8 種發電機型密封環修復工程。這項原位維修方案將省去大型重工零件拆卸運輸的龐大成本與停機時間。",
+      "why_it_matters": "超大型水電設備現場原位 3D 列印修復技術落地，示範了增材製造在大型基建維護中的商業價值。",
+      "tags": [
+        "金屬增材製造",
+        "現場修復",
+        "水力發電",
+        "重工業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/in-situ-am-for-turbine-seal-ring-repairs-to-be-developed-and-tested-for-three-gorges-dam-255892/"
+        }
+      ]
+    },
+    {
+      "title": "中國金屬 3D 列印競爭加劇：敬業集團擬建 400 台機大型廠房",
+      "category": "產業",
+      "summary": "中國金屬增材製造市場競爭持續升溫，繼易加三維（EPlus3D）公佈接獲 5 萬組 AI 數據中心冷卻組件訂單後，敬業鋼鐵旗下敬業未來智造宣佈斥資 7 億美元興建新廠。該項目規劃設置 20 條生產線及 400 台金屬 3D 列印機，主力生產智能電話零件及消費電子周邊組件。激烈的本土競爭推動了中國金屬增材製造在規模化製造上的迅速擴張。",
+      "why_it_matters": "鋼鐵巨頭與製造商以超大產能布局金屬列印，正加速 3D 列印轉化為消費電子常規量產工具。",
+      "tags": [
+        "金屬3D列印",
+        "消費電子",
+        "EPlus3D",
+        "產業規模化"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335390/china-am-market-about-to-get-even-more-competitive/"
+        }
+      ]
+    },
+    {
+      "title": "3Descu 支援透過 ChatGPT 及 Claude 直接獲取 3D 列印報價",
+      "category": "軟件",
+      "summary": "羅馬尼亞 3D 列印服務商 3Descu 將其製造報價系統接入 AI 助手，工程師可直接在 ChatGPT、Claude、Cursor 及 VS Code 內查詢生產價格。該整合利用了 Model Context Protocol（MCP）協定，即時串接線上計價核心與語言模型。用戶無須跳出編程或對話介面即可直接獲得製造估價與工藝建議。",
+      "why_it_matters": "利用 MCP 協定將 AI 工具鏈直接接入製造報價，展示了現代增材工作流程高度自動化的發展趨勢。",
+      "tags": [
+        "AI",
+        "MCP",
+        "切片服務",
+        "報價引擎",
+        "工作流程"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3descu-enables-3d-printing-quotes-through-chatgpt-and-claude-255887/"
+        }
+      ]
+    },
+    {
+      "title": "英國德蒙福特大學開展 3D 列印人工肌肉科研項目",
+      "category": "科研",
+      "summary": "英國德蒙福特大學（DMU）研究員 Meisam Abdi 博士獲頒 2026/27 皇家工程院暨利弗休姆信託研究基金，將專注探索以 3D 列印技術製造新一代軟體機械人的人工肌肉。該研究著眼於開發兼具運動、環境感知與能量收集能力的列印結構，以取代傳統剛性機械組件。此技術未來有望應用於搜救、醫療及仿生機械人領域。",
+      "why_it_matters": "功能性 3D 列印材料由結構件延伸至集驅動、傳感於一體的仿生組織，推進了軟體機械人前沿研發。",
+      "tags": [
+        "科研",
+        "人工肌肉",
+        "軟體機械人",
+        "功能性材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles-255915/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
