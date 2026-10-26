@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T01:09:45.365Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-26)",
+  "summary": "今日情報重點關注工業級增材製造的重大里程碑，包括 Carbon 突破百萬件單車鞍座量產，以及中國金屬 3D 列印市場在數據中心散熱件與消費電子領域的激進擴張。此外，科研領域在軟體機器人人工肌肉及大型環境 3D 數碼雙生軟件方面亦有重要進展。",
+  "items": [
+    {
+      "title": "Carbon 達成 100 萬件 3D 列印單車鞍座量產里程碑",
+      "category": "應用",
+      "summary": "增材製造方案商 Carbon 宣布，採用其技術與設備生產的 3D 列印單車鞍座累計出貨量已正式突破 100 萬件。Carbon 與 Specialized 等頂尖單車品牌合作，將光固化技術成功擴展至大規模消費運動產品生產線。執行長 Phil DeSimone 指出，這展示了 3D 列印技術跨越小批量試產、邁向真正百萬級量產的成熟實力。",
+      "why_it_matters": "標誌著 3D 列印運動裝備成功突破規模經濟門檻，樹立了工業級消費品大規模量產的重要範例。",
+      "tags": [
+        "Carbon",
+        "量產",
+        "運動用品",
+        "單車鞍座",
+        "光固化"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335440/the-first-millions-the-hardest-carbons-achievement-with-3d-printed-bike-saddles/"
+        }
+      ]
+    },
+    {
+      "title": "中國金屬增材製造競爭升溫：聚焦 AI 散熱與大規模量產廠房",
+      "category": "產業",
+      "summary": "中國金屬 3D 列印市場競爭進一步加劇，EPlus3D 宣布接獲 5 萬件 AI 數據中心散熱零件訂單。同時，敬業集團旗下敬業未來智能製造公佈總值 7 億美元的擴產計劃，預計設立 20 條產線並引入 400 台金屬 3D 列印機，專攻智能手機零件及周邊組件。激光品牌 HG Laser 亦持續擴大金屬增材製造佈局以應對本土激烈競爭。",
+      "why_it_matters": "顯示金屬 3D 列印正快速切入 AI 算力中心散熱器與消費電子硬件供應鏈，走向極具成本競爭力的極限產能擴張。",
+      "tags": [
+        "金屬3D列印",
+        "EPlus3D",
+        "AI散熱",
+        "消費電子",
+        "產業競爭"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335390/china-am-market-about-to-get-even-more-competitive/"
+        }
+      ]
+    },
+    {
+      "title": "Artec 3D 推出 Artec Twins 平台，實時渲染數十億點雲場景",
+      "category": "軟件",
+      "summary": "總部位於盧森堡的 Artec 3D 發表全新軟件平台 Artec Twins，專為處理、渲染與分析大型環境的 3D 掃描數據而設。該平台突破過去單一物件掃描的局限，支援數十億個點的點雲實時運算，並整合來自 Artec 掃描儀、智能手機、無人機及衛星的數據。其主要應用於工程測量、大型設施檢測及數碼雙生監控。",
+      "why_it_matters": "為大規模逆向工程及空間數碼化提供實時海量數據分析能力，補全了從實體掃描到增材製造前的數位雙生管線。",
+      "tags": [
+        "Artec 3D",
+        "3D掃描",
+        "數碼雙生",
+        "點雲處理",
+        "測量檢測"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/artec-3d-releases-artec-twins-to-render-3d-scans-with-billions-of-points-in-real-time-255908/"
+        }
+      ]
+    },
+    {
+      "title": "英國 DMU 展開 3D 列印人工肌肉研究，推動軟體機器人發展",
+      "category": "科研",
+      "summary": "英國德蒙福特大學（DMU）研究員 Meisam Abdi 博士獲頒 2026/27 皇家工程院暨 Leverhulme Trust 研究院士，將研究以 3D 列印技術製造新一代軟體機器人人工肌肉。該項目專注於研發兼具運動控制、感知反饋與能量採集功能的人工肌肉系統。這項資助將支持其深入探索軟體機器人結構在動態環境下的製造可行性。",
+      "why_it_matters": "若成功以 3D 列印製造兼具感測與能源採集的人工肌肉，將為仿生機器人及醫療外骨骼帶來根本性技術突破。",
+      "tags": [
+        "科研",
+        "軟體機器人",
+        "人工肌肉",
+        "仿生工程"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles-255915/"
+        }
+      ]
+    },
+    {
+      "title": "Prodways Q3 列印機營收增長 130%，獲美國航天陶瓷機訂單",
+      "category": "產業",
+      "summary": "法國 3D 列印公司 Prodways 公佈 2026 年第三季業績，其列印機設備業務營收按年大幅增長 130%，達 120 萬歐元。業績增長主要受惠於市場對其 MOVINGLight 陶瓷光固化技術的需求擴大。此外，該公司已接獲一家美國航天客戶約 10 台 MOVINGLight 設備的批量訂單，預計於 2027 年交付。",
+      "why_it_matters": "反映高端航天工程正加速將工業陶瓷光固化技術從測試階段轉移至正式批量生產線。",
+      "tags": [
+        "Prodways",
+        "MOVINGLight",
+        "陶瓷列印",
+        "航天",
+        "財務報告"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335377/3d-printing-financials-prodways-printer-revenue-jumps-130-in-q3/"
+        }
+      ]
+    },
+    {
+      "title": "Roboze 擴展全球網絡，向印度供應商交付 ARGO 500 高溫複合材料系統",
+      "category": "硬件",
+      "summary": "意大利增材製造商 Roboze 宣布與印度 3D 列印服務商 Objectify Technologies 建立戰略合作，以拓展其全球製造網絡。Objectify 引進了 Roboze ARGO 500 HYPERSPEED 工業級系統，專門用於列印高強度工程聚合物及複合材料零件。這項合作將強化當地策略性產業自主製造耐極端環境高性能零件的能力。",
+      "why_it_matters": "高溫複合材料 3D 列印設備持續向新興製造市場滲透，加速金屬替代零件在嚴苛工況下的應用。",
+      "tags": [
+        "Roboze",
+        "ARGO 500",
+        "高溫列印",
+        "複合材料",
+        "工業級硬件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335411/3d-printing-news-briefs-10-24-2026/"
+        }
+      ]
+    },
+    {
+      "title": "諾定咸大學推行先導項目，為英國住院兒童引入 3D 列印設計課程",
+      "category": "應用",
+      "summary": "由英國諾定咸大學主導的全新三年期項目，正式將 3D 設計與列印技術帶進英格蘭各醫院學校。項目獲皇家學會與 Julia Rausing 信託基金資助，首階段在 25 所醫院教育機構推行。研究團隊將同步評估讓病童學習數碼設計與實際模型製作，是否有助於促進心理康復及情緒支援。",
+      "why_it_matters": "將 Maker 技術與醫療康復教育結合，拓展了桌面 3D 列印在特殊教育與青少年身心康復場域的實際價值。",
+      "tags": [
+        "醫療應用",
+        "教育",
+        "桌面3D列印",
+        "心理康復"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/from-hospital-bed-to-3d-printer-new-project-brings-design-skills-to-young-patients-255912/"
+        }
+      ]
+    },
+    {
+      "title": "創客自製 LIA 開源寵物追蹤器：整合 Meshtastic 與 3D 列印防水外殼",
+      "category": "開源",
+      "summary": "創客 Jon G Aguado 為擺脫市面商用寵物追蹤器的月費限制，設計出名為 LIA 的開源 Meshtastic 寵物項圈追蹤器。裝置整合客製化 PCB、ESP32-S3、LoRa 模組與 GPS 接發器，並由鋰電池供電。所有電子元件封裝於緊湊的 3D 列印外殼中，配搭 4 針磁吸 Pogo pin 充電接口以提高日常抗候與防水能力。",
+      "why_it_matters": "體現了開源硬件與 3D 列印外殼結合打造無月費通訊裝置的實用潛力，方便 Maker 社群自行複製改進。",
+      "tags": [
+        "開源硬件",
+        "Meshtastic",
+        "LoRa",
+        "3D列印外殼",
+        "ESP32"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/10/25/meshtastic-pet-tracking/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 11
+}
