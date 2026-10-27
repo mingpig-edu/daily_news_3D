@@ -1,0 +1,178 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T02:04:28.700Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "彙整 2026 年 10 月 27 日的 3D 列印產業重點消息，涵蓋最新旗艦多色機器、金屬與陶瓷 3D 列印突破、規模化量產里程碑及生態發展。",
+  "items": [
+    {
+      "title": "Creality 發佈 K3 旗艦 3D 列印機，引入四噴頭 KliTek 系統",
+      "category": "硬件",
+      "summary": "深圳 3D 列印製造商 Creality 推出的 K 系列最新旗艦機 K3 在美國開放預訂，售價 849 美元。該機獲得 IFA 創新獎，並採用名為 KliTek 的專利四噴頭系統，為多色 3D 列印工作流程帶來截然不同的創新方案。",
+      "why_it_matters": "以實惠價格與獨特的四噴頭設計切入市場，有助於推動多色 3D 列印技術的普及與實用化。",
+      "tags": [
+        "Creality",
+        "多色列印",
+        "旗艦機",
+        "K3"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/making-multi-color-3d-printing-workflow-more-practical-with-crealitys-k3-255959/"
+        }
+      ]
+    },
+    {
+      "title": "平價金屬 3D 列印機 GLB-M1 將於全球展開群眾募資",
+      "category": "硬件",
+      "summary": "江蘇格萊鉑數位科技有限公司宣佈，將於 11 月底為其第三代精巧型金屬 3D 列印機 GLB-M1 發起全球群眾募資。該公司表示，其定價 4,988 美元的首代精巧機型已向國際客戶出貨數百台。",
+      "why_it_matters": "將金屬 3D 列印價格壓低至 5,000 美元以下並實現批量出貨，正加速金屬增材製造走向更廣泛的市場。",
+      "tags": [
+        "金屬3D列印",
+        "GLB-M1",
+        "群眾募資",
+        "平價設備"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/metal-3d-printing-for-under-5000-global-laser-box-says-hundreds-have-already-shipped-255941/"
+        }
+      ]
+    },
+    {
+      "title": "Carbon 3D 列印網格坐墊產量突破一百萬大關",
+      "category": "產業",
+      "summary": "產品開發與製造技術公司 Carbon 宣佈，其增材製造平台生產的單車坐墊已突破一百萬個。目前該公司與全球 11 個單車坐墊品牌合作，並有超過 60 種坐墊型號投入生產。",
+      "why_it_matters": "標誌著高階數碼光學合成樹脂與晶格結構設計成功達成真正的大規模商業化量產。",
+      "tags": [
+        "Carbon",
+        "量產",
+        "單車坐墊",
+        "晶格結構"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/one-million-saddles-carbons-3d-printed-lattices-hit-mass-production-255945/"
+        }
+      ]
+    },
+    {
+      "title": "新加坡晶圓廠採用本地 3D 列印陶瓷升降銷，打破海外供應依賴",
+      "category": "應用",
+      "summary": "新加坡增材製造專家 Creatz3D 使用 3DCERAM SINTO 的陶瓷技術，為全球領先的半導體代工廠生產了 600 套 3D 列印氧化鋁升降銷，並成功完成化學氣相沉積（CVD）腔室的生產全資格認證。",
+      "why_it_matters": "展示了高效能陶瓷 3D 列印在高端半導體製造中替代傳統海外供應鏈的實際應用潛力。",
+      "tags": [
+        "陶瓷3D列印",
+        "半導體",
+        "應用",
+        "新加坡"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/no-more-waiting-on-overseas-suppliers-singapore-fab-gets-ceramic-lift-pins-3d-printed-locally-255949/"
+        }
+      ]
+    },
+    {
+      "title": "瑞士與波蘭研究團隊省略溶劑槽步驟，使列印鋁合金密度達 98%",
+      "category": "科研",
+      "summary": "瑞士聯邦材料科學與技術實驗室等團隊發現，在擠出式列印 AA6061 鋁合金的脫脂過程中移除溶劑階段，改用單步燈芯脫脂搭配更長的燒結保持時間，可將相對密度提升至 97.9%。",
+      "why_it_matters": "簡化了金屬擠出列印的後處理工藝，同時兼顧高密度與燒結品質。",
+      "tags": [
+        "鋁合金",
+        "材料科學",
+        "燒結",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/swiss-polish-team-skips-the-solvent-bath-gets-printed-aluminium-to-98-density-255937/"
+        }
+      ]
+    },
+    {
+      "title": "新型 3D 列印水凝膠可拉伸 1100%，助力軟體機器人發展",
+      "category": "科研",
+      "summary": "針對精細受限環境下工作的軟體機器人需求，研究人員開發出透過 DLP 3D 列印技術製造的可拉伸水凝膠材料，打破以往列印後過於僵硬且拉伸受限的痛點，實現高達 1100% 的拉伸率。",
+      "why_it_matters": "為軟體機器人提供能承受複雜內部形狀與超高形變的新型功能材料。",
+      "tags": [
+        "水凝膠",
+        "軟體機器人",
+        "DLP",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3d-printed-hydrogel-stretches-1100-for-soft-robots-255928/"
+        }
+      ]
+    },
+    {
+      "title": "WASP 結合泥土與塑膠開發可回收的 3D 列印複合材料",
+      "category": "材料",
+      "summary": "以環保理念見長的 WASP 將其熔融顆粒製造（FGF）等工藝進行結合，嘗試將當地環保材料如陶瓷、生物水泥或泥土與塑膠融合，開發可循環回收的雙擠出複合材料。",
+      "why_it_matters": "為建築與永續製造提供了解決傳統複合材料難以回收且污染環境的新路徑。",
+      "tags": [
+        "WASP",
+        "環保材料",
+        "複合材料",
+        "FGF"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335150/dwasp-makes-dual-extruder-for-reversible-composites/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 14
+}
