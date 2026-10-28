@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T02:14:50.518Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報（2026-10-28）",
+  "summary": "今日情報聚焦於消費級與工業級 3D 列印的重大突破：Creality K3 旗艦機與 GLB-M1 平價金屬列印機相繼亮相；Škoda 開創先河於 Printables 提供官方免費車用配件模型；Carbon 3D 列印單車座墊量產突破百萬個，展現強大商用潛力。",
+  "items": [
+    {
+      "title": "Creality 推出旗艦 K3 3D 列印機並開放預售",
+      "category": "硬體",
+      "summary": "Creality 旗下全新旗艦 3D 列印機 K3 已於美國開放預售，售價為 849 美元。該機型榮獲 IFA 2026 創新獎，配備名為 KliTek 的獨家四噴頭系統，為多色 3D 列印提供更實用與高效的工作流程。",
+      "why_it_matters": ",[(以獨立四噴頭設計減少多色列印時的換料浪費與時間，有效降低多色 FDM 列印門檻。)],",
+      "tags": [
+        "Creality",
+        "K3",
+        "多色列印",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/making-multi-color-3d-printing-workflow-more-practical-with-crealitys-k3-255959/"
+        }
+      ]
+    },
+    {
+      "title": "江蘇鉻萊鉑 GLB-M1 平價緊湊型金屬 3D 列印機即將發起眾籌",
+      "category": "硬體",
+      "summary": "江蘇鉻萊鉑數字科技宣佈將於 11 月底為其第三代緊湊型金屬 3D 列印機 GLB-M1 發起全球眾籌。公司表示先前售價為 4,988 美元的首代機型已向海外客戶交付數百台，極力推動金屬列印平價化。",
+      "why_it_matters": "將金屬 3D 列印設備門檻壓至 5,000 美元以下，加速金屬列印技術普及至小型工作室與科研機構。",
+      "tags": [
+        "金屬3D列印",
+        "Global Laser Box",
+        "GLB-M1",
+        "平價設備"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/metal-3d-printing-for-under-5000-global-laser-box-says-hundreds-have-already-shipped-255941/"
+        }
+      ]
+    },
+    {
+      "title": "Škoda 於 Printables 平台推出免費官方汽車配件 3D 模型庫",
+      "category": "應用",
+      "summary": "捷克汽車品牌 Škoda Auto 於 Printables.com 設立專屬頁面並上架免費 3D 列印汽車配件庫，成為首個在專屬平台上提供此類服務的車企。車主可免費下載模型檔案，自行在家列印適用於新舊車款的實用配件。",
+      "why_it_matters": "傳統車廠直接向消費者開放車用零件模型，展示了車企利用 3D 列印社群提升售後服務與品牌黏性的新模式。",
+      "tags": [
+        "Škoda",
+        "Printables",
+        "汽車配件",
+        "開源模型"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/print-your-own-car-parts-skoda-opens-a-free-3d-parts-library-on-printables-255977/"
+        }
+      ]
+    },
+    {
+      "title": "Meshy 為 Hermes Agent AI 釋出 3D 生成與切片外掛程式",
+      "category": "軟體",
+      "summary": "AI 3D 多模態模型公司 Meshy 發布了針對 Nous Research 開源 AI 助理 Hermes Agent 的官方外掛程式。使用者只需在對話中以自然語言描述需求，即可生成 3D 模型、進行人形角色綁定，並直接將檔案準備至切片軟體發送列印。",
+      "why_it_matters": "無縫銜接生成式 AI 與 3D 列印切片流程，進一步簡化從概念構想至實體列印的創作步驟。",
+      "tags": [
+        "Meshy",
+        "Hermes Agent",
+        "AI生成3D",
+        "切片軟體"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/meshy-takes-hermes-agent-from-chat-to-slicer-with-new-3d-generation-and-printing-plugin-255973/"
+        }
+      ]
+    },
+    {
+      "title": "Carbon 3D 列印單車座墊累積產量突破 100 萬個",
+      "category": "應用",
+      "summary": "3D 列印技術公司 Carbon 宣佈其平台已累積生產超過 100 萬個 3D 列印單車座墊。公司目前與全球 11 個單車座墊品牌合作，投入量產的座墊型號超過 60 款，成功將晶格結構列印技術推向大規模商業化。",
+      "why_it_matters": "驗證了 3D 列印晶格結構在消費級體育用品市場具備拓展至百萬級別的量產可行性與市場接受度。",
+      "tags": [
+        "Carbon",
+        "單車座墊",
+        "晶格結構",
+        "大規模量產"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/one-million-saddles-carbons-3d-printed-lattices-hit-mass-production-255945/"
+        }
+      ]
+    },
+    {
+      "title": "WASP 結合泥土與塑膠開發可回收複合材料 3D 列印技術",
+      "category": "材料",
+      "summary": "義大利 3D 列印廠商 WASP 結合其熔融顆粒製造（FGF）與泥土列印技術，研製出全新的雙擠出系統。該技術將泥土與塑膠結合，旨在解決傳統複合材料難以回收且生產過程污染嚴重的問題，打造兼具強度與環保的可逆複合材料。",
+      "why_it_matters": "為建築與大尺寸 3D 列印提供了具備高環保價值且可回收再利用的新型複合材料解決方案。",
+      "tags": [
+        "WASP",
+        "複合材料",
+        "環保材料",
+        "FGF"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335150/dwasp-makes-dual-extruder-for-reversible-composites/"
+        }
+      ]
+    },
+    {
+      "title": "研究發現改變晶格形狀可使樹脂 3D 列印結構承載力提升 4 倍",
+      "category": "科研",
+      "summary": "印度維洛爾理工學院（VIT）研究人員發現，在材料、列印機與測試條件保持不變的狀況下，僅需改變樹脂 3D 列印負膨脹（auxetic）晶格的單元形狀，即可將其峰值載荷能力提升約 4 倍，能量吸收能力提升約 3 倍。",
+      "why_it_matters": "證實了單靠結構幾何優化即可大幅改善材料力學性能，對輕量化高強度結構設計具有指導意義。",
+      "tags": [
+        "晶格結構",
+        "樹脂3D列印",
+        "負膨脹材料",
+        "學術研究"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/switching-lattice-shape-quadruples-load-capacity-of-3d-printed-resin-auxetic-structures-255966/"
+        }
+      ]
+    },
+    {
+      "title": "新加坡 Creatz3D 本地 3D 列印陶瓷頂升針供半導體廠使用",
+      "category": "應用",
+      "summary": "新加坡 3D 列印專科公司 Creatz3D 使用 3DCERAM SINTO 的陶瓷 AM 技術，成功為某全球領先半導體晶圓廠交付 600 套 3D 列印氧化鋁陶瓷頂升針。該部件已通過化學氣相沉積（CVD）反應室的全量產驗證，解決跨國供應鏈延遲問題。",
+      "why_it_matters": "展示了陶瓷 3D 列印在半導體高精尖設備零組件本地化快速供應中的關鍵替代作用。",
+      "tags": [
+        "Creatz3D",
+        "陶瓷3D列印",
+        "半導體",
+        "氧化鋁"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/no-more-waiting-on-overseas-suppliers-singapore-fab-gets-ceramic-lift-pins-3d-printed-locally-255949/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 19
+}
