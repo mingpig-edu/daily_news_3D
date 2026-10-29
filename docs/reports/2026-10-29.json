@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T02:26:55.026Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-10-29",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（fetch failed）。",
+  "items": [
+    {
+      "title": "Hacking the Modern Tamagotchi With UART",
+      "category": "硬件／產業",
+      "summary": "Although not technically the first virtual pet, the Tamagotchi handhelds certainly popularized the idea and made it a worldwide phenomenon. In the late 90s it was hard to go out in public and not see them dangling from backpacks and belt loops. They turned out to be more than a p",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/10/28/hacking-the-modern-tamagotchi-with-uart/"
+        }
+      ]
+    },
+    {
+      "title": "C64 Keycaps For Everybody",
+      "category": "材料",
+      "summary": "If you’ve got an MX-style keyboard and want some retro charm, you might like a recent project from [Levente Szabadkai]. It’s a set of C64-style keycaps that you can print yourself at home! The project started as an attempt to produce a set of C64 keycaps for an Ajazz 75% keyboard",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "FDM",
+        "Resin",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/10/28/c64-keycaps-for-everybody/"
+        }
+      ]
+    },
+    {
+      "title": "Formnext 2026 Preview: Ceramics 3D Printing, Post-Processing, & More",
+      "category": "材料",
+      "summary": "In just a few weeks, it will be time for the biggest trade show extravaganza in the additive manufacturing (AM) industry. Soon, we’ll all be hopping planes bound for Frankfurt to attend Formnext 2026 , November 17-20. The flurry of press releases announcing new products has alrea",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335649/formnext-2026-preview-ceramics-3d-printing-post-processing-more/"
+        }
+      ]
+    },
+    {
+      "title": "AM & National Competitive Advantage, Part Two: Digitalization and the Changing Nature of Industrial Clusters",
+      "category": "材料",
+      "summary": "In part one of this series, I discussed the declining productivity growth rate in US manufacturing through the lens of Michael Porter’s 1990 text The Competitive Advantage of Nations , and started to explain how the rising additive manufacturing (AM) industry should be viewed in ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333641/am-national-competitive-advantage-part-two-digitalization-and-the-changing-nature-of-industrial-clusters/"
+        }
+      ]
+    },
+    {
+      "title": "University of Turku Can Now 3D Print Different Metals in a Single Layer for Fusion and Aerospace Research",
+      "category": "材料",
+      "summary": "The University of Turku in Finland has added a multi-material recoater to its metal 3D printing system, allowing researchers to deposit different powders from three separate drums within a single layer. The setup will be used to study parts that combine several metals, a capabili",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research-256002/"
+        }
+      ]
+    },
+    {
+      "title": "BigRep Goes Private and Launches ALTRA 670 Large-Format 3D Printer",
+      "category": "應用／科研",
+      "summary": "Berlin-based BigRep GmbH, a manufacturer of large-format industrial 3D printers, is returning to private ownership roughly two years after becoming a publicly traded company. Shareholders have approved a simplified corporate structure, and the company is now owned by three of its",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bigrep-goes-private-and-launches-altra-670-large-format-3d-printer-256007/"
+        }
+      ]
+    },
+    {
+      "title": "With 45% Revenue Growth & a New 3D Printer, BigRep Returns to Private Ownership",
+      "category": "應用／科研",
+      "summary": "BigRep GmbH has been on a bit of a roller coaster recently, but with this latest news, I’m hoping that means the ride has stopped. Reporting approximately 45% revenue growth in the past year, the industrial large-format FFF 3D printing company is officially returning to private o",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335491/with-45-revenue-growth-a-new-3d-printer-bigrep-is-back-to-private-ownership/"
+        }
+      ]
+    },
+    {
+      "title": "How AM Funding Shifted in China and the US, 2021–2025",
+      "category": "材料",
+      "summary": "Additive manufacturing (AM) funding has shifted in China and the United States over the past five years, but in different ways. In China, metal 3D printing companies accounted for a growing share of suppliers receiving equity financing, while fewer polymer-focused companies attra",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335249/how-am-funding-shifted-in-china-and-the-us-2021-2025/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
