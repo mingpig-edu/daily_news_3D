@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T02:36:25.215Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：工業級大型設備亮相與多金屬陶瓷前沿突破",
+  "summary": "今日情報聚焦於大型工業級 3D 列印新設備及前沿材料應用。BigRep 回歸私有化並推出 ALTRA 670，CMS 亦即將發表可節省 80% 材料的機械臂系統；在科研與高階應用方面，圖爾庫大學實現單層多金屬粉末沉積，Creatz3D 陶瓷頂針通過晶片代工廠 CVD 產線認證，同時醫療及結構力學研究亦迎來關鍵進展。",
+  "items": [
+    {
+      "title": "BigRep 完成私有化架構重組並推出 ALTRA 670 大型 3D 列印機",
+      "category": "硬件",
+      "summary": "總部位於柏林的大型工業 3D 列印機製造商 BigRep GmbH 在上市約兩年後正式回歸私有化，股東已批准簡化架構，由 Koehler Invest 等三家既有主要投資者全資持有。與此同時，該公司正式推出全新大型 3D 列印系統 ALTRA 670，持續深耕大尺寸積層製造市場。",
+      "why_it_matters": "私有化有助企業擺脫公開市場短期盈利波動，專注於工業級大尺寸設備的研發與長期業務擴展。",
+      "tags": [
+        "BigRep",
+        "大型3D列印",
+        "ALTRA 670",
+        "FFF",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bigrep-goes-private-and-launches-altra-670-large-format-3d-printer-256007/"
+        }
+      ]
+    },
+    {
+      "title": "CMS 將於 Formnext 發表 Krearob 機械臂大型 3D 列印系統",
+      "category": "硬件",
+      "summary": "意大利機械製造商 CMS SpA 宣佈將於法蘭克福 Formnext 展會首次亮相其最新大型積層製造（LFAM）系統 Krearob。該系統採用機械臂架構，並將於展位進行現場動態展示。據官方資料顯示，此系統在生產大型組件時最高可節省高達 80% 的材料耗損。",
+      "why_it_matters": "展示了機械臂 LFAM 在減廢與大型結構件生產效率上的顯著優勢，進一步推進工業大型組件的低成本成型。",
+      "tags": [
+        "CMS",
+        "Krearob",
+        "LFAM",
+        "機械臂",
+        "Formnext"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/cms-to-debut-krearob-robotic-large-format-3d-printer-at-formnext-with-up-to-80-material-savings-256021/"
+        }
+      ]
+    },
+    {
+      "title": "芬蘭圖爾庫大學研發單層多金屬 3D 列印技術 助核聚變與航天研究",
+      "category": "科研",
+      "summary": "芬蘭圖爾庫大學（University of Turku）為其金屬 3D 列印設備加裝新型多材料重覆塗層刮刀系統，能夠在單一層厚度內從三個獨立料鼓沉積不同金屬粉末。研究團隊正利用該裝置探討多金屬組合部件的製造，預期應用於核聚變能源中的面向電漿組件及航天極限工況零件。",
+      "why_it_matters": "突破單一金屬列印限制，實現單一微觀層面的功能梯度與材料過渡，對極限工況工程應用意義重大。",
+      "tags": [
+        "圖爾庫大學",
+        "金屬3D列印",
+        "多材料",
+        "核聚變",
+        "航天"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research-256002/"
+        }
+      ]
+    },
+    {
+      "title": "Creatz3D 氧化鋁陶瓷頂針獲晶片巨頭量產認證並交付 600 套",
+      "category": "應用",
+      "summary": "新加坡積層製造專門企業 Creatz3D 採用 3DCERAM SINTO 的陶瓷 3D 列印技術，成功為全球領先半導體代工廠交付 600 套氧化鋁頂針組件。該零件已全面通過化學氣相沉積（CVD）反應室的量產環境認證，涵蓋列印至脫脂燒結的完整生產週期由以往數月縮短至數周。",
+      "why_it_matters": "驗證了陶瓷積層製造在高潔淨度、耐極限高溫與化學腐蝕的半導體核心製程中具備量產代換能力。",
+      "tags": [
+        "Creatz3D",
+        "陶瓷3D列印",
+        "氧化鋁",
+        "半導體",
+        "CVD"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/from-months-to-weeks-3d-printed-ceramic-lift-pins-win-over-a-global-chipmaker-255918/"
+        }
+      ]
+    },
+    {
+      "title": "Lithoz 預告推出 CeraFab S65 4K 投影性能升級套件",
+      "category": "硬件",
+      "summary": "陶瓷 3D 列印領導廠商 Lithoz 宣佈將於即將舉行的 Formnext 2026 展會中，為其工業級 CeraFab System S65 及 S65 Medical 列印機推出全新效能升級套件（Performance Pack Upgrade）。該套件建基於 4K 投影光機系統，並搭配全新冷卻板等改良配置，以提高細節解析度與生產穩定度。",
+      "why_it_matters": "高解析度投影系統升級可進一步提升微小精密陶瓷零件的表面質素與生產效率，利好工業與醫療陶瓷應用。",
+      "tags": [
+        "Lithoz",
+        "CeraFab",
+        "陶瓷3D列印",
+        "4K",
+        "Formnext"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335649/formnext-2026-preview-ceramics-3d-printing-post-processing-more/"
+        }
+      ]
+    },
+    {
+      "title": "多國科研團隊研製 3D 列印腦部降溫矽膠植入物 以抑制難治性癲癇",
+      "category": "科研",
+      "summary": "來自德累斯頓萊布尼茨高分子研究所、德累斯頓工業大學、雪菲爾大學及利默里克大學的研究人員共同開發出一種 3D 列印矽膠植入物。該裝置能在即時監測腦電活動的同時，精確冷卻大腦表面局部微小區域；在大鼠活體實驗中，該裝置成功抑制了類似癲癇的異常神經放電。",
+      "why_it_matters": "結合柔性積層製造與局部物理降溫技術，為無法受惠於傳統藥物療法的神經系統疾病開闢新治療途徑。",
+      "tags": [
+        "生物醫療",
+        "3D列印矽膠",
+        "植入物",
+        "癲癇治療",
+        "神經科學"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3d-printed-brain-cooling-implant-targets-drug-resistant-epilepsy-256026/"
+        }
+      ]
+    },
+    {
+      "title": "Align Technology Q3 營收突破 10 億美元 試點直接 3D 列印運動護齒套",
+      "category": "產業",
+      "summary": "隱適美母公司 Align Technology 公佈 2026 年第三季財報，營收達 10 億美元，按年增長 1.9%。公司宣佈在美國啟動 Invisalign Sports Guard 試點計劃，透過數碼口腔掃描直接進行 3D 列印成型，將直接光固化技術從正畸領域進一步延伸至運動防護防具市場。",
+      "why_it_matters": "標誌著直接 3D 列印齒科防護器具正式走向大規模商業化試點，進一步減少中間模具流程。",
+      "tags": [
+        "Align Technology",
+        "齒科3D列印",
+        "直接列印",
+        "護齒套",
+        "產業財報"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335734/3d-printing-financials-align-tops-1b-in-q3-will-launch-3d-printed-sports-guard/"
+        }
+      ]
+    },
+    {
+      "title": "VIT 大學研究顯示改變胞元構型可使拉脹樹脂結構承載力暴增四倍",
+      "category": "科研",
+      "summary": "印度韋洛爾理工大學（VIT）研究團隊在《Scientific Reports》發表最新成果，發現在保持相同光敏樹脂材料、列印機與測試條件下，僅透過修改 3D 列印拉脹晶格（auxetic lattice）的單元胞形狀，即可將整體結構的峰值負載能力提高約四倍，能量吸收率亦提升約三倍。",
+      "why_it_matters": "證明僅靠純幾何超材料優化即可大幅突破基礎樹脂的機械極限，對抗衝擊結構與輕量化設計深具參考價值。",
+      "tags": [
+        "光固化樹脂",
+        "晶格結構",
+        "拉脹材料",
+        "超材料",
+        "科研突破"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/switching-lattice-shape-quadruples-load-capacity-of-3d-printed-resin-auxetic-structures-255966/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
