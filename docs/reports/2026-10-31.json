@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T02:22:49.499Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-10-31)",
+  "summary": "今日焦點涵蓋多項工業金屬 3D 列印重磅合約與擴產、醫療與科研應用的重大突破，以及最新發布的桌上型金屬列印機與 AI 設計模型。",
+  "items": [
+    {
+      "title": "AI 模型 ScaffoldForge 於 12 秒內完成 3D 列印骨骼支架設計",
+      "category": "科研",
+      "summary": "研究人員開發出名為 ScaffoldForge 的生成式人工智慧模型，能根據目標結構屬性在約 12 秒內設計出完整的 3D 列印骨骼支架幾何形狀。相比傳統每件需約 8,400 秒的拓撲優化方法，效率大幅提升。這項研究已發表於 PLOS One 期刊。",
+      "why_it_matters": "大幅縮短醫療植入物設計時間，加速個人化骨骼支架的研發與臨床應用。",
+      "tags": [
+        "AI",
+        "醫療",
+        "生物列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ai-model-designs-3d-printed-bone-scaffolds-in-12-seconds-256086/"
+        }
+      ]
+    },
+    {
+      "title": "Studio 3e8 發表售價 3,500 美元的 Mesa 1 桌上型金屬 3D 列印機",
+      "category": "硬件",
+      "summary": "總部位於美國麻州的 Studio 3e8 推出了 Mesa 1，這是一台內建燒結爐的桌上型金屬 3D 列印機。該公司將於 2026 年 12 月 1 日在 Kickstarter 發起群募，售價由 3,500 美元起跳，並開發了全新的列印製程與配套軟硬體。",
+      "why_it_matters": "降低金屬 3D 列印與燒結設備的入手門檻，有助推動桌面級金屬製造的普及。",
+      "tags": [
+        "金屬列印",
+        "案頭級",
+        "新品"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/studio-3e8-reveals-3500-desktop-metal-3d-printer-256082/"
+        }
+      ]
+    },
+    {
+      "title": "Nikon AM 贏得美國國防部合約，供應專用金屬 3D 列印系統",
+      "category": "產業",
+      "summary": "Nikon Advanced Manufacturing (Nikon AM) 獲得美國國防部合約，將供應客製化金屬增材製造系統，主要用於生產戰斧巡弋飛彈等應用的中段結構。該合約涵蓋多台特別開發的 Nikon SLM Solutions 雷射粉末床熔融設備。",
+      "why_it_matters": "反映國防供應鏈對大型金屬增材製造系統的強烈需求與信任。",
+      "tags": [
+        "金屬列印",
+        "國防",
+        "產業合約"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/taller-printers-more-tomahawks-nikon-am-wins-department-of-war-contract-256066/"
+        }
+      ]
+    },
+    {
+      "title": "Freemelt 贏得歐洲散裂中子源 (ESS) 約 280 萬美元鎢零件訂單",
+      "category": "產業",
+      "summary": "瑞典金屬增材製造公司 Freemelt 獲得歐洲散裂中子源 (ESS) 總值 2,800 萬瑞典克朗（約 280 萬美元）的訂單，將為 ESS 目標輪系統製造並交付 7,000 個鎢基組件，交貨期預計橫跨 14 個月。",
+      "why_it_matters": "確立了電子束粉末床熔融技術在大型科研設施高難度材料（如鎢）量産應用的實力。",
+      "tags": [
+        "金屬列印",
+        "科研",
+        "鎢合金"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/"
+        }
+      ]
+    },
+    {
+      "title": "Aurora Labs 募資 600 澳元以擴大 3D 列印渦輪噴射引擎產能",
+      "category": "產業",
+      "summary": "澳洲金屬 3D 列印公司 Aurora Labs 正籌集 600 萬澳元（約 420 萬美元），以擴大其針對國防與航太客戶的小型渦輪噴射引擎生產。此舉反映該公司正逐步從銷售 3D 列印技術轉向專注於無人機等推進系統的量產。",
+      "why_it_matters": "展示金屬增材製造企業成功轉型為高附加價值終端產品製造商的商業路徑。",
+      "tags": [
+        "航太",
+        "金屬列印",
+        "融資"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335774/aurora-labs-raises-a6m-to-scale-3d-printed-turbojet-production/"
+        }
+      ]
+    },
+    {
+      "title": "Align Technology Q3 營收突破 10 億美元並將推出 3D 列印運動護齒",
+      "category": "產業",
+      "summary": "Align Technology 公布 2026 年第三季營收達 10 億美元，並宣布將直接利用 3D 列印技術擴展正畸治療以外的業務，在美國試點推出客製化的 Invisalign Sports Guard 3D 列印運動護齒，同時持續開發新一代 NXT 列印技術。",
+      "why_it_matters": "標誌著醫療級直接 3D 列印在大規模消費性防護裝備市場的進一步商業化落地。",
+      "tags": [
+        "醫療",
+        "消費應用",
+        "財報"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335734/3d-printing-financials-align-tops-1b-in-q3-will-launch-3d-printed-sports-guard/"
+        }
+      ]
+    },
+    {
+      "title": "研究人員開發 3D 列印矽膠大腦冷卻植入物以應對耐藥性癲癇",
+      "category": "科研",
+      "summary": "來自德國、英國及愛爾蘭的多所大學與研究所合作，開發出一款 3D 列印矽膠植入物，能在冷卻大腦表面小區域的同時記錄其電氣活動。實驗顯示該裝置在老鼠身上成功抑制瞭類似癲癇發作的活動。",
+      "why_it_matters": "為難治性神經系統疾病提供創新的植入式治療與監測方案。",
+      "tags": [
+        "生物醫療",
+        "矽膠列印",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3d-printed-brain-cooling-implant-targets-drug-resistant-epilepsy-256026/"
+        }
+      ]
+    },
+    {
+      "title": "Xact Metal 開放 XM300G 中型金屬印表機訂單，前三季訂單大增",
+      "category": "硬件",
+      "summary": "Xact Metal 宣佈正式接受其 XM300G 中型雷射粉末床熔融 (LPBF) 金屬列印機的訂單，預計 2027 年中旬出貨。同時公司宣佈 2026 年第二及第三季創下最佳訂單記錄，截至 9 月底訂單量較前一年增長超過 30%。",
+      "why_it_matters": "顯示中小企業對高性價比中型金屬 3D 列印設備的需求持續增長。",
+      "tags": [
+        "金屬列印",
+        "硬體更新",
+        "市場表現"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/xact-metal-goes-big-xm300g-orders-open-after-record-quarters-256072/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
