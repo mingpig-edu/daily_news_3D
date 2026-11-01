@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T02:14:01.030Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "2026年11月1日的 3D 列印產業與技術動態，涵蓋 Stratasys 新品預告、案頭金屬列印機、AI 醫療骨支架、多項企業財報及國防與科研應用。",
+  "items": [
+    {
+      "title": "Studio 3e8 發表 3,500 美元案頭金屬 3D 列印機 Mesa 1",
+      "category": "硬件",
+      "summary": "來自麻省的 Studio 3e8 推出了 Mesa 1，這是一台內建燒結爐的案頭級金屬 3D 列印機。該公司將於 2026 年 12 月 1 日在 Kickstarter 展開眾籌，售價由 3,500 美元起，並開發了一套全新的列印工藝與軟硬體支援。",
+      "why_it_matters": "大幅降低金屬 3D 列印與燒結設備的入手門檻，有望將金屬增材製造推向更廣泛的桌面用戶市場。",
+      "tags": [
+        "金屬3D列印",
+        "案頭列印機",
+        "燒結爐",
+        "眾籌"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/studio-3e8-reveals-3500-desktop-metal-3d-printer-256082/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 將於 Formnext 2026 推出全新序列生產印表機並將 F870 引入歐洲",
+      "category": "硬件",
+      "summary": "Stratasys 預告將於 11 月 17 至 20 日舉行的 Formnext 2026 展會上，發表一款全新的聚合物生產系統。同時，該公司也將首次把 F870 FDM 系統帶入歐洲市場，並展示來自 Toyota 與 GM 等大廠的工廠車間應用。",
+      "why_it_matters": "顯示工業級 3D 列印大廠持續強化終端生產與車間自動化應用的佈局。",
+      "tags": [
+        "Stratasys",
+        "Formnext",
+        "FDM",
+        "工業級"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/stratasys-to-unveil-new-serial-production-printer-and-bring-f870-to-europe-at-formnext-2026-256127/"
+        }
+      ]
+    },
+    {
+      "title": "AI 模型 ScaffoldForge 僅需 12 秒即可設計 3D 列印骨支架",
+      "category": "科研",
+      "summary": "研究人員開發出名為 ScaffoldForge 的生成式人工智慧模型，能根據一組目標結構屬性設計出 3D 列印骨支架。該模型產生完整支架幾何形狀的時間僅需約 12 秒，大幅超越傳統拓撲優化方法的所需時間。",
+      "why_it_matters": "大幅加速醫療植入物的設計流程，為個人化骨骼修復帶來更高效的運算工具。",
+      "tags": [
+        "AI",
+        "生物醫療",
+        "骨支架",
+        "生成式設計"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ai-model-designs-3d-printed-bone-scaffolds-in-12-seconds-256086/"
+        }
+      ]
+    },
+    {
+      "title": "Align Technology 推出 3D 列印運動護齒並公佈第三季財報",
+      "category": "產業",
+      "summary": "牙齒矯正大廠 Align Technology 在公佈第三季營收突破 10 億美元的同時，宣佈擴大直接 3D 列印應用，將於美國試點推出 3D 列印的 Invisalign Sports Guard 運動護齒，並持續開發次世代 NXT 列印技術。",
+      "why_it_matters": "標誌著大規模牙科 3D 列印巨頭進一步將成熟的直接列印技術拓展至運動防護與消費市場。",
+      "tags": [
+        "Align Technology",
+        "醫療應用",
+        "運動護齒",
+        "財報"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335734/3d-printing-financials-align-tops-1b-in-q3-will-launch-3d-printed-sports-guard/"
+        }
+      ]
+    },
+    {
+      "title": "Freemelt 獲得歐洲散裂中子源 (ESS) 2,800 萬瑞典克朗鎢元件訂單",
+      "category": "科研",
+      "summary": "瑞典金屬增材製造公司 Freemelt 獲得歐洲散裂中子源 (ESS) 的 2,800 萬瑞典克朗（約 280 萬美元）訂單，將為其目標輪系統製造與交付 7,000 個基於鎢的組件，交付期將橫跨 14 個月。",
+      "why_it_matters": "突顯金屬 3D 列印在大型尖端科研設施與特殊難加工材料（如鎢）上的關鍵生產能力。",
+      "tags": [
+        "Freemelt",
+        "金屬3D列印",
+        "科研",
+        "鎢組件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/"
+        }
+      ]
+    },
+    {
+      "title": "Prusa 發布五分鐘 Blender 編輯 STL 檔案指南",
+      "category": "軟體",
+      "summary": "針對許多使用者在專案進行中需要修改 STL 檔案卻不熟悉複雜網格編輯器介面的痛點，Prusa 推出了專為直接編輯 STL 而設的五分鐘 Blender 快速上手指南，聚焦於導入與修改現有模型而非從零開始建模。",
+      "why_it_matters": "降低開源軟體 Blender 的學習門檻，讓 Maker 能更有效率地修補與調整 3D 列印模型。",
+      "tags": [
+        "Prusa",
+        "Blender",
+        "STL",
+        "開源軟體"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/10/31/learn-to-edit-stl-files-in-just-a-few-minutes/"
+        }
+      ]
+    },
+    {
+      "title": "IMI 與 TotalEnergies 完成 3D 列印鎳基合金閥門酸性氣體認證",
+      "category": "應用",
+      "summary": "TotalEnergies EP Denmark 在丹麥安裝了七個配備增材製造鎳基合金碟片的抗喘振閥，這些零件應用於硫化氫偏壓高達 3.3 kPa 的嚴苛酸性氣體環境中。該 3D 列印零件已通過 DNV-ST-B203 AMC Level 3 認證，性能表現與傳統工藝相當。",
+      "why_it_matters": "證明 3D 列印金屬零件能夠在極端腐蝕性與高壓的能源工業環境中安全運作。",
+      "tags": [
+        "鎳基合金",
+        "能源產業",
+        "金屬3D列印",
+        "認證"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/imi-and-totalenergies-qualify-printed-nickel-alloy-trims-for-sour-gas-256076/"
+        }
+      ]
+    },
+    {
+      "title": "Protolabs 第三季 3D 列印業務營收回升，集團創下季度營收紀錄",
+      "category": "產業",
+      "summary": "Protolabs 公布 2026 年第三季財報，集團整體營收達 1.543 億美元創下歷史新高，年增 14%。其中 3D 列印業務營收回升至 2,240 萬美元，較去年同期成長 11.4%，較上一季也成長超過 8%。",
+      "why_it_matters": "反映出工業增材製造代工服務市場在經歷先前的放緩後，於第三季出現了明確的復甦跡象。",
+      "tags": [
+        "Protolabs",
+        "財報",
+        "增材製造",
+        "市場趨勢"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335780/d-protolabs-q3-earnings-record-revenue-overall-3d-printing-segment-rebounds/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 25
+}
