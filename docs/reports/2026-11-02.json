@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T02:31:27.061Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-11-02)",
+  "summary": "今日 3D 列印焦點涵蓋桌面金屬 3D 列印新突破、Stratasys 即將發布的量產級高分子設備，以及生成式 AI 在骨骼支架設計上的重大科研成果。工業端方面，華曙高科巨額融資擴產、Freemelt 獲得大型科研鎢部件訂單，均顯示積層製造正加速由原型驗證邁向量產與高端工程應用。",
+  "items": [
+    {
+      "title": "Studio 3e8 發表 Mesa 1 桌面金屬 3D 列印機，定價 3,500 美元起",
+      "category": "硬件",
+      "summary": "總部位於麻省的 Studio 3e8 正式發表桌面級金屬 3D 列印機 Mesa 1，該設備內置燒結爐，採用全新開發的列印製程及配套軟硬件。團隊預計將於 2026 年 12 月 1 日登陸 Kickstarter 開展眾籌，起售價為 3,500 美元。",
+      "why_it_matters": "將金屬成型與燒結爐整合於一體且價格壓至 3,500 美元水平，有望大幅降低創客與中小企業進入金屬 3D 列印的門檻。",
+      "tags": [
+        "金屬3D列印",
+        "Mesa 1",
+        "Studio 3e8",
+        "桌面級",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/studio-3e8-reveals-3500-desktop-metal-3d-printer-256082/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 將於 Formnext 2026 展示新款連續生產系統及 F870",
+      "category": "硬件",
+      "summary": "Stratasys 宣佈將於 2026 年 11 月 17 至 20 日舉行的法蘭克福 Formnext 展會上推出新款高分子量產系統。同時，該公司將把 F870 FDM 系統引進歐洲市場，並展出豐田（Toyota）及通用汽車（GM）等車廠在工裝夾具與終端零件上的產線應用。",
+      "why_it_matters": "顯示工業級 FDM 正在進一步鎖定高產能的工廠終端零件連續生產需求。",
+      "tags": [
+        "Stratasys",
+        "FDM",
+        "Formnext",
+        "工業製造",
+        "汽車工業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/stratasys-to-unveil-new-serial-production-printer-and-bring-f870-to-europe-at-formnext-2026-256127/"
+        }
+      ]
+    },
+    {
+      "title": "研究人員開發 ScaffoldForge AI 模型，12 秒完成 3D 列印骨骼支架設計",
+      "category": "科研",
+      "summary": "最新發表於《PLOS One》的研究介紹了一款名為 ScaffoldForge 的生成式 AI 模型，可根據目標結構特性自動生成 3D 列印骨骼支架。該模型僅需約 12 秒即可完成完整支架幾何形狀設計，相比傳統拓撲優化方法所需的 8,400 秒大幅縮短時間。",
+      "why_it_matters": "利用生成式 AI 取代耗時的數值拓撲運算，為醫療植入物與組織工程的即時定制化製造帶來突破。",
+      "tags": [
+        "生成式AI",
+        "醫療",
+        "科研",
+        "骨骼支架",
+        "拓撲優化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ai-model-designs-3d-printed-bone-scaffolds-in-12-seconds-256086/"
+        }
+      ]
+    },
+    {
+      "title": "華曙高科擬定增募資近 4.8 億美元，用於擴產與製造服務平台建設",
+      "category": "產業",
+      "summary": "中國 3D 列印機製造商華曙高科（Farsoon Technologies）提交文件，計劃透過定向增發募集最高達 39.1 億元人民幣（約 4.79 億美元）資金。所得款項將用於擴建設備產能、建設積層製造綜合服務平台，以及打造全新全球營運中心。",
+      "why_it_matters": "大規模融資展現出工業級粉末床技術在全球市場擴張與工業服務佈局上的強勁勢頭。",
+      "tags": [
+        "華曙高科",
+        "Farsoon",
+        "工業級",
+        "融資",
+        "產業擴張"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/farsoon-files-479m-raise-for-new-manufacturing-services-expansion-256091/"
+        }
+      ]
+    },
+    {
+      "title": "Freemelt 奪得歐洲散裂源 7,000 件鎢製零件大單",
+      "category": "應用",
+      "summary": "瑞典金屬 3D 列印公司 Freemelt 獲得來自歐洲散裂源（ESS）價值 2,800 萬瑞典克朗（約 280 萬美元）的訂單。Freemelt 將為 ESS 靶輪系統製造並交付 7,000 件鎢基組件，交付期預計歷時 14 個月，多數排定於 2027 年。",
+      "why_it_matters": "成功驗證了電子束金屬 3D 列印在加工高熔點難熔金屬（如鎢）並投入尖端科研設施的實用能力。",
+      "tags": [
+        "Freemelt",
+        "難熔金屬",
+        "鎢",
+        "科研應用",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/7000-parts-for-a-neutron-machine-freemelt-wins-ess-tungsten-deal-256069/"
+        }
+      ]
+    },
+    {
+      "title": "IMI 聯手 TotalEnergies 通過酸性氣體環境 3D 列印鎳基合金認證",
+      "category": "應用",
+      "summary": "TotalEnergies EP Denmark 在其酸性氣體環境中安裝了七座配備 IMI 3D 列印鎳基合金閥芯的防喘振閥。在硫化氫（H₂S）分壓高達 3.3 kPa 的嚴苛條件下，這些零件通過了 DNV-ST-B203 AMC Level 3 認證，測試顯示其性能完全不遜於傳統製造部件。",
+      "why_it_matters": "證明金屬 3D 列印耐蝕合金零組件能滿足離岸油氣與極端苛刻工業環境的高級別安全規範。",
+      "tags": [
+        "鎳基合金",
+        "耐蝕材料",
+        "油氣工業",
+        "DNV認證",
+        "應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/imi-and-totalenergies-qualify-printed-nickel-alloy-trims-for-sour-gas-256076/"
+        }
+      ]
+    },
+    {
+      "title": "Xact Metal 開放中型金屬列印機 XM300G 預訂",
+      "category": "硬件",
+      "summary": "Xact Metal 宣佈其雷射粉末床熔融（LPBF）中型金屬 3D 列印機 XM300G 已於 2026 年 10 月 23 日開放預訂，預計於 2027 年中交付。該公司表示，受惠於訂單需求強勁，2026 年第二及第三季度業績創下歷史新高，訂單量年增逾 30%。",
+      "why_it_matters": "中型經濟型 LPBF 金屬列印機進入市場，有助擴大中小製造企業採用金屬積層製造的規模。",
+      "tags": [
+        "Xact Metal",
+        "LPBF",
+        "金屬3D列印",
+        "硬件",
+        "工業級"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/xact-metal-goes-big-xm300g-orders-open-after-record-quarters-256072/"
+        }
+      ]
+    },
+    {
+      "title": "3D 模型生成平台 Meshy 入選 a16z 消費級 AI 收入榜第 31 位",
+      "category": "軟件",
+      "summary": "AI 3D 模型生成平台 Meshy AI 入選知名創投 Andreessen Horowitz（a16z）最新公佈的「Top 50 消費級 AI 應用月收入排行榜」，位列第 31 名。Meshy 也是全榜單中唯一專注於 AI 生成 3D 內容的企業。",
+      "why_it_matters": "反映 Text-to-3D 與 Image-to-3D 技術已建立起具備商業變現能力的消費級應用場景。",
+      "tags": [
+        "Meshy",
+        "生成式AI",
+        "3D建模",
+        "軟件",
+        "a16z"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/meshy-ranks-on-a16zs-first-ai-apps-by-revenue-list-256149/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 18
+}
