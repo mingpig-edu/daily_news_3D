@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T03:55:34.107Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-11-03)",
+  "summary": "今日焦點涵蓋 GKN 獲得全球首個雷射線材定向能量沉積 Nadcap 認證、Stratasys 將於 Formnext 2026 發布全新量產級聚合物系統與 F870，以及澳洲 RMIT 大學成功將咖啡渣研製成建築級可生物降解 3D 列印線材。航天與亞太工業增材製造投資持續升溫，聯泰科技赴港上市監管進度亦引發關注。",
+  "items": [
+    {
+      "title": "GKN Aerospace 獲全球首個雷射線材 DED 增材製造 Nadcap 認證",
+      "category": "產業",
+      "summary": "航天國防供應商 GKN Aerospace 成為全球首家獲得雷射線材定向能量沉積（L-DED-w）技術 Nadcap 認證的公司。這項認證為其金屬增材製程提供了經行業認可的獨立技術背書。GKN 預計此舉將加速推動該項沉積製造技術走向航天零件的全面規模化生產。",
+      "why_it_matters": "獲得嚴格的 Nadcap 航空認證，標誌著線材 DED 金屬 3D 列印在高端航空航天領域已達到了正式量產與質量驗收標準。",
+      "tags": [
+        "GKN Aerospace",
+        "DED",
+        "金屬3D列印",
+        "航天",
+        "Nadcap"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/first-in-the-world-gkn-aerospace-gets-nadcap-approval-for-laser-wire-ded-256135/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 預告將於 Formnext 2026 發表全新量產型 3D 列印機及歐洲首展 F870",
+      "category": "硬件",
+      "summary": "Stratasys 宣布將在 11 月 17 至 20 日舉行的 Formnext 2026 德國法蘭克福展會上，發表一款全新的量產級聚合物列印系統。同時，該公司將首次在歐洲展出 F870 FDM 系統，並展示 Toyota、通用汽車（GM）等汽車製造商的實際工廠終端應用案例。",
+      "why_it_matters": "工業級龍頭針對連鎖與批量生產推出新平台，進一步加速聚合物 3D 列印融入傳統汽車和工業製造的實際生產線。",
+      "tags": [
+        "Stratasys",
+        "FDM",
+        "Formnext 2026",
+        "工業列印",
+        "汽車製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/stratasys-to-unveil-new-serial-production-printer-and-bring-f870-to-europe-at-formnext-2026-256127/"
+        }
+      ]
+    },
+    {
+      "title": "澳洲 RMIT 大學利用廢棄咖啡渣研發建築級可生物降解 3D 列印線材",
+      "category": "材料",
+      "summary": "澳洲皇家墨爾本理工大學（RMIT）研究團隊在「Waste to Form」項目中，成功利用回收咖啡渣開發出新型可生物降解 3D 列印線材。該項目由科學學院與建築設計學院跨學科合作，並已成功將這種環保耗材應用於列印全尺寸建築構件。",
+      "why_it_matters": "驗證了有機都市廢物轉化為可持續結構材料的可行性，為環保 3D 列印耗材及綠色建築設計提供了新方向。",
+      "tags": [
+        "RMIT",
+        "環保材料",
+        "咖啡渣",
+        "建築列印",
+        "科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/rmit-tests-coffee-waste-in-architectural-design-in-new-project-256165/"
+        }
+      ]
+    },
+    {
+      "title": "巴西航天初創 BIZU Space 聯手 EOS 採用金屬 3D 列印開發軌道火箭發動機",
+      "category": "應用",
+      "summary": "巴西商業航天企業 BIZU Space 與金屬列印大廠 EOS 展開合作，透過 EOS 的 Additive Minds Academy 培訓增材製造設計（DfAM）技能。該團隊正在評估利用工業金屬 3D 列印技術製造燃燒室及閉式循環渦輪泵，全力研發巴西首款完全本土自主研製的微型軌道運載火箭（MLBR）。",
+      "why_it_matters": "金屬增材製造設計已成為新興民營航天公司快速突破火箭動力組件製造瓶頸的核心路徑。",
+      "tags": [
+        "EOS",
+        "BIZU Space",
+        "金屬3D列印",
+        "DfAM",
+        "火箭航天"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/brazils-race-to-orbit-starts-with-3d-printing-skills-as-bizu-space-joins-eos-256138/"
+        }
+      ]
+    },
+    {
+      "title": "華曙高科擬定增融資人民幣 17.5 億元擴建增材製造服務平台",
+      "category": "產業",
+      "summary": "根據最新申報資料，中國金屬增材製造企業華曙高科（Farsoon）修訂了非公開發行股票方案上限至 17.54 億元人民幣。該筆資金將用於總投資額達 28.35 億元人民幣的增材製造服務平台與全球營運中心建設，其餘資金將由公司另行籌集。",
+      "why_it_matters": "顯示亞太地區工業級增材製造龍頭正在大幅擴張全球服務基礎設施，推動大規模工業化落地。",
+      "tags": [
+        "華曙高科",
+        "Farsoon",
+        "融資",
+        "工業增材",
+        "亞太市場"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336000/ampulse-asia-the-push-to-scale-up-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "聯泰科技赴港上市申請遭中證監問詢 AI 合規性問題",
+      "category": "產業",
+      "summary": "中國證券監督管理委員會（CSRC）在境外上市審查中，要求光固化 3D 列印方案供應商上海聯泰科技（UnionTech）就其香港聯交所（HKEX）主板上市申請補充說明八大關注事項。該問詢涉及人工智慧合規性等層面，為近期五家受審企業補充材料要求之一。",
+      "why_it_matters": "反映出增材製造設備及軟體企業在結合 AI 創新時，在資本市場上市審批中面臨更嚴格的資料合規性監管。",
+      "tags": [
+        "聯泰科技",
+        "UnionTech",
+        "港股上市",
+        "中證監",
+        "AI合規"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/csrc-questions-uniontech-on-ai-compliance-for-its-hkex-listing-256143/"
+        }
+      ]
+    },
+    {
+      "title": "Meshy 入選 a16z 消費級 AI 營收前 50 名榜單",
+      "category": "軟件",
+      "summary": "創投機構 Andreessen Horowitz（a16z）發布第七版消費級 AI 應用月度營收 Top 50 榜單，AI 3D 模型生成平台 Meshy AI 名列第 31 位。值得關注的是，Meshy 是該份收入排行榜上唯一一家專注於生成式 AI 3D 內容的企業。",
+      "why_it_matters": "證明基於文字或圖像生成 3D 模型的工具已邁入可持續的商業變現階段，為 3D 列印社群的前端數位建模提供實質輔助。",
+      "tags": [
+        "Meshy",
+        "生成式AI",
+        "3D建模",
+        "a16z",
+        "軟體"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/meshy-ranks-on-a16zs-first-ai-apps-by-revenue-list-256149/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 3D 列印技術進駐溫哥華文理學院推動 STEAM 教育",
+      "category": "應用",
+      "summary": "位於加拿大列治文的 Renaissance Academy of Learning 引入 Bambu Lab 拓竹 3D 列印設備，藉此拓展其長期以藝術為中心的教育體系。校方藉由導入 3D 列印硬件，為幼兒至成年學生增設工程思維與產品設計教學，深化 STEAM 跨學科培訓。",
+      "why_it_matters": "展現消費及專業級高速 3D 列印機因高可靠度正快速普及至跨領域校外教育機構，加速設計驗證教學落地。",
+      "tags": [
+        "Bambu Lab",
+        "拓竹",
+        "STEAM",
+        "教育應用",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/renaissance-academy-of-learning-expands-steam-education-through-bambu-lab-3d-printing/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 17
+}
