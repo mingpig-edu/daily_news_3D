@@ -1,0 +1,172 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T03:00:13.620Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "今日焦點包括 Bambu Lab 推出全新第三代多噴頭 3D 列印機 H3C、Elegoo 跨足 3D 掃描器市場發表 M1 Ultra，以及多項航太與醫療領域的增材製造應用進展。",
+  "items": [
+    {
+      "title": "Bambu Lab 發表 H3C 第三代 3D 列印機",
+      "category": "硬件",
+      "summary": "Bambu Lab 推出了其首款第三代案頭級 3D 列印機 H3C，售價 2,499 美元。該機採用名為 Swaptek 的九工具換頭系統，每支工具皆維持耗材預載與預熱，可在六秒內完成換料。官方亦預告現有 H2D、H2C 與 X2D 機型未來將透過軟體更新支援多孔徑噴嘴混合列印。",
+      "why_it_matters": "這是桌面級 FFF 多材料列印技術的重要架構突破，大幅降低了多色與多材質切換的時間成本。",
+      "tags": [
+        "Bambu Lab",
+        "H3C",
+        "多材料",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-lab-launches-h3c-technical-specifications-and-pricing-256200/"
+        }
+      ]
+    },
+    {
+      "title": "ELEGOO 推出首款一體式智慧 3D 掃描器 M1 Ultra",
+      "category": "硬件",
+      "summary": "中國 3D 列印品牌 ELEGOO 正式進軍 3D 掃描領域，發表 M1 Ultra 智慧 3D 掃描器。該裝置具備高達 0.02 mm 的藍光精確度並提供五種掃描模式，零售價為 1,699 美元，早鳥價為 1,599 美元。",
+      "why_it_matters": "標誌著主流消費級 3D 列印品牌進一步拓展產品生態，跨足前端逆向工程與建模工具市場。",
+      "tags": [
+        "Elegoo",
+        "3D掃描器",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/elegoo-moves-into-3d-scanning-with-the-m1-ultra-priced-from-1599-256204/"
+        }
+      ]
+    },
+    {
+      "title": "IOT 實現單次閃光秒印個人化漸進式鏡片",
+      "category": "科研",
+      "summary": "西班牙眼科技術公司 IOT 宣佈成功以 3D 列印技術製作個人化漸進式鏡片。其 Light-Form 技術能透過單次閃光在數秒內直接成型完整鏡片，省去了傳統的逐層積疊與繁複生成工序，且相關鏡片已在市場上販售。",
+      "why_it_matters": "展示了光固化技術在光學製造領域的新突破，大幅縮短客製化鏡片的生產週期。",
+      "tags": [
+        "光學",
+        "醫療",
+        "創新技術"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/iot-3d-prints-personalized-progressive-lenses-in-seconds-with-a-single-flash-of-light-256209/"
+        }
+      ]
+    },
+    {
+      "title": "Beehive 100 lbf Frenzy 6 渦輪噴射引擎完成首次試車",
+      "category": "應用",
+      "summary": "總部位於丹佛的推進系統製造商 Beehive Industries 宣佈，其針對小型彈藥與無人機設計的 100 lbf Frenzy 6 原型渦輪噴射引擎已成功完成首次引擎測試。該專案從美國空軍確定需求到完成測試僅耗時四個月。",
+      "why_it_matters": "突顯了增材製造在加速國防與航空航天推進系統研發週期的實際效益。",
+      "tags": [
+        "航太",
+        "無人機",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/beehives-100-lbf-frenzy-6-turbojet-completes-first-engine-test-256184/"
+        }
+      ]
+    },
+    {
+      "title": "Nikon SLM Solutions 與 PanOptimization 合作整合金屬 AM 模擬",
+      "category": "軟件",
+      "summary": "Nikon SLM Solutions 宣布與 PanOptimization 展開合作，在其組建準備軟件中整合 PanX 模擬技術。此舉旨在為 SLM 用戶提供輕量且先進的有限元素分析（FEA）解決方案，協助優化金屬粉末床熔融（LPBF）製程。",
+      "why_it_matters": "有助於提升金屬 3D 列印的模擬精準度，降低複雜航太與工業零件的試錯成本。",
+      "tags": [
+        "金屬列印",
+        "軟件",
+        "模擬"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335851/nikon-slm-solutions-and-panoptimization-team-up-on-metal-am-simulation/"
+        }
+      ]
+    },
+    {
+      "title": "PharmaTher 推進美國 3D 列印結腸釋放胜肽藥片",
+      "category": "應用",
+      "summary": "PharmaTher Holdings 正在開發一系列用於美國新化學品複合途徑的 3D 列印胜肽產品，首批產品為 KPV 與 BPC-157 口服藥片，專門設計在結腸中釋放劑量。此舉配合了美國衛生及公共服務部（HHS）允許合格藥房複合製劑的新政策。",
+      "why_it_matters": "反映了 3D 列印在精準給藥與製藥領域的法規配合及商業化應用進展。",
+      "tags": [
+        "醫療",
+        "製藥",
+        "生物列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/pharmather-targets-new-u-s-peptide-pathway-with-3d-printed-colon-release-tablets-256182/"
+        }
+      ]
+    },
+    {
+      "title": "Aurora Labs 籌集 600 萬澳元擴產自主無人機推進系統",
+      "category": "產業",
+      "summary": "澳洲 3D 列印企業 Aurora Labs (ASX: A3D) 透過兩階段配售成功籌集 600 萬澳元，旨在擴大其增材製造渦輪噴射引擎的商業化量產規模。此次融資吸引了戰略投資者 Walkinshaw Group Holdings 等機構參與。",
+      "why_it_matters": "顯示資本市場對國防與航空航天金屬增材製造量產項目的持續信心。",
+      "tags": [
+        "融資",
+        "航太",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/aurora-labs-bets-a6m-on-scaling-sovereign-drone-propulsion-256179/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 24
+}
