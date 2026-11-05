@@ -1,0 +1,190 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T03:29:26.485Z",
+  "model": "gemini-3.1-flash-lite",
+  "models": {
+    "editorial": "gemini-3.1-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 - 2026年11月5日",
+  "summary": "今日重點聚焦於 Bambu Lab 全新九噴頭換料系統機型 H3C 的發布，以及多項工業級 3D 列印在航空航太與醫療領域的進展。此外，行業獎項投票已啟動，Formnext 展前資訊亦備受關注。",
+  "items": [
+    {
+      "title": "Bambu Lab 發布九噴頭換料 3D 列印機 H3C",
+      "category": "硬件",
+      "summary": "Bambu Lab 推出第三代桌面級 3D 列印機 H3C，售價 2,499 美元。該機型採用全新 Swaptek 九噴頭自動換料系統，實現僅需六秒的材料切換效率，旨在解決多材料列印的痛點。",
+      "why_it_matters": "這標誌著 Bambu Lab 在多材料列印技術上邁出重大一步，直接挑戰高階桌面級列印市場。",
+      "tags": [
+        "Bambu Lab",
+        "多材料",
+        "H3C",
+        "換料系統"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-lab-launches-h3c-technical-specifications-and-pricing-256200/"
+        }
+      ]
+    },
+    {
+      "title": "ELEGOO 進軍 3D 掃描領域推出 M1 Ultra",
+      "category": "硬件",
+      "summary": "ELEGOO 正式進入 3D 掃描市場，推出首款全能型智慧掃描儀 M1 Ultra。產品具備藍光雷射掃描能力，精度高達 0.02 mm，首發優惠價 1,599 美元。",
+      "why_it_matters": "ELEGOO 從列印硬體擴展至掃描領域，將進一步提升其在個人化製造生態系統中的競爭力。",
+      "tags": [
+        "ELEGOO",
+        "3D掃描",
+        "M1 Ultra"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/elegoo-moves-into-3d-scanning-with-the-m1-ultra-priced-from-1599-256204/"
+        }
+      ]
+    },
+    {
+      "title": "Beehive Industries 完成 Frenzy 6 引擎測試",
+      "category": "應用",
+      "summary": "Beehive Industries 成功測試了其 100 lbf 推力的 Frenzy 6 噴射引擎，該引擎專為無人機及精確制導彈藥設計，並計畫於 2027 年進行飛行測試。",
+      "why_it_matters": "顯示增材製造在國防工業引擎量產中正扮演關鍵角色，助力美國軍方推進無人機平台開發。",
+      "tags": [
+        "航太",
+        "引擎",
+        "無人機",
+        "軍事"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335859/beehive-industries-tests-frenzy-6-engine/"
+        }
+      ]
+    },
+    {
+      "title": "IOT 開發光固化隱形眼鏡列印技術",
+      "category": "應用",
+      "summary": "西班牙公司 IOT 宣稱開發出全球首款客製化漸進式隱形眼鏡 3D 列印技術。透過 Light-Form 技術，只需閃光即可在數秒內生成完整鏡片，無需逐層堆疊。",
+      "why_it_matters": "此技術突破了傳統鏡片製造的層級限制，實現了醫療級光學元件的快速客製化生產。",
+      "tags": [
+        "醫療",
+        "3D列印",
+        "光學"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/iot-3d-prints-personalized-progressive-lenses-in-seconds-with-a-single-flash-of-light-256209/"
+        }
+      ]
+    },
+    {
+      "title": "Nikon SLM Solutions 與 PanOptimization 合作優化金屬列印模擬",
+      "category": "軟件",
+      "summary": "Nikon SLM Solutions 將引入 PanOptimization 的 PanX 模擬技術至其軟體平台，幫助用戶在列印前進行高精度 FEA 結構分析與參數模擬。",
+      "why_it_matters": "整合高效模擬工具能顯著提升金屬列印的成功率，減少設計迭代成本。",
+      "tags": [
+        "金屬列印",
+        "模擬",
+        "Nikon SLM",
+        "優化"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/335851/nikon-slm-solutions-and-panoptimization-team-up-on-metal-am-simulation/"
+        }
+      ]
+    },
+    {
+      "title": "墨西哥大學研發可操作觸控螢幕的環保假肢耗材",
+      "category": "材料",
+      "summary": "瓜達拉哈拉大學學生開發了一種由回收塑料與奈米材料組成的列印耗材，能賦予 3D 列印假肢與手機觸控螢幕交互的能力。",
+      "why_it_matters": "該發明結合了環保材料與功能性增材製造，提升了義肢佩戴者的日常實用性。",
+      "tags": [
+        "環保",
+        "義肢",
+        "材料科學"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/recycled-filament-lets-3d-printed-prosthetics-use-touchscreens-256132/"
+        }
+      ]
+    },
+    {
+      "title": "2026 年 3D 列印產業獎投票正式啟動",
+      "category": "產業",
+      "summary": "2026 年度 3D 列印產業獎的最終入圍名單已公布，現已開放公眾參與投票，表彰在工業金屬列印、桌面設備及科研領域做出傑出貢獻的企業與個人。",
+      "why_it_matters": "此獎項為行業年度重要標竿，反映了當前市場技術走向與主流關注議題。",
+      "tags": [
+        "產業獎項",
+        "市場動態"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/voting-opens-for-the-2026-3d-printing-industry-awards-meet-this-years-nominees-256219/"
+        }
+      ]
+    },
+    {
+      "title": "Formnext 2026 展前指南發布",
+      "category": "產業",
+      "summary": "Formnext 2026 將於 11 月 17 至 20 日在德國法蘭克福舉行。展會將聚焦工業聚合物、金屬列印、耗材回收、設計自動化及後處理等尖端技術領域。",
+      "why_it_matters": "作為全球最大的 3D 列印展會，其發布內容將決定年終及明年初行業技術發展的基調。",
+      "tags": [
+        "展覽",
+        "Formnext",
+        "工業應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/what-to-see-at-formnext-2026-a-guide-to-featured-exhibitors-2-256226/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 26
+}
