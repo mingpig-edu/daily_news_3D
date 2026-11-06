@@ -1,0 +1,197 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T03:26:02.588Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-11-06)",
+  "summary": "今日焦點集中在 Bambu Lab 正式發佈第三代換頭 3D 列印機 H3C，搭配九工具頭 Swaptek 系統革新多材料列印；同時，ELEGOO 跨界推出高精度藍光 3D 掃描器，工業領域亦迎來 LPBF 原位檢測及光固化鏡片技術的關鍵突破。",
+  "items": [
+    {
+      "title": "Bambu Lab 發佈第三代旗艦 H3C：搭載 9 工具頭 Swaptek 系統",
+      "category": "硬件",
+      "summary": "Bambu Lab 正式推出其第三代桌面 3D 列印機 H3C，售價為 2,499 美元。新機採用名為 Swaptek 的 9 工具頭切換架構，每個工具均預載線材並保持預熱狀態，可在 6 秒內完成材料更換。這項設計旨在徹底解決單噴頭多次進退料的耗時與耗材浪費問題。",
+      "why_it_matters": "標誌着消費級多色／多材料 3D 列印由單噴頭吐料過渡至高速多工具頭切換架構，大幅降低多料列印的門檻與時間成本。",
+      "tags": [
+        "Bambu Lab",
+        "H3C",
+        "多材料列印",
+        "Tool Changer",
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-lab-launches-h3c-technical-specifications-and-pricing-256200/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 宣佈 H2D、H2C 及 X2D 將支援多孔徑噴頭混合列印",
+      "category": "軟件",
+      "summary": "配合 H3C 發佈，Bambu Lab 宣佈正為現有型號 H2D、H2C 與 X2D 開發不同孔徑噴頭混合列印功能。這項功能容許單一工件結合不同孔徑噴嘴，兼顧細節與列印速度，預計韌體與軟件更新將自 2026 年 11 月起分階段推出。",
+      "why_it_matters": "讓現有雙噴嘴／多噴嘴機種能按需分配外壁與填充層的噴嘴孔徑，在維持高精細度同時顯著縮短列印時間。",
+      "tags": [
+        "Bambu Lab",
+        "韌體更新",
+        "多孔徑噴頭",
+        "切片技術"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/h2d-h2c-and-x2d-will-support-hybrid-printing-with-multi-orifice-nozzles/"
+        }
+      ]
+    },
+    {
+      "title": "ELEGOO 進軍 3D 掃描市場，推出 M1 Ultra 一體式藍光掃描器",
+      "category": "硬件",
+      "summary": "ELEGOO 正式進軍 3D 掃描領域，推出首款一體式智能 3D 掃描器 M1 Ultra，零售價為 1,699 美元（早鳥價 1,599 美元）。該裝置採用藍光技術，精度可達 0.02 毫米，並提供五種掃描模式。",
+      "why_it_matters": "平價 3D 列印大廠跨足逆向工程與數碼建模硬件，進一步降低高精度掃描與列印工作流的進入門檻。",
+      "tags": [
+        "ELEGOO",
+        "3D 掃描",
+        "逆向工程",
+        "硬件發佈"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/elegoo-moves-into-3d-scanning-with-the-m1-ultra-priced-from-1599-256204/"
+        }
+      ]
+    },
+    {
+      "title": "Phase3D 推出專為金屬 LPBF 設計的新一代 Fringe 原位檢測硬件",
+      "category": "硬件",
+      "summary": "檢測技術開發商 Phase3D 推出新一代 Fringe Inspection 平台，採用專門為激光粉末床熔融（LPBF）3D 列印機量身打造的專用硬件架構。該設計取代過往使用的現成市售組件，能更深入且精準地在列印過程中進行即時質量監控。",
+      "why_it_matters": "專用原位檢測硬件有助於提升金屬 3D 列印的良品率，是推動工業增材製造邁向全面量產與品質認證的關鍵一步。",
+      "tags": [
+        "金屬 3D 列印",
+        "LPBF",
+        "工業檢測",
+        "品質控制"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing-256229/"
+        }
+      ]
+    },
+    {
+      "title": "西班牙 IOT 研發 Light-Form 技術：單次曝光數秒成型漸進鏡片",
+      "category": "科研",
+      "summary": "西班牙眼科光學技術公司 IOT 宣佈成功利用 3D 列印製作個人化漸進鏡片。其專利的 Light-Form 技術打破傳統逐層堆疊方式，透過單次光閃爍即可在數秒內完成完整鏡片成型，該類產品目前已正式向消費者銷售。",
+      "why_it_matters": "體積光固化成型技術在醫療光學領域取得重大商品化進展，徹底顛覆傳統鏡片打磨與逐層光固化流程。",
+      "tags": [
+        "體積光固化",
+        "醫療應用",
+        "光學鏡片",
+        "創新科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/iot-3d-prints-personalized-progressive-lenses-in-seconds-with-a-single-flash-of-light-256209/"
+        }
+      ]
+    },
+    {
+      "title": "Tripo AI 推出 Agentic Canvas：以節點式工作流生成 3D 列印模型",
+      "category": "軟件",
+      "summary": "Tripo AI 發佈 Tripo Agentic Canvas，這是一個能將 3D 模型生成步驟整合為節點式工作流的 AI Agent 平台。使用者可自行檢視、調整並將同一套流程批量應用於多個資產，涵蓋模型生成、細化至匯出整個流程。",
+      "why_it_matters": "將生成式 AI 從單次試錯生成推進至可重複、可精細調校的自動化 3D 建模管線，有助提升 3D 列印前置設計效率。",
+      "tags": [
+        "生成式 AI",
+        "3D 建模",
+        "工作流自動化",
+        "切片前期"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/tripo-ai-launches-agentic-canvas-an-ai-agent-that-builds-reusable-3d-model-workflows-for-3d-printing-and-games-256234/"
+        }
+      ]
+    },
+    {
+      "title": "墨西哥 UdeG 研發含納米材料再生線材，讓 3D 列印義肢支援觸控螢幕",
+      "category": "材料",
+      "summary": "墨西哥瓜達拉哈拉大學（UdeG）學生團隊推行 Filna 項目，成功利用回收塑膠與納米材料調配出新型 3D 列印耗材。該導電耗材製作的 3D 列印義肢手，能直接操作手機與平板電腦的觸控螢幕。",
+      "why_it_matters": "結合環保回收塑膠與導電功能材料，以低成本解決義肢使用者在數碼生活中的人機互動難題。",
+      "tags": [
+        "再生材料",
+        "導電線材",
+        "醫療義肢",
+        "可持續發展"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/recycled-filament-lets-3d-printed-prosthetics-use-touchscreens-256132/"
+        }
+      ]
+    },
+    {
+      "title": "3D Systems 公佈 Q3 財報：持續虧損但預期 2027 年迎來順風",
+      "category": "產業",
+      "summary": "3D Systems 公佈第三季度財務狀況，受限於產業大環境波動仍錄得虧損。公司正物色新任 CEO 以接替即將退休的 Jeff Graves，管理層在法說會上表示，預計增材製造市場將在 2027 年重拾強勁增長動力。",
+      "why_it_matters": "反映工業級增材製造大廠在轉型過渡期面臨的財務挑戰，同時揭示業界對中長期製造業回暖的預期。",
+      "tags": [
+        "3D Systems",
+        "財務報告",
+        "工業級增材製造",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336169/3d-printing-financials-3d-systems-still-posting-losses-but-sees-2027-tailwinds/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 26
+}
