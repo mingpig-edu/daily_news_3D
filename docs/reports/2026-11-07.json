@@ -1,0 +1,167 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T02:47:40.841Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-11-07",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（Unterminated string in JSON at position 2303 (line 1 column 2304)）。",
+  "items": [
+    {
+      "title": "This Week in Security: More Linux Bugs, Biggest Crypto Theft Ever, Prusa Printers, Residential Proxies",
+      "category": "材料",
+      "summary": "Linux kernel bugs which can be triggered remotely, without any login, are rare. Most kernel vulnerabilities need an attacker to already be running code on the machine. CVE-2026-98432 is one of those: a use-after-free in the IPv4 TCP handshake code, rated CVSS 9.8, which Atlas has",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Prusa",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/06/this-week-in-security-more-linux-bugs-biggest-crypto-theft-ever-prusa-printers-residential-proxies/"
+        }
+      ]
+    },
+    {
+      "title": "Additive Manufacturing Simulation, Monitoring, Inspection, & More at Formnext 2026",
+      "category": "材料",
+      "summary": "Formnext 2026 is getting closer, and we’re already seeing lots of 3D printing industry news ahead of the trade show in Frankfurt. In this pre-event roundup, we’ll tell you about some of the technologies displayed at the show that are working before and during the printing process",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336309/additive-manufacturing-simulation-monitoring-inspection-more-at-formnext-2026/"
+        }
+      ]
+    },
+    {
+      "title": "3D Printed Prosthetics Have Come a Long Way. HP and DyeMansion Look at What’s Next",
+      "category": "硬件／產業",
+      "summary": "3D printing has made it easier to produce prosthetics and orthotics tailored to individual patients. But making that work on a larger scale comes with its own challenges. For companies looking to expand production, it’s not enough to make a good custom device. They also need to b",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336198/3d-printed-prosthetics-have-come-a-long-way-hp-and-dyemansion-look-at-whats-next/"
+        }
+      ]
+    },
+    {
+      "title": "Mosquito Dreams Part 4: Airbus Finally Makes Sense",
+      "category": "材料",
+      "summary": "An iconic cafe chair helped usher in an era of composite manufacturing and bent wood. The resulting Mosquito bomber, fighter, multirole everything, was an enormous success. This led to waffling between the dream of a multirole aircraft that can do it all and specialized planes fo",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/332026/mosquito-dreams-part-4-airbus-finally-makes-sense/"
+        }
+      ]
+    },
+    {
+      "title": "First Time Together: MakerWorld Makers from Across the U.S. Meet in San Jose",
+      "category": "硬件／產業",
+      "summary": "The US Fan Favorite, Eye-Catching, and Must-Print awards went to 30 creators from the United States. They were presented during the first in-person US MakerWorld Creator MeetUp, held in Silicon Valley. The awards ceremony brought an eventful day to a close. On October 24, 2026, B",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Bambu Lab"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/first-time-together-makerworld-makers-from-across-the-u-s-meet-in-san-jose/"
+        }
+      ]
+    },
+    {
+      "title": "3D Printed Microneedles Meet Hanji in Breathable Patch for Drug Delivery and Uric Acid Sensing",
+      "category": "應用／科研",
+      "summary": "A team at Jeonbuk National University (JBNU) has built a wearable patch on traditional Korean mulberry paper (hanji). It carries 3D printed microneedles for drug delivery and printed electrodes that wirelessly track uric acid in sweat. Uric acid is the biomarker doctors use to ma",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing-256253/"
+        }
+      ]
+    },
+    {
+      "title": "Pulsed Arc 3D Printing Produces Meter-Tall Titanium Single Crystals",
+      "category": "應用／科研",
+      "summary": "A group of researchers from institutions in China and the United States has 3D printed titanium alloy single crystals that reach a meter in height. Large single crystals have typically been out of reach for metal additive manufacturing (metal AM), and the study, published in Natu",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals-256242/"
+        }
+      ]
+    },
+    {
+      "title": "restor3d Moves Velora Hip Cup to Full Commercial Release and Completes First Identity KA Knee Cases",
+      "category": "材料",
+      "summary": "US orthopedic company restor3d is putting its Velora Acetabular System into full commercial release this month. Velora is a 3D printed titanium hip cup that has finished its limited market release. The company has also completed the first surgical cases using Identity Kinematic A",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/restor3d-moves-velora-hip-cup-to-full-commercial-release-and-completes-first-identity-ka-knee-cases-256256/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
