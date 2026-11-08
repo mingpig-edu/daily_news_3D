@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T02:29:13.808Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-11-08)",
+  "summary": "今日情報涵蓋金屬積層製造重大科研突破、高硬度材料商業合作、消費品巨頭自建產能，以及醫療與質檢硬件的最新進展。",
+  "items": [
+    {
+      "title": "脈衝電弧技術突破：中美研究團隊成功列印米級鈦合金單晶",
+      "category": "科研",
+      "summary": "中美聯合研究團隊在《Nature》發表最新研究，利用脈衝電弧積層製造技術成功列印出高達一米的鈦合金單晶結構。過往金屬積層製造一直難以製造大型單晶結構，這項技術突破解決了長期限制單晶金屬性能應用的尺寸瓶頸。",
+      "why_it_matters": "攻破大型單晶金屬無法透過 3D 列印成型之限制，對航空航天等極端高性能結構件的製造具重要戰略意義。",
+      "tags": [
+        "金屬3D列印",
+        "科研突破",
+        "單晶金屬",
+        "鈦合金",
+        "Nature"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals-256242/"
+        }
+      ]
+    },
+    {
+      "title": "HP 攜手 Hyperion 推進碳化鎢金屬黏著劑噴射商業化量產",
+      "category": "材料",
+      "summary": "HP Additive Manufacturing 與 Hyperion Materials & Technologies 簽署策略合作協議，將 HP 的 Metal Jet 黏著劑噴射成型技術與 Hyperion 的碳化鎢（WC）燒結及後處理工藝結合。雙方旨在推動極硬質合金材料的商業化應用與快速原型製造。",
+      "why_it_matters": "大幅降低加工難度極高的碳化鎢模具及耐磨零組件的製造成本與開發週期，擴大金屬噴膠成型工業版圖。",
+      "tags": [
+        "HP",
+        "Metal Jet",
+        "碳化鎢",
+        "材料",
+        "Binder Jetting"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet-256246/"
+        }
+      ]
+    },
+    {
+      "title": "Callaway Golf 投資 1,500 萬美元於德州自建 3D 列印工廠",
+      "category": "產業",
+      "summary": "高爾夫知名品牌 Callaway 宣佈斥資 1,500 萬美元在德州沃斯堡建立專屬的 3D 列印製造基地。Callaway 期望藉由在美國本土自建生產線，加快球桿等產品的設計迭代與對市場需求的響應速度。",
+      "why_it_matters": "代表消費級高端體育品牌由委外試驗全面轉向自建積層製造產能，有望引領更多消費品實現本地規模化生產。",
+      "tags": [
+        "Callaway",
+        "產業投資",
+        "高爾夫",
+        "終端量產"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336373/callaway-golf-to-set-up-15-million-3d-printing-location-in-texas/"
+        }
+      ]
+    },
+    {
+      "title": "Phase3D 推出專為 LPBF 打造的新一代 Fringe 原位質檢硬件",
+      "category": "硬件",
+      "summary": "芝加哥檢測技術公司 Phase3D 發佈新一代 Fringe Inspection 檢測平台，採用專門為激光粉末床熔融（LPBF）系統量身定做的硬件架構。新硬件取代了以往的通用現成組件，可直接整合至金屬列印機內執行原位表面缺陷檢測。",
+      "why_it_matters": "為金屬 3D 列印提供定制化即時監控方案，有助於降低廢件率並簡化關鍵航空與工業零件的認證流程。",
+      "tags": [
+        "Phase3D",
+        "LPBF",
+        "品質檢測",
+        "硬件",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing-256229/"
+        }
+      ]
+    },
+    {
+      "title": "Arkema 與 Carbon 深化合作，加速彈性體消費品規模化生產",
+      "category": "材料",
+      "summary": "化學材料巨頭 Arkema 與光固化 3D 列印廠商 Carbon 擴大合作關係，重點結合高性能彈性體樹脂材料與數位光合成技術。雙方將協助運動鞋類、體育用品及消費品牌簡化從腳部掃描到成品拖鞋等產品的規模化上市流程。",
+      "why_it_matters": "強化光固化彈性體在鞋類與消費級客製化市場的生態整合，推動個人化終端消費品落地。",
+      "tags": [
+        "Arkema",
+        "Carbon",
+        "彈性體",
+        "鞋類製造",
+        "樹脂材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/from-foot-scan-to-sandal-arkema-and-carbon-expand-collaboration-on-3d-printed-elastomers-256259/"
+        }
+      ]
+    },
+    {
+      "title": "restor3d 商業化推出 3D 列印鈦合金 Velora 髖臼杯系統",
+      "category": "應用",
+      "summary": "骨科醫療公司 restor3d 宣佈結束限量市場試行，正式全面商業化推出其 3D 列印鈦合金 Velora 髖臼杯系統。同時，該公司亦完成了採用最新 Identity 運動學對齊（KA）膝關節規劃平台的手術案例。",
+      "why_it_matters": "標誌著積層製造植入物在骨科植入市場邁向常態化商用，持續擴展客製化與多孔鈦結構在臨床手術的普及度。",
+      "tags": [
+        "醫療應用",
+        "restor3d",
+        "鈦合金",
+        "骨科植入物"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/restor3d-moves-velora-hip-cup-to-full-commercial-release-and-completes-first-identity-ka-knee-cases-256256/"
+        }
+      ]
+    },
+    {
+      "title": "Tripo AI 推出 Agentic Canvas 節點式 3D 模型生成工作流",
+      "category": "軟件",
+      "summary": "Tripo AI 發佈了 Tripo Agentic Canvas，這是一款將 3D 生成步驟組合成可視化節點工作流的 AI Agent 工具。使用者可以檢視、修改並將重複工作流套用至多個資產，涵蓋從模型生成、精修到匯出等流程，專門面向 3D 列印與遊戲模型製作。",
+      "why_it_matters": "將單次提示詞生成演進為可控、可重複的節點式自動化管線，降低 3D 列印建模門檻並提升產出效率。",
+      "tags": [
+        "Tripo AI",
+        "AI",
+        "3D建模",
+        "切片與軟件",
+        "工作流"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/tripo-ai-launches-agentic-canvas-an-ai-agent-that-builds-reusable-3d-model-workflows-for-3d-printing-and-games-256234/"
+        }
+      ]
+    },
+    {
+      "title": "全北國立大學結合 3D 列印微針與傳統韓紙研發透氣穿戴貼片",
+      "category": "科研",
+      "summary": "韓國全北國立大學（JBNU）研究團隊在傳統構樹皮韓紙（hanji）基板上，結合光固化 3D 列印微針與印刷電極，開發出穿戴式貼片。該貼片能實現經皮給藥，並可無線監測汗液中的尿酸含量，以輔助痛風和高尿酸血症的治療管理。",
+      "why_it_matters": "結合光學 3D 列印微結構與透氣生物基板，為穿戴式醫療監測與精準給藥設備開闢了新材料組合路徑。",
+      "tags": [
+        "科研",
+        "微針",
+        "醫療穿戴",
+        "3D列印",
+        "感測器"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing-256253/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 20
+}
