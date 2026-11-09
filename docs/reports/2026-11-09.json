@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T02:39:23.211Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-11-09)",
+  "summary": "今日 3D 列印行業重點聚焦於金屬積層製造的科研突破與工業擴張。中美研究團隊在《Nature》發表以脈衝電弧列印米級鈦合金單晶的關鍵技術，同時 HP 聯手 Hyperion 推動碳化鎢黏合劑噴射量產。在產業端，高爾夫品牌 Callaway 斥資 1,500 萬美元建立本土 3D 列印工廠，醫療端 restor3d 則正式商用化其 3D 列印鈦合金髖臼杯系統。",
+  "items": [
+    {
+      "title": "中美科研團隊突破技術瓶頸：脈衝電弧 3D 列印成功製造米級鈦合金單晶",
+      "category": "科研",
+      "summary": "由中國與美國研究機構組成的科研團隊，成功透過脈衝電弧技術 3D 列印出高度達一米的鈦合金單晶結構，相關成果已在《Nature》期刊發表。大型單晶金屬結構過去一直是金屬積層製造難以跨越的技術門檻。這項突破為製造具備超高性能的關鍵大型金屬零件提供了可行方案。",
+      "why_it_matters": "打破了積層製造無法生產大型單晶金屬的技術限制，對航空航天等極端性能結構製造具深遠科研價值。",
+      "tags": [
+        "金屬3D列印",
+        "單晶金屬",
+        "科研突破",
+        "Nature",
+        "鈦合金"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals-256242/"
+        }
+      ]
+    },
+    {
+      "title": "HP 攜手 Hyperion 推進 Metal Jet 碳化鎢 3D 列印商業化量產",
+      "category": "硬件",
+      "summary": "HP Additive Manufacturing 與 Hyperion Materials & Technologies 簽署策略夥伴協議，正式將碳化鎢（WC）積層製造推向商用市場。該合作結合 HP 的 Metal Jet 黏合劑噴射金屬成型技術，以及 Hyperion 在碳化鎢燒結與後處理方面的工藝。目標是加速工業級超硬工具零件的快速原型及大規模生產。",
+      "why_it_matters": "黏合劑噴射技術拓展至極高硬度的碳化鎢材料，將大幅推動耐磨模具與切削工具的積層製造應用。",
+      "tags": [
+        "HP",
+        "Metal Jet",
+        "黏合劑噴射",
+        "碳化鎢",
+        "工業量產"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet-256246/"
+        }
+      ]
+    },
+    {
+      "title": "Callaway 投資 1,500 萬美元於德州自建 3D 列印工廠推進球具量產",
+      "category": "產業",
+      "summary": "著名高爾夫球具品牌 Callaway 計劃在美國德州沃斯堡投資 1,500 萬美元設立 3D 列印專屬工廠。此舉象徵該品牌從前期的研發探索跨入大規模自主生產階段，期望藉由美國本土製造加快產品迭代速度與市場反應敏捷度。此舉將進一步加劇高爾夫裝備市場在金屬 3D 列印技術上的競爭。",
+      "why_it_matters": "消費體育巨頭從外包研發轉向千萬美元級別的自建工廠，顯示積層製造在高階消費品量產中的戰略價值持續提升。",
+      "tags": [
+        "Callaway",
+        "高爾夫",
+        "金屬3D列印",
+        "消費品量產",
+        "工廠投資"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336373/callaway-golf-to-set-up-15-million-3d-printing-location-in-texas/"
+        }
+      ]
+    },
+    {
+      "title": "restor3d 正式商用發布 Velora 3D 列印鈦合金髖臼杯系統",
+      "category": "應用",
+      "summary": "美國骨科醫療公司 restor3d 宣布其 Velora 髖臼系統完成限量市場試用，本月起全面商業化發布。該系統採用 3D 列印鈦合金製成，具備專為骨整合設計的多孔結構。同時，該公司亦成功完成了多宗使用 Identity 運動學對齊（KA）膝關節規劃平台的首批手術個案。",
+      "why_it_matters": "標誌著 3D 列印鈦金屬植入物與客製化手術規劃工具進一步走向成熟的大規模臨床商業應用。",
+      "tags": [
+        "restor3d",
+        "醫療應用",
+        "骨科植入物",
+        "鈦合金",
+        "髖臼杯"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/restor3d-moves-velora-hip-cup-to-full-commercial-release-and-completes-first-identity-ka-knee-cases-256256/"
+        }
+      ]
+    },
+    {
+      "title": "結合傳統韓紙：全北大學研製 3D 列印微針透氣貼片用於給藥與尿酸監測",
+      "category": "科研",
+      "summary": "韓國全北大學（JBNU）研究團隊研發出一款以傳統桑皮紙（韓紙）為基底的可穿戴透氣貼片。該貼片整合了利用光固化技術製造的 3D 列印微針進行藥物輸送，並搭配印製電極無線監測汗液中的尿酸濃度。此項技術旨在為痛風及高尿酸血症患者提供更舒適的無痛監測與治療方案。",
+      "why_it_matters": "展示了微型光固化 3D 列印與生物相容透氣材質結合在智能給藥及實時健康監測領域的創新潛力。",
+      "tags": [
+        "微針",
+        "醫療科技",
+        "光固化",
+        "穿戴裝置",
+        "全北大學"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing-256253/"
+        }
+      ]
+    },
+    {
+      "title": "Arkema 與 Carbon 深化合作 擴展鞋履與運動用品彈性體材料應用",
+      "category": "材料",
+      "summary": "化學材料巨頭 Arkema 與 3D 列印設備商 Carbon 宣布深化長達 13 年的合作夥伴關係。雙方將整合高效能彈性樹脂與數位光合成（DLS）設備技術，協助合作品牌加速推出 3D 列印鞋履、運動器材及消費品。此合作著重解決光固化彈性零件在耐用度與量產成本上的平衡。",
+      "why_it_matters": "材料巨頭與硬件廠商的深度綁定，有助於降低光固化彈性體在終端消費品製造中的門檻與周期。",
+      "tags": [
+        "Arkema",
+        "Carbon",
+        "光固化",
+        "彈性體",
+        "鞋履製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/from-foot-scan-to-sandal-arkema-and-carbon-expand-collaboration-on-3d-printed-elastomers-256259/"
+        }
+      ]
+    },
+    {
+      "title": "科研團隊利用機器學習預測電弧增材製造（WAAM）鋁合金結構強度",
+      "category": "科研",
+      "summary": "沙特阿拉伯費薩爾國王大學及印度多間工程學院組成的研究團隊，成功利用機器學習模型預測電弧增材製造（WAAM）鋁合金零件的結構強度。由於 WAAM 鋁合金零件的質量極度依賴沉積製程參數，該模型能有效降低試錯成本。這項技術有助於提升大型鋁合金結構件在快速成型過程中的質量控制精確度。",
+      "why_it_matters": "AI 與機器學習的介入有助於解決大型金屬線弧列印過程中的參數敏感問題，加速大型工件的質量驗證。",
+      "tags": [
+        "機器學習",
+        "WAAM",
+        "電弧增材",
+        "鋁合金",
+        "AI控制"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/machine-learning-predicts-wire-arc-3d-printed-aluminum-strength-256249/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 於矽谷舉行首屆美國 MakerWorld 創作者線下見面會",
+      "category": "開源",
+      "summary": "Bambu Lab 於加州聖荷西舉行首屆美國 MakerWorld 創作者見面會，匯聚來自全美各地的頂尖 3D 模型創作者。活動當天頒發了美國粉絲最愛獎、吸睛獎及必印模型獎等 30 個創作者獎項。這標誌著 Bambu Lab 正加強社群實體凝聚力，並深化其模型生態平台與創作者之間的互動。",
+      "why_it_matters": "反映出消費級 3D 列印龍頭持續將資源傾斜至社群模型平台與創作者生態的深度營運。",
+      "tags": [
+        "Bambu Lab",
+        "MakerWorld",
+        "創作者社群",
+        "3D模型",
+        "開源生態"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/first-time-together-makerworld-makers-from-across-the-u-s-meet-in-san-jose/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 8,
+      "error": null
+    }
+  ],
+  "candidate_count": 15
+}
