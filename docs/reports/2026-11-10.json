@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T04:37:51.690Z",
+  "model": "gemini-3.5-flash-lite",
+  "models": {
+    "editorial": "gemini-3.5-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報",
+  "summary": "彙整今日 3D 列印領域的最新發展，涵蓋多噴頭桌面級印表機、矽膠列印自動化升級、新型光固化技術與工業應用等重要資訊。",
+  "items": [
+    {
+      "title": "Bambu Lab H3C 突破混合噴頭切片技術難題",
+      "category": "軟件",
+      "summary": "Bambu Lab 分享了 H3C 如何克服在混合噴頭尺寸（如 0.2 mm 與 0.4 mm）下列印時，不同區域如何協調層高的技術挑戰。這項切片突破讓精細細節與大面積結構能在同一打印過程中順暢結合。它解決了過往不同噴頭區域必須遵循相同層高排程的妥協限制。",
+      "why_it_matters": "提升了多噴頭與混合尺寸列印的切片靈活性，有助於複雜模型的細緻度與生產效率。",
+      "tags": [
+        "Bambu Lab",
+        "切片軟件",
+        "多噴頭"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/the-impossible-slice-how-bambu-lab-h3c-made-mixed-nozzles-work-on-different-layer-heights/"
+        }
+      ]
+    },
+    {
+      "title": "AXILOOP 推出配備八個獨立工具頭的 MC8 桌面級 3D 列印機",
+      "category": "硬件",
+      "summary": "AXILOOP 發表了全新的 MC8 桌面級 3D 列印機，其核心架構圍繞著八個獨立工具頭設計。此設計旨在解決單噴頭多色或多材料切換時耗時且浪費材料的痛點。它讓複雜的多色原型製作能夠更高效且順暢地進行。",
+      "why_it_matters": "大幅提升桌面級多色與多材料列印的效率與材料利用率。",
+      "tags": [
+        "多色列印",
+        "桌面級3D列印機",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/axiloops-new-mc8-desktop-3d-printer-built-around-eight-independent-toolheads-256110/"
+        }
+      ]
+    },
+    {
+      "title": "Lynxter 將於 Formnext 2026 發表 OVERTIME，大幅提升矽膠列印自主性",
+      "category": "硬件",
+      "summary": "法國製造商 Lynxter 推出專利附加裝置 OVERTIME，能將其 S300X 系列矽膠 3D 列印機的列印自主性提升高達 36 倍。該系統讓使用者能夠在單次作業中填滿機器的完整列印體積，毋須中斷即可生產較大且複雜的連續零件。",
+      "why_it_matters": "顯著延長矽膠 3D 列印的連續作業能力，推進工業級軟質材料批量生產。",
+      "tags": [
+        "Formnext",
+        "矽膠列印",
+        "工業級"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/lynxter-to-debut-overtime-at-formnext-2026-multiplying-silicone-print-autonomy-by-36-256267/"
+        }
+      ]
+    },
+    {
+      "title": "西北大學研究團隊發表新型 DIAL 3D 列印技術",
+      "category": "科研",
+      "summary": "西北大學研究團隊在《Science Advances》發表了名為直接墨水加成光刻（DIAL）的新技術。該技術以層狀鋪開如膏狀的屈服應力流體墨水，並利用光線選擇性硬化，墨水本身亦可作為支撐結構。此方法能製作過去難以實現的複雜零件。",
+      "why_it_matters": "為高黏度與複合材料的快速微型及複雜 3D 列印開闢了全新的技術路徑。",
+      "tags": [
+        "科研",
+        "新技術",
+        "材料科學"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336223/a-novel-am-process-dial-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "Added Scientific 推出用於噴墨 3D 列印的 JetForge Core",
+      "category": "硬件",
+      "summary": "諾丁漢大學分拆公司 Added Scientific 推出 JetForge Core，延續其在材料噴射與黏結噴射領域的研發成果。該公司過去曾推出多款驅動板與改裝套件，讓使用者能擴充噴墨系統或將 FDM 印表機轉化為低成本噴墨設置。",
+      "why_it_matters": "為研究人員與業界提供更具成本效益的噴墨式 3D 列印硬體解決方案。",
+      "tags": [
+        "噴墨3D列印",
+        "研發",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333923/added-scientific-launch-jetforge-core/"
+        }
+      ]
+    },
+    {
+      "title": "Protolabs 擴充 50% HP Multi Jet Fusion 製造產能",
+      "category": "產業",
+      "summary": "數位製造商 Protolabs 將其 HP Jet Fusion 5600 系列的產能擴增 50%。此舉主要受到來自航太、國防及無人機等新興產業對輕量化、複雜原型與生產零件需求強勁的驅動。",
+      "why_it_matters": "反映出工業界對高階粉末床熔融及多元複合零件量產需求的持續增長。",
+      "tags": [
+        "產業動態",
+        "MJF",
+        "Protolabs"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/protolabs-expands-hp-multi-jet-fusion-capacity-by-50-256279/"
+        }
+      ]
+    },
+    {
+      "title": "Polymaker 與 Rapid Fusion 合作推進大型玻璃纖維 PETG 粒料列印",
+      "category": "材料",
+      "summary": "材料製造商 Polymaker 與大型積層製造（LFAM）系統開發商 Rapid Fusion 建立合作關係。Rapid Fusion 已正式加入 Polymaker 的 PolyCore 硬體合作夥伴網路，將其大型機器應用於玻璃纖維 PETG 粒料。",
+      "why_it_matters": "強化大型工業級 3D 列印在複合材料應用上的生態系與材料供應。",
+      "tags": [
+        "Polymaker",
+        "耗材",
+        "大尺寸列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/polymaker-and-rapid-fusion-partner-on-large-format-3d-printing-with-glass-fiber-petg-pellets-256270/"
+        }
+      ]
+    },
+    {
+      "title": "諾斯洛普格魯曼成為第五家採用 AML3D 技術的美國海軍主承包商",
+      "category": "產業",
+      "summary": "AML3D 獲得美國海軍主承包商諾斯洛普格魯曼海洋系統公司價值約 220 萬美元的大型 ARCEMY X 系統初步訂單。諾斯洛普格魯曼成為第五家採用該金屬 3D 列印技術的海軍主承包商，顯示其技術進一步嵌入國防供應鏈。",
+      "why_it_matters": "鞏固了大型金屬熔絲沉積技術在國防與造船供應鏈中的實際應用與擴展。",
+      "tags": [
+        "金屬3D列印",
+        "國防應用",
+        "產業"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336334/3d-printing-news-briefs-11-7-2026/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 16
+}
