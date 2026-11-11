@@ -1,0 +1,169 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T02:46:15.255Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-11-11",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（fetch failed）。",
+  "items": [
+    {
+      "title": "Gesture Controls With Only a Camera",
+      "category": "軟件／開源",
+      "summary": "Back in 2002, [Takahiro Yonemura] and others built a system that used a single webcam-like device to track a user’s hand and generate inputs for a computer. Given that this was more than 20 years ago, the technological limitations were much greater than they are today. It wasn’t ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Resin"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/10/gesture-controls-with-only-a-camera/"
+        }
+      ]
+    },
+    {
+      "title": "From Ukraine’s War Effort to U.S. Restrictions: The Debate Over Desktop 3D Printing",
+      "category": "材料",
+      "summary": "When I lifted the replica drone interceptor nosecone from the build plate of my Prusa Core One L, I noticed how precise and aerodynamic the part was. I admired the speed at which the extruder had created a part that would have taken my father, a master machinist, several days to ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Prusa",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334756/from-ukraines-war-effort-to-u-s-restrictions-the-debate-over-desktop-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "From Cars to Robotic Arms: Inspiring Young Engineers Through Hands-On STEM",
+      "category": "硬件／產業",
+      "summary": "Growing up, I discovered my love for engineering through countless hands-on workshops and summer camps. Now, as a Bambu Lab School Ambassador, I've had the opportunity to share that same excitement with younger students. Over the past few months, I designed and led a variety of w",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Bambu Lab"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/from-cars-to-robotic-arms-inspiring-young-engineers-through-hands-on-stem/"
+        }
+      ]
+    },
+    {
+      "title": "Do You Know How Your Customer Makes Money with AM?",
+      "category": "材料",
+      "summary": "This article is Part III of a five-part series by AMPOWER , Gold Sponsor of Additive Manufacturing Strategies 2027. Application understanding begins where the datasheet ends. Western AM suppliers claim to know their applications. Most know the part. The customer, however, decides",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336491/do-you-know-how-your-customer-makes-money-with-am/"
+        }
+      ]
+    },
+    {
+      "title": "3DPOD 320: HeyGears CEO, Peiyan Gui",
+      "category": "材料",
+      "summary": "Peiyan Gui co-founded HeyGears after studying in the United States. The Chinese firm first made desktop Vat Polymerization systems before pivoting to dental systems. Then, yet another surprising pivot led to them making a full-color desktop 3D printer. HeyGears has been very succ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333977/3dpod-320-heygears-ceo-peiyan-gui/"
+        }
+      ]
+    },
+    {
+      "title": "UK Additive Manufacturing: FASTECH secures Bolton facility for UK metal 3D printing expansion",
+      "category": "材料",
+      "summary": "US advanced manufacturing specialist FASTECH is establishing a UK production facility in Greater Manchester, with operations targeted for early 2027. Jason Hutt explains how the company plans to bring its experience of manufacturing metal components for Siemens Energy and the US ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/uk-additive-manufacturing-fastech-secures-bolton-facility-for-uk-metal-3d-printing-expansion-256388/"
+        }
+      ]
+    },
+    {
+      "title": "Orbital Matter 3D Prints a Solar Array Boom in the Open Vacuum of Space",
+      "category": "硬件／產業",
+      "summary": "Orbital Matter, which lists offices in Warsaw and Berlin, says its Replicator 2 satellite 3D printed a boom while exposed to the open vacuum of space on October 21, 2026. According to the company, the print took about 30 minutes and produced a continuous structure with clean bond",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/orbital-matter-3d-prints-a-solar-array-boom-in-the-open-vacuum-of-space-256302/"
+        }
+      ]
+    },
+    {
+      "title": "AVIC MITEK Targets 1,000 3D Printers Annually With its New Metal AM Industrial Park Expansion",
+      "category": "應用／科研",
+      "summary": "Voting is open for 2026 3D Printing Industry Awards. Have you say now! Chinese aerospace-grade metal powders and components developer AVIC MITEK has put the third phase of its Metal Additive Manufacturing Industrial Park into operation in Xuzhou, Jiangsu Province. This completes ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/avic-mitek-targets-1000-3d-printers-annually-with-its-new-metal-am-industrial-park-expansion-256333/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
