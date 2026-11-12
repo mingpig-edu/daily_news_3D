@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T03:48:08.372Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-11-12",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（fetch failed）。",
+  "items": [
+    {
+      "title": "Modular, 3D Printed Train Whistles For Everyone",
+      "category": "材料",
+      "summary": "If the word “train” didn’t grab your attention, you’re probably not the target audience for this project. If it did, then there is no need to explain why [AeroKoi] has come up with a modular 3″ train whistle, available on Thingiverse and well explained in the video embedded below",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/"
+        }
+      ]
+    },
+    {
+      "title": "Rapid Fusion installs £450,000 Zeus cell at Kingston University",
+      "category": "應用／科研",
+      "summary": "Vote now in the 2026 3D Printing Industry Awards. UK large-format additive manufacturing (LFAM) specialist Rapid Fusion has installed a £450,000 Zeus robotic manufacturing cell at Kingston University, combining pellet-extrusion 3D printing, scanning and CNC milling for research, ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/rapid-fusion-installs-450000-zeus-cell-at-kingston-university-256472/"
+        }
+      ]
+    },
+    {
+      "title": "3D Printing News Briefs, November 11, 2026: Financing, Distributor, Kickstarter, & More",
+      "category": "應用／科研",
+      "summary": "We’re starting off with exciting AMUG news in today’s 3D Printing News Briefs, as Neil Hopkinson was selected for the 2027 Innovators Award. Then we’ll move on to business, with Titomic securing EXIM financing, VoxTech3D appointed an exclusive distributor for Nano-XS3DTech Manufa",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336542/3d-printing-news-briefs-11-11-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Push Button Metal: Market Overview 2026",
+      "category": "材料",
+      "summary": "Pioneered by Xact Metal , low-cost metal printing could break open the LPBF market and make it much bigger than it is now. OneClickMetal showed us how canisters and ease of use could get you an accessible system that could work on a carpeted floor. But Xact and OneClick sell syst",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333880/push-button-metal-market-overview-2026/"
+        }
+      ]
+    },
+    {
+      "title": "NodeZERO: SPEE3D Plans 50-Site Metal AM Network Across Asia-Pacific Region",
+      "category": "材料",
+      "summary": "Earlier this year I wrote about SPEE3D ‘s expeditionary manufacturing case study, in which it collaborated with the Tennessee Army National Guard . My take was that this was a perfect example of the company’s dominant metal additive manufacturing (AM) innovation strategy, which f",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336474/nodezero-spee3d-plans-50-site-metal-am-network-across-asia-pacific-region/"
+        }
+      ]
+    },
+    {
+      "title": "AM Investment Strategies 2026: Where 3D Printing Investment Is Going",
+      "category": "材料",
+      "summary": "Which parts of the 3D printing industry are growing, who’s buying, and where’s the money going? At the AM Investment Strategies webinar on November 5, executives discussed how customer orders are changing, what it costs to make metal and plastic parts at scale, and where AI is st",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336532/am-investment-strategies-2026-where-3d-printing-investment-is-going/"
+        }
+      ]
+    },
+    {
+      "title": "Why Engineers are Forced to Create Junk Designs",
+      "category": "材料",
+      "summary": "It’s become a bit of a platitude to state that products were manufactured better in ‘the olden days’, but as [The Meandrous Engineer] covers in a recent video essay , the truth is a lot more greyscale and nuanced than something so trite. The very short version is that it is the d",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/11/why-engineers-are-forced-to-create-junk-designs/"
+        }
+      ]
+    },
+    {
+      "title": "Inside 10 Millimetres: How SYZMIK and Carbon Rethought Protective Padding",
+      "category": "硬件／產業",
+      "summary": "Developing its X7C+ headband with Carbon allowed SYZMIK to tune impact protection and comfort within a constrained space, while avoiding tooling commitments that can discourage further improvement. SYZMIK Sports had approximately 10 millimetres in which to improve its protective ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/inside-10-millimetres-how-syzmik-and-carbon-rethought-protective-padding-256457/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 25
+}
