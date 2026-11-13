@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T03:24:46.493Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-11-13",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（fetch failed）。",
+  "items": [
+    {
+      "title": "Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications",
+      "category": "軟件／開源",
+      "summary": "For most people, just getting any old microcontroller or system on chip (SoC) from our favorite – or cheapest – vendor is more than good enough. But if you’re really into high assurance computing where every transistor has to be accounted for, you got a bit of a problem. This is ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/12/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/"
+        }
+      ]
+    },
+    {
+      "title": "Lynxel Unveils New Resin 3D Printers Supporting 300,000 cP Viscosity",
+      "category": "材料",
+      "summary": "If you run a small manufacturing shop or a product design studio, you’ve watched consumer resin printers get remarkably capable over the past few years. Budget machines can now handle tougher engineering resins, and the print quality is genuinely impressive. But there are still l",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Resin",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/lynxel-unveils-new-resin-3d-printers-supporting-300000-cp-viscosity-256559/"
+        }
+      ]
+    },
+    {
+      "title": "Rosswag Engineering, qualloy & EPlus3D Launch Validated Metal Powders",
+      "category": "材料",
+      "summary": "EPlus3D , Rosswag , and qualloy have had a partnership in place since April 2026, with an MOU that focused on trying to build a manufacturing tool chain together . Now the trio has announced a validated powder range in 316L and 17-4PH. More materials in the Eplus3D select range a",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336452/rosswag-engineering-qualloy-eplus3d-launch-validated-metal-powders/"
+        }
+      ]
+    },
+    {
+      "title": "How Haddy Landed Disney, and Why That Matters for 3D Printing",
+      "category": "硬件／產業",
+      "summary": "The Walt Disney Company relies on a wide network of partners to build its parks and attractions. But bringing a new way of making things into that system—and putting it to work in a live park—is something else entirely. That’s where Haddy comes in. Through its work with Walt Disn",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/325078/how-haddy-landed-disney-and-why-that-matters-for-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "BCN3D’s Aurora 3D Printer Generates Parts using AI Parametric Design: Technical Specifications and Pricing",
+      "category": "材料",
+      "summary": "3D printer manufacturer BCN3D has introduced Aurora, an industrial fused filament fabrication (FFF) 3D printer with built-in AI parametric design. Aurora’s headline claim is that users need no 3D design to produce a part. The printer runs on BCN3D’s IDEX technology, which the com",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "FDM",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bcn3ds-aurora-3d-printer-generates-parts-using-ai-parametric-design-technical-specifications-and-pricing-256521/"
+        }
+      ]
+    },
+    {
+      "title": "Renishaw LIBERTAS Software Reduces Support Structures in Metal 3D Printing",
+      "category": "軟件／開源",
+      "summary": "Renishaw, a global engineering technologies company, has released LIBERTAS, software for its RenAM 500 series metal additive manufacturing (metal AM) systems that lets operators adjust laser parameters in more detail. The company’s support reduction package, built on the software",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/renishaw-libertas-software-reduces-support-structures-in-metal-3d-printing-256493/"
+        }
+      ]
+    },
+    {
+      "title": "Creality Launches mBox 3D Printer for Children: Technical Specifications and Pricing",
+      "category": "硬件／產業",
+      "summary": "Creality has released mBox, a desktop 3D printer that children operate themselves. It is aimed at young users between 6 and 16 who like drawing, block building, model making, DIY projects or technology, whether they print alone or with a parent. The launch takes Creality’s 3D pri",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Creality"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/creality-launches-mbox-3d-printer-for-children-technical-specifications-and-pricing-256411/"
+        }
+      ]
+    },
+    {
+      "title": "Snowbird reveals metal 3D printing cost and lead-time results from RIMPAC 2026",
+      "category": "材料",
+      "summary": "US-based manufacturer of deployable manufacturing systems Snowbird Technologies has released results from its participation in RIMPAC 2026, where its SAMM Tech hybrid manufacturing platform produced metal replacement parts aboard the USS Essex and at Schofield Barracks in Hawaii.",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/snowbird-reveals-metal-3d-printing-cost-and-lead-time-results-from-rimpac-2026-256467/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 24
+}
