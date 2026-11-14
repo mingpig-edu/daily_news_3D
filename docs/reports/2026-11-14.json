@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T03:15:02.184Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-11-14",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（fetch failed）。",
+  "items": [
+    {
+      "title": "$500M Round Enables VulcanForms to Add 3 New AM Factories, Double Its Workforce",
+      "category": "安全",
+      "summary": "With its latest funding round of $500 million , following a funding round just 10 months ago in which it brought in $220 million , Massachusetts-based VulcanForms now has cumulative all-time funding of just over a billion dollars. But, as striking as those figures are, they’re no",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336874/500m-round-enables-vulcanforms-to-add-3-new-am-factories-double-its-workforce/"
+        }
+      ]
+    },
+    {
+      "title": "Hackaday Podcast Episode 394: Linux in Weird Places, Yet More Hidden SDRs, and a Supercon Wrapup",
+      "category": "材料",
+      "summary": "Hackaday Editors Elliot Williams and Tom Nardi are back from Supercon, and they’ve got plenty of thoughts to share about it. But before they discuss this weekend’s higlights, they’ll cover the recent scuttling of the legendary SS United States , the discovery of even more hidden ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/13/hackaday-podcast-episode-394-linux-in-weird-places-yet-more-hidden-sdrs-and-a-supercon-wrapup/"
+        }
+      ]
+    },
+    {
+      "title": "To the VICTOR Belong the Spoils: Army 3D Prints Heavy-Fuel Rotary Engine",
+      "category": "應用／科研",
+      "summary": "A US Army project has led to the 3D printing of a multi-fuel engine. Also called a heavy fuel engine, jet fuel engine, or kerosene engine, these engines are a mainstay for UAVs and other craft. They can run on JP-8 and other fuels. This simplifies the military’s supply chain and ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336590/to-the-victor-belong-the-spoils-army-3d-prints-heavy-fuel-rotary-engine/"
+        }
+      ]
+    },
+    {
+      "title": "iAM Marketplace to demonstrate injection molding with RG 3280 printed tooling at Formnext 2026",
+      "category": "材料",
+      "summary": "Live polypropylene molding and examples of dissolvable xMOLD tooling will show how printed molds can support product development in intended thermoplastics. iAM Marketplace will demonstrate injection molding with 3D printed Ultracur3D RG 3280 tooling at Formnext 2026, using an AP",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/iam-marketplace-to-demonstrate-injection-molding-with-rg-3280-printed-tooling-at-formnext-2026-256615/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys and Nano Dimension Cancel $42.5M Markforged Deal",
+      "category": "材料",
+      "summary": "Stratasys (Nasdaq: SSYS ) will no longer acquire Markforged from Nano Dimension (Nasdaq: NNDM ) after the two companies agreed to cancel their $42.5 million deal. The decision, announced on November 12, 2026, comes nearly six months after the acquisition was first announced , and",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336846/stratasys-and-nano-dimension-cancel-42-5m-markforged-deal/"
+        }
+      ]
+    },
+    {
+      "title": "Mosquito Dreams Part 5: Bakelite With a Bird Strike",
+      "category": "材料",
+      "summary": "The De Havilland Mosquito was a remarkably successful aircraft. Though not as lauded as the Spitfire, it still played an important role in special missions, taking the fight to the Nazis and serving as a true multirole aircraft suited to the myriad roles assigned to it. Built acr",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/333079/mosquito-dreams-part-5-bakelite-with-a-bird-strike/"
+        }
+      ]
+    },
+    {
+      "title": "ATLIX to Showcase xBUILD 5000 and Robotic Automation at Formnext 2026",
+      "category": "材料",
+      "summary": "ATLIX, a metal additive manufacturing systems provider, will present its complete machine portfolio, customer applications and an automation concept at Formnext 2026 in Frankfurt from 17 to 20 November, marking its second appearance at the event since its carve-out from TRUMPF. A",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/atlix-to-showcase-xbuild-5000-and-robotic-automation-at-formnext-2026-256543/"
+        }
+      ]
+    },
+    {
+      "title": "PPprint Introduces Flexible P-TPO 835 Filament for Polypropylene 3D Printing",
+      "category": "材料",
+      "summary": "PPprint GmbH, a company offering polypropylene materials and accessories for extrusion-based 3D printing, has introduced P-TPO 835 flex, a flexible filament for soft, adaptable and impact-resistant parts. Listed properties include low weight, chemical resistance, strong layer adh",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ppprint-introduces-flexible-p-tpo-835-filament-for-polypropylene-3d-printing-256460/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 23
+}
