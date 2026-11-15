@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T02:39:23.559Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-11-15)",
+  "summary": "今日 3D 列印產業亮點聚焦於資本巨額注資、併購告吹與前沿工程應用。VulcanForms 獲 5 億美元融資以擴建積層製造工廠；Stratasys 與 Nano Dimension 終止收購 Markforged 協議；美軍成功以 3D 列印研發無人機多燃料轉子引擎；科研方面，LLNL 透過雙光子聚合技術大幅縮減核融合靶標組件製作時間。",
+  "items": [
+    {
+      "title": "VulcanForms 獲 5 億美元融資，將增建 3 座積層製造工廠",
+      "category": "產業",
+      "summary": "美國積層製造企業 VulcanForms 完成由摩根大通安全與韌性倡議及 Apollo Global Management 領投的 5 億美元融資，累計融資總額突破 10 億美元。該筆資金將用於增設 3 座新工廠，使製造基地數量翻倍。公司亦計劃於 2027 年底前將員工人數由 500 人擴增至 1,000 人。",
+      "why_it_matters": "巨額資金投入凸顯工業級金屬積層製造在大規模供應鏈生產中的戰略價值與擴展性。",
+      "tags": [
+        "VulcanForms",
+        "融資",
+        "金屬積層製造",
+        "工廠擴建"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336874/500m-round-enables-vulcanforms-to-add-3-new-am-factories-double-its-workforce/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 與 Nano Dimension 正式取消 4,250 萬美元 Markforged 收購協議",
+      "category": "產業",
+      "summary": "Stratasys 與 Nano Dimension 雙方同意終止原訂價值 4,250 萬美元的 Markforged 收購交易。根據美國證交會文件，兩家公司認為該項交易獲取監管審批所需的時間將大幅超出預期，且產生的合規成本亦過於昂貴。這項收購原於 5 月宣佈，歷經約半年後正式告吹。",
+      "why_it_matters": "反映 3D 列印市場整併面臨嚴格的法規審查阻力，各大 OEM 廠商重整資產結構更趨謹慎。",
+      "tags": [
+        "Stratasys",
+        "Nano Dimension",
+        "Markforged",
+        "收購",
+        "併購取消"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336846/stratasys-and-nano-dimension-cancel-42-5m-markforged-deal/"
+        }
+      ]
+    },
+    {
+      "title": "美國陸軍成功 3D 列印 VICTOR 無人機多燃料轉子引擎",
+      "category": "應用",
+      "summary": "美軍 DEVCOM 陸軍研究實驗室透過 3D 列印技術打造出專為無人機設計的 VICTOR 混合動力轉子引擎，並與 400 伏特馬達發電機相結合。該引擎可使用 JP-8 等重質燃料運行，有助簡化軍事後勤補給鏈。此研發項目旨在應對大規模無人機製造需求及多燃料適應性難題。",
+      "why_it_matters": "積層製造成功驗證了複雜多燃料推進系統的製造可行性，為國防與無人機供應鏈提供關鍵技術支援。",
+      "tags": [
+        "國防應用",
+        "美軍",
+        "無人機",
+        "多燃料引擎",
+        "金屬3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336590/to-the-victor-belong-the-spoils-army-3d-prints-heavy-fuel-rotary-engine/"
+        }
+      ]
+    },
+    {
+      "title": "LLNL 採用雙光子聚合技術，將核融合靶標組件製作縮減至一天",
+      "category": "科研",
+      "summary": "勞倫斯利佛摩國家實驗室（LLNL）利用微尺度雙光子聚合（2PP）光固化技術，一體成型列印國家點火設施（NIF）靶標所需的複合拋物面聚光器（CPC）。該技術將單一部件的生產週期由原先的十天大幅縮減至一天。此項製造進展亦為未來的靶標結構開拓了全新設計空間。",
+      "why_it_matters": "微尺度高精細 2PP 技術有效突破高能物理科研組件的製造瓶頸，大幅提升實驗迭代效率。",
+      "tags": [
+        "LLNL",
+        "雙光子聚合",
+        "2PP",
+        "核融合",
+        "微奈米列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/llnl-cuts-nif-target-component-production-from-ten-days-to-one-with-two-photon-polymerization-256578/"
+        }
+      ]
+    },
+    {
+      "title": "PPprint 推出高彈性 P-TPO 835 聚丙烯線材",
+      "category": "材料",
+      "summary": "德國材料商 PPprint 發表針對擠出成型 3D 列印開發的柔性耗材 P-TPO 835 flex，適用於製造柔軟、具備抗衝擊及高適應性的聚丙烯部件。該材料具備輕量化、抗化學性、優異層間結合力、耐水性佳及可重複回收等特性。此外，該線材已通過 DIN EN ISO 10993-5 生物安全認證並支援滅菌處理。",
+      "why_it_matters": "為需要生物相容性及高抗化學腐蝕的醫療和工業柔性部件提供了標準化的 FDM 解決方案。",
+      "tags": [
+        "PPprint",
+        "FDM耗材",
+        "聚丙烯",
+        "TPO",
+        "生物相容"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ppprint-introduces-flexible-p-tpo-835-filament-for-polypropylene-3d-printing-256460/"
+        }
+      ]
+    },
+    {
+      "title": "ADDMAN 採購 81 部 HP Jet Fusion 5620 Pro 擴大產能",
+      "category": "硬件",
+      "summary": "積層製造服務商 ADDMAN 宣佈引入 81 部 HP Jet Fusion 5620 Pro 系統，以解決因內部投資放緩而將訂單外包給其他代工廠的問題。旗下收購的 Forecast 3D 過去一直將工單委外，該批新設備進駐將顯著強化內部批量製造能力。HP 高管指出，產業焦點正從單純推銷硬件轉向解決實際規模化代工需求。",
+      "why_it_matters": "單一服務商的大規模批量裝機顯示工業聚合物 3D 列印在端到端製造市場的產能需求持續攀升。",
+      "tags": [
+        "HP",
+        "Multi Jet Fusion",
+        "ADDMAN",
+        "工業3D列印",
+        "產能擴張"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/dont-try-to-sell-printers-hps-francois-minec-on-addmans-81-machine-expansion-256680/"
+        }
+      ]
+    },
+    {
+      "title": "AltForm 將於 Formnext 2026 推出 ZENIT 模組化 DED 列印工作站",
+      "category": "硬件",
+      "summary": "意大利金屬 AM 製造商 AltForm 預計於法蘭克福 Formnext 2026 展出 ZENIT Modular 定向能量沉積（DED）系統。該系列涵蓋 2x2 米至 4x4 米共三種尺寸規格，專為製造鈦合金與鋁合金大型零件而設計。其模組化架構容許製造商在購置後按需添置工作模組以靈活擴充生產能力。",
+      "why_it_matters": "可擴充式大型 DED 單元降低了航太與重工業客戶部署巨型金屬積層製造方案的前期門檻。",
+      "tags": [
+        "AltForm",
+        "DED",
+        "金屬3D列印",
+        "Formnext 2026",
+        "模組化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/altform-to-debut-expandable-zenit-modular-ded-cells-for-titanium-and-aluminum-parts-at-formnext-2026-256572/"
+        }
+      ]
+    },
+    {
+      "title": "Rosswag、qualloy 與 EPlus3D 聯合推出認證金屬粉末",
+      "category": "材料",
+      "summary": "EPlus3D、Rosswag Engineering 及 qualloy 自四月簽訂合作協議後，正式推出獲驗證的 316L 和 17-4PH 不銹鋼粉末系列。該材料由 EPlus3D 德國進行測試列印，Rosswag 負責檢測與工藝參數驗證，qualloy 則提供現貨於線上平台供應。三方致力於建立標準化工具鏈，以小批量現貨縮短金屬粉末供貨期至 5 天內。",
+      "why_it_matters": "設備原廠、測試機構與材料分銷商的深度合作，有助於解決金屬積層製造參數調配繁瑣與材料交付延遲的問題。",
+      "tags": [
+        "EPlus3D",
+        "Rosswag",
+        "qualloy",
+        "金屬粉末",
+        "材料認證"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336452/rosswag-engineering-qualloy-eplus3d-launch-validated-metal-powders/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
