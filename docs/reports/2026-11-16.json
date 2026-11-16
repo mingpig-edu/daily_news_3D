@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T02:43:38.385Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-11-16)",
+  "summary": "今日 3D 列印業界焦點包括大型併購生變與巨額融資：Stratasys 與 Nano Dimension 因監管時程過長取消對 Markforged 的收購協議，而金屬 AM 巨頭 VulcanForms 則完成 5 億美元融資以擴建新工廠。技術研發方面，開源社群迎來支援標準 3 軸打印機的非平面切片軟件 PancakeSlicer，科研端則見證雙光子聚合技術為核聚變實驗靶材帶來生產突破。",
+  "items": [
+    {
+      "title": "Stratasys 與 Nano Dimension 終止 4,250 萬美元收購 Markforged 協議",
+      "category": "產業",
+      "summary": "Stratasys 宣佈與 Nano Dimension 達成共識，雙方同意取消原定價值 4,250 萬美元收購 Markforged 的交易案。相關公告於 11 月 12 日發佈，雙方在遞交給美國證券交易委員會的文件中指出，完成交易所需的監管審批時間遠超預期且成本更高，因而決定和平終止協議。",
+      "why_it_matters": "這場主要工業級 3D 打印企業併購的告吹，反映出積層製造跨國整併面臨愈發繁複的監管審查壓力。",
+      "tags": [
+        "Stratasys",
+        "Nano Dimension",
+        "Markforged",
+        "收購",
+        "產業併購"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336846/stratasys-and-nano-dimension-cancel-42-5m-markforged-deal/"
+        }
+      ]
+    },
+    {
+      "title": "VulcanForms 完成 5 億美元融資，將增建 3 間積層製造工廠",
+      "category": "產業",
+      "summary": "總部位於麻省的 VulcanForms 宣佈完成最新一輪 5 億美元融資，歷來累計總融資額已突破 10 億美元。該輪融資由摩根大通安全與韌性倡議及阿波羅全球管理領投，資金將用於建造 3 間全新工廠，使製造基地數量倍增，並預計於 2027 年底前將員工人數擴編一倍至 1,000 人。",
+      "why_it_matters": "這筆龐大資金注入顯示出機構投資者對大型工業級金屬增材製造與本土國防製造供應鏈的高度信心。",
+      "tags": [
+        "VulcanForms",
+        "融資",
+        "金屬3D打印",
+        "工業製造"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336874/500m-round-enables-vulcanforms-to-add-3-new-am-factories-double-its-workforce/"
+        }
+      ]
+    },
+    {
+      "title": "PancakeSlicer 推出：為標準 3 軸打印機提供非平面切片功能",
+      "category": "軟件",
+      "summary": "Alpaca Engineering 開發者 Zimeng Xiong 發表非平面切片軟件 PancakeSlicer，旨在消除階梯狀表面紋理並減少支撐結構。該切片器專為普通 3 軸打印機設計，展示案例採用 Bambu Lab A1 Mini，其非平面路徑主要受打印頭噴嘴周圍的淨空高度所限制。",
+      "why_it_matters": "非平面切片以往受限於專用多軸系統或複雜設置，新軟件降低了門檻，讓普及型 FDM 桌面機也能列印出極度平滑的曲面頂層。",
+      "tags": [
+        "非平面打印",
+        "PancakeSlicer",
+        "Bambu Lab",
+        "FDM",
+        "切片軟件"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/"
+        }
+      ]
+    },
+    {
+      "title": "PPprint 推出通過生物安全認證的 P-TPO 835 柔性線材",
+      "category": "材料",
+      "summary": "專注於聚丙烯打印方案的德國 PPprint GmbH 推出全新柔性線材 P-TPO 835 flex，專為製造柔軟、高適應性與抗衝擊零件而設。官方數據顯示該材料具備低重量、耐化學腐蝕、高層間黏合力、可回收及不吸水等特點，並已取得 DIN EN ISO 10993-5 生物安全認證。",
+      "why_it_matters": "兼具柔性與醫療級生物相容認證的聚丙烯線材，為醫療護具及抗化學衝擊件提供了更可靠的擠出耗材選擇。",
+      "tags": [
+        "PPprint",
+        "聚丙烯",
+        "柔性材料",
+        "耗材",
+        "生物相容性"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/ppprint-introduces-flexible-p-tpo-835-filament-for-polypropylene-3d-printing-256460/"
+        }
+      ]
+    },
+    {
+      "title": "LLNL 採用雙光子聚合技術，將核聚變靶材製造時間由十天縮減至一日",
+      "category": "科研",
+      "summary": "美國勞倫斯利佛摩國家實驗室（LLNL）利用雙光子聚合（2PP）超高精度激光微納增材製造工藝，為國家點火設施（NIF）生產複合拋物面聚光器（CPC）實驗靶材組件。一體成型的打印方式將單件生產時間從原本的十天縮短至一天，同時實現了以往無法達成的靶材設計結構。",
+      "why_it_matters": "微納級高精度 3D 打印在極端科研實驗領域展現出突破傳統加工極限的生產效率與幾何自由度。",
+      "tags": [
+        "LLNL",
+        "雙光子聚合",
+        "2PP",
+        "核聚變",
+        "精密科研"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/llnl-cuts-nif-target-component-production-from-ten-days-to-one-with-two-photon-polymerization-256578/"
+        }
+      ]
+    },
+    {
+      "title": "美國陸軍 DEVCOM 3D 列印 VICTOR 重油轉子混合動力引擎",
+      "category": "應用",
+      "summary": "美國陸軍作戰能力發展司令部陸軍研究實驗室（DEVCOM ARL）成功利用 3D 列印技術製造出專為無人機設計的 VICTOR 混合動力轉子引擎。該引擎配備 400 伏特發電機，支援 JP-8 等重油或航空煤油燃燒，有助大幅簡化軍事物流與戰地燃料供應鏈。",
+      "why_it_matters": "多燃料重油引擎的增材製造驗證了 3D 打印在加速無人載具動力系統敏捷製造中的實戰價值。",
+      "tags": [
+        "美國陸軍",
+        "引擎",
+        "無人機",
+        "金屬增材",
+        "國防應用"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336590/to-the-victor-belong-the-spoils-army-3d-prints-heavy-fuel-rotary-engine/"
+        }
+      ]
+    },
+    {
+      "title": "AltForm 將於 Formnext 2026 發表 ZENIT 模組化 DED 金屬打印單元",
+      "category": "硬件",
+      "summary": "意大利金屬增材製造商 AltForm 宣佈將於法蘭克福 Formnext 2026 展出全新 ZENIT Modular 定向能量沉積（DED）加工單元系列。該設備專為鈦合金和鋁合金大型部件製造而設，提供從 2x2 米到 4x4 米共三種尺寸規格，並允許客戶在購買後依產能需求追加模組擴充。",
+      "why_it_matters": "可隨產能需求後續擴充的 DED 模組化架構，降低了航天與重工業客戶導入超大型金屬 3D 打印時的初始投資門檻。",
+      "tags": [
+        "AltForm",
+        "DED",
+        "金屬3D打印",
+        "Formnext",
+        "模組化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/altform-to-debut-expandable-zenit-modular-ded-cells-for-titanium-and-aluminum-parts-at-formnext-2026-256572/"
+        }
+      ]
+    },
+    {
+      "title": "CMYKForge 開發者啟動 OpticalShift 開源專案，探索 3D 列印光學色彩漸變",
+      "category": "開源",
+      "summary": "曾開發多色混色擠出切片工具 CMYKForge 的 Grayson Carpenter 宣佈展開新研究項目 OpticalShift。該技術旨在利用光學科學與半透明材質在 3D 列印零件上實現變色效果，作者承諾將以公開研究模式陸續公開相關演算法、研究文章與技術規範。",
+      "why_it_matters": "該項目有望在不依賴昂貴的多噴頭或特殊變色耗材的前提下，透過開源演算法實現複雜的光學色彩變化效果。",
+      "tags": [
+        "OpticalShift",
+        "開源",
+        "色彩切片",
+        "FDM",
+        "光學效果"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336600/opticalshift-to-give-color-shift-effects-to-3d-printed-parts/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 19
+}
