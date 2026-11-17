@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T05:04:56.686Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：Bambu Lab 推出歐州在地服務網絡、Axtra3D 發佈 Volume 1.3 與後處理設備",
+  "summary": "今日 3D 列印情報聚焦 Formnext 2026 前夕的重點動態。Bambu Lab 發表「Bambu Circle」深化歐洲本地服務與生態圈；Axtra3D 與 Meshy 分別於切片軟件與 AI 建模領域迎來功能更新。此外，英國多項學術轉化項目如金屬、陶瓷與噴墨列印技術亦展現了最新硬件與科研成果。",
+  "items": [
+    {
+      "title": "Bambu Lab 推出「Bambu Circle」區域服務網絡網絡",
+      "category": "產業",
+      "summary": "Bambu Lab 於 Formnext 展會前夕宣佈推出「Bambu Circle」服務網絡，旨在建立歐洲在地合作夥伴系統，提供 3D 列印服務、耗材與設備銷售、培訓及 MakerWorld 整合支援。該計劃首階段將於荷蘭、德國及法國推行，最終目標是讓歐洲用戶在 1 小時車程內即可接觸到授權合作夥伴。",
+      "why_it_matters": "Bambu Lab 將業務延伸至在地化服務與實體經銷培訓網絡，著力深化歐洲市場生態圈。",
+      "tags": [
+        "Bambu Lab",
+        "Bambu Circle",
+        "3D列印服務",
+        "MakerWorld"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336804/bambu-wants-to-run-circles-around-you/"
+        }
+      ]
+    },
+    {
+      "title": "Axtra3D 發佈 Volume 1.3 切片軟件與全新後處理設備",
+      "category": "軟件",
+      "summary": "Axtra3D 發表全新 Volume Professional 1.3 及 Volume Industrial 1.3 切片與排版軟件，支援優化的支架生成與碰撞檢測功能。此外，該公司亦聯同 Arkema 推出全新難燃（FR）材料，並發表配套的清洗與固化後處理設備。",
+      "why_it_matters": "Axtra3D 透過整合前段切片排版與後處理設備，為光固化 3D 列印提供更完整的工業級工作流程。",
+      "tags": [
+        "Axtra3D",
+        "切片軟件",
+        "光固化",
+        "後處理"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336577/axtra-rolls-out-new-software-wash-and-cure-systems/"
+        }
+      ]
+    },
+    {
+      "title": "Meshy 推出 AI 3D 模型區域編輯工具「Meshy Edit」",
+      "category": "軟件",
+      "summary": "生成式 AI 3D 模型平台 Meshy 推出最新工具「Meshy Edit」，讓使用者能透過單一文字指令修飾 3D 模型的指定區域，同時保留其他部分不變。該工具致力簡化 AI 產出 3D 模型的二次修改流程，提高模型可用性。",
+      "why_it_matters": "解決了生成式 AI 3D 模型難以局部微調的痛點，大幅提升 3D 建模與列印前製效率。",
+      "tags": [
+        "AI 建模",
+        "Meshy",
+        "3D模型",
+        "生成式AI"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/review-meshy-edit-brings-one-prompt-fixes-to-ai-3d-models-256606/"
+        }
+      ]
+    },
+    {
+      "title": "創作者發表 OpticalShift 專案 研發 FDM 漸變色彩特效技術",
+      "category": "科研",
+      "summary": "曾開發 CMYKForge 的創作者 Grayson Carpenter 啟動全新研究專案「OpticalShift」，專注於利用半透明材料與色彩光學原理，在熔融堆積（FFF/FDM）3D 列印中實現變色與漸變特效。作者採用公開研發過程模式，將陸續發表研究文章與參數定義。",
+      "why_it_matters": "透過光學與材料特性探索新型色彩表現手法，為少數噴頭架構下的多色 FDM 列印帶來新思路。",
+      "tags": [
+        "FDM",
+        "OpticalShift",
+        "多色列印",
+        "開源研究"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336600/opticalshift-to-give-color-shift-effects-to-3d-printed-parts/"
+        }
+      ]
+    },
+    {
+      "title": "Wayland Additive 引進半導體技術 解決電子束金屬 3D 列印粉末飛濺",
+      "category": "硬件",
+      "summary": "英國金屬 3D 列印設備商 Wayland Additive 借鑑半導體領域技術，成功解決金屬電子束（EB-PBF）列印過程中粉末因靜電飛濺的問題。該技術除了提升列印過程穩定度外，亦為控制金屬微觀結構提供了全新的控制維度。",
+      "why_it_matters": "突破傳統電子束金屬 3D 列印的材料與過程限制，顯著提高金屬積層製造的可靠度與品質。",
+      "tags": [
+        "金屬3D列印",
+        "Wayland Additive",
+        "電子束",
+        "半導體技術"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/uk-additive-manufacturing-how-wayland-additive-brought-semi-con-tech-to-metal-am-256771/"
+        }
+      ]
+    },
+    {
+      "title": "Hydra Manufacturing 研發具自我糾錯功能之陶瓷 3D 列印機",
+      "category": "硬件",
+      "summary": "由英國列斯大學（University of Leeds）衍生創立的 Hydra Manufacturing 推出具備即時監測與自我修復錯誤功能的陶瓷 3D 列印機。該公司成立首星期即售出首台設備，目前正重點協助客戶利用自家材料進行積層製造驗證。",
+      "why_it_matters": "將即時閉環監控與自我修正引進陶瓷 3D 列印，有助提升高價值工業陶瓷組件的良率。",
+      "tags": [
+        "陶瓷3D列印",
+        "Hydra Manufacturing",
+        "閉環監控",
+        "科研轉化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/uk-additive-manufacturing-hydra-manufacturing-teaches-a-ceramic-3d-printer-to-repair-its-own-mistakes-256744/"
+        }
+      ]
+    },
+    {
+      "title": "諾丁漢大學衍生企業 Added 推出 JetForge 噴墨 3D 列印設備",
+      "category": "硬件",
+      "summary": "英國諾丁漢大學衍生企業 Added 開發出名為 JetForge 的材料測試用噴墨 3D 列印設備。該項目最初為了解決研究人員無法購得合適測試設備的困境，現已轉化為商業化產品出售，輔助將新型功能性墨水轉化為實際製造製程。",
+      "why_it_matters": "為功能性材料與電子電路噴墨 3D 列印的研發及驗證提供了專用硬件平台。",
+      "tags": [
+        "噴墨3D列印",
+        "Added",
+        "JetForge",
+        "新材料測試"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/uk-additive-manufacturing-added-built-the-inkjet-printer-its-researchers-couldnt-buy-256767/"
+        }
+      ]
+    },
+    {
+      "title": "橡樹嶺國家實驗室（ORNL）探索物理生成式 AI 與進階影像在 AM 的應用",
+      "category": "科研",
+      "summary": "橡樹嶺國家實驗室（ORNL）研究人員 Amir Ziabari 與 Obaid Rahman 分享將數據科學、基於物理的計算影像學與生成式 AI 結合的最新研究。研究團隊正探索如何運用機器學習與進階檢測影像技術，預測並改進金屬與複雜積層製造的製程質量。",
+      "why_it_matters": "展示了頂尖國家實驗室如何將 AI 與光學檢測融合，開創積層製造物理預測與質量控制的新領域。",
+      "tags": [
+        "ORNL",
+        "人工智慧",
+        "計算影像",
+        "積層製造"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/334252/3dpod-3d-printing-at-ornl-part-iv-amir-ziabari-and-obaid-rahman/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 16
+}
