@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T04:20:19.897Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：Formnext 2026 盛大開幕，EOS、Stratasys 與 Bambu Lab 發表重磅新品",
+  "summary": "2026 年 11 月 18 日 Formnext 大展盛大舉行，各大廠商相繼發布重磅硬件與生態系統。EOS 與 Stratasys 分別推出全新高產量高分子 SLS 及 SAF 生產系統；Bambu Lab 亦宣佈在歐洲推行 Bambu Circle 本地服務網絡；此外，VulcanForms 大舉購入 200 台金屬 3D 打印機，顯示工業化量產需求持續強勁。",
+  "items": [
+    {
+      "title": "Bambu Lab 於 Formnext 發表 Bambu Circle 本地服務網絡",
+      "category": "產業",
+      "summary": "Bambu Lab 於 Formnext 展出全新 Bambu Circle 服務計畫，旨在於歐洲建立本地合作夥伴網絡，提供 3D 打印服務、社群支援、耗材與打印機銷售及培訓。該計畫將與 MakerWorld 深度整合，並率先於荷蘭、德國及法國試行。Bambu Lab 的長遠目標是讓歐洲用戶均能在 1 小時車程內找到授權合作夥伴。",
+      "why_it_matters": "這代表 Bambu Lab 從桌面硬件製造商進一步拓展至在地化服務與生態系統營運。",
+      "tags": [
+        "Bambu Lab",
+        "Bambu Circle",
+        "MakerWorld",
+        "Formnext 2026",
+        "服務網絡"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336804/bambu-wants-to-run-circles-around-you/"
+        }
+      ]
+    },
+    {
+      "title": "EOS 發布 HELIOR 三雷射高分子 SLS 3D 打印機",
+      "category": "硬件",
+      "summary": "EOS 於 Formnext 2026 推出大型選擇性雷射燒結（SLS）系統 HELIOR，專為提升工業高分子打印經濟效益而設。該機器配備三部 80W 雷射器、動態負載平衡、可調式刮刀與新版製程控制軟件。EOS 表示其產能最高可提升 80%，並能大幅縮短清粉時間。",
+      "why_it_matters": "大幅提升高分子 SLS 的生產效率與經濟效益，推動高分子增材製造進入大規模量產。",
+      "tags": [
+        "EOS",
+        "HELIOR",
+        "SLS",
+        "高分子3D打印",
+        "Formnext 2026"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/eos-launches-helior-polymer-3d-printer-with-triple-lasers-and-up-to-80-higher-throughput-256624/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 推出 H550 SAF 打印機與 PowderEase T2 自動化清粉站",
+      "category": "硬件",
+      "summary": "Stratasys 在 Formnext 展出兩款新生產系統，包括擁有 34.2 公升建造空間的 H550 選擇性吸收熔融（SAF）3D 打印機，以及自動化打印後粉末處理站 PowderEase T2。其中 PowderEase T2 一台即可支援多達六部打印機的粉末處理。產品現已開放訂購並準備開始交付。",
+      "why_it_matters": "透過自動化粉末處理與更大幅面的 SAF 機器，顯著降低工業生產的後處理人力成本。",
+      "tags": [
+        "Stratasys",
+        "SAF",
+        "H550",
+        "PowderEase T2",
+        "自動化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/stratasys-launches-h550-saf-printer-at-formnext-double-capacity-one-station-for-six-machines-256417/"
+        }
+      ]
+    },
+    {
+      "title": "VulcanForms 採購 200 台 EOS M4 ONYX 金屬 3D 打印機",
+      "category": "產業",
+      "summary": "剛完成 5 億美元融資的 VulcanForms 宣布將採購 200 台 EOS M4 ONYX 雷射粉床熔融（LPBF）系統，並安裝於美國馬薩諸塞州 Devens 的廠房。VulcanForms 早期主要依靠自家開發的 LPBF 機器，如今引進大型商業設備以大規模拓展產能，服務消費品、醫療及國防等領域客戶。",
+      "why_it_matters": "展現金屬增材製造合約製造商正以前所未有的規模進行資本支出與產能擴充。",
+      "tags": [
+        "VulcanForms",
+        "EOS",
+        "LPBF",
+        "金屬3D打印",
+        "產業動態"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337106/vulcanforms-buys-200-eos-onyx-3d-printers/"
+        }
+      ]
+    },
+    {
+      "title": "華曙高科推出 FS722M 及 Flight HT1002P-CAMS 大型粉末床打印平台",
+      "category": "硬件",
+      "summary": "工業級增材製造廠商華曙高科（Farsoon）於 Formnext 2026 推出兩款大型粉末床熔融平台，分別為用於金屬打印的 FS722M 及用於高分子打印的 Flight HT1002P-CAMS。兩款系統均搭載連續增材製造解決方案（CAMS），利用卡匣式運作降低量產過程中的非打印停機時間。",
+      "why_it_matters": "大型化與連續生產模組的結合能進一步提高工業級金屬與高分子打印的產線運作效率。",
+      "tags": [
+        "Farsoon",
+        "華曙高科",
+        "FS722M",
+        "Flight HT1002P",
+        "Formnext 2026"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/farsoon-launches-fs722m-and-flight-ht1002p-cams-displays-support-free-titanium-hypercar-exhausts-at-formnext-256512/"
+        }
+      ]
+    },
+    {
+      "title": "Hackaday 評測鈦酸鉀晶鬚增強 PA 耗材 Poticon STD1",
+      "category": "材料",
+      "summary": "JanTec Engineering 測試了一款含有鈦酸鉀（TISMO）晶鬚的生物基聚酰胺耗材 Poticon STD1 NTL34M PA（LEXTER）。與傳統碳纖維或玻璃纖維相比，TISMO 晶鬚尺寸更小且磨蝕性較低，甚至可順暢配合 0.2 mm 微細噴嘴進行 FDM 打印。",
+      "why_it_matters": "為極細噴嘴高精度打印高強度工程塑膠提供了不堵塞、低磨損的新材料選擇。",
+      "tags": [
+        "TISMO",
+        "PA",
+        "尼龍耗材",
+        "FDM",
+        "材料測試"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/17/testing-tismo-whisker-reinforced-poticon-std1-pa-filament/"
+        }
+      ]
+    },
+    {
+      "title": "DyeMansion 推出針對 MJF 1200 的 Powershot Go 清粉清表面一體機",
+      "category": "硬件",
+      "summary": "高分子後處理設備商 DyeMansion 發表 Powershot Go，將去粉與機械表面處理功能整合至單一小型設備中。該系統與 HP 合作開發並通過驗證為 HP MJF 1200 打印機的合格配套方案，售價控制在 14,000 歐元以下，專為實驗室與中小型工作坊設計。",
+      "why_it_matters": "降低了專業級 MJF 後處理設備的門檻，讓中小規模使用者也能獲得工業級表面處理效果。",
+      "tags": [
+        "DyeMansion",
+        "HP MJF",
+        "Powershot Go",
+        "後處理",
+        "Formnext 2026"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/dyemansion-launches-e14k-powershot-go-post-processing-system-at-formnext-256772/"
+        }
+      ]
+    },
+    {
+      "title": "Axtra3D Lumia X1 生態系統擴充並取得阻燃材料 UL 藍卡認證",
+      "category": "材料",
+      "summary": "高速 SLA 廠商 Axtra3D 於 Formnext 發布多項更新，包括全新 Axtra Wash 與 Cure Series 1 後處理設備，以及 Volume 1.3 切片與排版軟件。同時，Axtra3D 與 Arkema 合作開發的光敏樹脂順利取得 UL Blue Card 阻燃認證，拓展了 Lumia X1 打印機在規範嚴格工業場景的應用。",
+      "why_it_matters": "結合安全認證材料與完備的洗滌固化軟件生態，有助於推動 SLA 技術在終端工業零件製造的應用。",
+      "tags": [
+        "Axtra3D",
+        "Lumia X1",
+        "SLA",
+        "UL Blue Card",
+        "阻燃樹脂"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/axtra3d-secures-ul-blue-card-for-flame-retardant-resin-on-lumia-x1-expands-production-ecosystem-at-formnext-2026-256516/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
