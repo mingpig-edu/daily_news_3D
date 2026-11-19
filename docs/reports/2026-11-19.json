@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T04:11:44.450Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-11-19",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（fetch failed）。",
+  "items": [
+    {
+      "title": "How Hough Transforms Enable Computers to See",
+      "category": "硬件／產業",
+      "summary": "Although identifying what we can see with our eyes feels like the most natural thing in the world, the responsible cognitive processes running on our brain’s wetware are quite a marvel. Even when pushed beyond their evolutionary design by e.g. driving a car at high speeds does ou",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/18/how-hough-transforms-enable-computers-to-see/"
+        }
+      ]
+    },
+    {
+      "title": "Formnext 2026 Day One: What if Peace Breaks Out?",
+      "category": "材料",
+      "summary": "Usually, Frankfurt kind of feels like some sunless, wind-battered, rain-soaked oil platform listing in the North Sea. Not this time. The weather is much nicer this year; it was crisp this morning as I bounded toward the event. Sluiced through security and three smiling Germans la",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337297/formnext-2026-day-one-what-if-peace-breaks-out/"
+        }
+      ]
+    },
+    {
+      "title": "The Mega Tamagotchi Manga Reader",
+      "category": "硬件／產業",
+      "summary": "You could read manga in the classic bound paper format. But then you’d have to carry around lots of volumes that take up lots of space. The way around this is to use an e-reader, that stores lots of manga in digital form. [Arnov Sharma] built his own themed after the classic Tama",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/18/the-mega-tamagotchi-manga-reader/"
+        }
+      ]
+    },
+    {
+      "title": "Beyond the Prototype: FibreSeek Brings Continuous Fiber Manufacturing to Small Engineering Teams",
+      "category": "材料",
+      "summary": "Continuous carbon fiber 3D printers offer a way to produce strong, lightweight parts, but the cost of industrial systems has kept it beyond the reach of many individual engineers and small teams. FibreSeek, a pioneer in desktop continuous fiber 3D printing, developed the FibreSee",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337074/beyond-the-prototype-fibreseek-brings-continuous-fiber-manufacturing-to-small-engineering-teams/"
+        }
+      ]
+    },
+    {
+      "title": "Why Nikon’s MACHX Could Be a Big Deal for Metal 3D Printing",
+      "category": "材料",
+      "summary": "Widely teased, Nikon SLM Solutions has launched the MACHX, a new modular LPBF platform that comes in three build envelope sizes. As Matt Kremenetsky reported in his initial coverage of the launch , the common platform could help manufacturers avoid overspecialization while retain",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336592/why-nikons-machx-could-be-a-big-deal-for-metal-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "New Revopoint MIRACO 2 3D Scanner Automates Scan-to-CAD Workflows",
+      "category": "軟件／開源",
+      "summary": "Standalone 3D scanners in 2026 can handle capture, meshing, and basic inspection without a PC. The manual post-processing that follows, turning scan data into finished CAD models or inspection reports, is still where most of the time goes. Shenzhen-based 3D scanner manufacturer R",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/new-revopoint-miraco-2-3d-scanner-automates-scan-to-cad-workflows-256908/"
+        }
+      ]
+    },
+    {
+      "title": "Addivate Expands Industrial 3D Printing Capacity with ROBOZE ARGO 1000 HYPERMELT",
+      "category": "材料",
+      "summary": "Italian additive manufacturing specialist Addivate is expanding its production capacity with the acquisition of a ROBOZE ARGO 1000 HYPERMELT system, following full utilization across four ARGO 500 HYPERSPEED machines. Addivate, which produces end-use components from advanced poly",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/addivate-expands-industrial-3d-printing-capacity-with-roboze-argo-1000-hypermelt-256711/"
+        }
+      ]
+    },
+    {
+      "title": "AXT and Stärke-AMG partner on Australian additive manufacturing capacity",
+      "category": "應用／科研",
+      "summary": "AXT, an Australian supplier of scientific and industrial equipment with an industrial 3D printing portfolio, has signed a Heads of Agreement with advanced manufacturing company Stärke-AMG to expand domestic additive manufacturing capacity for defence, aerospace, autonomous system",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/axt-and-starke-amg-partner-on-australian-additive-manufacturing-capacity-256804/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
