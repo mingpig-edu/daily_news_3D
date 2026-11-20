@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T03:58:16.745Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-11-20)",
+  "summary": "本期情報聚焦 Formnext 2026 大會亮點及開源工具突破。Bambu Lab 推出 Bambu Circle 拓展本地服務網絡；QIDI 與 Admatec 分別發表入門雙噴頭與模組化桌面陶瓷新機；Nikon SLM 推出高彈性金屬平台 MACHX。材料方面，Xenia 推出高抗衝擊 PEBA-CF 線材。開源社群則迎來離線建模工具 DabbleCAD 與自動網格轉 CAD 工具 Mesh2Cad。",
+  "items": [
+    {
+      "title": "Bambu Lab 於 Formnext 2026 推出 Bambu Circle 合作夥伴網絡",
+      "category": "產業",
+      "summary": "3D 列印設備商 Bambu Lab 於德國法蘭克福 Formnext 2026 正式公佈「Bambu Circle」項目。該計劃旨在建立官方授權的本地合作夥伴網絡，協助愛好者及創業者圍繞 3D 列印拓展業務。合作夥伴將提供機台維護、設備與耗材銷售、代印服務及技術培訓等本地化支援。",
+      "why_it_matters": "標誌著消費級龍頭將觸角大幅延伸至線下生態系統，有助補足分散式代印與本地技術支援鏈。",
+      "tags": [
+        "Bambu Lab",
+        "Bambu Circle",
+        "Formnext 2026",
+        "商業網絡",
+        "維修服務"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bambu-lab-introduces-bambu-circle-partner-network-at-formnext-2026-256985/"
+        }
+      ]
+    },
+    {
+      "title": "QIDI 發表 Q3D 雙獨立噴頭桌面 3D 列印機",
+      "category": "硬件",
+      "summary": "中國廠商 QIDI 於 Formnext 2026 展出全新桌面級 FDM 機型 Q3D。該機台配備兩個獨立熱端（IDEX），各自擁有獨立噴嘴與加熱控制系統。原廠將其定位為高性價比的多材料列印方案，允許用戶在單次作業中同時結合兩種不同熔點或特性的耗材。",
+      "why_it_matters": "為預算有限的用戶提供低門檻的多材料與可溶性支撐打印解決方案。",
+      "tags": [
+        "QIDI",
+        "Q3D",
+        "IDEX",
+        "FDM",
+        "雙噴頭"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/qidi-launches-q3d-dual-nozzle-3d-printer-at-formnext-2026-technical-specifications-and-pricing-256926/"
+        }
+      ]
+    },
+    {
+      "title": "Admatec 推出首款可升級桌面陶瓷 3D 列印機 Admaflex Discovery",
+      "category": "硬件",
+      "summary": "荷蘭陶瓷 3D 列印技術商 Admatec 發表首款桌面機型 Admaflex Discovery。該設備最大的特色在於採用可升級架構，用戶可由緊湊型基礎配置入手，隨後依需求升級為成型體積更大、性能更強的專業生產配置。該機器目前已於 Formnext 現身展出。",
+      "why_it_matters": "降低了工業與科研機構涉足高性能陶瓷 3D 列印的初期採購成本與風險。",
+      "tags": [
+        "Admatec",
+        "陶瓷3D列印",
+        "Admaflex Discovery",
+        "桌面級",
+        "模組化"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/admatec-launches-admaflex-discovery-desktop-ceramic-3d-printer-at-formnext-technical-specifications-and-pricing-256932/"
+        }
+      ]
+    },
+    {
+      "title": "Nikon SLM Solutions 推出 MACHX 模組化金屬 3D 列印平台",
+      "category": "硬件",
+      "summary": "Nikon SLM Solutions 發布全新模組化雷射粉末床熔融（LPBF）系統 MACHX。該系統具備三種不同成型尺寸，採用通用平台設計以避免設備過度專用化，兼顧生產彈性與大規模製造需求。官方著眼於工廠經濟性與機台升級潛力，主打中小型零件的高通量量產。",
+      "why_it_matters": "以模組化平台兼顧產能與擴展彈性，加速金屬積層製造走向批量標準化生產。",
+      "tags": [
+        "Nikon SLM Solutions",
+        "MACHX",
+        "LPBF",
+        "金屬3D列印",
+        "工業級"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336592/why-nikons-machx-could-be-a-big-deal-for-metal-3d-printing/"
+        }
+      ]
+    },
+    {
+      "title": "Xenia 發表 XECARB PEBA-CF 碳纖維增強彈性線材",
+      "category": "材料",
+      "summary": "意大利材料製造商 Xenia 於 Formnext 2026 推出了名為 XECARB PEBA-CF 的 FFF 3D 列印線材。該材料以聚醚嵌段醯胺（PEBA）為基底，並添加了 15% 的碳纖維成分。新線材兼顧了輕量化、高剛性以及出色的衝擊吸收能力，專為無人機機架與機器人等功能性承載部件設計。",
+      "why_it_matters": "填補了彈性基體與高剛性纖維增強材料之間的空白，適合高動態與抗撞擊應用。",
+      "tags": [
+        "Xenia",
+        "PEBA-CF",
+        "碳纖維",
+        "3D列印耗材",
+        "機器人"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/xenia-adds-15-carbon-fiber-to-peba-filament-for-stiff-impact-absorbing-drone-and-robotics-parts-256882/"
+        }
+      ]
+    },
+    {
+      "title": "開源離線 CAD 建模工具 DabbleCAD 正式亮相",
+      "category": "開源",
+      "summary": "針對目前眾多建模工具強制聯網或純瀏覽器運作的現狀，全新開源離線設計軟體 DabbleCAD 正式發布。該工具操作邏輯類似 TinkerCAD，採用基於基礎形狀的建模模式，支援形變、打孔等操作，可直接匯出 STL 或 3MF 供切片軟體使用。此外，它還內置針對 USB 介面 GRBL 雷射雕刻機的 G-code 輸出與控制功能。",
+      "why_it_matters": "為創客與教育界提供免受網路限制且整合雷雕輸出的輕量級開源設計方案。",
+      "tags": [
+        "DabbleCAD",
+        "開源軟體",
+        "CAD",
+        "離線工具",
+        "創客"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/19/dabblecad-takes-design-offline/"
+        }
+      ]
+    },
+    {
+      "title": "開源工具 Mesh2Cad 實現網格模型自動轉化為實體 CAD",
+      "category": "軟件",
+      "summary": "開發者 Emir Mrkaljevic 推出開源項目 Mesh2Cad，解決創客下載 STL 網格檔案後難以在 CAD 軟體中直接編輯的痛點。該程式能夠自動將三角網格逆向轉換為參數化或實體 CAD 格式。除了支援通用的 STEP 格式外，它還可直接生成對應 FreeCAD 巨集、CadQuery 或 OpenSCAD 腳本，方便進行二次建模。",
+      "why_it_matters": "大幅降低逆向工程與修改現成 3D 模型網格的門檻與手動重繪時間。",
+      "tags": [
+        "Mesh2Cad",
+        "STL轉CAD",
+        "逆向工程",
+        "FreeCAD",
+        "OpenSCAD"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/19/mesh2cad-automates-re-modelling/"
+        }
+      ]
+    },
+    {
+      "title": "Dyndrite 為 Xact Metal 金屬機台引入底層掃描卡直接控制",
+      "category": "軟件",
+      "summary": "積層製造軟體開發商 Dyndrite 與金屬 3D 列印廠商 Xact Metal 達成技術整合。透過 Dyndrite LPBF Pro 系統，使用者現可直接控制 Xact Metal 機台的掃描振鏡卡，支援原生圓弧及各類非線性路徑的直接程式設計。首批支援機型包括 XM200G 及 XM200G µHD 系列。",
+      "why_it_matters": "突破了傳統直線路徑逼近的限制，為平價金屬 3D 列印帶來更高的幾何精度與熔池控制力。",
+      "tags": [
+        "Dyndrite",
+        "Xact Metal",
+        "LPBF Pro",
+        "路徑規劃",
+        "金屬列印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/dyndrite-brings-full-toolpath-control-to-xact-metal-lpbf-3d-printers-256947/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
