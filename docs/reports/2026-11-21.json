@@ -1,0 +1,167 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T03:58:02.552Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-11-21",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（fetch failed）。",
+  "items": [
+    {
+      "title": "How Would You Break This Flexible PETG?",
+      "category": "材料",
+      "summary": "Polymaker has a new PETG formulation they bill as “unbreakable”, sold as G-Flex. Aside from the questionable choice of name, it certainly looks like good stuff in a recent video review by [3D Printing Nerd]. A little flex can go a long way to increasing durability — which PETG al",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Bambu Lab",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/20/how-would-you-break-this-flexible-petg/"
+        }
+      ]
+    },
+    {
+      "title": "Hackaday Podcast Episode 395: Pancake Slicer, RGB LED Origami, and Farting Synthesizers",
+      "category": "軟件／開源",
+      "summary": "This week, Elliot Williams and Kristina Panos met up in the super-secret studio to bring you some Hackaday news, a ‘lil something from the Mailbag, and wax nerdily about a whole lot of hacks. In the news, we’re hiring , so come join us! If you’re reading this, chances are good th",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/20/hackaday-podcast-episode-395-pancake-slicer-rgb-led-origami-and-farting-synthesizers/"
+        }
+      ]
+    },
+    {
+      "title": "ProMateria Starts Industrial Production of Additively Manufactured Metal Components",
+      "category": "材料",
+      "summary": "ProMateria GmbH, a metal additive manufacturing company launched by GMH Gruppe, has brought its production facility into operation after about 12 months of planning and implementation. The first batches of ready-to-install spare parts are scheduled to be manufactured in the comin",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/promateria-starts-industrial-production-of-additively-manufactured-metal-components-256668/"
+        }
+      ]
+    },
+    {
+      "title": "AMCM Integrates EOSPRINT with PanX for Thermomechanical Metal AM Simulation",
+      "category": "材料",
+      "summary": "AMCM GmbH, a German developer and manufacturer of additive manufacturing systems, has integrated EOSPRINT with PanX, a thermomechanical simulation platform developed by finite element analysis software company PanOptimization. The integration allows build data to move directly fr",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/amcm-integrates-eosprint-with-panx-for-thermomechanical-metal-am-simulation-256705/"
+        }
+      ]
+    },
+    {
+      "title": "SWISSto12 advances 3D printed antennas for 5G satellites",
+      "category": "硬件／產業",
+      "summary": "Swiss satellite and radio frequency technology manufacturer SWISSto12 has completed the Critical Design Review (CDR) for two active phased-array antennas being developed for French satellite communications company UNIVITY. The milestone clears the way for flight hardware producti",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/swissto12-advances-3d-printed-antennas-for-5g-satellites-256892/"
+        }
+      ]
+    },
+    {
+      "title": "Lithoz introduces CeraFab S65 Performance Pack with doubled light intensity at Formnext 2026",
+      "category": "應用／科研",
+      "summary": "Austrian ceramic 3D printer manufacturer Lithoz has introduced its new CeraFab S65 Performance Pack at Formnext 2026, upgrading the system’s light intensity and resolution through an optional 4K projection system. Available initially for the CeraFab System S65 and S65 Medical, th",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/lithoz-introduces-cerafab-s65-performance-pack-with-doubled-light-intensity-at-formnext-2026-256978/"
+        }
+      ]
+    },
+    {
+      "title": "Materialise Says 3D Printing Can Keep European Defense Drones From Becoming Obsolete",
+      "category": "材料",
+      "summary": "3D printing service bureau Materialise has asked European defense manufacturers and policymakers to coordinate the region’s additive manufacturing (AM) resources so they can work together as a defense production network. The company made the appeal at the AM Innovation and Standa",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/materialise-says-3d-printing-can-keep-european-defense-drones-from-becoming-obsolete-256948/"
+        }
+      ]
+    },
+    {
+      "title": "Co Print Quadro Changes Colors in One Second With Four Fixed Toolheads, Now on Kickstarter: Technical Specifications and Pricing",
+      "category": "硬件／產業",
+      "summary": "London- and Istanbul-based Co Print has launched a Kickstarter campaign for Quadro, a desktop fused deposition modeling (FDM) 3D printer with four independently driven toolheads on a single X-axis. The all-or-nothing campaign opened on November 12 and runs until December 7, 2026.",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "FDM"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/co-print-quadro-changes-colors-in-one-second-with-four-fixed-toolheads-now-on-kickstarter-technical-specifications-and-pricing-256877/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
