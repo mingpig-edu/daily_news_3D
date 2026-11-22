@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T03:09:57.251Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：Formnext 2026 技術亮點與前沿研發進展",
+  "summary": "本期情報聚焦 Formnext 2026 展會發佈的多項重磅成果：從 Fraunhofer 研發的超聲波金屬支撐自動去除技術、Stratasys 與 Lithoz 分別發表的工業級與陶瓷新硬件，到 Co Print 的桌面級多噴頭高速換色方案；同時涵蓋西門子結合 AI 生成設計機械人零件、歐洲體積 3D 列印千萬歐元資助項目以及 5G 航天衛星應用的最新里程碑。",
+  "items": [
+    {
+      "title": "Fraunhofer IAPT 研發超聲波自動去除金屬 3D 列印支撐技術",
+      "category": "科研",
+      "summary": "德國應用研究機構 Fraunhofer IAPT 在 Formnext 2026 上公開展示了一種創新的自動化後處理技術，利用超聲波震盪去除金屬 3D 列印零件的支撐結構。據該機構介紹，該工藝無需任何人手操作，即可在數分鐘內將支撐結構乾淨剝離。",
+      "why_it_matters": "解決了金屬增材製造中最耗時且昂貴的手工拆除支撐工序，有望推動金屬零件後處理全面邁向自動化。",
+      "tags": [
+        "Fraunhofer IAPT",
+        "金屬3D列印",
+        "超聲波",
+        "後處理",
+        "Formnext 2026"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/fraunhofer-iapt-uses-ultrasound-to-free-metal-am-parts-256849/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 推出全新 H550 工業級 SAF 3D 列印機及後處理系統",
+      "category": "硬件",
+      "summary": "Stratasys 於 Formnext 2026 正式推出工業級 H550 SAF 3D 列印機以及配套的 PowderEase T2 後處理粉末管理系統。作為選擇性吸收熔融（SAF）產品線的新機型，H550 的成型體積較現有 H350 擴大一倍，專為高產能批量生產需求而設。",
+      "why_it_matters": "雙倍成型體積進一步壓低單件生產成本，鞏固粉末床熔融技術在工業終端零件批量生產中的競爭力。",
+      "tags": [
+        "Stratasys",
+        "SAF",
+        "H550",
+        "粉末床熔融",
+        "工業製造"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336903/saf-ceramics-more-new-3d-printers-launched-at-formnext-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Lithoz 發表 CeraFab S65 Performance Pack 升級套件",
+      "category": "硬件",
+      "summary": "奧地利陶瓷 3D 列印製造商 Lithoz 於展會期間發佈了 CeraFab S65 Performance Pack 升級方案。該套件引入可選配的 4K 投影系統，適用於 CeraFab System S65 和 S65 Medical 機型，將投影光強度由原本的 60 mW/cm² 大幅提升一倍至約 120 mW/cm²。",
+      "why_it_matters": "大幅提高的光強度與解析度有助縮短固化週期，進一步推動高精度工業與醫療級陶瓷零件的量產效率。",
+      "tags": [
+        "Lithoz",
+        "陶瓷3D列印",
+        "CeraFab S65",
+        "光固化",
+        "醫療應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/lithoz-introduces-cerafab-s65-performance-pack-with-doubled-light-intensity-at-formnext-2026-256978/"
+        }
+      ]
+    },
+    {
+      "title": "Co Print 推出 Quadro 桌面級四獨立噴頭 3D 列印機",
+      "category": "硬件",
+      "summary": "Co Print 在 Kickstarter 發起 Quadro 桌面級 FDM 3D 列印機的眾籌項目。該機型在單一 X 軸上整合了四個獨立驅動的固定噴頭，主打僅需一秒即可完成換色，目前已籌集逾 49 萬美元。",
+      "why_it_matters": "以四獨立噴頭結構直接解決單噴頭多色列印需頻繁退料及產生大量廢料的痛點，為 Maker 帶來更高效的多材料列印選擇。",
+      "tags": [
+        "Co Print",
+        "Quadro",
+        "FDM",
+        "多色列印",
+        "Kickstarter"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/co-print-quadro-changes-colors-in-one-second-with-four-fixed-toolheads-now-on-kickstarter-technical-specifications-and-pricing-256877/"
+        }
+      ]
+    },
+    {
+      "title": "西門子與智元機器人展示以文字提示 AI 生成 3D 列印夾爪",
+      "category": "軟件",
+      "summary": "西門子正為增材製造構建端到端數字線程（Digital Thread），將基於工業 AI 的提示詞工程與自適應生產流程深度對接。西門子與智元機器人（AGIBOT）聯合展示了透過 AI Agent 根據文字指令直接完成設計，並交由 3D 列印製造出人形機器人夾爪。",
+      "why_it_matters": "展示了生成式 AI 跨足工業設計與製造的落地可能，能顯著壓縮從零件概念到實體成型的研發迭代週期。",
+      "tags": [
+        "Siemens",
+        "智元機器人",
+        "工業AI",
+        "生成式設計",
+        "機器人"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/siemens-and-agibot-show-ai-agent-that-designs-3d-printed-humanoid-robot-grippers-from-a-text-prompt-256961/"
+        }
+      ]
+    },
+    {
+      "title": "弗賴堡大學獲 1000 萬歐元資助攻關商用塑料體積 3D 列印",
+      "category": "科研",
+      "summary": "德國弗賴堡大學兩位研究學者榮獲歐洲研究委員會（ERC）1000 萬歐元的 Synergy Grant 資助，開展 CHiC2PRINT 項目。該研究旨在將體積 3D 列印（Volumetric 3D Printing）的成型幾何自由度，應用於傳統工業製造廣泛採用的低成本商用塑料。",
+      "why_it_matters": "若體積列印能成功相容低成本大宗工程塑料，將打破現有光敏樹脂的材料性能與成本限制，大幅加快超高速成型技術的實用化。",
+      "tags": [
+        "體積3D列印",
+        "弗賴堡大學",
+        "ERC",
+        "材料科研",
+        "CHiC2PRINT"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/volumetric-3d-printing-of-commercial-plastics-gets-e10m-erc-grant-256798/"
+        }
+      ]
+    },
+    {
+      "title": "AMCM 整合 EOSPRINT 與 PanX 金屬熱力學模擬平台",
+      "category": "軟件",
+      "summary": "德國增材製造系統商 AMCM 宣佈將 EOSPRINT 與有限元分析軟件商 PanOptimization 開發的 PanX 熱力學模擬平台深度整合。該整合可讓成型檔案直接由 EOSPRINT 導出至模擬環境中預測熱應力，並把優化後的製程參數回傳至生產工作流。",
+      "why_it_matters": "實現了金屬列印路徑與熱力學模擬的無縫閉環，有效預防大型金屬零件在成型過程中因熱應力變形而報廢。",
+      "tags": [
+        "AMCM",
+        "EOSPRINT",
+        "PanX",
+        "金屬增材製造",
+        "製程模擬"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/amcm-integrates-eosprint-with-panx-for-thermomechanical-metal-am-simulation-256705/"
+        }
+      ]
+    },
+    {
+      "title": "SWISSto12 完成 5G 通信衛星 3D 列印相控陣天線關鍵設計審查",
+      "category": "應用",
+      "summary": "瑞士衛星及射頻技術公司 SWISSto12 宣佈，已完成為法國衛星通信商 UNIVITY 研發的兩組主動相控陣天線的關鍵設計審查（CDR）。此進展為天線飛行硬件的正式生產與後續測試掃清障礙，該系統將支援衛星寬頻與直接連接終端設備（Direct-to-Device）的 5G 連線。",
+      "why_it_matters": "標誌著 3D 列印射頻組件在航天飛行級關鍵部件中邁向全面成熟，大幅縮小低軌衛星通信載荷的體積與重量。",
+      "tags": [
+        "SWISSto12",
+        "衛星通訊",
+        "5G天線",
+        "航天增材製造",
+        "相控陣"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/swissto12-advances-3d-printed-antennas-for-5g-satellites-256892/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
