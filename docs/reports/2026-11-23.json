@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T03:43:12.658Z",
+  "model": "gemini-3.6-flash",
+  "models": {
+    "editorial": "gemini-3.6-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 打印每日情報：Formnext 2026 創新硬件與前瞻應用登場",
+  "summary": "今日情報重點聚焦 Formnext 2026 期間發佈的多項硬件與技術突破。包括 Co Print 推出 1 秒換色的四頭 FDM 打印機、Stratasys 發佈產能翻倍的 H550 SAF 設備，以及 Fraunhofer IAPT 研發的超聲波自動去支撐技術，展示了積層製造在桌面級與工業級應用的全面提升。",
+  "items": [
+    {
+      "title": "Co Print 推出 Quadro 桌面級四頭 3D 打印機",
+      "category": "硬件",
+      "summary": "Co Print 於 Kickstarter 推出首款 Quadro 桌面級 FDM 3D 打印機。該機型在單一 X 軸上配備四組獨立驅動的打印頭，實現只需一秒的超高速換色與多材料打印，目前已籌集逾 49 萬美元。",
+      "why_it_matters": "解決了單頭多色打印廢料多、換色慢的痛點，為桌面級多色 3D 打印提供高效新方案。",
+      "tags": [
+        "Co Print",
+        "FDM",
+        "多色打印",
+        "Kickstarter"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/co-print-quadro-changes-colors-in-one-second-with-four-fixed-toolheads-now-on-kickstarter-technical-specifications-and-pricing-256877/"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys 發佈 H550 SAF 工業 3D 打印機與 PowderEase T2 系統",
+      "category": "硬件",
+      "summary": "Stratasys 在 Formnext 2026 展示了全新的 H550 SAF 工業級 3D 打印機，其建造體積與產能達前代 H350 的兩倍。同時發佈的 PowderEase T2 系統則可提供自動化的粉體清理與後處理支援。",
+      "why_it_matters": "大幅提升 SAF 選擇性吸收熔融技術的量產規模與自動化後處理效率。",
+      "tags": [
+        "Stratasys",
+        "SAF",
+        "工業 3D 打印",
+        "粉末後處理"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336903/saf-ceramics-more-new-3d-printers-launched-at-formnext-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Fraunhofer IAPT 展示超聲波自動去除金屬 3D 打印支撐技術",
+      "category": "科研",
+      "summary": "德國 Fraunhofer IAPT 研究所成功研發出一項自動化超聲波技術，能在數分鐘內乾淨地剝離金屬積層製造組件的支撐結構。該技術在 Formnext 2026 首度展出，全程無需人工介入。",
+      "why_it_matters": "突破了金屬 3D 打印傳統後處理極為耗時且依賴手工的瓶頸，大幅降低生產成本。",
+      "tags": [
+        "Fraunhofer",
+        "金屬 3D 打印",
+        "超聲波",
+        "後處理"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/fraunhofer-iapt-uses-ultrasound-to-free-metal-am-parts-256849/"
+        }
+      ]
+    },
+    {
+      "title": "Lithoz 發佈 CeraFab S65 陶瓷打印機 4K 光學性能升級包",
+      "category": "硬件",
+      "summary": "奧地利陶瓷 3D 打印廠商 Lithoz 於 Formnext 2026 推出 CeraFab S65 專用 Performance Pack。該升級方案引進 4K 投影系統，將打印光照強度翻倍至 120 mW/cm²，同時顯著提升解像度與打印效率。",
+      "why_it_matters": "進一步提高高精度工業及醫療級陶瓷 3D 打印的成型速度與零件品質。",
+      "tags": [
+        "Lithoz",
+        "陶瓷 3D 打印",
+        "4K 投影",
+        "醫療應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/lithoz-introduces-cerafab-s65-performance-pack-with-doubled-light-intensity-at-formnext-2026-256978/"
+        }
+      ]
+    },
+    {
+      "title": "AMCM 無縫整合 EOSPRINT 與 PanX 熱力模擬平台",
+      "category": "軟件",
+      "summary": "金屬積層製造設備商 AMCM 將其 EOSPRINT 軟件與 PanOptimization 的 PanX 熱力學模擬平台進行深度整合。打印數據可直接輸入模擬環境，並可將優化後的參數寫回工作流中。",
+      "why_it_matters": "縮短金屬 3D 打印的參數調試週期，降低因熱應力導致打印失敗的風險。",
+      "tags": [
+        "AMCM",
+        "EOSPRINT",
+        "熱力學模擬",
+        "金屬 3D 打印"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/amcm-integrates-eosprint-with-panx-for-thermomechanical-metal-am-simulation-256705/"
+        }
+      ]
+    },
+    {
+      "title": "Solukon 推出 SFM-AT850 自動清粉後處理系統",
+      "category": "硬件",
+      "summary": "後處理設備製造商 Solukon 發表新款 SFM-AT850 自動清粉系統，用以整合並取代現有的 SFM-AT800-S 與 SFM-AT1000-S。新設備在更小的機體佔地面積內，具備更強大且能承載重型零件的清粉能力。",
+      "why_it_matters": "幫助工業金屬 3D 打印廠房節省佔地空間，並提高大重量組件的清粉處理效率。",
+      "tags": [
+        "Solukon",
+        "後處理",
+        "金屬 3D 打印",
+        "清粉系統"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/solukon-consolidates-two-depowdering-systems-with-new-sfm-at850-257147/"
+        }
+      ]
+    },
+    {
+      "title": "SWISSto12 完成 3D 打印 5G 衛星天線關鍵設計審查",
+      "category": "應用",
+      "summary": "瑞士 SWISSto12 宣佈完成為 UNIVITY 研發的兩款 3D 打印有源相控陣天線的關鍵設計審查（CDR）。此里程碑奠定了飛行硬件生產基礎，組件將用於支援寬帶及直接連接終端的 5G 衛星通訊。",
+      "why_it_matters": "驗證了 3D 打印高頻射頻器件在航天 5G 通訊領域的實用性與可靠性。",
+      "tags": [
+        "SWISSto12",
+        "衛星通訊",
+        "5G 天線",
+        "航天應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/swissto12-advances-3d-printed-antennas-for-5g-satellites-256892/"
+        }
+      ]
+    },
+    {
+      "title": "Pollen AM 攜手 RHEON Labs 利用顆粒 3D 打印打造美式足球頭盔",
+      "category": "材料",
+      "summary": "法國 Pollen AM 與英國 RHEON Labs 合作展出顆粒 3D 打印防護頭盔方案。該項目結合了高應變率敏感聚合物超材料與 Pollen 的顆粒積層製造技術，提升運動防護裝備的衝擊吸收能力。",
+      "why_it_matters": "開闢了特種超材料與顆粒打印在個人防護裝備及運動器材上的高附加值應用。",
+      "tags": [
+        "Pollen AM",
+        "RHEON Labs",
+        "顆粒 3D 打印",
+        "防護裝備"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337027/pollen-am-rheon-labs-bring-pellet-3d-printing-to-football-helmets/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 17
+}
