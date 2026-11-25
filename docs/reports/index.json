@@ -1,6 +1,14 @@
 {
-  "latest": "2026-11-24",
+  "latest": "2026-11-25",
   "reports": [
+    {
+      "date": "2026-11-25",
+      "file": "2026-11-25.json",
+      "generated_at": "2026-11-25T05:25:32.081Z",
+      "items": 8,
+      "model": null,
+      "mode": "basic-rss"
+    },
     {
       "date": "2026-11-24",
       "file": "2026-11-24.json",

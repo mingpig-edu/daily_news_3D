@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T05:25:32.081Z",
+  "model": null,
+  "models": {
+    "editorial": null
+  },
+  "generation_mode": "basic-rss",
+  "title": "3D 列印每日情報｜2026-11-25",
+  "summary": "今日從 5 個公開 RSS／Atom 來源收集資訊。AI 整理暫不可用，以下按時間列出較新的候選消息（Unterminated string in JSON at position 3021 (line 91 column 26)）。",
+  "items": [
+    {
+      "title": "Getting Started With Hobbyist-Level 3D Scanning Technologies",
+      "category": "軟件／開源",
+      "summary": "Going from a physical object to a 3D model on your computer would go so much faster than manual modelling if you could just hold the object up to said computer and tell the modelling software to just create that, but digital. Although that may sound as silly as talking to a compu",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "Hackaday",
+          "uri": "https://hackaday.com/2026/11/24/getting-started-with-hobbyist-level-3d-scanning-technologies/"
+        }
+      ]
+    },
+    {
+      "title": "Eplus3D, Rosswag Engineering and qualloy launch validated metal powder range",
+      "category": "硬件／產業",
+      "summary": "Eplus3D, Rosswag Engineering and qualloy have launched Eplus3D select, a validated metal powder range developed for use with Eplus3D metal additive manufacturing systems and established process parameters. The initial portfolio includes 316L stainless steel and 17-4PH, both teste",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/eplus3d-rosswag-engineering-and-qualloy-launch-validated-metal-powder-range-256836/"
+        }
+      ]
+    },
+    {
+      "title": "Additive Services Are Flourishing, Powder Bed Fusion Leads Growth in North America",
+      "category": "應用／科研",
+      "summary": "AM Services Market Report 2026–2035 Pre-purchase from $2,750 · Prices increase December 1 EXPLORE & PRE-PURCHASE → As we continue working to complete our new additive print services market study here at AM Research , our market database model is growing and being sharpened throug",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337505/additive-services-are-flourishing-services-for-powder-bed-fusion-are-growing-the-most-in-north-america/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab P3C brings home its H3C technology at half the price",
+      "category": "材料",
+      "summary": "Bambu Lab introduces the P3C , a third-generation multi-material 3D printer that brings the flagship Swaptek™ tool-changing architecture of our H3C ($2,499) to your desk at half the price, starting at just $1,149. The Bambu Lab P3C features a 7-slot Swaptek™ Tool changing system ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Bambu Lab",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/bambu-lab-p3c-brings-home-its-h3c-technology-at-half-the-price/"
+        }
+      ]
+    },
+    {
+      "title": "How Electroninks and IDS Are Moving 3D Printed Electronics into Production",
+      "category": "材料",
+      "summary": "Despite the diversity of the applications that 3D printing is used for, there are still themes concerning what works for 3D printing companies that seem to be universal. One of the most strikingly universal themes is that effective partnerships result from jointly creating soluti",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/336624/how-electroninks-and-integrated-deposition-solutions-are-moving-3d-printed-electronics-into-production/"
+        }
+      ]
+    },
+    {
+      "title": "Scan It, Print It in Color, Sell It: Creality Pitches the Full Workflow at Formnext 2026",
+      "category": "材料",
+      "summary": "Shenzhen manufacturer of consumer and prosumer 3D printers Creality showed the Raptor Pro Max 3D scanner and the mBox, a 3D printer built for children and students, at Formnext 2026 in Frankfurt, Germany. The two newcomers sat next to the SPARKX i8 multi-color printer, Creality’s",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "Creality",
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/scan-it-print-it-in-color-sell-it-creality-pitches-the-full-workflow-at-formnext-2026-257134/"
+        }
+      ]
+    },
+    {
+      "title": "re:3D’s Push to Turn Plastic Waste Into Military Parts",
+      "category": "材料",
+      "summary": "For military units operating in remote locations, getting a replacement part isn’t always easy. A missing bracket, damaged fixture, or broken component can leave troops waiting days or even weeks for replacement parts to arrive. But what if troops could manufacture some of those ",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337532/re3ds-push-to-turn-plastic-waste-into-military-parts/"
+        }
+      ]
+    },
+    {
+      "title": "A 3D Printed Robot Borrows a Steam-Engine Trick to Become 100 Times Faster",
+      "category": "材料",
+      "summary": "Engineers at the University of California San Diego have built a soft robot that runs at 4.72 meters per second, just over 5 yards per second. It is the fastest robot ever made entirely from soft materials. The six-legged machine contains no electronics. It runs on pressurized ai",
+      "why_it_matters": "本項為原始 RSS／Atom 資訊；Gemini 整理暫不可用，請按來源查看完整內容。",
+      "tags": [
+        "材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/a-3d-printed-robot-borrows-a-steam-engine-trick-to-become-100-times-faster-257120/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 20,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 21
+}
