@@ -1,0 +1,190 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T05:03:25.119Z",
+  "model": "gemini-3.1-flash-lite",
+  "models": {
+    "editorial": "gemini-3.1-flash-lite"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 - 2026 年 11 月 26 日",
+  "summary": "今日焦點集中於 Formnext 2026 後續效應與產業創新，Bambu Lab 推出高性價比多材料機種 P3C，而 BigRep 與 Rapid Fusion 則在大型列印領域取得進展。此外，科研端在生醫列印與新型複合材料方面亦有突破性進展。",
+  "items": [
+    {
+      "title": "Bambu Lab 發表 P3C 多材料 3D 列印機",
+      "category": "硬件",
+      "summary": "Bambu Lab 推出第三代多材料機種 P3C，導入旗艦級 H3C 的 Swaptek™ 工具切換架構，售價僅為 H3C 的一半（1,149 美元起）。該機種具備 7 個工具插槽與 6 秒極速換料能力，大幅降低專業級多材料列印的入手門檻。",
+      "why_it_matters": "將旗艦級的工具切換技術下放至消費級市場，有望加速多材料 3D 列印的普及。",
+      "tags": [
+        "Bambu Lab",
+        "多材料",
+        "工具更換",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/bambu-lab-p3c-brings-home-its-h3c-technology-at-half-the-price/"
+        }
+      ]
+    },
+    {
+      "title": "BigRep 發布 PELLEX 750 大型顆粒擠出系統",
+      "category": "硬件",
+      "summary": "BigRep 於 Formnext 2026 推出與 Massive Dimension 合作開發的 PELLEX 750。該機台採用 MDX 擠出技術，每小時顆粒材料處理量達 4 公斤，成型尺寸達 1,000 x 1,005 毫米，專為大規模增材製造設計。",
+      "why_it_matters": "顆粒擠出技術的高輸出能力對於工業級快速原型與最終零件生產具關鍵效率優勢。",
+      "tags": [
+        "BigRep",
+        "LFAM",
+        "顆粒列印",
+        "工業"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/bigrep-launches-pellex-750-with-4kg-h-pellet-extrusion-257266/"
+        }
+      ]
+    },
+    {
+      "title": "UC Davis 利用生醫列印研發癌症治療方案",
+      "category": "應用",
+      "summary": "UC Davis Health 結合生物列印與 AI 技術，為癌症患者製作微型腫瘤模型。研究團隊已成功測試超過 100 例前列腺癌與膀胱癌案例，協助評估藥物在個別患者身上的實際療效。",
+      "why_it_matters": "透過生物列印技術實現個人化醫療，能顯著提升癌症診斷與治療方案的精確度。",
+      "tags": [
+        "生醫列印",
+        "醫療",
+        "個人化醫療"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337618/uc-davis-researchers-3d-print-mini-tumors-to-help-guide-cancer-treatment/"
+        }
+      ]
+    },
+    {
+      "title": "Rapid Fusion 與 LEAM 合作開發大型 PEEK/PEI 列印單元",
+      "category": "硬件",
+      "summary": "Rapid Fusion 與 LEAM 共同發表 Prometheus 大型增材製造機器人單元，專為航太與海事工業設計。該系統配備特殊加熱噴嘴，可大規模列印經認證的 PEEK 與 PEI 高性能工程塑膠。",
+      "why_it_matters": "解決高性能聚合物在大尺寸結構件製造上的技術瓶頸，拓展航空與海事應用場景。",
+      "tags": [
+        "LFAM",
+        "高性能材料",
+        "工業應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/rapid-fusion-and-leam-co-design-heated-nozzle-to-print-certified-peek-and-pei-at-large-scale-257219/"
+        }
+      ]
+    },
+    {
+      "title": "2026 年第三季 3D 列印市場規模達 45.8 億美元",
+      "category": "產業",
+      "summary": "根據 Additive Manufacturing Research 的數據，全球 3D 列印市場在 2026 年第三季達到 45.8 億美元，年增長率為 11.6%。其中金屬列印服務成長最為強勁，年增幅達 14.3%，顯示產業朝向專業化與服務化發展。",
+      "why_it_matters": "反映出金屬增材製造在工業與服務需求端的回暖與市場擴張力道。",
+      "tags": [
+        "市場數據",
+        "金屬列印",
+        "產業觀察"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337494/3d-printing-market-hits-4-58-billion-in-q3-metal-services-outpace-industry/"
+        }
+      ]
+    },
+    {
+      "title": "DN Solutions 與 Addiguru 導入金屬列印瑕疵偵測",
+      "category": "應用",
+      "summary": "DN Solutions 與 Addiguru 於 Formnext 展示合作成果，透過在位監控軟體分析金屬增材製造的構建數據。此系統旨在於加工進入 CNC 階段前提前識別潛在缺陷，以提升製程良率。",
+      "why_it_matters": "提升金屬列印的過程控管品質，能有效減少後處理階段的時間與廢品成本。",
+      "tags": [
+        "金屬列印",
+        "品質控管",
+        "在位監控"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/dn-solutions-and-addiguru-aim-to-catch-metal-am-defects-before-they-reach-the-cnc-257233/"
+        }
+      ]
+    },
+    {
+      "title": "芬蘭研究：3D 列印微結構提升材料剛性",
+      "category": "科研",
+      "summary": "Tampere 大學研究人員開發出一種新技術，透過列印超過 15 萬個微小塑膠顆粒（立方體與星形）並植入矽膠中，成功使材料剛性提升近 13 倍。此方法跳脫傳統整體列印的限制，專注於開發先進複合材料結構。",
+      "why_it_matters": "提供一種材料開發新思維，透過微觀結構設計即可大幅改善現有軟材料的物理特性。",
+      "tags": [
+        "材料科學",
+        "科研",
+        "複合材料"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337603/tiny-3d-printed-particles-could-change-how-materials-are-made/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 與清華大學合作推動互動設計專案",
+      "category": "應用",
+      "summary": "Bambu Lab 與清華大學美術學院舉辦「CyberBrick 創意展示會」，展示學生利用 CyberBrick 系統與 3D 列印技術打造的音樂裝置、猜謎遊戲與機器人。該合作旨在激發學生的創意互動設計應用。",
+      "why_it_matters": "展現消費級 3D 列印在藝術、設計與教育領域的跨界應用潛力。",
+      "tags": [
+        "教育",
+        "互動設計",
+        "創意項目"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337503/bambu-lab-and-tsinghua-university-team-up-on-interactive-3d-printing/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 20,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 22
+}
