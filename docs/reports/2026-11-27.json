@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T05:02:51.746Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報 (2026-11-27)",
+  "summary": "今日焦點集中於 Bambu Lab 連番發布重量級硬件產品，包括平價換刀旗艦機 P3C 及首款掌上 3D 掃描器 S1；工業方面，Blue Origin 重型火箭引擎採用逾 65% 3D 列印部件，HP 增材製造業務持續雙位數增長；生物與材料科研亦在微型腫瘤測試及顆粒複合結構方面取得新突破。",
+  "items": [
+    {
+      "title": "Bambu Lab 推出 P3C 多材料 3D 列印機：搭載 7 槽 Swaptek 換刀架構與 AMS 3P",
+      "category": "硬件",
+      "summary": "Bambu Lab 正式發表第三代多材料 3D 列印機 P3C，將旗艦機 H3C 的 Swaptek 換刀架構下放，售價由 1,149 美元起。P3C 配備 7 個槽位的換刀系統（預載 5 個 PrintTools 及 2 個自選擴展槽），並整合 AMS 3P 與相容 1.75 mm 及 2.85 mm 線材的 FlexFeed 擠出機，每次換料僅需 6 秒。",
+      "why_it_matters": "以約旗艦機半價的門檻提供快速換刀架構，大幅降低多材料與多製程列印的技術和成本門檻。",
+      "tags": [
+        "Bambu Lab",
+        "P3C",
+        "FDM",
+        "換刀系統",
+        "多材料列印"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/bambu-lab-p3c-brings-home-its-h3c-technology-at-half-the-price/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 發表首款 3D 掃描器 S1：強調輕量化手持與自動化軟體體驗",
+      "category": "硬件",
+      "summary": "Bambu Lab 推出品牌首款 3D 掃描器 Bambu Lab S1，主打手持輕巧與自動化操作流程。產品旨在打破傳統 3D 掃描在光源調節、參數設定以及複雜後處理軟體方面的門檻，使用者選定場景即可開始掃描，後續交由軟體自動化處理。",
+      "why_it_matters": "標誌著 Bambu Lab 正式進軍 3D 逆向工程與建模生態，有助打通一般創作者從實物採樣到 3D 列印的完整工作流。",
+      "tags": [
+        "Bambu Lab",
+        "3D 掃描器",
+        "S1",
+        "逆向工程",
+        "硬件"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/easy-in-hand-pro-in-every-scan-bambu-lab-introduces-the-s1-3d-scanner/"
+        }
+      ]
+    },
+    {
+      "title": "Blue Origin 新型 Northstar 助推火箭引擎逾 65% 零件採用 3D 列印製造",
+      "category": "應用",
+      "summary": "商業航天公司 Blue Origin 公布新型液氧／液化天然氣助推引擎「Northstar」，全機有超過 65% 的部件透過 3D 列印製造。該引擎採用單軸渦輪泵架構，相較於 BE-4 具備可重複使用特性與優化的工程設計。",
+      "why_it_matters": "展現增材製造在航天推進系統重型結構與極限工況零件量產化中的核心地位。",
+      "tags": [
+        "航天應用",
+        "Blue Origin",
+        "金屬列印",
+        "火箭引擎"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337568/3d-printing-news-briefs-11-26-2026/"
+        }
+      ]
+    },
+    {
+      "title": "UC Davis 利用 3D 生物列印與 AI 製作微型腫瘤模型以引導癌症個人化治療",
+      "category": "科研",
+      "summary": "加州大學戴維斯分校（UC Davis）健康中心團隊結合 3D 生物列印與人工智能技術，列印出患者專屬的微型腫瘤以預先測試抗癌藥物療效。該平台目前已在逾 50 宗前列腺癌及近 60 宗膀胱癌等案例中進行測試，甚至發現部分原先不被看好的藥物在列印腫瘤模型上呈現良好療效。",
+      "why_it_matters": "透過患者自體細胞列印腫瘤進行藥物篩選，大幅提升個人化精準醫療的預測成功率並節省試藥時間。",
+      "tags": [
+        "生物列印",
+        "醫療科研",
+        "精準醫療",
+        "AI",
+        "癌症研究"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337618/uc-davis-researchers-3d-print-mini-tumors-to-help-guide-cancer-treatment/"
+        }
+      ]
+    },
+    {
+      "title": "HP 增材製造業務強勁：第 4 季及全年度財報錄得連續七季雙位數增長",
+      "category": "產業",
+      "summary": "HP 發布 2026 財年第四季及全年度財報，其增材製造（AM）部門連續第七個季度實現雙位數營收增長，表現超出預期。作為少數在工業 3D 列印領域維持長期營運的傳統硬件巨頭，HP 持續在粉末床熔融等工業市場擴大影響力。",
+      "why_it_matters": "在工業 3D 列印市場重組期，HP 穩定的雙位數增長確立了 MJF 等技術在終端生產的成熟度與商業可行性。",
+      "tags": [
+        "HP",
+        "MJF",
+        "增材製造",
+        "財報",
+        "工業3D列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337657/3d-printing-financials-more-double-digit-am-revenue-growth-in-strong-quarter-for-hp/"
+        }
+      ]
+    },
+    {
+      "title": "芬蘭研究團隊透過微型 3D 列印結構粒子令軟質材料剛度提升 13 倍",
+      "category": "材料",
+      "summary": "芬蘭坦佩雷大學（Tampere University）研究人員研發出一種改變複合材料剛度的新方法。團隊並非直接列印軟質材料本體，而是列印了超過 15 萬個微型立方體和四角星形塑膠粒子並嵌入矽膠中，成功使材料剛度提高近 13 倍，研究指出粒子幾何幾狀比添加重量對強度的影響更為關鍵。",
+      "why_it_matters": "為材料力學與複合材料研發開闢新路徑，透過微觀列印幾何單元即可調控基底材料的力學性能。",
+      "tags": [
+        "材料工程",
+        "科研",
+        "複合材料",
+        "矽膠",
+        "力學性能"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337603/tiny-3d-printed-particles-could-change-how-materials-are-made/"
+        }
+      ]
+    },
+    {
+      "title": "re:3D 與 America Makes 合作：推動軍事前線利用回收塑膠廢料 3D 列印備件",
+      "category": "應用",
+      "summary": "大型 3D 列印機製造商 re:3D 正聯同 America Makes 開發可在前線直接運作的增材製造系統，旨在將前線基地的塑膠廢料直接回收並列印成支架、夾具等替換備件。該方案專為偏遠及嚴苛環境設計，以減少前線部隊等待後方零件補給的時間。",
+      "why_it_matters": "結合現場塑膠回收與直接造件，有效解決偏遠戰場與嚴苛任務中的供應鏈中斷難題。",
+      "tags": [
+        "軍事應用",
+        "循環經濟",
+        "塑膠回收",
+        "re:3D",
+        "大尺寸列印"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337532/re3ds-push-to-turn-plastic-waste-into-military-parts/"
+        }
+      ]
+    },
+    {
+      "title": "XJet 於 Formnext 展示奈米粒子噴射技術（NPJ）拓展成果與珠寶製造應用",
+      "category": "硬件",
+      "summary": "以色列公司 XJet 於 Formnext 展出其擴展後的專利 NanoParticle Jetting（NPJ）金屬與精密陶瓷列印平台及新材料組合。NPJ 採用材料噴射技術，透過噴射含有金屬或陶瓷奈米顆粒的液體分散液與可溶性支撐材料，配合「列印-清洗-燒結」工作流，在燒結前即可去除支撐，特別適合製造具備複雜微細結構的高精度金屬零件與珠寶。",
+      "why_it_matters": "NPJ 技術解決了微細金屬與陶瓷構件支撐難以清除的痛點，為高精度工業與珠寶量產帶來新製程選擇。",
+      "tags": [
+        "NPJ",
+        "XJet",
+        "金屬3D列印",
+        "技術陶瓷",
+        "Formnext"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337528/formnext-2026-xjet-expanding-access-to-npj-doubling-down-on-jewelry-3d-printing/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 415"
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 20,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 13
+}
