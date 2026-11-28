@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T04:43:49.967Z",
+  "model": "gemini-3.8-flash",
+  "models": {
+    "editorial": "gemini-3.8-flash"
+  },
+  "generation_mode": "rss-plus-gemini",
+  "title": "3D 列印每日情報：OctoPrint 2.0 重大架構更新、Bambu Lab 推出首款 3D 掃描器",
+  "summary": "今日重點涵蓋開源控制平台 OctoPrint 釋出 2.0.0 正式版，擺脫長久以來的單一序列連線限制；Bambu Lab 正式跨足硬件週邊推出 S1 3D 掃描器；桌面端換頭系統 Snapmaker U1 帶來免吐廢料的多色解決方案；此外，3MF 聯盟確立 LPBF 金屬路徑開源標準，工業界多光束及多線材金屬打印設備亦有新進展。",
+  "items": [
+    {
+      "title": "OctoPrint 2.0.0 正式釋出：突破序列埠限制，支援外掛擴展連線生態",
+      "category": "軟件",
+      "summary": "知名開源 3D 列印控制軟件 OctoPrint 迎來 2.0.0 重大版本升級。過去 OctoPrint 僅能依賴傳統序列埠（Serial）連線，新版本引入外掛連線架構，允許社群透過插件對接更多不同通訊協定的列印機生態（包括 Bambu Lab 等新興品牌）。維護者 Gina Häußge 指出，這標誌著 OctoPrint 走向更開放的跨生態整合。",
+      "why_it_matters": "解決了近年新式封閉或網絡連線型 3D 列印機難以接入傳統開源管理平台的痛點，延長了 OctoPrint 在現代工作流中的生命力。",
+      "tags": [
+        "OctoPrint",
+        "開源軟件",
+        "遠端控制",
+        "Bambu Lab",
+        "韌體"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/octoprint-2-0-0-adds-plugin-route-to-bambu-lab-printers-after-years-of-serial-only-connections-257408/"
+        }
+      ]
+    },
+    {
+      "title": "Bambu Lab 推出首款 S1 3D 掃描器：主打智能簡化掃描與後處理門檻",
+      "category": "硬件",
+      "summary": "Bambu Lab 正式發表旗下首款 3D 掃描器「Bambu Lab S1」，意圖將其在 3D 列印上簡化流程的經驗複製至掃描領域。該設備與配套軟件著重解決初學者在光源調整、場景參數設定以及後處理修模上的繁瑣步驟，用戶僅需選擇場景即可快速取模。官方旨在消除傳統 3D 掃描高昂的學習成本與專業後處理軟件負擔。",
+      "why_it_matters": "代表消費級 3D 列印龍頭將生態版圖由「輸出列印」正式延伸至「前端逆向建模與掃描」，有望進一步推動桌面級逆向工程普及。",
+      "tags": [
+        "Bambu Lab",
+        "3D掃描器",
+        "逆向工程",
+        "硬件發布"
+      ],
+      "sources": [
+        {
+          "title": "Bambu Lab Blog",
+          "uri": "https://blog.bambulab.com/easy-in-hand-pro-in-every-scan-bambu-lab-introduces-the-s1-3d-scanner/"
+        }
+      ]
+    },
+    {
+      "title": "Snapmaker U1 評測亮相：千元以下 CoreXY 四工具頭免排廢料多色列印",
+      "category": "硬件",
+      "summary": "Snapmaker 推出定價低於 900 美元的 CoreXY 桌面 3D 列印機 Snapmaker U1，搭載自動切換 4 個獨立熱端的 Toolchanger 系統。與市面上單噴嘴多色供料（需大量排廢料／吐便便）不同，U1 透過直接切換完整噴頭實現無廢料切換。這項技術過去主要存在於數千美元的工業或高階客製化機型中。",
+      "why_it_matters": "大幅壓低了獨立多工具頭架構的門檻，能徹底消除多色列印的時間與耗材浪費，並提升多材料結合列印的可靠度。",
+      "tags": [
+        "Snapmaker",
+        "Toolchanger",
+        "CoreXY",
+        "多色列印",
+        "FFF"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/snapmaker-u1-brings-purge-free-four-toolhead-printing-to-the-desktop-for-under-900-257284/"
+        }
+      ]
+    },
+    {
+      "title": "3MF 聯盟發布 Toolpath Extension v1.0.0：首個開源工業 LPBF 路徑格式",
+      "category": "開源",
+      "summary": "3MF 聯盟正式批准並發表 3MF Toolpath Extension 1.0.0 規範，提供一種跨機台且獨立於硬件的開源刀具路徑數據格式。該格式歷經長達七年的開發，並已在工業級雷射粉末床熔融（LPBF）批量生產中驗證穩定性。除了 LPBF，該格式亦兼顧其他逐層雷射加工與多軸沉積製造製程。",
+      "why_it_matters": "打破金屬 3D 列印長期受限於各廠商封閉路徑檔案格式的局面，加速工業增材製造在切片路徑層面的標準化與通用性。",
+      "tags": [
+        "3MF",
+        "開源標準",
+        "LPBF",
+        "金屬3D列印",
+        "切片路徑"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337679/3mf-toolpath-extension-v1-0-0-an-open-lpbf-build-format-proven-in-production/"
+        }
+      ]
+    },
+    {
+      "title": "WAAM3D 升級 MiniWAAM 系統：雙焊絲進料標配化實現金屬混料與原位合金化",
+      "category": "硬件",
+      "summary": "電弧增材製造（WAAM）廠商 WAAM3D 宣佈升級旗下 MiniWAAM 平台為 MiniWAAM/DW，將雙焊絲（dual-wire）送進系統列為標準配備。該機型主要針對小型金屬構件製造，透過在單一生產過程中同時或交替送入兩款不同金屬焊絲，賦予用戶多材料沉積及原位合金化（in-process alloying）的製造能力。",
+      "why_it_matters": "使大型工業級 WAAM 漸層金屬與複合材料加工技術下放至小型構件製造，為金屬零件局部強化與新合金研發提供更高自由度。",
+      "tags": [
+        "WAAM",
+        "定向能量沉積",
+        "金屬列印",
+        "多材料",
+        "工業應用"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/waam3d-upgrades-miniwaam-with-dual-wire-feeding-as-standard-for-multi-material-metal-parts-257404/"
+        }
+      ]
+    },
+    {
+      "title": "易加三維發表 EP-M550L 金屬 3D 列印機：搭載 16 雷射配備自動化產線",
+      "category": "硬件",
+      "summary": "中國金屬增材製造廠商 Eplus3D（易加三維）推出針對批量生產設計的 EP-M550L 產線自動化系統。該機基於粉末床熔融（PBF）技術，在 550 x 550 mm 成型範圍內最多可配備多達 16 組雷射器。機身架構整合了自動化粉末處理與成型缸轉移機構，專門滿足工業級高產能需求。",
+      "why_it_matters": "高達 16 雷射與全自動化粉末接駁模組大幅提升金屬粉末床熔融的生產節奏，顯示大尺寸金屬增材正加速邁向無人化量產。",
+      "tags": [
+        "Eplus3D",
+        "LPBF",
+        "多雷射",
+        "金屬3D列印",
+        "工業製造"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/eplus3d-launches-16-laser-ep-m550l-metal-3d-printer-technical-specifications-and-pricing-257445/"
+        }
+      ]
+    },
+    {
+      "title": "SINTX 完成醫療級製造廠建置：專注列印氮化矽／PEEK 客製化骨科植入物",
+      "category": "應用",
+      "summary": "生物材料開發商 SINTX Technologies 宣布完成增材製造廠房擴建，並進駐 EXT-220 MED 醫療級 3D 列印機。該產線將利用其專利的 SiNERGY AM 平台，量產由氮化矽（Silicon Nitride）與聚醚醚酮（PEEK）組成的生物複合材料，專門製作患者專屬的客製化骨科植入物。",
+      "why_it_matters": "將高效能聚合物 PEEK 與高生物相容性陶瓷氮化矽成功複合列印，為下一代客製化骨科醫療植入物提供更高強度的量產解方。",
+      "tags": [
+        "醫療應用",
+        "PEEK",
+        "生物材料",
+        "骨科植入",
+        "複合材料"
+      ],
+      "sources": [
+        {
+          "title": "3D Printing Industry",
+          "uri": "https://3dprintingindustry.com/news/sintx-completes-3d-printing-facility-for-patient-specific-silicon-nitride-peek-implants-257435/"
+        }
+      ]
+    },
+    {
+      "title": "芬蘭學者利用 3D 列印微微結構：藉由幾何形狀使軟材質剛性提升近 13 倍",
+      "category": "科研",
+      "summary": "芬蘭坦佩雷大學（Tampere University）研究人員提出一種材料複合製造新途徑，透過 3D 列印製造超過 15 萬顆立方體及四臂星形塑膠微粒，並將其嵌入矽膠軟質基底中。實驗顯示，基底材料剛性大幅提升近 13 倍，且關鍵影響因素在於微微粒的幾何形狀而非添加量。",
+      "why_it_matters": "打破傳統必須整件列印的思維，證明 3D 列印可用於製造調控機械性能的微觀基石，為超材料與功能性軟體複合材質開闢新路徑。",
+      "tags": [
+        "材料科研",
+        "超材料",
+        "複合材料",
+        "微結構",
+        "前沿研究"
+      ],
+      "sources": [
+        {
+          "title": "3DPrint.com",
+          "uri": "https://3dprint.com/337603/tiny-3d-printed-particles-could-change-how-materials-are-made/"
+        }
+      ]
+    }
+  ],
+  "feed_status": [
+    {
+      "name": "3D Printing Industry",
+      "url": "https://3dprintingindustry.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "3DPrint.com",
+      "url": "https://3dprint.com/feed/",
+      "ok": true,
+      "items": 10,
+      "error": null
+    },
+    {
+      "name": "Bambu Lab Blog",
+      "url": "https://blog.bambulab.com/rss/",
+      "ok": true,
+      "items": 15,
+      "error": null
+    },
+    {
+      "name": "Prusa Blog",
+      "url": "https://blog.prusa3d.com/feed/",
+      "ok": true,
+      "items": 20,
+      "error": null
+    },
+    {
+      "name": "Hackaday",
+      "url": "https://hackaday.com/blog/feed/",
+      "ok": true,
+      "items": 7,
+      "error": null
+    }
+  ],
+  "candidate_count": 20
+}
